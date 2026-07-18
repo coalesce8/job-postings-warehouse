@@ -13,12 +13,46 @@ APP_KEY = os.environ.get("ADZUNA_APP_KEY", "")
 
 RESULTS_PER_PAGE = 50
 MAX_DAYS_OLD = 30
-MAX_PAGES = 1     # 500 jobs max per country
-SEARCH_PARAMS = {"what_or": "dbt snowflake bigquery redshift databricks duckdb fivetran airflow ETL ELT"}
+MAX_PAGES = 4     # 200 jobs max per category
+SEARCH_PARAMS = {}
 
 COUNTRY_CODES = [
     "gb",  # United Kingdom
 ]
+
+GB_CATEGORY_TAGS = [
+    "accounting-finance-jobs",
+    "it-jobs",
+    "sales-jobs",
+    "customer-services-jobs",
+    "engineering-jobs",
+    "hr-jobs",
+    "healthcare-nursing-jobs",
+    "hospitality-catering-jobs",
+    "pr-advertising-marketing-jobs",
+    "logistics-warehouse-jobs",
+    "teaching-jobs",
+    "trade-construction-jobs",
+    "admin-jobs",
+    "legal-jobs",
+    "creative-design-jobs",
+    "graduate-jobs",
+    "retail-jobs",
+    "consultancy-jobs",
+    "manufacturing-jobs",
+    "scientific-qa-jobs",
+    "social-work-jobs",
+    "travel-jobs",
+    "energy-oil-gas-jobs",
+    "property-jobs",
+    "charity-voluntary-jobs",
+    "domestic-help-cleaning-jobs",
+    "maintenance-jobs",
+    "part-time-jobs",
+    "other-general-jobs",
+    "unknown",
+]
+
 
 
 def get_db(path: str = "data/jobs.duckdb"):
@@ -92,39 +126,40 @@ def insert_jobs(con, jobs, country, search_params, page, mean, count):
             contract_time, contract_type,
             created, description, redirect_url,
             country, page, search_params, mean, count, ingested_at
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT DO NOTHING
     """, rows)
 
 
-def fetch_page(country, page, params):
+def fetch_page(country, page, category, params):
     resp = requests.get(
         f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}",
-        params=params,
+        params={**params, "category": category},
         timeout=30,
     )
     resp.raise_for_status()
     return resp.json()
 
 
-def fetch_jobs(con, country, params):
-    data = fetch_page(country, 1, params)
+def fetch_jobs(con, country, category, params):
+    data = fetch_page(country, 1, category, params)
 
     mean_salary = data.get("mean")
     total_results = data.get("count", 0)
     total_pages = min((total_results // RESULTS_PER_PAGE) + 1, MAX_PAGES)
 
+    query_params = {**SEARCH_PARAMS, "category": category}
     jobs = data.get("results", [])
     if jobs:
-        insert_jobs(con, jobs, country, SEARCH_PARAMS, 1, mean_salary, total_results)
+        insert_jobs(con, jobs, country, query_params, 1, mean_salary, total_results)
 
     for page in range(2, total_pages + 1):
         time.sleep(0.5)
-        data = fetch_page(country, page, params)
+        data = fetch_page(country, page, category, params)
         jobs = data.get("results", [])
         if not jobs:
             break
-        insert_jobs(con, jobs, country, SEARCH_PARAMS, page, mean_salary, total_results)
+        insert_jobs(con, jobs, country, query_params, page, mean_salary, total_results)
 
 def main():
     if not APP_ID or not APP_KEY:
@@ -141,15 +176,16 @@ def main():
     con = get_db()
     try:
         for country in COUNTRY_CODES:
-            print(f"Fetching jobs for {country}...")
-            try:
-                fetch_jobs(con, country, params)
-            except requests.HTTPError as e:
-                print(f"  HTTP error for {country}: {e}")
-            except requests.RequestException as e:
-                print(f"  Network error for {country}: {e}")
-            except json.JSONDecodeError as e:
-                print(f"  JSON decode error for {country}: {e}")
+            for category in GB_CATEGORY_TAGS:
+                print(f"Fetching jobs for {country} {category}...")
+                try:
+                    fetch_jobs(con, country, category, params)
+                except requests.HTTPError as e:
+                    print(f"  HTTP error for {country} {category}: {e}")
+                except requests.RequestException as e:
+                    print(f"  Network error for {country} {category}: {e}")
+                except json.JSONDecodeError as e:
+                    print(f"  JSON decode error for {country} {category}: {e}")
     finally:
         con.close()
 
