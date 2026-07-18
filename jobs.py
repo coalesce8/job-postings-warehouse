@@ -13,13 +13,11 @@ APP_KEY = os.environ.get("ADZUNA_APP_KEY", "")
 
 RESULTS_PER_PAGE = 50
 MAX_DAYS_OLD = 30
-MAX_PAGES = 10  # 500 jobs max per country
+MAX_PAGES = 1     # 500 jobs max per country
 SEARCH_PARAMS = {"what_or": "dbt snowflake bigquery redshift databricks duckdb fivetran airflow ETL ELT"}
 
 COUNTRY_CODES = [
-    "es",  # Spain
     "gb",  # United Kingdom
-    "pl",  # Poland
 ]
 
 
@@ -40,6 +38,8 @@ def get_db(path: str = "data/jobs.duckdb"):
             salary_min          DOUBLE,
             salary_max          DOUBLE,
             salary_is_predicted VARCHAR,
+            contract_time       VARCHAR,
+            contract_type       VARCHAR,
             created             VARCHAR,
             description         VARCHAR,
             redirect_url        VARCHAR,
@@ -70,6 +70,8 @@ def insert_jobs(con, jobs, country, search_params, page, mean, count):
             job.get("salary_min"),
             job.get("salary_max"),
             job.get("salary_is_predicted"),
+            job.get("contract_time"),
+            job.get("contract_type"),
             job.get("created"),
             job.get("description"),
             job.get("redirect_url"),
@@ -87,6 +89,7 @@ def insert_jobs(con, jobs, country, search_params, page, mean, count):
             job_id, title, company, location_display, location_area,
             latitude, longitude, category_tag, category_label,
             salary_min, salary_max, salary_is_predicted,
+            contract_time, contract_type,
             created, description, redirect_url,
             country, page, search_params, mean, count, ingested_at
         ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
