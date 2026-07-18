@@ -9,3 +9,5 @@ clean-targets:
   - "target"
   - "dbt_packages"
 
+flags:
+  static_analysis: strict
