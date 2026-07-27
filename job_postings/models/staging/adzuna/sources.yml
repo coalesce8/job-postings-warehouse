@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: adzuna              # the label you'll use in source('jobs', ...)
+    database: raw           # ← the attach alias; without this dbt looks in job_postings.duckdb and finds nothing
+    schema: main            # DuckDB's default; confirm from your SHOW TABLES output
+    tables:
+      - name: raw_jobs   # exact name(s) from SHOW TABLES
