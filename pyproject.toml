@@ -16,7 +16,9 @@ dependencies = [
 dev = [
     "ipykernel>=7.3.0",
     "jupyter>=1.1.1",
+    "matplotlib>=3.11.1",
     "pytz>=2026.2",
+    "seaborn>=0.13.2",
 ]
 
 [tool.uv]
