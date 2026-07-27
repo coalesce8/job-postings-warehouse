@@ -17,5 +17,3 @@ models:
     staging:
       +materialized: view
 
-vars:
-  retrieval_cap: 200
