@@ -10,12 +10,12 @@ final as (
         region,
         city,
         district,
-        CONCAT_WS(', ', country, region, city, district),
+        CONCAT_WS('>', country, region, city, district) as location_path,
         (country is not NULL)::int
         + (region is not NULL)::int
         + (city is not NULL)::int
         + (district is not NULL)::int as granularity_level,
-        COALESCE(district, city, region, country) as lowest_level_name
+        COALESCE(district, city, region, country, 'Unknown') as lowest_level_name
     from jobs
 )
 
