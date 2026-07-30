@@ -24,9 +24,8 @@ category_pulls_agg as (
 ),
 
 final as (
-    select
-        *,
-        {{ dbt_utils.generate_surrogate_key(['category_tag']) }} as category_key
+    select *
+    -- {{ dbt_utils.generate_surrogate_key(['category_tag']) }} as category_key
     from category_pulls_agg
 )
 
