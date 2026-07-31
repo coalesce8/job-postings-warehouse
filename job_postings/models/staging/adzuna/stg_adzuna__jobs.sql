@@ -10,33 +10,60 @@ parsed as (
     from source
 ),
 
+cleaned as (
+    select
+        *,
+        nullif(trim(company), '') as company_name,
+        nullif(trim(location_area_parsed[1]), '') as country_name,
+        nullif(trim(location_area_parsed[2]), '') as region,
+        nullif(trim(location_area_parsed[3]), '') as city,
+        nullif(trim(location_area_parsed[4]), '') as district,
+        try_cast(nullif(trim(created), '') as timestamptz) at time zone 'UTC'
+            as posted_at_utc
+
+    from parsed
+),
+
+location_features as (
+    select
+        *,
+        (country_name is not NULL)::int
+        + (region is not NULL)::int
+        + (city is not NULL)::int
+        + (district is not NULL)::int as granularity_level,
+        coalesce(district, city, region, country_name) as lowest_level_name
+    from cleaned
+),
+
 final as (
     select
         -- strings: trim + null-standardize
         salary_min,
         salary_max,
-        ingested_at,
+        company_name,
+        granularity_level,
+        lowest_level_name,
+        posted_at_utc,
+        ingested_at at time zone 'UTC' as ingested_at_utc,
         nullif(trim(job_id), '') as job_id,
         nullif(trim(title), '') as job_title,
-        nullif(trim(company), '') as company_name,
         coalesce(lower(company_name), 'unknown') as company_key,
         nullif(trim(location_display), '') as location_display,
-        nullif(trim(location_area_parsed[1]), '') as country,
-        nullif(trim(location_area_parsed[2]), '') as region,
-        nullif(trim(location_area_parsed[3]), '') as city,
-        nullif(trim(location_area_parsed[4]), '') as district,
+        coalesce(country_name, 'unknown') as country_name,
+        coalesce(region, 'unknown') as region,
+        coalesce(city, 'unknown') as city,
+        coalesce(district, 'unknown') as district,
         nullif(trim(category_tag), '') as category_tag,
         nullif(trim(category_label), '') as category_label,
-        nullif(trim(salary_is_predicted), '')::boolean as salary_is_predicted,
+        nullif(trim(salary_is_predicted), '')::boolean as is_salary_predicted,
         nullif(trim(contract_time), '') as contract_time,
         nullif(trim(contract_type), '') as contract_type,
-        try_cast(nullif(trim(created), '') as timestamptz) as posted_at,
         strftime(posted_at, '%Y%m%d')::int as date_key,
         nullif(trim(description), '') as job_description,
         nullif(trim(redirect_url), '') as redirect_url,
         nullif(trim(country), '') as country_code
 
-    from parsed
+    from location_features
 )
 
 select * from final
