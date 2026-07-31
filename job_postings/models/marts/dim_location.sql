@@ -4,8 +4,7 @@ with jobs as (
 
 final as (
     select distinct
-        {{ dbt_utils.generate_surrogate_key(['country_name', 'region', 'city', 'district']) }}
-            as location_key,
+        location_key,
         country_name,
         region,
         city,

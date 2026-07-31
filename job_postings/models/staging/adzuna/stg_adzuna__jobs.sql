@@ -35,15 +35,24 @@ location_features as (
     from cleaned
 ),
 
+keys as (
+    select
+        *,
+        {{ dbt_utils.generate_surrogate_key(['country_name', 'region', 'city', 'district']) }}
+            as location_key
+    from location_features
+),
+
+
 final as (
     select
-        -- strings: trim + null-standardize
         salary_min,
         salary_max,
         company_name,
         granularity_level,
         lowest_level_name,
         posted_at_utc,
+        location_key,
         ingested_at at time zone 'UTC' as ingested_at_utc,
         nullif(trim(job_id), '') as job_id,
         nullif(trim(title), '') as job_title,
@@ -63,7 +72,7 @@ final as (
         nullif(trim(redirect_url), '') as redirect_url,
         nullif(trim(country), '') as country_code
 
-    from location_features
+    from keys
 )
 
 select * from final
