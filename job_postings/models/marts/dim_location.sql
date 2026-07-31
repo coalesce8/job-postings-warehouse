@@ -3,19 +3,17 @@ with jobs as (
 ),
 
 final as (
-    select
-        {{ dbt_utils.generate_surrogate_key(['country', 'region', 'city', 'district']) }}
+    select distinct
+        {{ dbt_utils.generate_surrogate_key(['country_name', 'region', 'city', 'district']) }}
             as location_key,
-        country,
+        country_name,
         region,
         city,
         district,
-        CONCAT_WS('>', country, region, city, district) as location_path,
-        (country is not NULL)::int
-        + (region is not NULL)::int
-        + (city is not NULL)::int
-        + (district is not NULL)::int as granularity_level,
-        COALESCE(district, city, region, country, 'Unknown') as lowest_level_name
+        CONCAT_WS('>', country_name, region, city, district) as location_path,
+        granularity_level,
+        lowest_level_name
+
     from jobs
 )
 
