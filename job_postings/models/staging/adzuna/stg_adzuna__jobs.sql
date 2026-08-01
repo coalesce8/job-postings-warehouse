@@ -19,7 +19,8 @@ cleaned as (
         nullif(trim(location_area_parsed[3]), '') as city,
         nullif(trim(location_area_parsed[4]), '') as district,
         try_cast(nullif(trim(created), '') as timestamptz) at time zone 'UTC'
-            as posted_at_utc
+            as posted_at_utc,
+        nullif(trim(country), '') as country_code
 
     from parsed
 ),
@@ -43,6 +44,13 @@ keys as (
     from location_features
 ),
 
+jobs_currency as (
+    select
+        *,
+        case when country_code = 'gb' then 'GBP' else 'UNKNOWN' end as currency
+    from keys
+),
+
 
 final as (
     select
@@ -53,6 +61,7 @@ final as (
         lowest_level_name,
         posted_at_utc,
         location_key,
+        currency,
         ingested_at at time zone 'UTC' as ingested_at_utc,
         nullif(trim(job_id), '') as job_id,
         nullif(trim(title), '') as job_title,
@@ -67,12 +76,11 @@ final as (
         nullif(trim(salary_is_predicted), '')::boolean as is_salary_predicted,
         nullif(trim(contract_time), '') as contract_time,
         nullif(trim(contract_type), '') as contract_type,
-        strftime(posted_at, '%Y%m%d')::int as date_key,
+        strftime(posted_at_utc, '%Y%m%d')::int as date_key,
         nullif(trim(description), '') as job_description,
-        nullif(trim(redirect_url), '') as redirect_url,
-        nullif(trim(country), '') as country_code
+        nullif(trim(redirect_url), '') as redirect_url
 
-    from keys
+    from jobs_currency
 )
 
 select * from final
