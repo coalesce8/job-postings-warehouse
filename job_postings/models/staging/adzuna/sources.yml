@@ -1,7 +1,53 @@
-version: 2
 sources:
-  - name: adzuna              # the label you'll use in source('jobs', ...)
-    database: raw           # ← the attach alias; without this dbt looks in job_postings.duckdb and finds nothing
+  - name: adzuna
+    database: raw
     schema: main            # DuckDB's default; confirm from your SHOW TABLES output
     tables:
-      - name: raw_jobs   # exact name(s) from SHOW TABLES
+      - name: raw_jobs
+        columns:
+          - name: job_id
+            data_type: varchar
+          - name: title
+            data_type: varchar
+          - name: company
+            data_type: varchar
+          - name: location_display
+            data_type: varchar
+          - name: location_area
+            data_type: varchar
+          - name: latitude
+            data_type: double
+          - name: longitude
+            data_type: double
+          - name: category_tag
+            data_type: varchar
+          - name: category_label
+            data_type: varchar
+          - name: salary_min
+            data_type: double
+          - name: salary_max
+            data_type: double
+          - name: salary_is_predicted
+            data_type: varchar
+          - name: contract_time
+            data_type: varchar
+          - name: contract_type
+            data_type: varchar
+          - name: created
+            data_type: varchar
+          - name: description
+            data_type: varchar
+          - name: redirect_url
+            data_type: varchar
+          - name: country
+            data_type: varchar
+          - name: page
+            data_type: integer
+          - name: search_params
+            data_type: varchar
+          - name: mean
+            data_type: double
+          - name: count
+            data_type: integer
+          - name: ingested_at
+            data_type: timestamp with time zone
