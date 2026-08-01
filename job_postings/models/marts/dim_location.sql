@@ -9,9 +9,9 @@ final as (
         region,
         city,
         district,
-        CONCAT_WS('>', country_name, region, city, district) as location_path,
         granularity_level,
-        lowest_level_name
+        lowest_level_name,
+        CONCAT_WS(' > ', country_name, region, city, district) as location_path
 
     from jobs
 )
