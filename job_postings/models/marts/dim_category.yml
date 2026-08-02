@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: dim_category
+    description: ""
+    columns:
+      - name: category_key
+        data_type: varchar
+        description: ""
+
+      - name: category_label
+        data_type: varchar
+        description: ""
+
+      - name: adzuna_reported_mean_salary
+        data_type: double
+        description: ""
+
+      - name: adzuna_total_count
+        data_type: integer
+        description: ""
+
+      - name: tag_type
+        data_type: varchar
+        description: ""
+

@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: dim_location
+    description: ""
+    columns:
+      - name: location_key
+        data_type: varchar
+        description: ""
+
+      - name: country_name
+        data_type: varchar
+        description: ""
+
+      - name: region
+        data_type: varchar
+        description: ""
+
+      - name: city
+        data_type: varchar
+        description: ""
+
+      - name: district
+        data_type: varchar
+        description: ""
+
+      - name: granularity_level
+        data_type: integer
+        description: ""
+
+      - name: lowest_level_name
+        data_type: varchar
+        description: ""
+
+      - name: location_path
+        data_type: varchar
+        description: ""
+

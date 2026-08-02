@@ -1,0 +1,82 @@
+version: 2
+
+models:
+  - name: fct_job_postings
+    description: ""
+    columns:
+      - name: job_id
+        data_type: varchar
+        description: ""
+
+      - name: job_title
+        data_type: varchar
+        description: ""
+
+      - name: redirect_url
+        data_type: varchar
+        description: ""
+
+      - name: category_key
+        data_type: varchar
+        description: ""
+
+      - name: company_key
+        data_type: varchar
+        description: ""
+
+      - name: location_key
+        data_type: varchar
+        description: ""
+
+      - name: posted_date_key
+        data_type: integer
+        description: ""
+
+      - name: salary_min
+        data_type: double
+        description: ""
+
+      - name: salary_max
+        data_type: double
+        description: ""
+
+      - name: salary_mid
+        data_type: double
+        description: ""
+
+      - name: salary_bounds_available
+        data_type: varchar
+        description: ""
+
+      - name: salary_range_width
+        data_type: double
+        description: ""
+
+      - name: is_salary_disclosed
+        data_type: boolean
+        description: ""
+
+      - name: is_salary_predicted
+        data_type: boolean
+        description: ""
+
+      - name: currency
+        data_type: varchar
+        description: ""
+
+      - name: contract_type
+        data_type: varchar
+        description: ""
+
+      - name: contract_time
+        data_type: varchar
+        description: ""
+
+      - name: ingested_at_utc
+        data_type: timestamp
+        description: ""
+
+      - name: dbt_updated_at
+        data_type: timestamp
+        description: ""
+

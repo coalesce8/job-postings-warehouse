@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: dim_company
+    description: ""
+    columns:
+      - name: company_key
+        data_type: varchar
+        description: ""
+
+      - name: company_name
+        data_type: varchar
+        description: ""
+
