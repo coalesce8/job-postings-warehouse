@@ -4,9 +4,16 @@ sources:
     schema: main            # DuckDB's default; confirm from your SHOW TABLES output
     tables:
       - name: raw_jobs
+        data_tests:
+          - dbt_utils.expression_is_true:
+             arguments:
+              expression: "salary_max >= salary_min"
         columns:
           - name: job_id
             data_type: varchar
+            data_tests:
+             - unique
+             - not_null
           - name: title
             data_type: varchar
           - name: company
@@ -21,6 +28,8 @@ sources:
             data_type: double
           - name: category_tag
             data_type: varchar
+            data_tests:
+             - not_null
           - name: category_label
             data_type: varchar
           - name: salary_min
@@ -29,25 +38,38 @@ sources:
             data_type: double
           - name: salary_is_predicted
             data_type: varchar
+            data_tests:
+             - not_null
+             - accepted_values:
+                arguments:
+                  values: [0, 1]
           - name: contract_time
             data_type: varchar
           - name: contract_type
             data_type: varchar
           - name: created
             data_type: varchar
+            data_tests:
+             - not_null
           - name: description
             data_type: varchar
           - name: redirect_url
             data_type: varchar
           - name: country
             data_type: varchar
+            data_tests:
+             - not_null
           - name: page
             data_type: integer
           - name: search_params
             data_type: varchar
+            data_tests:
+             - not_null
           - name: mean
             data_type: double
           - name: count
             data_type: integer
           - name: ingested_at
             data_type: timestamp with time zone
+            data_tests:
+             - not_null
