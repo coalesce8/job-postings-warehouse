@@ -5,9 +5,9 @@ with category_pulls as (
 final as (
     select
         category_tag as category_key,
-        any_value(category_label) as category_label,
-        any_value(adzuna_reported_mean_salary) as adzuna_reported_mean_salary,
-        any_value(adzuna_total_count) as adzuna_total_count,
+        category_label,
+        adzuna_reported_mean_salary,
+        adzuna_total_count,
         case
             when category_tag in ('graduate-jobs') then 'Career stage'
             when category_tag in ('part-time-jobs') then 'Contract type'
@@ -20,7 +20,6 @@ final as (
             else 'Occupation'
         end as tag_type
     from category_pulls
-    group by category_tag
 )
 
 select * from final
