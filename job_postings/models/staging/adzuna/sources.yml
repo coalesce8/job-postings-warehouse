@@ -1,9 +1,11 @@
 sources:
   - name: adzuna
+    description: Job posting data pulled from the Adzuna job search API.
     database: raw
-    schema: main            # DuckDB's default; confirm from your SHOW TABLES output
+    schema: main            # DuckDB's default
     tables:
       - name: raw_jobs
+        description: Raw job postings as returned by the Adzuna search API, one row per job per country.
         data_tests:
           - dbt_utils.expression_is_true:
              arguments:
@@ -11,33 +13,45 @@ sources:
         columns:
           - name: job_id
             data_type: varchar
+            description: Adzuna's unique identifier for the job posting.
             data_tests:
              - unique
              - not_null
           - name: title
             data_type: varchar
+            description: Job title as posted.
           - name: company
             data_type: varchar
+            description: Name of the hiring company.
           - name: location_display
             data_type: varchar
+            description: Human-readable location string, e.g. "London, South East England".
           - name: location_area
             data_type: varchar
+            description: Hierarchical location breakdown returned by Adzuna, from country down to district.
           - name: latitude
             data_type: double
+            description: Latitude of the job location.
           - name: longitude
             data_type: double
+            description: Longitude of the job location.
           - name: category_tag
             data_type: varchar
+            description: Adzuna's internal slug for the job category.
             data_tests:
              - not_null
           - name: category_label
             data_type: varchar
+            description: Human-readable label for the job category.
           - name: salary_min
             data_type: double
+            description: Minimum salary advertised for the position.
           - name: salary_max
             data_type: double
+            description: Maximum salary advertised for the position.
           - name: salary_is_predicted
             data_type: varchar
+            description: Whether the salary was predicted by Adzuna (1) or not (0).
             data_tests:
              - not_null
              - accepted_values:
@@ -45,31 +59,42 @@ sources:
                   values: [0, 1]
           - name: contract_time
             data_type: varchar
+            description: Full-time or part-time.
           - name: contract_type
             data_type: varchar
+            description: Permanent or contract.
           - name: created
             data_type: varchar
+            description: Timestamp the job was posted, as returned by Adzuna.
             data_tests:
              - not_null
           - name: description
             data_type: varchar
+            description: Snippet of the job description text.
           - name: redirect_url
             data_type: varchar
+            description: URL to the job listing on Adzuna.
           - name: country
             data_type: varchar
+            description: Two-letter code of the country-specific Adzuna API endpoint that returned this job.
             data_tests:
              - not_null
           - name: page
             data_type: integer
+            description: Page number of the Adzuna search results this job was returned on.
           - name: search_params
             data_type: varchar
+            description: Query parameters used for the API request that returned this job.
             data_tests:
              - not_null
           - name: mean
             data_type: double
+            description: Mean salary across all results for this job's search query, as returned by Adzuna.
           - name: count
             data_type: integer
+            description: Total number of results matching this job's search query, as returned by Adzuna.
           - name: ingested_at
             data_type: timestamp with time zone
+            description: Timestamp the row was loaded into the database.
             data_tests:
              - not_null
