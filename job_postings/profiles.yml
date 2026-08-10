@@ -1,0 +1,10 @@
+job_postings:              # must match profile: from step 1
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: job_postings.duckdb
+      attach: 
+        - path: "{{ env_var('JOBS_DB_PATH') }}"
+          alias: raw
+          read_only: true
