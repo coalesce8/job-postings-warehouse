@@ -2,21 +2,35 @@ version: 2
 
 models:
   - name: stg_adzuna__category_pulls
-    description: ""
+    description: >
+      One row per Adzuna category. mean/count are query-level aggregates
+      returned per API call; the loader denormalizes them onto every job row
+      in raw_jobs, so the grain is restored here with GROUP BY ALL.
     columns:
       - name: adzuna_reported_mean_salary
         data_type: double
         description: ""
+        data_tests:
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 10000
+                max_value: 250000
 
       - name: adzuna_total_count
         data_type: integer
         description: ""
+        data_tests:
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
 
       - name: category_tag
         data_type: varchar
-        description: ""
+        description: "Adzuna's category slug. Primary key."
+        tests: [unique, not_null]
 
       - name: category_label
         data_type: varchar
         description: ""
+        tests: [not_null]
 
