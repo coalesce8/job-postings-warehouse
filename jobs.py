@@ -55,7 +55,7 @@ GB_CATEGORY_TAGS = [
 
 
 
-def get_db(path: str = "data/jobs.duckdb"):
+def get_db(path: str = os.environ["JOBS_DB_PATH"]):
     pathlib.Path(path).parent.mkdir(exist_ok=True)
     con = duckdb.connect(path)
     con.execute("""
