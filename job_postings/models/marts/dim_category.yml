@@ -2,25 +2,41 @@ version: 2
 
 models:
   - name: dim_category
-    description: ""
+    description: >
+      One row per Adzuna category, with the raw category slug classified
+      into a broader tag_type grouping.
     columns:
       - name: category_key
         data_type: varchar
-        description: ""
+        description: "Adzuna's category slug. Primary key."
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_adzuna__category_pulls')
+                field: category_tag
 
       - name: category_label
         data_type: varchar
-        description: ""
+        description: "Human-readable label for the category, as reported by Adzuna."
 
       - name: adzuna_reported_mean_salary
         data_type: double
-        description: ""
+        description: "Mean salary for the category, as reported by Adzuna."
 
       - name: adzuna_total_count
         data_type: integer
-        description: ""
+        description: "Total job count for the category, as reported by Adzuna."
 
       - name: tag_type
         data_type: varchar
-        description: ""
-
+        description: >
+          Grouping of category_key into a broader category, such as
+          Occupation, Employer type, Contract type, Career stage, or
+          Residual (for tags that don't fit another group).
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Career stage", "Contract type", "Employer type", "Occupation", "Residual"]
