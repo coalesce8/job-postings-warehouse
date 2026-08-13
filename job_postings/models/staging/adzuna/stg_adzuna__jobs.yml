@@ -2,108 +2,149 @@ version: 2
 
 models:
   - name: stg_adzuna__jobs
-    description: ""
+    description: One row per job posting returned by the Adzuna search API, with location fields parsed out and surrogate/natural keys added.
     columns:
       - name: salary_min
         data_type: double
-        description: ""
+        description: Minimum salary advertised for the position.
 
       - name: salary_max
         data_type: double
-        description: ""
+        description: Maximum salary advertised for the position.
 
       - name: company_name
         data_type: varchar
-        description: ""
+        description: Name of the hiring company, trimmed and nulled if blank.
 
       - name: granularity_level
         data_type: integer
-        description: ""
+        description: Count of non-null location fields (country, region, city, district) available for this job, from 0 to 4.
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [0, 1, 2, 3, 4]
 
       - name: lowest_level_name
         data_type: varchar
-        description: ""
+        description: The most specific non-null location value available, preferring district, then city, then region, then country.
 
       - name: posted_at_utc
         data_type: timestamp
-        description: ""
+        description: Timestamp the job was posted, converted to UTC.
+        data_tests:
+          - not_null
 
       - name: location_key
         data_type: varchar
-        description: ""
+        description: Surrogate key generated from country_name, region, city, and district.
+        data_tests:
+          - not_null
 
       - name: currency
         data_type: varchar
-        description: ""
+        description: "Currency of the advertised salary, derived from the source country code: GBP for the UK, UNKNOWN otherwise."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["GBP", "UNKNOWN"]
 
       - name: ingested_at_utc
         data_type: timestamp
-        description: ""
+        description: Timestamp the row was loaded into the database, converted to UTC.
 
       - name: job_id
         data_type: varchar
-        description: ""
+        description: Adzuna's unique identifier for the job posting. Primary key.
         data_tests:
           - unique
           - not_null
 
       - name: job_title
         data_type: varchar
-        description: ""
+        description: Job title as posted, trimmed and nulled if blank.
 
       - name: company_key
         data_type: varchar
-        description: ""
+        description: Lower-cased company_name to account for variation in capitalization; "unknown" when company_name is null.
+        data_tests:
+          - not_null
 
       - name: location_display
         data_type: varchar
-        description: ""
+        description: Human-readable location string, e.g. "London, South East England".
 
       - name: country_name
         data_type: varchar
-        description: ""
+        description: Country parsed from the source location breakdown, or "unknown" when not available.
+        data_tests:
+          - not_null
 
       - name: region
         data_type: varchar
-        description: ""
+        description: Region parsed from the source location breakdown, or "unknown" when not available.
+        data_tests:
+          - not_null
 
       - name: city
         data_type: varchar
-        description: ""
+        description: City parsed from the source location breakdown, or "unknown" when not available.
+        data_tests:
+          - not_null
 
       - name: district
         data_type: varchar
-        description: ""
-
+        description: District parsed from the source location breakdown, or "unknown" when not available.
+        data_tests:
+          - not_null
+          
       - name: category_tag
         data_type: varchar
-        description: ""
+        description: Adzuna's internal slug for the job category.
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('stg_adzuna__category_pulls')
+                field: category_tag
 
       - name: category_label
         data_type: varchar
-        description: ""
+        description: Human-readable label for the job category.
 
       - name: is_salary_predicted
         data_type: boolean
-        description: ""
+        description: Whether the salary was predicted by Adzuna rather than stated in the posting.
+        data_tests:
+          - not_null
 
       - name: contract_time
         data_type: varchar
-        description: ""
+        description: Full-time or part-time.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["full_time", "part_time"]
 
       - name: contract_type
         data_type: varchar
-        description: ""
+        description: Permanent or contract.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["permanent", "contract"]
 
       - name: date_key
         data_type: integer
-        description: ""
+        description: Date the job was posted, as an integer in YYYYMMDD format, derived from posted_at_utc.
+        data_tests:
+          - not_null
 
       - name: job_description
         data_type: varchar
-        description: ""
+        description: Snippet of the job description text.
 
       - name: redirect_url
         data_type: varchar
-        description: ""
+        description: URL to the job listing on Adzuna.
 
