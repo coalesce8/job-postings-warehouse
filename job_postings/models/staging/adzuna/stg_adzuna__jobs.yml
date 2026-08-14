@@ -67,7 +67,7 @@ models:
 
       - name: company_key
         data_type: varchar
-        description: Lower-cased company_name to account for variation in capitalization; "unknown" when company_name is null.
+        description: Lower-cased company_name to account for variation in capitalization; "__UNKNOWN__" when company_name is null.
         data_tests:
           - not_null
 
@@ -77,25 +77,25 @@ models:
 
       - name: country_name
         data_type: varchar
-        description: Country parsed from the source location breakdown, or "unknown" when not available.
+        description: Country parsed from the source location breakdown, or "__UNKNOWN__" when not available.
         data_tests:
           - not_null
 
       - name: region
         data_type: varchar
-        description: Region parsed from the source location breakdown, or "unknown" when not available.
+        description: Region parsed from the source location breakdown, or "__UNKNOWN__" when not available.
         data_tests:
           - not_null
 
       - name: city
         data_type: varchar
-        description: City parsed from the source location breakdown, or "unknown" when not available.
+        description: City parsed from the source location breakdown, or "__UNKNOWN__" when not available.
         data_tests:
           - not_null
 
       - name: district
         data_type: varchar
-        description: District parsed from the source location breakdown, or "unknown" when not available.
+        description: District parsed from the source location breakdown, or "__UNKNOWN__" when not available.
         data_tests:
           - not_null
           
