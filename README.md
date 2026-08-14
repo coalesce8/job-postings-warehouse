@@ -6,13 +6,13 @@ Pull job postings from the [Adzuna API](https://developer.adzuna.com/), land the
 
 ```mermaid
 flowchart LR
-    A[Adzuna API] -->|jobs.py, per category| B[(data/jobs.duckdb<br/>raw_jobs)]
+    A[Adzuna API] -->|jobs.py, per category| B[(data/jobs_raw.duckdb<br/>raw_jobs)]
     B -->|dbt source, read-only attach| C[staging]
     C --> D[marts<br/>star schema]
-    D -.-> E[(job_postings.duckdb)]
+    D -.-> E[(data/jobs_analytics.duckdb)]
 ```
 
-`jobs.py` pulls jobs one category at a time (31 tags), capping each category at `MAX_PAGES = 4` pages (200 jobs), and writes everything into `raw_jobs`. dbt then treats that database as a **read-only** attached source (`job_postings/profiles.yml`) and builds a separate warehouse file, `job_postings/job_postings.duckdb`. Ingestion and transformation never share write access to the same file.
+`jobs.py` pulls jobs one category at a time (31 tags), capping each category at `MAX_PAGES = 4` pages (200 jobs), and writes everything into `raw_jobs`. dbt then treats that database as a **read-only** attached source (`job_postings/profiles.yml`) and builds a separate warehouse file at `$JOBS_ANALYTICS_DB_PATH`. Ingestion and transformation never share write access to the same file.
 
 ## Data model
 
@@ -34,7 +34,7 @@ One fact, four dimensions, one aggregate, staging → marts (type casting, null-
 - **Key strategy chosen per dimension, not uniformly.** Natural keys where a column is already clean and unique; a hashed surrogate key only where the dimension is genuinely composite (location).
 - **Scoped to the UK only.** Adzuna's UK postings have more complete salary data than its other markets, and the category list (`GB_CATEGORY_TAGS`) is UK-specific taxonomy; adding a country later means building that country's own category list, not just adding a code to `COUNTRY_CODES`.
 - **Credentials via environment variables only.** `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` are read from the environment; the script fails fast with a clear error if either is missing.
-- **DB path configured once, via `JOBS_DB_PATH`.** Both `jobs.py` and `job_postings/profiles.yml` read the same `JOBS_DB_PATH` env var for the raw database's location, so ingestion and dbt can never point at different files by accident.
+- **DB path configured once, via `JOBS_RAW_DB_PATH`.** Both `jobs.py` and `job_postings/profiles.yml` read the same `JOBS_RAW_DB_PATH` env var for the raw database's location, so ingestion and dbt can never point at different files by accident.
 - **Per-category error isolation.** One category's API failure (HTTP error, network error, bad JSON) is caught and logged without aborting the run for the rest.
 
 # Data quality
@@ -61,13 +61,13 @@ Requires Python >=3.14 (pinned in `.python-version`).
 ```
 cp .env.example .env
 ```
-Fill in `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` (free keys at [developer.adzuna.com](https://developer.adzuna.com/)) and `JOBS_DB_PATH`, an absolute path to where the raw database should live (e.g. `/abs/path/to/data/jobs.duckdb`). Both `jobs.py` and dbt's `profiles.yml` read from it. `job_postings/.envrc` (`dotenv`) auto-loads the root `.env` for dbt if you use [direnv](https://direnv.net/); otherwise `export` the variables yourself before running the commands below.
+Fill in `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` (free keys at [developer.adzuna.com](https://developer.adzuna.com/)), `JOBS_RAW_DB_PATH`, an absolute path to where the raw database should live (e.g. `/abs/path/to/data/jobs_raw.duckdb`), and `JOBS_ANALYTICS_DB_PATH`, an absolute path to where dbt's warehouse should live (e.g. `/abs/path/to/data/jobs_analytics.duckdb`). `jobs.py` reads `JOBS_RAW_DB_PATH`; dbt's `profiles.yml` reads both. `job_postings/.envrc` (`dotenv`) auto-loads the root `.env` for dbt if you use [direnv](https://direnv.net/); otherwise `export` the variables yourself before running the commands below.
 
 **3. Run ingestion**
 ```
 uv run python jobs.py
 ```
-Writes to `$JOBS_DB_PATH`. Safe to re-run. Edit `MAX_PAGES`, or `SEARCH_PARAMS` in the script to change scope.
+Writes to `$JOBS_RAW_DB_PATH`. Safe to re-run. Edit `MAX_PAGES`, or `SEARCH_PARAMS` in the script to change scope.
 
 **4. Build the warehouse**
 ```
@@ -75,4 +75,4 @@ cd job_postings
 uv run dbt deps
 uv run dbt build
 ```
-`profiles.yml` attaches the raw database read-only via `{{ env_var('JOBS_DB_PATH') }}` 
+`profiles.yml` writes the warehouse to `{{ env_var('JOBS_ANALYTICS_DB_PATH') }}` and attaches the raw database read-only via `{{ env_var('JOBS_RAW_DB_PATH') }}` 
