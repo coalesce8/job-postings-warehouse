@@ -2,13 +2,23 @@ version: 2
 
 models:
   - name: dim_company
-    description: ""
+    description: One row per distinct company that has posted a job, keyed by a normalized version of the company name. Includes an "__UNKNOWN__" member row for postings with no company listed.
     columns:
       - name: company_key
         data_type: varchar
-        description: ""
+        description: "Lower-cased company_name. Primary key."
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_adzuna__jobs')
+                field: company_key
 
       - name: company_name
         data_type: varchar
-        description: ""
-
+        description: Company name as reported by Adzuna, in its original casing and with NULLs intact.
+        data_tests:
+          - not_null:
+              config:
+                where: "company_key != '__UNKNOWN__'"
