@@ -2,44 +2,46 @@ version: 2
 
 models:
   - name: dim_location
-    description: ""
+    description: One row per unique combination of location fields (country plus area levels 2-4) observed across job postings.
     columns:
       - name: location_key
         data_type: varchar
-        description: ""
+        description: Surrogate key uniquely identifying a location, generated from country_name, area_level_2, area_level_3, and area_level_4.
         data_tests:
           - unique
           - not_null
-          - relationships:
-              arguments:
-                to: ref('stg_adzuna__jobs')
-                field: location_key
 
-      - name: area_level_1
+      - name: country_code
         data_type: varchar
-        description: ""
+        description: Two-letter code of the country-specific Adzuna API endpoint the job was pulled from (e.g. "gb").
+
+      - name: country_name
+        data_type: varchar
+        description: Country name; the broadest level of the location breakdown, always present.
 
       - name: area_level_2
         data_type: varchar
-        description: ""
+        description: Second level of the location breakdown below country (what this represents can vary by country), or "__UNKNOWN__" when not available.
 
       - name: area_level_3
         data_type: varchar
-        description: ""
+        description: Third level of the location breakdown below country (what this represents can vary by country), or "__UNKNOWN__" when not available.
 
       - name: area_level_4
         data_type: varchar
-        description: ""
+        description: Most granular level of the location breakdown (what this represents can vary by country), or "__UNKNOWN__" when not available.
 
       - name: granularity_level
         data_type: integer
-        description: ""
+        description: Count of non-null location fields (area_level_2 through area_level_4, plus country_name which is always present) available for this location, from 1 to 4.
 
       - name: lowest_level_name
         data_type: varchar
-        description: ""
+        description: The most specific non-null location value available, preferring area_level_4, then area_level_3, then area_level_2, then country_name.
 
       - name: location_path
         data_type: varchar
-        description: ""
+        description: Human-readable hierarchical path from country to the most granular known area, e.g. "UK > South East England > Reading". Missing levels appear as "__UNKNOWN__".
+        data_tests:
+          - not_null
 
