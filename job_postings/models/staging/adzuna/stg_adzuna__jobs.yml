@@ -18,16 +18,16 @@ models:
 
       - name: granularity_level
         data_type: integer
-        description: Count of non-null location fields (area_level_1 through area_level_4) available for this job, from 0 to 4.
+        description: Count of non-null location fields (area_level_2 through area_level_4, plus country_name which is always present) available for this job, from 1 to 4.
         data_tests:
           - not_null
           - accepted_values:
               arguments:
-                values: [0, 1, 2, 3, 4]
+                values: [1, 2, 3, 4]
 
       - name: lowest_level_name
         data_type: varchar
-        description: The most specific non-null location value available, preferring area_level_4, then area_level_3, then area_level_2, then area_level_1.
+        description: The most specific non-null location value available, preferring area_level_4, then area_level_3, then area_level_2, then country_name.
 
       - name: posted_at_utc
         data_type: timestamp
@@ -37,7 +37,7 @@ models:
 
       - name: location_key
         data_type: varchar
-        description: Surrogate key generated from area_level_1, area_level_2, area_level_3, and area_level_4.
+        description: Surrogate key generated from country_name, area_level_2, area_level_3, and area_level_4.
         data_tests:
           - not_null
 
@@ -75,9 +75,9 @@ models:
         data_type: varchar
         description: Human-readable location string, e.g. "London, South East England".
 
-      - name: area_level_1
+      - name: country_name
         data_type: varchar
-        description: Broadest level of the source location breakdown (position 1 of 4; what this represents can vary by country), or "__UNKNOWN__" when not available.
+        description: Broadest level of the source location breakdown (position 1 of 4); always the country name, or "__UNKNOWN__" when not available.
         data_tests:
           - not_null
 

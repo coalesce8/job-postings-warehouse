@@ -14,7 +14,7 @@ cleaned as (
     select
         *,
         nullif(trim(company), '') as company_name,
-        nullif(trim(location_area_parsed[1]), '') as area_level_1,
+        nullif(trim(location_area_parsed[1]), '') as country_name,
         nullif(trim(location_area_parsed[2]), '') as area_level_2,
         nullif(trim(location_area_parsed[3]), '') as area_level_3,
         nullif(trim(location_area_parsed[4]), '') as area_level_4,
@@ -28,18 +28,19 @@ cleaned as (
 location_features as (
     select
         *,
-        (area_level_1 is not NULL)::int
+        (country_name is not NULL)::int
         + (area_level_2 is not NULL)::int
         + (area_level_3 is not NULL)::int
         + (area_level_4 is not NULL)::int as granularity_level,
-        coalesce(area_level_4, area_level_3, area_level_2, area_level_1) as lowest_level_name
+        coalesce(area_level_4, area_level_3, area_level_2, country_name)
+            as lowest_level_name
     from cleaned
 ),
 
 keys as (
     select
         *,
-        {{ dbt_utils.generate_surrogate_key(['area_level_1', 'area_level_2', 'area_level_3', 'area_level_4']) }}
+        {{ dbt_utils.generate_surrogate_key(['country_name', 'area_level_2', 'area_level_3', 'area_level_4']) }}
             as location_key
     from location_features
 ),
@@ -62,12 +63,13 @@ final as (
         posted_at_utc,
         location_key,
         currency,
+        country_code,
+        country_name,
         ingested_at at time zone 'UTC' as ingested_at_utc,
         nullif(trim(job_id), '') as job_id,
         nullif(trim(title), '') as job_title,
         coalesce(lower(company_name), '__UNKNOWN__') as company_key,
         nullif(trim(location_display), '') as location_display,
-        coalesce(area_level_1, '__UNKNOWN__') as area_level_1,
         coalesce(area_level_2, '__UNKNOWN__') as area_level_2,
         coalesce(area_level_3, '__UNKNOWN__') as area_level_3,
         coalesce(area_level_4, '__UNKNOWN__') as area_level_4,
