@@ -41,6 +41,12 @@ models:
         data_tests:
           - not_null
 
+      - name: country_code
+        data_type: varchar
+        description: Two-letter code of the country-specific Adzuna API endpoint that returned this job.
+        data_tests:
+          - not_null
+
       - name: currency
         data_type: varchar
         description: "Currency of the advertised salary, derived from the source country code: GBP for the UK, UNKNOWN otherwise."
