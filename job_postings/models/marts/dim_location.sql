@@ -5,13 +5,13 @@ with jobs as (
 final as (
     select distinct
         location_key,
-        country_name,
-        region,
-        city,
-        district,
+        area_level_1,
+        area_level_2,
+        area_level_3,
+        area_level_4,
         granularity_level,
         lowest_level_name,
-        CONCAT_WS(' > ', country_name, region, city, district) as location_path
+        CONCAT_WS(' > ', area_level_1, area_level_2, area_level_3, area_level_4) as location_path
 
     from jobs
 )

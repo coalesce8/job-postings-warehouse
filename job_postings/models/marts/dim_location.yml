@@ -7,20 +7,27 @@ models:
       - name: location_key
         data_type: varchar
         description: ""
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_adzuna__jobs')
+                field: location_key
 
-      - name: country_name
+      - name: area_level_1
         data_type: varchar
         description: ""
 
-      - name: region
+      - name: area_level_2
         data_type: varchar
         description: ""
 
-      - name: city
+      - name: area_level_3
         data_type: varchar
         description: ""
 
-      - name: district
+      - name: area_level_4
         data_type: varchar
         description: ""
 

@@ -28,7 +28,7 @@ sources:
             description: Human-readable location string, e.g. "London, South East England".
           - name: location_area
             data_type: varchar
-            description: Hierarchical location breakdown returned by Adzuna, from country down to district.
+            description: Hierarchical location breakdown returned by Adzuna, from broadest to most granular (up to 4 levels).
           - name: latitude
             data_type: double
             description: Latitude of the job location.

@@ -14,10 +14,10 @@ cleaned as (
     select
         *,
         nullif(trim(company), '') as company_name,
-        nullif(trim(location_area_parsed[1]), '') as country_name,
-        nullif(trim(location_area_parsed[2]), '') as region,
-        nullif(trim(location_area_parsed[3]), '') as city,
-        nullif(trim(location_area_parsed[4]), '') as district,
+        nullif(trim(location_area_parsed[1]), '') as area_level_1,
+        nullif(trim(location_area_parsed[2]), '') as area_level_2,
+        nullif(trim(location_area_parsed[3]), '') as area_level_3,
+        nullif(trim(location_area_parsed[4]), '') as area_level_4,
         try_cast(nullif(trim(created), '') as timestamptz) at time zone 'UTC'
             as posted_at_utc,
         nullif(trim(country), '') as country_code
@@ -28,18 +28,18 @@ cleaned as (
 location_features as (
     select
         *,
-        (country_name is not NULL)::int
-        + (region is not NULL)::int
-        + (city is not NULL)::int
-        + (district is not NULL)::int as granularity_level,
-        coalesce(district, city, region, country_name) as lowest_level_name
+        (area_level_1 is not NULL)::int
+        + (area_level_2 is not NULL)::int
+        + (area_level_3 is not NULL)::int
+        + (area_level_4 is not NULL)::int as granularity_level,
+        coalesce(area_level_4, area_level_3, area_level_2, area_level_1) as lowest_level_name
     from cleaned
 ),
 
 keys as (
     select
         *,
-        {{ dbt_utils.generate_surrogate_key(['country_name', 'region', 'city', 'district']) }}
+        {{ dbt_utils.generate_surrogate_key(['area_level_1', 'area_level_2', 'area_level_3', 'area_level_4']) }}
             as location_key
     from location_features
 ),
@@ -67,10 +67,10 @@ final as (
         nullif(trim(title), '') as job_title,
         coalesce(lower(company_name), '__UNKNOWN__') as company_key,
         nullif(trim(location_display), '') as location_display,
-        coalesce(country_name, '__UNKNOWN__') as country_name,
-        coalesce(region, '__UNKNOWN__') as region,
-        coalesce(city, '__UNKNOWN__') as city,
-        coalesce(district, '__UNKNOWN__') as district,
+        coalesce(area_level_1, '__UNKNOWN__') as area_level_1,
+        coalesce(area_level_2, '__UNKNOWN__') as area_level_2,
+        coalesce(area_level_3, '__UNKNOWN__') as area_level_3,
+        coalesce(area_level_4, '__UNKNOWN__') as area_level_4,
         nullif(trim(category_tag), '') as category_tag,
         nullif(trim(category_label), '') as category_label,
         nullif(trim(salary_is_predicted), '')::boolean as is_salary_predicted,
