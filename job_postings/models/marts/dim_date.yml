@@ -2,45 +2,104 @@ version: 2
 
 models:
   - name: dim_date
-    description: ""
+    description: >
+      Date dimension spanning the range covered by the dbt_utils date_spine
+      in dim_date.sql, one row per calendar day.
+    data_tests:
+      - dbt_utils.expression_is_true:
+          arguments:
+            expression: >
+              case day_of_week
+                when 0 then day_name = 'Sunday'
+                when 1 then day_name = 'Monday'
+                when 2 then day_name = 'Tuesday'
+                when 3 then day_name = 'Wednesday'
+                when 4 then day_name = 'Thursday'
+                when 5 then day_name = 'Friday'
+                when 6 then day_name = 'Saturday'
+              end
     columns:
       - name: full_date
         data_type: timestamp
-        description: ""
+        description: "Calendar date for the row. Primary key."
+        data_tests:
+          - unique
+          - not_null
 
       - name: date_key
         data_type: integer
-        description: ""
+        description: "Surrogate key for full_date in YYYYMMDD format, e.g. 20260815."
+        data_tests:
+          - unique
+          - not_null
 
       - name: day_of_month
         data_type: bigint
-        description: ""
+        description: "Day component of full_date, 1-31."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 1
+                max_value: 31
+                inclusive: true
 
       - name: month_of_year
         data_type: bigint
-        description: ""
+        description: "Month component of full_date, 1-12."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 
       - name: month_name
         data_type: varchar
-        description: ""
+        description: "Full month name, e.g. 'January'."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 
       - name: quarter_of_year
         data_type: bigint
-        description: ""
+        description: "Calendar quarter of full_date, 1-4."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [1, 2, 3, 4]
 
       - name: year_number
         data_type: bigint
-        description: ""
+        description: "Calendar year of full_date."
+        data_tests:
+          - not_null
 
       - name: day_of_week
         data_type: bigint
-        description: ""
+        description: "Day of week for full_date, 0 (Sunday) through 6 (Saturday)."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [0, 1, 2, 3, 4, 5, 6]
 
       - name: day_name
         data_type: varchar
-        description: ""
+        description: "Full weekday name, e.g. 'Saturday'."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
       - name: is_weekend
         data_type: boolean
-        description: ""
-
+        description: "True when day_of_week falls on Saturday or Sunday."
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [true, false]
