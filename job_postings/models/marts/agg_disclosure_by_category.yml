@@ -1,0 +1,40 @@
+version: 2
+
+models:
+  - name: agg_disclosure_by_category
+    description: >
+      One row per dim_category record tagged as 'Occupation', with the
+      number of job postings in that category and how many disclosed a
+      salary.
+    columns:
+      - name: category_label
+        data_type: varchar
+        description: "Human-readable label for the occupation category, from dim_category.category_label."
+        data_tests:
+          - unique
+          - not_null
+
+
+      - name: postings
+        data_type: bigint
+        description: "Count of job postings in the category."
+        data_tests:
+          - not_null
+
+      - name: disclosed
+        data_type: hugeint
+        description: "Count of postings in the category with a disclosed salary (is_salary_disclosed = true)."
+        data_tests:
+          - not_null
+
+      - name: disclosure_rate
+        data_type: double
+        description: "Share of postings in the category with a disclosed salary, i.e. disclosed / postings."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+                inclusive: true
+
