@@ -2,26 +2,30 @@ version: 2
 
 models:
   - name: fct_job_postings
-    description: ""
+    description: >
+      One row per job posting. The same job can be returned by several daily
+      pulls; only the first observation of each job_id is kept, so salary
+      fields reflect the posting as first seen. Grain is enforced by the
+      unique test on job_id.
     columns:
       - name: job_id
         data_type: varchar
-        description: ""
+        description: "Adzuna's unique identifier for the job posting. Primary key."
         data_tests:
           - unique
           - not_null
 
       - name: job_title
         data_type: varchar
-        description: ""
+        description: "Job title as posted."
 
       - name: redirect_url
         data_type: varchar
-        description: ""
+        description: "URL to the job listing on Adzuna."
 
       - name: category_key
         data_type: varchar
-        description: ""
+        description: "Adzuna category slug. FK to dim_category."
         data_tests:
           - not_null
           - relationships:
@@ -31,7 +35,7 @@ models:
 
       - name: company_key
         data_type: varchar
-        description: ""
+        description: "Lower-cased company name, or \"__UNKNOWN__\". FK to dim_company."
         data_tests:
           - not_null
           - relationships:
@@ -41,7 +45,7 @@ models:
 
       - name: location_key
         data_type: varchar
-        description: ""
+        description: "Surrogate key over the location breakdown. FK to dim_location."
         data_tests:
           - not_null
           - relationships:
@@ -49,9 +53,19 @@ models:
                 to: ref('dim_location')
                 field: location_key
 
+      - name: country_code
+        data_type: varchar
+        description: "Two-letter code of the country-specific Adzuna API endpoint the job was pulled from. FK to dim_country."
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_country')
+                field: country_code
+
       - name: posted_date_key
         data_type: integer
-        description: ""
+        description: "Date the job was posted (UTC), as YYYYMMDD. FK to dim_date."
         data_tests:
           - not_null
           - relationships:
@@ -61,19 +75,19 @@ models:
 
       - name: salary_min
         data_type: double
-        description: ""
+        description: "Minimum salary advertised or predicted, in `currency`. Null if Adzuna returned no salary."
 
       - name: salary_max
         data_type: double
-        description: ""
+        description: "Maximum salary advertised or predicted, in `currency`. Null if Adzuna returned no salary."
 
       - name: salary_mid
         data_type: double
-        description: ""
+        description: "Midpoint of salary_min and salary_max; null if either is null."
 
       - name: salary_bounds_available
         data_type: varchar
-        description: ""
+        description: "Which salary bounds are present: both, min_only, max_only, or none."
         data_tests:
           - accepted_values:
               arguments:
@@ -81,37 +95,65 @@ models:
 
       - name: salary_range_width
         data_type: double
-        description: ""
+        description: "salary_max minus salary_min; null if either is null."
+
+      - name: salary_status
+        data_type: varchar
+        description: >
+          How the salary came to be on the posting: 'disclosed' (stated in the
+          ad), 'predicted' (estimated by Adzuna because the ad had none), or
+          'absent' (no salary returned at all, common outside the UK where
+          Adzuna does not always predict).
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['disclosed', 'predicted', 'absent']
 
       - name: is_salary_disclosed
         data_type: boolean
-        description: ""
+        description: "True when salary_status = 'disclosed', i.e. the ad itself stated a salary. Postings with no salary at all count as not disclosed."
         data_tests:
           - not_null
 
       - name: is_salary_predicted
         data_type: boolean
-        description: ""
-
-      - name: currency
-        data_type: varchar
-        description: ""
-
-      - name: contract_type
-        data_type: varchar
-        description: ""
-
-      - name: contract_time
-        data_type: varchar
-        description: ""
-
-      - name: ingested_at_utc
-        data_type: timestamp
-        description: ""
-
-      - name: dbt_updated_at
-        data_type: timestamp
-        description: ""
+        description: "Whether the salary was predicted by Adzuna rather than stated in the posting."
         data_tests:
           - not_null
 
+      - name: currency
+        data_type: varchar
+        description: "Currency of the salary fields, from dim_country."
+        data_tests:
+          - not_null
+
+      - name: contract_type
+        data_type: varchar
+        description: "Permanent or contract, if stated."
+
+      - name: contract_time
+        data_type: varchar
+        description: "Full-time or part-time, if stated."
+
+      - name: first_fetched_at
+        data_type: timestamp
+        description: "Timestamp (UTC) of the first pull in which this job was observed."
+        data_tests:
+          - not_null
+
+      - name: times_seen
+        data_type: bigint
+        description: "Number of pulls in which this job_id was returned."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 1
+                inclusive: true
+
+      - name: dbt_updated_at
+        data_type: timestamp
+        description: "Timestamp (UTC) of the dbt run that built this row."
+        data_tests:
+          - not_null

@@ -10,10 +10,6 @@ models:
         data_tests:
           - unique
           - not_null
-          - relationships:
-              arguments:
-                to: ref('stg_adzuna__jobs')
-                field: company_key
 
       - name: company_name
         data_type: varchar

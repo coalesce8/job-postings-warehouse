@@ -4,18 +4,79 @@ sources:
     database: raw
     schema: main            # DuckDB's default
     tables:
+      - name: raw_pull_metadata
+        description: One row per Adzuna API pull (one per country per ingestion run), recording the request parameters and response-level stats for that pull.
+        columns:
+          - name: pull_id
+            data_type: varchar
+            description: Deterministic identifier for the pull, derived from the source filename (date + country + fetch time). Primary key.
+            data_tests:
+              - unique
+              - not_null
+          - name: fetched_at
+            data_type: timestamp
+            description: Timestamp the pull was fetched from the Adzuna API.
+            data_tests:
+              - not_null
+          - name: country_code
+            data_type: varchar
+            description: Two-letter code of the country-specific Adzuna API endpoint this pull was fetched from.
+            data_tests:
+              - not_null
+          - name: max_days_old
+            data_type: integer
+            description: The `max_days_old` search parameter used for this pull's API request.
+          - name: sort_by
+            data_type: varchar
+            description: The `sort_by` search parameter used for this pull's API request.
+          - name: search_params
+            data_type: varchar
+            description: Full set of search parameters sent to the Adzuna API for this pull, as a JSON object (credentials excluded).
+          - name: max_pages
+            data_type: integer
+            description: Client-side cap on the number of result pages requested for this pull. If `pages_with_results` equals this, the pull may have been truncated.
+          - name: pages_with_results
+            data_type: integer
+            description: Number of result pages that returned at least one job for this pull.
+          - name: total_count
+            data_type: integer
+            description: Adzuna's total count of results matching this pull's search query.
+          - name: mean_salary
+            data_type: double
+            description: Adzuna's mean salary across all results for this pull's search query.
+          - name: source_file
+            data_type: varchar
+            description: Absolute path of the raw JSON file this pull was loaded from.
+          - name: loaded_at
+            data_type: timestamp
+            description: Timestamp (UTC) the pull was loaded into the raw database.
+            data_tests:
+              - not_null
       - name: raw_jobs
-        description: Raw job postings as returned by the Adzuna search API, one row per job per country.
+        description: Raw job postings as returned by the Adzuna search API, one row per job per pull. The same job can reappear across pulls, so job_id alone is not unique.
         data_tests:
           - dbt_utils.expression_is_true:
              arguments:
               expression: "salary_max >= salary_min"
+          - dbt_utils.unique_combination_of_columns:
+              arguments:
+                combination_of_columns:
+                  - pull_id
+                  - job_id
         columns:
+          - name: pull_id
+            data_type: varchar
+            description: Identifier of the pull this job was returned in. Part of the composite primary key (pull_id, job_id).
+            data_tests:
+              - not_null
+              - relationships:
+                  arguments:
+                    to: source('adzuna', 'raw_pull_metadata')
+                    field: pull_id
           - name: job_id
             data_type: varchar
-            description: Adzuna's unique identifier for the job posting.
+            description: Adzuna's unique identifier for the job posting. Part of the composite primary key (pull_id, job_id).
             data_tests:
-             - unique
              - not_null
           - name: title
             data_type: varchar
@@ -56,7 +117,7 @@ sources:
              - not_null
              - accepted_values:
                 arguments:
-                  values: [0, 1]
+                  values: ["0", "1"]
           - name: contract_time
             data_type: varchar
             description: Full-time or part-time.
@@ -65,7 +126,7 @@ sources:
             description: Permanent or contract.
           - name: created
             data_type: varchar
-            description: Timestamp the job was posted, as returned by Adzuna.
+            description: Timestamp the job was posted, as returned by Adzuna. Carries a "Z" suffix but is wall-clock local time for the market, not UTC (observed to run ahead of the UTC fetch time).
             data_tests:
              - not_null
           - name: description
@@ -74,27 +135,3 @@ sources:
           - name: redirect_url
             data_type: varchar
             description: URL to the job listing on Adzuna.
-          - name: country
-            data_type: varchar
-            description: Two-letter code of the country-specific Adzuna API endpoint that returned this job.
-            data_tests:
-             - not_null
-          - name: page
-            data_type: integer
-            description: Page number of the Adzuna search results this job was returned on.
-          - name: search_params
-            data_type: varchar
-            description: Query parameters used for the API request that returned this job.
-            data_tests:
-             - not_null
-          - name: mean
-            data_type: double
-            description: Mean salary across all results for this job's search query, as returned by Adzuna.
-          - name: count
-            data_type: integer
-            description: Total number of results matching this job's search query, as returned by Adzuna.
-          - name: ingested_at
-            data_type: timestamp with time zone
-            description: Timestamp the row was loaded into the database.
-            data_tests:
-             - not_null

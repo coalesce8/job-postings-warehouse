@@ -1,0 +1,72 @@
+version: 2
+
+models:
+  - name: dim_country
+    description: >
+      One row per Adzuna country endpoint we pull from, with the country's
+      currency and its pay-transparency legislation status. Built from the
+      country_codes seed, which is the place to edit when a new country is
+      added or a country's legislation changes.
+    columns:
+      - name: country_code
+        data_type: varchar
+        description: "Two-letter code of the Adzuna API endpoint (e.g. \"gb\", \"it\"). Primary key."
+        data_tests:
+          - unique
+          - not_null
+
+      - name: country_name
+        data_type: varchar
+        description: "Country name as Adzuna spells it in the location breakdown (area[0]); must match stg_adzuna__jobs.country_name for that country (checked by assert_country_mapping_valid)."
+        data_tests:
+          - not_null
+
+      - name: currency
+        data_type: varchar
+        description: "ISO 4217 currency of salaries returned by this endpoint."
+        data_tests:
+          - not_null
+
+      - name: timezone
+        data_type: varchar
+        description: "IANA timezone of the market (e.g. Europe/Warsaw). Adzuna's `created` is wall-clock time in this zone; staging uses it to convert to UTC."
+        data_tests:
+          - not_null
+
+      - name: is_eu_member
+        data_type: boolean
+        description: "Whether the country is an EU member state and so bound by Directive (EU) 2023/970."
+        data_tests:
+          - not_null
+
+      - name: pay_transparency_effective_date
+        data_type: date
+        description: "Date from which national hiring-stage pay-transparency rules apply. Null if none yet (see legislation_notes)."
+
+      - name: requires_pay_in_job_ad
+        data_type: boolean
+        description: "Whether national law requires the pay or pay range to appear in the job advert itself (stricter than the directive, which only requires it before interview)."
+        data_tests:
+          - not_null
+
+      - name: legislation_notes
+        data_type: varchar
+        description: "Free-text notes on the legislation status."
+
+      - name: legislation_checked_on
+        data_type: date
+        description: "Date the legislation columns for this row were last verified. Several rows (nl, de, es, gb) are expected to change during the observation window; when one does, update the row and this date (or move the seed under a dbt snapshot for a full history)."
+        data_tests:
+          - not_null
+
+      - name: has_pay_transparency_rules
+        data_type: boolean
+        description: "True when pay_transparency_effective_date is set."
+        data_tests:
+          - not_null
+
+      - name: eu_directive_transposition_deadline
+        data_type: date
+        description: "2026-06-07 for every row: the date by which member states had to transpose Directive (EU) 2023/970. A constant, kept on the dimension as a reference line for plots."
+        data_tests:
+          - not_null
