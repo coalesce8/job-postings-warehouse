@@ -3,6 +3,12 @@ version: 2
 models:
   - name: stg_adzuna__jobs
     description: One row per job posting returned by the Adzuna search API, with location fields parsed out and surrogate/natural keys added.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns:
+              - pull_id
+              - job_id
     columns:
       - name: salary_min
         data_type: double
@@ -31,7 +37,28 @@ models:
 
       - name: posted_at_utc
         data_type: timestamp
-        description: Timestamp the job was posted, converted to UTC.
+        description: >
+          Timestamp the job was posted, in UTC. Derived from posted_at_local
+          using market_timezone. This is the canonical posting time; all
+          downstream dates come from it.
+        data_tests:
+          - not_null
+
+      - name: posted_at_local
+        data_type: timestamp
+        description: >
+          Timestamp the job was posted as wall-clock time in the market's own
+          timezone, exactly as Adzuna sent it (its `created` carries a "Z"
+          suffix but is local time, not UTC). Kept for time-of-day analysis;
+          use posted_at_utc for anything else.
+        data_tests:
+          - not_null
+
+      - name: market_timezone
+        data_type: varchar
+        description: IANA timezone of the market (from the country_codes seed), used to convert posted_at_local to posted_at_utc.
+        data_tests:
+          - not_null
         data_tests:
           - not_null
 
@@ -49,22 +76,26 @@ models:
 
       - name: currency
         data_type: varchar
-        description: "Currency of the advertised salary, derived from the source country code: GBP for the UK, UNKNOWN otherwise."
+        description: "Currency of the advertised salary, looked up from the country_codes seed by country_code. Null (and failing not_null) if the country is missing from the seed."
         data_tests:
           - not_null
-          - accepted_values:
-              arguments:
-                values: ["GBP", "UNKNOWN"]
 
-      - name: ingested_at_utc
+      - name: fetched_at
         data_type: timestamp
-        description: Timestamp the row was loaded into the database, converted to UTC.
+        description: Timestamp (UTC, naive) the pull was fetched from the Adzuna API, as recorded by ingest.py.
+        data_tests:
+          - not_null
+
+      - name: pull_id
+        data_type: varchar
+        description: Identifier for the API pull (one per country per run) this job was returned in. Part of the composite primary key.
+        data_tests:
+          - not_null
 
       - name: job_id
         data_type: varchar
-        description: Adzuna's unique identifier for the job posting. Primary key.
+        description: Adzuna's unique identifier for the job posting. Part of the composite primary key (pull_id, job_id) - the same job can reappear across pulls.
         data_tests:
-          - unique
           - not_null
 
       - name: job_title
@@ -83,7 +114,7 @@ models:
 
       - name: country_name
         data_type: varchar
-        description: Broadest level of the source location breakdown (position 1 of 4); always the country name, or "__UNKNOWN__" when not available.
+        description: Broadest level of the source location breakdown (position 1 of 4), i.e. the country name as Adzuna spells it (e.g. "UK", "Italia"). Not coalesced; the not_null test guards against Adzuna returning an empty location breakdown.
         data_tests:
           - not_null
 
@@ -107,12 +138,9 @@ models:
 
       - name: category_tag
         data_type: varchar
-        description: Adzuna's internal slug for the job category.
+        description: Adzuna's internal slug for the job category. Always present; note "unknown" is a real Adzuna category, not a missing value.
         data_tests:
-          - relationships:
-              arguments:
-                to: ref('stg_adzuna__category_pulls')
-                field: category_tag
+          - not_null
 
       - name: category_label
         data_type: varchar
@@ -139,12 +167,6 @@ models:
           - accepted_values:
               arguments:
                 values: ["permanent", "contract"]
-
-      - name: date_key
-        data_type: integer
-        description: Date the job was posted, as an integer in YYYYMMDD format, derived from posted_at_utc.
-        data_tests:
-          - not_null
 
       - name: job_description
         data_type: varchar

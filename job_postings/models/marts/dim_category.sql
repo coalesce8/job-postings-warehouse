@@ -1,13 +1,25 @@
-with category_pulls as (
-    select * from {{ ref ('stg_adzuna__category_pulls') }}
+with jobs as (
+    select * from {{ ref ('stg_adzuna__jobs') }}
+),
+
+-- Tags are shared across Adzuna markets but labels are localised;
+-- prefer the UK (English) label, falling back to any label for tags
+-- only seen in other markets.
+categories as (
+    select
+        category_tag,
+        coalesce(
+            max(case when country_code = 'gb' then category_label end),
+            max(category_label)
+        ) as category_label
+    from jobs
+    group by category_tag
 ),
 
 final as (
     select
         category_tag as category_key,
         category_label,
-        adzuna_reported_mean_salary,
-        adzuna_total_count,
         case
             when category_tag in ('graduate-jobs') then 'Career stage'
             when category_tag in ('part-time-jobs') then 'Contract type'
@@ -46,7 +58,7 @@ final as (
                 )
                 then 'Occupation'
         end as tag_type
-    from category_pulls
+    from categories
 )
 
 select * from final

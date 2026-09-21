@@ -1,5 +1,33 @@
-with source as (
+with jobs as (
     select * from {{ source('adzuna', 'raw_jobs') }}
+),
+
+pulls as (
+    select
+        pull_id,
+        fetched_at,
+        country_code
+    from {{ source('adzuna', 'raw_pull_metadata') }}
+),
+
+countries as (
+    select
+        country_code,
+        currency,
+        timezone
+    from {{ ref('country_codes') }}
+),
+
+source as (
+    select
+        j.*,
+        p.fetched_at,
+        p.country_code,
+        c.currency,
+        c.timezone as market_timezone
+    from jobs as j
+    left join pulls as p on j.pull_id = p.pull_id
+    left join countries as c on p.country_code = c.country_code
 ),
 
 parsed as (
@@ -18,11 +46,23 @@ cleaned as (
         nullif(trim(location_area_parsed[2]), '') as area_level_2,
         nullif(trim(location_area_parsed[3]), '') as area_level_3,
         nullif(trim(location_area_parsed[4]), '') as area_level_4,
-        try_cast(nullif(trim(created), '') as timestamptz) at time zone 'UTC'
-            as posted_at_utc,
-        nullif(trim(country), '') as country_code
+        -- Adzuna stamps `created` with a Z but the value is wall-clock time
+        -- in the market's own timezone (it runs ahead of the UTC fetch
+        -- time). Cast to a naive timestamp so the wall-clock value is kept;
+        -- the UTC version is derived below using the seed's timezone.
+        try_cast(nullif(trim(created), '') as timestamp) as posted_at_local
 
     from parsed
+),
+
+utc as (
+    select
+        *,
+        -- interpret the local wall-clock time in the market's timezone,
+        -- then express it as naive UTC
+        timezone(market_timezone, posted_at_local) at time zone 'UTC'
+            as posted_at_utc
+    from cleaned
 ),
 
 location_features as (
@@ -34,7 +74,7 @@ location_features as (
         + (area_level_4 is not NULL)::int as granularity_level,
         coalesce(area_level_4, area_level_3, area_level_2, country_name)
             as lowest_level_name
-    from cleaned
+    from utc
 ),
 
 keys as (
@@ -45,14 +85,6 @@ keys as (
     from location_features
 ),
 
-jobs_currency as (
-    select
-        *,
-        case when country_code = 'gb' then 'GBP' else 'UNKNOWN' end as currency
-    from keys
-),
-
-
 final as (
     select
         salary_min,
@@ -61,11 +93,14 @@ final as (
         granularity_level,
         lowest_level_name,
         posted_at_utc,
+        posted_at_local,
+        market_timezone,
         location_key,
-        currency,
         country_code,
         country_name,
-        ingested_at at time zone 'UTC' as ingested_at_utc,
+        fetched_at,
+        currency,
+        nullif(trim(pull_id), '') as pull_id,
         nullif(trim(job_id), '') as job_id,
         nullif(trim(title), '') as job_title,
         coalesce(lower(company_name), '__UNKNOWN__') as company_key,
@@ -78,11 +113,10 @@ final as (
         nullif(trim(salary_is_predicted), '')::boolean as is_salary_predicted,
         nullif(trim(contract_time), '') as contract_time,
         nullif(trim(contract_type), '') as contract_type,
-        strftime(posted_at_utc, '%Y%m%d')::int as date_key,
         nullif(trim(description), '') as job_description,
         nullif(trim(redirect_url), '') as redirect_url
 
-    from jobs_currency
+    from keys
 )
 
 select * from final
