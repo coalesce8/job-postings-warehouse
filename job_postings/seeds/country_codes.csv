@@ -1,2 +1,7 @@
-country_code,country_name
-gb,UK
+country_code,country_name,currency,timezone,is_eu_member,pay_transparency_effective_date,requires_pay_in_job_ad,legislation_notes,legislation_checked_on
+gb,UK,GBP,Europe/London,false,,false,"Not in EU. Government consultation on mandatory salary in job ads closes 2026-10-27.",2026-09-21
+it,Italia,EUR,Europe/Rome,true,2026-06-07,true,"D.Lgs. 96/2026. Ads must also cite the applicable collective agreement (CCNL).",2026-09-21
+nl,Nederland,EUR,Europe/Amsterdam,true,,false,"Expected 2027-01-01, not yet enacted. Disclosure required before first interview; ad optional.",2026-09-21
+de,Deutschland,EUR,Europe/Berlin,true,,false,"Not transposed; expected 2027 at earliest. Existing 2017 EntgTranspG has no hiring-stage disclosure. NOT in the daily pull: Adzuna returned no salary for any of 700 postings on 2026-09-21; row kept for the data pulled that day.",2026-09-21
+es,España,EUR,Europe/Madrid,true,,false,"Draft Royal Decree (Aug 2026) omits hiring-stage disclosure (Art. 5); needs separate law.",2026-09-21
+pl,Polska,PLN,Europe/Warsaw,true,2025-12-24,false,"Labour Code Art. 18(3ca). Disclosure via ad, before interview, or before contract; ad optional.",2026-09-21

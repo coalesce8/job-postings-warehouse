@@ -14,3 +14,11 @@ models:
     staging:
       +materialized: view
 
+seeds:
+  job_postings:
+    country_codes:
+      +column_types:
+        is_eu_member: boolean
+        pay_transparency_effective_date: date
+        requires_pay_in_job_ad: boolean
+        legislation_checked_on: date

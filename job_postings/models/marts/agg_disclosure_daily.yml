@@ -1,0 +1,122 @@
+version: 2
+
+models:
+  - name: agg_disclosure_daily
+    description: >
+      One row per country per posting date: how many job postings were
+      posted that day and how many stated a salary. This is the table to
+      plot disclosure rate over time, per country, against the date that
+      country's pay-transparency rules took effect. Time axis is the date
+      the job was posted (not the date it was fetched), and each job is
+      counted once (fct_job_postings keeps the first observation only).
+      Only (country, date) pairs with at least one posting have a row; the
+      most recent date is usually incomplete because a daily pull with
+      max_days_old=1 only sees part of today's postings.
+    data_tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns:
+              - country_code
+              - posted_date_key
+      - dbt_utils.expression_is_true:
+          arguments:
+            expression: "disclosed + predicted + absent = postings"
+    columns:
+      - name: country_code
+        data_type: varchar
+        description: "Two-letter Adzuna country code. FK to dim_country."
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_country')
+                field: country_code
+
+      - name: country_name
+        data_type: varchar
+        description: "Country name, from dim_country."
+
+      - name: posted_date_key
+        data_type: integer
+        description: "Posting date as YYYYMMDD; the same key the fact table carries, so this aggregate conforms to dim_date. FK to dim_date."
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_key
+
+      - name: posted_date
+        data_type: date
+        description: "Posting date (UTC) as a DATE, so the table can be plotted without joining dim_date."
+        data_tests:
+          - not_null
+
+      - name: postings
+        data_type: bigint
+        description: "Number of distinct jobs posted in this country on this date that our pulls observed."
+        data_tests:
+          - not_null
+
+      - name: disclosed
+        data_type: bigint
+        description: "Postings whose ad stated a salary (salary_status = 'disclosed')."
+        data_tests:
+          - not_null
+
+      - name: predicted
+        data_type: bigint
+        description: "Postings whose salary was predicted by Adzuna (salary_status = 'predicted')."
+        data_tests:
+          - not_null
+
+      - name: absent
+        data_type: bigint
+        description: "Postings with no salary at all (salary_status = 'absent')."
+        data_tests:
+          - not_null
+
+      - name: disclosure_rate
+        data_type: double
+        description: "disclosed / postings. The headline metric."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+                inclusive: true
+
+      - name: predicted_rate
+        data_type: double
+        description: "predicted / postings."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+                inclusive: true
+
+      - name: absent_rate
+        data_type: double
+        description: "absent / postings."
+        data_tests:
+          - not_null
+          - dbt_utils.accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+                inclusive: true
+
+      - name: pay_transparency_effective_date
+        data_type: date
+        description: "From dim_country; null if the country has no (confirmed) rules."
+
+      - name: days_since_pay_transparency_effective
+        data_type: bigint
+        description: "posted_date minus pay_transparency_effective_date, in days (negative before the rules applied). Null if no effective date. Event-time axis for before/after plots."
+
+      - name: is_post_pay_transparency
+        data_type: boolean
+        description: "True when posted_date is on or after pay_transparency_effective_date. Null if no effective date."

@@ -1,14 +1,14 @@
 with spine as (
     {{ dbt_utils.date_spine(
         datepart="day",
-        start_date="cast('2026-05-01' as date)",
-        end_date="cast('2027-05-01' as date)"
+        start_date="cast('2026-09-14' as date)",
+        end_date="cast(current_date + interval '7 days' as date)"
     ) }}
 ),
 
 final as (
     select
-        date_day as full_date,
+        date_day::date as full_date,
         strftime(date_day, '%Y%m%d')::int as date_key,
         date_part('day', date_day) as day_of_month,
         date_part('month', date_day) as month_of_year,
