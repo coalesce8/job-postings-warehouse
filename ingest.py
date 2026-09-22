@@ -21,6 +21,9 @@ budget, so ``REQUEST_DELAY_SECONDS`` spaces calls out and ``MAX_PAGES`` is sized
 that ``len(COUNTRY_CODES) * MAX_PAGES`` stays within the daily budget. A 429 aborts
 the whole run immediately rather than retrying: retries count against the cap, and
 a partially fetched country is not written.
+
+Set ``COUNTRIES`` (comma-separated codes, e.g. ``COUNTRIES=gb,pl``) to pull a subset
+of ``COUNTRY_CODES``, for re-running only the countries that failed in a daily run.
 """
 
 import json
@@ -69,6 +72,20 @@ def require_env(name):
     if not value:
         raise SystemExit(f"Set the {name} environment variable (see .env.example)")
     return value
+
+
+def selected_countries(spec):
+    """Parse a ``COUNTRIES`` override; unset or blank means all of ``COUNTRY_CODES``."""
+    if not spec or not spec.strip():
+        return COUNTRY_CODES
+    codes = [c.strip().lower() for c in spec.split(",") if c.strip()]
+    unknown = sorted(set(codes) - set(COUNTRY_CODES))
+    if unknown:
+        raise SystemExit(
+            f"Unknown country code(s) in COUNTRIES: {', '.join(unknown)} "
+            f"(known: {', '.join(COUNTRY_CODES)})"
+        )
+    return codes
 
 
 def fetch_page(country, page, auth):
@@ -133,9 +150,10 @@ def main():
         "app_key": require_env("ADZUNA_APP_KEY"),
     }
     raw_dir = Path(require_env("JOBS_RAW_DATA_DIR"))
+    countries = selected_countries(os.environ.get("COUNTRIES"))
 
     failed = []
-    for i, country in enumerate(COUNTRY_CODES):
+    for i, country in enumerate(countries):
         if i:
             time.sleep(REQUEST_DELAY_SECONDS)
         log.info("Fetching jobs for %s ...", country)
@@ -145,7 +163,7 @@ def main():
             # Don't move on to the next country: every further call would also
             # fail and still count against the quota.
             log.error("Rate limited, aborting run: %s", e)
-            failed.extend(COUNTRY_CODES[i:])
+            failed.extend(countries[i:])
             break
         except (requests.RequestException, json.JSONDecodeError) as e:
             log.error("Failed to fetch %s: %s", country, e)

@@ -108,7 +108,7 @@ Fill in `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` (free keys at [developer.adzuna.com](
 uv run python ingest.py
 uv run python load.py
 ```
-`ingest.py` writes one JSON file per country to `$JOBS_RAW_DATA_DIR/<date>/`; `load.py` loads any files not yet in `$JOBS_RAW_DB_PATH`. Both are safe to re-run. Edit `COUNTRY_CODES`, `MAX_PAGES` or `SEARCH_PARAMS` in `ingest.py` to change scope, keeping `len(COUNTRY_CODES) * MAX_PAGES` within the API's daily call budget; when adding a country, also add its row to `job_postings/seeds/country_codes.csv`. Run both daily (cron or similar) to build the time series.
+`ingest.py` writes one JSON file per country to `$JOBS_RAW_DATA_DIR/<date>/`; `load.py` loads any files not yet in `$JOBS_RAW_DB_PATH`. Both are safe to re-run; set `COUNTRIES=gb,pl` to pull only a subset (e.g. the countries that failed in a daily run) rather than all of `COUNTRY_CODES`. Edit `COUNTRY_CODES`, `MAX_PAGES` or `SEARCH_PARAMS` in `ingest.py` to change scope, keeping `len(COUNTRY_CODES) * MAX_PAGES` within the API's daily call budget; when adding a country, also add its row to `job_postings/seeds/country_codes.csv`. Run both daily (cron or similar) to build the time series.
 
 **4. Build the warehouse**
 ```

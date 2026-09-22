@@ -9,12 +9,21 @@
 # delay or drop a scheduled run, so check raw_pull_metadata for gaps.
 #
 # Secrets required: ADZUNA_APP_ID, ADZUNA_APP_KEY.
+#
+# If a daily run fails for some countries, re-run it manually with the
+# "countries" input set to just those codes (e.g. "gb,pl"); the successful
+# countries are not pulled twice.
 name: pull_adzuna
 
 on:
   schedule:
     - cron: "17 14 * * *"
   workflow_dispatch:
+    inputs:
+      countries:
+        description: "Comma-separated country codes to pull (blank = all). Use to re-run only the countries that failed."
+        required: false
+        default: ""
 
 # Never let two pulls (e.g. a late scheduled run and a manual one) race on the push.
 concurrency:
@@ -48,6 +57,7 @@ jobs:
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          COUNTRIES: ${{ inputs.countries }}
         run: uv run python ingest.py
 
       # Runs even if one country failed: whatever was fetched is still worth keeping,
