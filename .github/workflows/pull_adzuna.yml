@@ -1,0 +1,89 @@
+# Daily Adzuna pull. GitHub-hosted runners are ephemeral, so the raw JSON is
+# committed back to the repo after each run: data/raw/ is the system of record
+# and both DuckDB files are rebuilt from it on every run (load.py is idempotent
+# and dbt build re-tests the warehouse). The .duckdb files are never committed.
+#
+# Schedule is UTC (Actions cron is always UTC). 14:17 UTC is mid-afternoon in
+# all five markets, so each pull is a consistent business-hours slice of the
+# day; the odd minute avoids the on-the-hour queue delays. Actions can still
+# delay or drop a scheduled run, so check raw_pull_metadata for gaps.
+#
+# Secrets required: ADZUNA_APP_ID, ADZUNA_APP_KEY.
+name: pull_adzuna
+
+on:
+  schedule:
+    - cron: "17 14 * * *"
+  workflow_dispatch:
+
+# Never let two pulls (e.g. a late scheduled run and a manual one) race on the push.
+concurrency:
+  group: pull_adzuna
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  JOBS_RAW_DATA_DIR: ${{ github.workspace }}/data/raw
+  JOBS_RAW_DB_PATH: ${{ github.workspace }}/data/jobs_raw.duckdb
+  JOBS_ANALYTICS_DB_PATH: ${{ github.workspace }}/data/jobs_analytics.duckdb
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --frozen --no-dev
+
+      - name: Ingest
+        id: ingest
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: uv run python ingest.py
+
+      # Runs even if one country failed: whatever was fetched is still worth keeping,
+      # and ingest.py already returned non-zero so the run is marked failed.
+      - name: Commit raw JSON
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw
+          if git diff --cached --quiet; then
+            echo "No new raw files to commit"
+            exit 0
+          fi
+          git commit -m "data: adzuna pull $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
+
+      # Validation only: the DuckDB files are rebuilt from data/raw and discarded.
+      - name: Load raw database
+        if: ${{ !cancelled() }}
+        run: uv run python load.py
+
+      - name: Build and test warehouse
+        if: ${{ !cancelled() }}
+        working-directory: job_postings
+        run: |
+          uv run dbt deps
+          uv run dbt build
+
+      - name: Upload dbt artifacts on failure
+        if: ${{ failure() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: dbt-logs-${{ github.run_id }}
+          path: |
+            job_postings/logs
+            job_postings/target/run_results.json
+          if-no-files-found: ignore
