@@ -59,7 +59,7 @@ One fact, five dimensions, two aggregates, staging → marts. Type casting, null
 - **Key strategy chosen per dimension, not uniformly.** Natural keys where a column is already clean and unique; a hashed surrogate key only where the dimension is genuinely composite (location).
 - **Credentials and paths via environment variables only.** `ADZUNA_APP_ID` / `ADZUNA_APP_KEY`, `JOBS_RAW_DATA_DIR`, `JOBS_RAW_DB_PATH` and `JOBS_ANALYTICS_DB_PATH` are read from the environment; both scripts fail fast with a clear error if one is missing. `profiles.yml` reads the same variables, so ingestion and dbt can never point at different files by accident.
 - **Per-country error isolation, except for rate limits.** One country's API failure (HTTP, network, bad JSON) is logged and the run continues; the process exits non-zero at the end if anything failed. An HTTP 429 aborts the run immediately without retrying, because retries count against the daily cap and every further call would fail too. Calls are spaced `REQUEST_DELAY_SECONDS = 2.5` apart to stay under the per-minute limit, so a full run takes about three minutes.
-- **A missed day is lost.** `max_days_old=1` means a day that isn't pulled can't be recovered later, so the daily job needs to actually run daily (five countries at 14 pages is 70 calls, within the free tier's daily budget); scheduled CI runs (e.g. GitHub Actions cron) can be delayed or skipped, so check `raw_pull_metadata` for gaps.
+- **A missed day is lost.** `max_days_old=1` means a day that isn't pulled can't be recovered later, so the daily job needs to actually run daily (five countries at 14 pages is 70 calls, within the free tier's daily budget). The pull currently runs on GitHub Actions (see Setup, step 5), whose scheduled runs can be delayed or skipped, so check `raw_pull_metadata` for gaps. Because each pull is the most recent 700 postings at fetch time, it is a slice of the day; the schedule is fixed at one UTC time so that slice is comparable across days.
 
 ## Analysis: disclosure over time
 
@@ -108,7 +108,7 @@ Fill in `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` (free keys at [developer.adzuna.com](
 uv run python ingest.py
 uv run python load.py
 ```
-`ingest.py` writes one JSON file per country to `$JOBS_RAW_DATA_DIR/<date>/`; `load.py` loads any files not yet in `$JOBS_RAW_DB_PATH`. Both are safe to re-run; set `COUNTRIES=gb,pl` to pull only a subset (e.g. the countries that failed in a daily run) rather than all of `COUNTRY_CODES`. Edit `COUNTRY_CODES`, `MAX_PAGES` or `SEARCH_PARAMS` in `ingest.py` to change scope, keeping `len(COUNTRY_CODES) * MAX_PAGES` within the API's daily call budget; when adding a country, also add its row to `job_postings/seeds/country_codes.csv`. Run both daily (cron or similar) to build the time series.
+`ingest.py` writes one JSON file per country to `$JOBS_RAW_DATA_DIR/<date>/`; `load.py` loads any files not yet in `$JOBS_RAW_DB_PATH`. Both are safe to re-run; set `COUNTRIES=gb,pl` to pull only a subset (e.g. the countries that failed in a daily run) rather than all of `COUNTRY_CODES`. Edit `COUNTRY_CODES`, `MAX_PAGES` or `SEARCH_PARAMS` in `ingest.py` to change scope, keeping `len(COUNTRY_CODES) * MAX_PAGES` within the API's daily call budget; when adding a country, also add its row to `job_postings/seeds/country_codes.csv`. Run both daily to build the time series; see step 5 for the scheduled run.
 
 **4. Build the warehouse**
 ```
@@ -117,3 +117,9 @@ uv run dbt deps
 uv run dbt build
 ```
 `profiles.yml` writes the warehouse to `{{ env_var('JOBS_ANALYTICS_DB_PATH') }}` and attaches the raw database read-only via `{{ env_var('JOBS_RAW_DB_PATH') }}`. If the seed's columns change, run `uv run dbt seed --full-refresh` first (the default truncate-and-insert can't alter the table).
+
+**5. Scheduled daily pull (GitHub Actions)**
+
+`.github/workflows/pull_adzuna.yml` runs the pull every day at 14:17 UTC (mid-afternoon in all five markets; an off-the-hour minute because Actions queues `:00` schedules) and on manual dispatch. Runners are ephemeral, so the workflow commits the new files under `data/raw/` back to the repository; the raw JSON is the system of record and the two DuckDB files are gitignored and rebuilt from it on every run (`load.py`, then `dbt build`) as a validation step. A `concurrency` group stops a late scheduled run and a manual one from pushing at the same time.
+
+To enable it, add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY` as repository secrets. If a run fails for some countries, the files for the others are still committed and the run is marked failed; re-run it manually with the `countries` input set to just the failed codes (e.g. `gb,pl`), which sets `COUNTRIES` for `ingest.py` so the successful countries aren't pulled twice.
