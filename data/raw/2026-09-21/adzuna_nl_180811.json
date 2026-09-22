@@ -1,0 +1,2968 @@
+{
+  "fetched_at": "2026-09-21T18:08:11.591294+00:00",
+  "country": "nl",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 6284,
+  "mean": 47766.08,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUzMiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.zedZxmpaNM2owpZoduLxtBIjZRsR7PvfSt3fTxC_l1M",
+      "created": "2026-09-21T19:37:02Z",
+      "description": "Bedrijfsoverzicht: Drieënhalf jaar geleden begonnen we met een simpel idee: SaaS- en AI-bedrijven hebben goede salesgesprekken nodig en willen alleen betalen voor resultaat. Dus boeken wij gekwalificeerde meetings, volledig no cure no pay. Werkt het niet, dan verdienen we niets. Dat werkte. We zijn nu met ruim 30 collega's, hebben meer dan 200 klanten bediend in de Benelux en de Nordics, en we werken voor bedrijven die net funding hebben opgehaald en nu keihard moeten groeien. In 2030 willen we…",
+      "id": "5893011532",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Wingm",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 540,
+      "title": "Executive Assistant to the CEO",
+      "latitude": 52.354996,
+      "category": {
+        "label": "Vacatures Ander of Algemeen",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 720,
+      "contract_time": "full_time",
+      "longitude": 4.919448,
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5893011532?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ],
+        "display_name": "Amsterdam, Noord-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ],
+        "display_name": "Amsterdam, Noord-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893008639?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=FF9A8D287A4D9D1D9A89A847F16A67E721286E06",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "REMONDIS Nederland B.V."
+      },
+      "title": "Accountmanager",
+      "latitude": 52.354996,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T19:09:27Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA4NjM5In0.8uE4A_YKcBxaXGeCsx-uYf5D6jWi7KlmASB8CqtaVjY",
+      "id": "5893008639",
+      "description": "De afvalbranche? Vaak onbekend, maar bomvol uitdaging. Ontdek hoe jij hier impact maakt als Accountmanager. Je dag begint met een rit naar een klant in de regio. Een MKB-ondernemer wil weten hoe hij zijn afval slimmer kan scheiden en kosten kan besparen. Jij stapt binnen, luistert en komt met een concreet voorstel dat perfect aansluit bij zijn bedrijf. Een paar uur later zit je bij een grote industriële klant aan tafel. Op dat niveau draait het om impact: grootschalig, duurzaam en altijd afgest…",
+      "longitude": 4.919448,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "longitude": 5.47906,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:09:26Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODYzNiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.G-O4_y08acK0zC7OE1zJTnxA-1H7S_oAzXbfs4KgsnY",
+      "id": "5893008636",
+      "description": "Accountmanager Zoek je een baan in de sales waarin je snel resultaat kunt boeken in een toegankelijke markt, maar ook grotere klanten kunt binnenhalen en relaties op lange termijn opbouwt? Ben jij iemand die energie krijgt van new business, vrijheid in je werk en het ontwikkelen van een eigen regio? REMONDIS is wereldwijd een van de grootste spelers op het gebied van afvalinzameling, recycling en waterbeheer. In Nederland groeien we hard. En dat is niet voor niets: de afvalbranche is volop in o…",
+      "latitude": 52.0825,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Scherpenzeel, Gelderland",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Scherpenzeel"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "REMONDIS Nederland B.V."
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893008636?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F2A181DA74EC13F0D242CD1A8D6F99FF2A868F9B",
+      "title": "Accountmanager"
+    },
+    {
+      "longitude": 4.48103,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODYyOSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.y5i3k3QFdlfK6wmOVgX44TkCutvEYzokMWqxB1g7P28",
+      "created": "2026-09-21T19:09:26Z",
+      "description": "*Voor deze functie hanteren we een startdatum van 27-10-2026, waarbij de startdag op kantoor in Zoetermeer is* Wil jij jouw ervaring in klantcontact inzetten en je verder ontwikkelen tot adviseur in verzekeringen? Of het nu gaat om zorgverzekeringen of schadeverzekeringen voor de auto of woning: in een thuiswerk of hybride functie als Klantenservice Medewerker krijg je bij KCD de kans om je te specialiseren. Wij bieden je een plek waar groei, flexibiliteit en afwisseling centraal staan. De rol …",
+      "id": "5893008629",
+      "latitude": 52.17402,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893008629?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=5A07BCB33B1A51CD59A0F4A0C0EDAECADEC31C05",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Klant Contact Diensten"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Leiden"
+        ],
+        "display_name": "Leiden, Zuid-Holland"
+      },
+      "title": "Klantenservice Medewerker (Volledig thuis of hybride)"
+    },
+    {
+      "title": "Woo-coördinator",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Lisse"
+        ],
+        "display_name": "Lisse, Zuid-Holland"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007528?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=B5F79DBB6B8154A1C23E46BF285AFD848A450E98",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Lisse"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 52.25402,
+      "id": "5893007528",
+      "description": "Wil jij bijdragen aan een transparante overheid en ervoor zorgen dat inwoners toegang hebben tot de juiste informatie?Waarom jouw werk ertoe doetBij HLTsamen draait alles om samenwerken aan een leefbare, duurzame en betrokken regio. In deze functie draag jij daaraan bij door inwoners en organisaties toegang te geven tot overheidsinformatie en door te zorgen voor een zorgvuldige toepassing van de Wet open overheid (Woo). Zo lever je een belangrijke bijdrage aan een transparante en juridisch bewus",
+      "created": "2026-09-21T19:06:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTI4In0.zS8qY9qYaE7QLqIqE6FMiq1y6SKpi9zFKr3QPy9qVZ8",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 4.541926
+    },
+    {
+      "created": "2026-09-21T19:06:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTIzIn0.NwBre5b02zLER6Zk81yqKa26D8X-Lp5GtFIEUC5pwoA",
+      "id": "5893007523",
+      "description": "Altijd al een kijkje achter de schermen willen nemen van een gemeente? Voor onze taakgroep Inkoop, team Juridische Zaken en Inkoop, domein Bedrijfsvoering, zijn we op zoek naar een afstudeerstagiair.Wie zijn wij?Wij zijn een gemeente met het mooiste aantal inwoners dat er bestaat. Groot genoeg om te werken met de uitdagingen en onderwerpen die bij een grote stad horen. Klein genoeg om op individueel niveau echt verschil te maken. Als stagiair lever je een waardevolle bijdrage aan Capelle aan den",
+      "longitude": 4.581571,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Capelle aan den IJssel"
+        ],
+        "display_name": "Capelle aan den IJssel, Zuid-Holland"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007523?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=85BC275DF1C551508FC27005AFE84633A1F659A2",
+      "company": {
+        "display_name": "Gemeente Capelle aan den ijssel",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Afstudeerstage Inkoop",
+      "latitude": 51.934286,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "longitude": 4.521807,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T19:06:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTE1In0.yz1wMIo5ENiDqcF4XMvAoDXfrkg-mVKegT_Bh2V-6H0",
+      "id": "5893007515",
+      "description": "Wil jij bijdragen aan een transparante overheid en ervoor zorgen dat inwoners toegang hebben tot de juiste informatie?Waarom jouw werk ertoe doetBij HLTsamen draait alles om samenwerken aan een leefbare, duurzame en betrokken regio. In deze functie draag jij daaraan bij door inwoners en organisaties toegang te geven tot overheidsinformatie en door te zorgen voor een zorgvuldige toepassing van de Wet open overheid (Woo). Zo lever je een belangrijke bijdrage aan een transparante en juridisch bewus",
+      "latitude": 52.214313,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Teylingen, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Teylingen"
+        ]
+      },
+      "company": {
+        "display_name": "Gemeente Teylingen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007515?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=CD1FF8531900F59C3EEDF256788DF13AB1729C1E",
+      "title": "Woo-coördinator"
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.06747,
+      "title": "Juridisch Specialist Belastingen",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Leidschendam-Voorburg",
+          "Voorburg"
+        ],
+        "display_name": "Voorburg, Leidschendam-Voorburg"
+      },
+      "company": {
+        "display_name": "Gemeente Leidschendam-voorburg",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007517?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=336A20B3295C49226583A19F315B9B20038416AA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 4.35482,
+      "id": "5893007517",
+      "description": "Bij de gemeente Leidschendam-Voorburg werken we dagelijks aan een betrouwbare en transparante uitvoering van belastingen en de Wet WOZ. Ons werk raakt direct aan de dienstverlening voor onze inwoners. Daarom zoeken we een juridisch specialist die meedenkt, adviseert en zorgt dat de uitvoering juridisch stevig in elkaar zit.Werk jij straks hier?Werken voor het Klant Contact Centrum (KCC) is werken voor het gezicht van Leidschendam-Voorburg. Ieder team draagt op haar manier bij aan onze dienstverl",
+      "created": "2026-09-21T19:06:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTE3In0.LbQvMkvw4m7Gh2TxAZEi7ZD-6HY7i0dROrwZ1vhf5Pc"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 51.45101,
+      "title": "Juridisch adviseur VTH (36 uur)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Baarle-Nassau"
+        ],
+        "display_name": "Baarle-Nassau, Noord-Brabant"
+      },
+      "company": {
+        "display_name": "Gemeente Baarle-nassau",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007520?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=6CFAA312BB3BE8A11958AB6D61029EBC3FFC03FF",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 4.92384,
+      "id": "5893007520",
+      "description": "36 uur per week,max. € 5.624(Schaal 10)Wil jij jouw juridische kennis inzetten voor vraagstukken die direct zichtbaar zijn in de leefomgeving van inwoners? Krijg jij energie van het vinden van oplossingen binnen complexe regelgeving en weet jij belangen van inwoners, overheid en andere betrokkenen met elkaar te verbinden?Als juridisch adviseur VTH (Vergunningen, Toezicht & Handhaving) werk je aan dossiers die ertoe doen. Je behandelt handhavingsprocedures, beoordeelt juridische vraagstukken",
+      "created": "2026-09-21T19:06:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTIwIn0.ZaJ0fN4bW65cuSyWKwxFf5A12X1ldRa7sR80UNmR_yk"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTA2In0.ROjWaTweSlFO-GylDptDbs_U4CUIGLf9G-xPVs107Pc",
+      "created": "2026-09-21T19:06:34Z",
+      "description": "Als privacy officer bij de gemeente Amsterdam werk je actief aan een adequate bescherming van de privacy van de Amsterdammer. Je werkt vanuit een team van gedreven privacy professionals die ieder een focus hebben op een aantal directies. Je brengt gevraagd en ongevraagd advies uit binnen de eigen organisatie over privacy aangelegenheden.De functieAmsterdam wil zijn positie als digitale stad verder versterken. Om deze uitdaging succesvol te voltooien bouwen we samen aan een stevig en veilig funda",
+      "id": "5893007506",
+      "longitude": 4.919448,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Gemeente Amsterdam",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007506?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=6420BB2FD1AF1CEE99C2D69D3F13A0E4145312F9",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Amsterdam, Noord-Holland",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ]
+      },
+      "title": "Privacy officer medior",
+      "latitude": 52.354996,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      }
+    },
+    {
+      "latitude": 51.62606,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Loon op Zand"
+        ],
+        "display_name": "Loon op Zand, Noord-Brabant",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Loon op zand"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5893007510?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=EFF3F76113E5903CDAC12D57A1D75E28B87DC6F9",
+      "title": "Concernjurist",
+      "longitude": 5.08535,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:06:34Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA3NTEwIn0.upXc9qbIgXBY2kLUJlTsqhl0lSHqchJe_tEKJuxZtGc",
+      "id": "5893007510",
+      "description": "Nuchterheid en eenvoud aanbrengen in complexe en organisatie brede juridische vraagstukkenWaarom jij graag bij Loon op Zand wilt werkenNatuurlijk kent iedereen de Efteling en het Nationaal Park de Loonse en Drunense Duinen. De paradepaardjes binnen onze gemeente. Maar voor jou als concernjurist hebben wij nog meer te bieden! Als vernieuwende gemeente nemen wij de nodige stappen in de doorontwikkeling van onze organisatie, een ambitie waarvoor juridische control noodzakelijk is.Daarvoor zoeken wi"
+    },
+    {
+      "title": "Medior Lasser/Metaal (BBL niveau 3) — Eindhoven",
+      "salary_min": 27600,
+      "location": {
+        "display_name": "Eindhoven, Noord-Brabant",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Eindhoven"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Iro-Tech Works"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892995997?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Industriële vacatures"
+      },
+      "salary_max": 37200,
+      "latitude": 51.43937,
+      "id": "5892995997",
+      "description": "Over de functie Waar een wil is, is een weg. Wil jij leren lassen en metaalbewerken? Wij openen de deur bij een van onze opdrachtgevers in Eindhoven — geen ervaring nodig; zíj leiden je op tot vakman. Elke week ander werk: lassen (MIG/MAG/TIG), staalconstructies en plaatwerk, snijden, boren en samenstellen. Je wordt gekoppeld aan een ervaren vakman die je meeneemt — je helpt mee, leert werktekeningen lezen en hoort wáárom iets zo moet. Werkplaats en bouwplaats wisselen elkaar af. Daarnaast ga j…",
+      "created": "2026-09-21T18:41:56Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5NTk5NyIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.no0TvH4xVJseayJ9gygIEXnm-aDL4lSRtXM1AtYljZU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 5.40229
+    },
+    {
+      "longitude": 5.40229,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T18:41:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTk1OTk1In0.1O5IGmCabyFVrIteAiL2LNzThVsNZVr8uwW15nprFEA",
+      "id": "5892995995",
+      "description": "Over de functie Waar een wil is, is een weg. Wil jij koelmonteur worden? Wij openen de deur bij een van onze opdrachtgevers in Eindhoven — geen ervaring nodig; zíj leiden je op tot vakman. Elke week een ander project: koel- en klimaatinstallaties, airco's en warmtepompen monteren, aansluiten en onderhouden. Je wordt gekoppeld aan een ervaren monteur — je helpt met materialen, leidingwerk en het inregelen, leert tekeningen lezen en hoort wáárom iets zo moet. Renovatie, nieuwbouw en service bij b…",
+      "latitude": 51.43937,
+      "salary_max": 38400,
+      "category": {
+        "tag": "domestic-help-cleaning-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Thuishulp en schoonmaak vacatures"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Eindhoven, Noord-Brabant",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Eindhoven"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892995995?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Iro-Tech Works",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Aankomend Koeltechniek-monteur — Eindhoven",
+      "salary_min": 27600
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "CGI Netherlands - Welkom bij CGI – Leer ons kennen in 90 seconden By playing this video you consent to Google/YouTube processing your data and using cookies – Learn more . Position Description: Ben jij een Software Engineer die graag werkt aan complexe, missie-kritische systemen? Wil je bijdragen aan oplossingen die er écht toe doen? Dan biedt CGI jou de kans om te werken aan innovatieve IT-oplossingen voor Defensie. Binnen onze Defensie Unit werk je in multidisciplinaire teams aan hoogwaardige…",
+      "id": "5892992645",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkyNjQ1In0.LdHkxGBi-4oPG9HGtVygYmyqlh2JTfUOqZjXYPgixGk",
+      "created": "2026-09-21T18:34:06Z",
+      "category": {
+        "label": "Creatieve Design vacatures",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "creative-design-jobs"
+      },
+      "contract_time": "full_time",
+      "title": "Software Engineer - Defensie",
+      "redirect_url": "https://www.adzuna.nl/details/5892992645?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CGI"
+      },
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.nl/details/5892992606?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PVH"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland"
+      },
+      "title": "Merchandiser",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkyNjA2In0.7Tbz4mPb2u2huG9iGVh5J0Tk_vX74TyB0vSTay-uuA0",
+      "created": "2026-09-21T18:33:57Z",
+      "description": "Be part of an iconic story. TOMMY HILFIGER is one of the world’s most recognized global lifestyle brands, confidently welcoming and inspiring consumers since 1985. Originally established in New York City and infused with the vibrant spirit of Americana, to create the modern uniform of accessible luxury. The TOMMY HILFIGER brands consist of TOMMY HILFIGER and TOMMY JEANS, complemented by a range of licensed product categories that extend the brand lifestyle across generations, geographies, activ…",
+      "id": "5892992606",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MjYwMiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.G-r7taBPJo7y0Plj3ZoHW236TmqRRnqXmzELTnv0xaA",
+      "created": "2026-09-21T18:33:56Z",
+      "description": "WHO WE ARE LOOKING FOR We are looking for motivated students to bring fresh ideas and energy to Nike Inc’s EMEA Headquarters, where they'll have the opportunity to contribute to one of our three iconic brands; Nike, Jordan and Converse. If you are a game changer with a passion for sport, innovation, and making a change in the future of the business, we invite you to apply, regardless of your background. Our ideal candidate will possess great interpersonal skills, show a willingness to learn, an…",
+      "id": "5892992602",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.nl/details/5892992602?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nike"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "title": "Nike Inc Internship Product Design & Creation",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "creative-design-jobs",
+        "label": "Creatieve Design vacatures"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Sales Advisor (24 hours), Tommy Hilfiger/Calvin Klein - De Bijenkorf - Rotterdam",
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892992593?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "PVH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5892992593",
+      "description": "Be part of an iconic story. TOMMY HILFIGER is one of the world’s most recognized global lifestyle brands, confidently welcoming and inspiring consumers since 1985. Originally established in New York City and infused with the vibrant spirit of Americana, to create the modern uniform of accessible luxury. The TOMMY HILFIGER brands consist of TOMMY HILFIGER and TOMMY JEANS, complemented by a range of licensed product categories that extend the brand lifestyle across generations, geographies, activ…",
+      "created": "2026-09-21T18:33:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkyNTkzIn0.d_i3G-tcXMrrbEifA_lZfoFYuQwsFuyfy1wumerg63s"
+    },
+    {
+      "created": "2026-09-21T18:33:49Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkyNTQwIn0.ktVIAn9I5ZJIHaierdgu1fdTtNuvuL1oucMfGmHVu1c",
+      "id": "5892992540",
+      "description": "About the Role This is a foundational first enterprise sales hire at a fintech company building identity and trust infrastructure for businesses globally. You will own the full enterprise sales cycle across Europe, shaping product-market fit while closing complex, high-value deals that directly influence the company's growth trajectory. What You'll Do Own the complete enterprise sales cycle from prospecting through closing and account expansion. Build and manage a robust pipeline of large enter…",
+      "longitude": 4.919448,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ],
+        "display_name": "Amsterdam, Noord-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892992540?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Clera",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Enterprise Account Executive",
+      "latitude": 52.354996,
+      "contract_time": "full_time",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T18:33:48Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkyNTM4In0.TUOgoUdlLPwr8sI5WJM1oBnDHrIDropWKEWdv9PVlCo",
+      "id": "5892992538",
+      "description": "Job Title AI Senior Systems Engineer (AI for RAMS & Systems Engineering) Job Description As an AI Senior Systems Engineer, you will help shape the future of Systems Engineering at Philips by driving the application of Artificial Intelligence within Systems Engineering and Reliability, Availability, Maintainability and Safety Engineering (RAMS) practices. You will identify opportunities where AI can enhance engineering activities, improve engineering productivity, and increase the quality, consi…",
+      "contract_time": "full_time",
+      "salary_max": 155081,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "location": {
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Philips"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892992538?utm_medium=api&utm_source=a6bbb028",
+      "title": "AI Senior Systems Engineer (AI for RAMS & Systems Engineering)",
+      "salary_min": 93049
+    },
+    {
+      "title": "Fashion Advisor",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991998?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Chanel"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "Creatieve Design vacatures",
+        "tag": "creative-design-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892991998",
+      "description": "Service and advice, team spirit and interpersonal skills. Endowed with a great knowledge of the House and driven by a real passion for its products and their story, you take the customers on a unique journey through the universe of CHANEL and create a lasting relationship with them. Always nearby and worldwide, through the many positions offered by the Boutique professions, you are the CHANEL ambassador. FASHION ADVISOR – BOUTIQUE AMSTERDAM Fashion is the brand’s original DNA, each collection e…",
+      "created": "2026-09-21T18:32:59Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkxOTk4In0.8XFhlV5ZrtRNwYlnVeeEzUJ48O8wh59yuZ5mGmi83Hw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "WHO WE ARE LOOKING FOR We are looking for motivated students to bring fresh ideas and energy to Nike Inc.’s EMEA Headquarters, where they'll have the opportunity to contribute to one of our three iconic brands; Nike, Jordan and Converse. If you are a game changer with a passion for sport, innovation, and making a change in the future of the business, we invite you to apply, regardless of your background. Our ideal candidate will possess great interpersonal skills, show a willingness to learn, a…",
+      "id": "5892991890",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkxODkwIn0.CU2sgmsj08kmX1qjUNZV9xua_2QUJx9anztgwLiX_e8",
+      "created": "2026-09-21T18:32:46Z",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "title": "Nike, Inc. Internship Merchandising",
+      "redirect_url": "https://www.adzuna.nl/details/5892991890?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Nike",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland"
+      }
+    },
+    {
+      "id": "5892991884",
+      "description": "Bouw mee aan een slimme, veilige en toekomstgerichte organisatie Wil jij digitale innovatie versnellen op het snijvlak van IT, data, AI en organisatieontwikkeling? Je krijgt de ruimte om ideeën om te zetten in daadkrachtige oplossingen: je helpt collega’s slimmer werken, verkent nieuwe toepassingen en zorgt dat digitale vernieuwing veilig en waardevol wordt ingevoerd. Wat doe je als Coördinator Digitale Innovatie? Als Coördinator Digitale Innovatie geef je richting aan de digitale ontwikkeling …",
+      "created": "2026-09-21T18:32:45Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTg4NCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.GUMJp7RJyz3Y1BI_5zbhv2ePJqRbAa5s3A3BmHoWdf8",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 4.216817,
+      "title": "Coördinator Digitale Innovatie",
+      "location": {
+        "display_name": "Westland, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Westland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991884?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Dabreco"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.007394
+    },
+    {
+      "title": "Lead Consultant, Tax Technology",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Veldhoven"
+        ],
+        "display_name": "Veldhoven, Noord-Brabant",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991814?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "DuCharme McMillen & Associates",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Adviseur en Consultancy vacatures"
+      },
+      "id": "5892991814",
+      "description": "Are you ready to take the next step in your professional career? Join our dynamic team where we're not just offering jobs – we're providing opportunities to grow, innovate, and make a real impact. Position Summary The Lead Consultant, Tax Technology serves as a technical and delivery leader for tax technology implementations, providing end-to-end ownership of complex client engagements. This role is responsible for analyzing client tax environments, designing scalable tax automation solutions, …",
+      "created": "2026-09-21T18:32:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTgxNCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.9yAyWuxDswBT0KON66S02I2gHg3T7v1UysFmONTh-HY",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Bij Monta werken we iedere dag aan het nóg leuker en beter maken van logistiek. Voor onze klanten, consumenten én medewerkers. Met een sterke focus op innovatie, mensgerichtheid en groei zijn we continu in beweging. Voor onze HR-organisatie zoeken we een ervaren interim HR Adviseur/ HR business partner die snel zelfstandig aan de slag kan en energie krijgt van een dynamische, ondernemende omgeving. De opdracht Als Interim HR Adviseur/ HR business partner ben je sparringpartner voor leidinggeven…",
+      "id": "5892991600",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTYwMCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.j2Qm9hzZHhHlO_QhOa08Ya538O1iGTMSXAzfwVqD1ws",
+      "created": "2026-09-21T18:32:24Z",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 720,
+      "contract_time": "full_time",
+      "title": "Interim HR adviseur/ HR business partner",
+      "salary_min": 600,
+      "redirect_url": "https://www.adzuna.nl/details/5892991600?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "HNR",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "pr-advertising-marketing-jobs",
+        "label": "PR Reclame en Marketing vacatures"
+      },
+      "title": "Nike, Inc. Internship Marketing",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland"
+      },
+      "company": {
+        "display_name": "Nike",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991418?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "id": "5892991418",
+      "description": "WHO WE ARE LOOKING FOR We are looking for motivated students to bring fresh ideas and energy to Nike Inc’s EMEA Headquarters, where they'll have the opportunity to contribute to one of our three iconic brands; Nike, Jordan and Converse. If you are a game changer with a passion for sport, innovation, and making a change in the future of the business, we invite you to apply, regardless of your background. Our ideal candidate will possess great interpersonal skills, show a willingness to learn, an…",
+      "created": "2026-09-21T18:32:10Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkxNDE4In0._LlIzq3uXs0if-L2O33uD6WqOAKlV8K-IB5r9DAqGBM"
+    },
+    {
+      "created": "2026-09-21T18:32:02Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTI5MCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.SN8ayWXYQ2l-a_SC4x709pmTmW9WLy3ERnZp6TXqqM0",
+      "id": "5892991290",
+      "description": "Who We Are At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991290?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Kyndryl"
+      },
+      "title": "Senior Contract Manager",
+      "contract_time": "full_time",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892991216",
+      "description": "Job Title Software Engineer – Backend - Azurion Eye Job Description Web Back End Developer Azurion Eye Join Azurion Eye—an integrated, AI‑enabled clinical software platform embedded in the Azurion ecosystem. As Senior Web back‑end developer within the AI Operator domain, you will build REST‑based, microservice‑first backend services and data curation workflows that power our clinical data lake and data movement tooling (viewing, uploading, downloading). You will develop secure, high‑performance…",
+      "created": "2026-09-21T18:31:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkxMjE2In0.Sxiff3cd_fopnbNR6jSLx2FyE9aOl8v8SSwN3LAUVGw",
+      "contract_time": "full_time",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT ICT vacatures"
+      },
+      "title": "Software Engineer – Backend - Azurion Eye",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "company": {
+        "display_name": "Philips",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991216?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892991199",
+      "description": "About the company Turning marketing into a market-domination weapon, we created a new category — the marketplace for future customers. Businesses shop for leads as they shop for products in e-commerce: you see everything about a lead before you buy — full transparency, control, and predictable outcomes. We're the 1 lead marketplace in the USA, and we're accelerating. Role overview We're looking for a Senior AI Product Engineer to build the AI operating layer behind our marketplace. You take a v…",
+      "created": "2026-09-21T18:31:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTE5OSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.NcXJIWk3unLSbR5w_Refq1iItR68b-6Clxtrz1axQNY",
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT ICT vacatures"
+      },
+      "title": "Senior AI Product Engineer",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "company": {
+        "display_name": "iSpeedToLead",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892991199?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 73200,
+      "contract_time": "full_time",
+      "title": "Business Manager International Trade",
+      "salary_min": 51600,
+      "company": {
+        "display_name": "Rotterdam Partners",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892990816?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Vacature: Business Manager International Trade Maritiem & Offshore (36 uur) Rotterdam aantrekkelijk positioneren als stad is wat wij dagelijks doen. Heb jij ook een groot hart voor de stad, wil je bijdragen aan internationale positie van Rotterdam als Maritime Capital of Europe en hou je ervan doelgericht te werken in een dynamische en internationaal opererende organisatie? Laten we dan binnenkort kennismaken! Wat ga jij doen? Als Business Manager International Trade Maritiem & Offshore werk je…",
+      "id": "5892990816",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkwODE2In0.S-3LLu637u4H0Mu_d8utNXWayDn0nawNroEdM--kOHo",
+      "created": "2026-09-21T18:30:45Z"
+    },
+    {
+      "title": "Growth Associate",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ],
+        "display_name": "Amsterdam, Noord-Holland"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892990175?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Clera",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 52.354996,
+      "id": "5892990175",
+      "description": "About the Role This is a high-impact, hands-on position sitting at the heart of the go-to-market engine at a fast-moving fintech startup building trust and identity infrastructure for businesses. You will work directly on customer acquisition and pipeline generation, owning outbound experiments and AI-driven engagement motions from day one. The role matters because your work directly fuels revenue growth at an early and critical stage of the company. What You'll Do Execute outbound experiments …",
+      "created": "2026-09-21T18:30:27Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTkwMTc1In0.Ylm_HNHPhtV-1mHeR-OfdLNeNh82oiUmOElMTX0KN6k",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 4.919448
+    },
+    {
+      "title": "Senior systeembeheerder Linux",
+      "company": {
+        "display_name": "Gemeente Delft",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892988111?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F1FAE7B693662778AE544A42BDF5C6EAB3EC69A5",
+      "location": {
+        "display_name": "Delft, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Delft"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 51.97854,
+      "description": "De gemeente Delft zoekt een ervaren Senior Systeembeheerder Linux die medeverantwoordelijk is voor de continuïteit en doorontwikkeling van onze Linux-infrastructuur. Met ongeveer 150 Linux-servers is stabiliteit, veiligheid en innovatie van groot belang. Ben jij een analytisch sterke en proactieve professional die graag werkt in een omgeving waar automatisering en beveiliging centraal staan? Dan zoeken wij jou!Even voorstellenDelft is de stad van innovatie en vooruitgang. Informatietechnologie s",
+      "id": "5892988111",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4ODExMSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.a2T9FVof-EqjJmBOwqV-QQ7pAXiMr52StwCjvt3jlrc",
+      "created": "2026-09-21T18:29:39Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 4.39722
+    },
+    {
+      "id": "5892988038",
+      "description": "WHO WE ARE LOOKING FOR We are looking for motivated students to bring fresh ideas and energy to Nike, Inc.’s EMEA Headquarters, where they'll have the opportunity to contribute to one of our three iconic brands; Nike, Jordan and Converse. If you are a game changer with a passion for sport, innovation, and making a change in the future of the business, we invite you to apply, regardless of your background. Our ideal candidate will possess great interpersonal skills, show a willingness to learn, …",
+      "created": "2026-09-21T18:29:38Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg4MDM4In0.cBkoa4Tzl4E9J-OzgARwN9q6GnxRUXCM0Yykbv9ynBs",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Nike, Inc. Internship Sales",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "company": {
+        "display_name": "Nike",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892988038?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Werken als Planner | Rotterdam | 32-40 uur | €3.500 tot €5.000 bruto per maand Wil jij een essentiële rol spelen in de dagelijkse waterproductie en het optimaliseren van de planning binnen een toonaangevend waterbedrijf? Heb jij ervaring met het coördineren en plannen van werkzaamheden in een technische omgeving en ben je klaar voor een dynamische uitdaging? Solliciteer dan via VONDERS op deze vacature voor Planner bij een vooraanstaand waterbedrijf in Utrecht. Over de opdrachtgever Onze opdrac…",
+      "id": "5892987916",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzkxNiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.PTFG_z092pCk0pU59nbmOL75nlwfiBubm7aBwOqT6ok",
+      "created": "2026-09-21T18:29:37Z",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "title": "Planner",
+      "redirect_url": "https://www.adzuna.nl/details/5892987916?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Vonders"
+      },
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "latitude": 51.717447,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Rosmalen, 's-Hertogenbosch",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "'s-Hertogenbosch",
+          "Rosmalen"
+        ]
+      },
+      "company": {
+        "display_name": "Vonders",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987946?utm_medium=api&utm_source=a6bbb028",
+      "title": "Kostendeskundige",
+      "longitude": 5.362047,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T18:29:37Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzk0NiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.l2n_n7sjQUWIhVBwyA-xwEQLsoo_wi6MdPrcQXRk4wU",
+      "id": "5892987946",
+      "description": "Werken als Kostendeskundige Energieprojecten | 32-40 uur | €3.800 tot €5.000 bruto per maand Wil jij een belangrijke bijdrage leveren aan energietransitie projecten en zorgen dat onze duurzame systemen niet alleen technisch, maar ook financieel de juiste keuzes maken? Ben jij zorgvuldig, analytisch sterk en heb je kennis van (technische) installaties? Dan is deze vacature als Kosten Engineer bij onze opdrachtgever iets voor jou. Solliciteer via VONDERS en maak het verschil in duurzame energiete…"
+    },
+    {
+      "longitude": 5.03435,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3ODgwIn0.C6BKwZyLCwWpfh3N5Nppg2V4H4gLGH83ey1xcX9dbG8",
+      "created": "2026-09-21T18:29:37Z",
+      "description": "Werken bij Waalwijk – Met elkaar, voor WaalwijkWil jij deel uitmaken van een organisatie waar jouw werk écht impact heeft? Waar lef, eerlijkheid, respect en oog voor elkaar de basis vormen? Sluit je dan aan bij Team Waalwijk: een team waarin we samen werken aan een verbonden, veerkrachtige gemeenschap.Waalwijk is een gemeente met karakter. Van oudsher een plek van doeners, makers en pioniers. In onze drie kernen – Waalwijk, Waspik en Sprang-Capelle – bouwen we elke dag aan brede welvaart: buurte",
+      "id": "5892987880",
+      "latitude": 51.6764,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "company": {
+        "display_name": "Gemeente Waalwijk",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987880?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=25A03EF9FCE36F260A1D088154FA06E5EE2E51A8",
+      "location": {
+        "display_name": "Waalwijk, Noord-Brabant",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Waalwijk"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Chief Information Security Officer (CISO) | 32-36 uur"
+    },
+    {
+      "latitude": 51.69527,
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Horeca en Catering vacatures"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Landerd",
+          "Schaijk"
+        ],
+        "display_name": "Schaijk, Landerd"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987793?utm_medium=api&utm_source=a6bbb028",
+      "title": "Coördinator Horeca Natuurcentrum Nistelrode",
+      "longitude": 5.582151,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc5MyIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.eGBV-U0KZ8a1LF6hIrGNCj98F8IMuXayxssQJxZ4PuE",
+      "id": "5892987793",
+      "description": "Samenvatting Ben jij een ervaren horeca professional met een groen hart? Als Coördinator Horeca Natuurcentrum in Nistelrode krijg je de kans om een uniek horecaconcept te vernieuwen en een klein, hecht team aan te sturen. Kies voor deze rol als je energie krijgt van gastvrijheid, natuur én leiderschap. Goed werk! Over de functie Als Coördinator Horeca Natuurcentrum in Nistelrode ben jij het gezicht van onze horecalocatie te midden van de natuur. Jij zorgt ervoor dat gasten zich welkom voelen en…"
+    },
+    {
+      "title": "Pedagogisch medewerker BSO",
+      "location": {
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Apeldoorn",
+          "Lieren"
+        ],
+        "display_name": "Lieren, Apeldoorn",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987785?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=6D4FC0C776A357002D4605370A3118342764102F",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fris! Kinderopvang"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 52.192168,
+      "id": "5892987785",
+      "description": "Over het werk Als Pedagogisch Professional op onze BSO zorg jij ervoor dat kinderen na een schooldag kunnen ontspannen, spelen en vooral veel plezier maken. Geen middag is hetzelfde! De ene keer ga je lekker naar buiten, de andere keer organiseer je een creatieve activiteit, een spel of iets anders wat aansluit bij de interesses van de kinderen. Met jouw enthousiasme en betrokkenheid zorg je voor een gezellige sfeer waarin ieder kind zich gezien en gehoord voelt. Je krijgt volop ruimte om zelf …",
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3Nzg1In0.Cy_Gnj2JN2Fe3HuNXcOyYc3eHC31oeWRJxm0-4lnYW8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 6.007554
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "company": {
+        "display_name": "Nike",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987823?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "title": "Nike, Inc. Internship Jordan",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3ODIzIn0.Pbq6sVEmcu2raCd1fUFP7AouhaD_j8j-PcwR_K6F3mU",
+      "created": "2026-09-21T18:29:36Z",
+      "description": "WHO WE ARE LOOKING FOR We are looking for motivated students to bring fresh ideas and energy to Nike Inc’s EMEA Headquarters, where they'll have the opportunity to contribute to one of our three iconic brands; Nike, Jordan and Converse. If you are a game changer with a passion for sport, innovation, and making a change in the future of the business, we invite you to apply, regardless of your background. Our ideal candidate will possess great interpersonal skills, show a willingness to learn, an…",
+      "id": "5892987823"
+    },
+    {
+      "id": "5892987837",
+      "description": "Introductie Ben jij een strategische denker met een passie voor informatieveiligheid en beschik je over stevige adviesvaardigheden? Dan zoeken wij jou als onze nieuwe CISO! Bij gemeente Hollands Kroon krijg je als CISO de kans om een belangrijke bijdrage te leveren aan een organisatie die volop in ontwikkeling is. Je bent niet alleen verantwoordelijk voor het adviseren over informatieveiligheid, maar speelt ook een actieve rol in het realiseren van verbeteringen. Wat zijn jouw kroonvoordelen?",
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3ODM3In0.psJkdHQBpF7Ed1bXR6lj-0O5muYMg80Yxth3u1vg7hM",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Chief Information Security Officer (CISO)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Hollands kroon"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987837?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D7BA36330BFDCF02FF8B323C8DF7E6264E91DB84",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      }
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.354996,
+      "title": "Contractmanager risicomanagement ervaring",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Amsterdam"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987771?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=CA96722B0F7AD7BCFFBC6908B8F18C3E9777AAEE",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Amsterdam"
+        ],
+        "display_name": "Amsterdam, Noord-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 4.919448,
+      "description": "Contractmanager met risicomanagement ervaringTijdelijkUren per week: 32 uurPlaatsingdatum: 11-08-2026Vacaturenummer: CA10062138Werk- en denkniveau: HBOSalarisniveau: € 4.520,- tot € 6.422,-Aantal fte: 1Sluitingsdatum: 22-09-2026De functieAls Contractmanager met risicomanagement ervaring binnen de afdeling Inkoop, Contract- en Leveranciersmanagement (ICLM) verbind je de belangen van de organisatie met die van onze partners. Je vervult een centrale 'spin in het web'-rol waarin je klantverwachtinge",
+      "id": "5892987771",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc3MSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.LysDN-sZuVTZju8pOshW1L7DA5s7H6BgiUu1EVkmhS8",
+      "created": "2026-09-21T18:29:36Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.nl/details/5892987848?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Carrière",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Overijssel",
+          "Almelo",
+          "Aadorp"
+        ],
+        "display_name": "Aadorp, Almelo"
+      },
+      "title": "Assistent Bouwplaats Medewerker",
+      "latitude": 52.36669,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzg0OCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.CSMhX4y65nc_vdvDnWSbUXbP6GQkLgSd5zNv1D8IXa0",
+      "created": "2026-09-21T18:29:36Z",
+      "description": "Samenvatting Werk jij graag met je handen in de buitenlucht? Reageer dan vandaag nog op de functie van Assistent Bouwplaats Medewerker in Almelo en kom snel in aanmerking voor een vast contract. Goed werk! Over de functie Als Assistent Bouwplaats Medewerker ga je er samen met je collega's voor zorgen dat verschillende bouwplaatsen worden opgeruimd en netjes worden opgeleverd. Je hebt veel afwisseling in je werk omdat je iedere dag opnieuw op nieuwe bouwplaatsen komt in verschillende steden in d…",
+      "id": "5892987848",
+      "longitude": 6.634484,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzg0NSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.wvqRUzDtUWtasFKgaFp3AWVVny9Kx4JU_ypGswo6OFI",
+      "id": "5892987845",
+      "description": "Ben jij een bevlogen leider die inspireert en anderen meeneemt in werken vanuit de bedoeling en in de veranderingen die op ons afkomen? Wil jij bijdragen aan de beste passende zorg voor onze cliënten? Wat ga je doen? Als manager landelijke teams binnen het primair proces (PP) sta jij aan het roer van landelijke teams en krijg jij de kans om jouw afdelingen en onze dienstverlening verder te ontwikkelen. Met jouw strategisch inzicht en verbindend leiderschap zorg je ervoor dat onze dienstverlenin…",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "location": {
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987845?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=2A5BE300095E29C3B5C9A4637269CF6A7229E37D",
+      "company": {
+        "display_name": "CIZ Centrum Indicatiestelling zorg",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Manager Landelijke Teams - Hybride"
+    },
+    {
+      "location": {
+        "display_name": "Hillegom, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Hillegom"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987800?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=8465A3CFFD832AE58DD7BB7CD51962A76D7C2B48",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Hillegom"
+      },
+      "title": "Projectleider I&A",
+      "latitude": 52.28124,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzgwMCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.jVgGBWMhCVlSi-6CVpKwyUAX0iWJE8-Ufyk5OlRgZSk",
+      "id": "5892987800",
+      "description": "Wil jij bouwen aan een toekomstbestendige digitale overheid en krijg je energie van het realiseren van complexe ICT- en informatievoorzieningsprojecten? Ben jij iemand die overzicht houdt, mensen verbindt en vernieuwing daadwerkelijk weet te laten landen? Dan is dit jouw kans om impact te maken bij HLTsamen.Dit ga je doenJe komt te werken binnen het I&A-domein van HLTsamen, waarin het Team ICT en Functioneel Beheer en het Team Bedrijfsinformatie & Compliance nauw samenwerken. Samen zorge",
+      "longitude": 4.58692,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 5.064803,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3Nzc3In0.Y-GHX1PjkGCv1bImy5zU7focwrreyoOBunMLnjFU6bU",
+      "created": "2026-09-21T18:29:36Z",
+      "description": "Samenvatting Als assistent manager tankstation in Nieuwegein ben je verantwoordelijk voor de dagelijkse gang van zaken op het servicestation. Als Assistent manager Tankstation zorgt jij ervoor dat de veiligheid en plezierbeleving van de klanten gegarandeerd wordt. In deze functie heb je een leidinggevende rol over een team van gemotiveerde medewerkers en assisteer je de manager. Je herkent hun kwaliteiten en garandeert dat de gezamenlijke doelen behaald worden. Goed werk! Over de functie In dez…",
+      "id": "5892987777",
+      "latitude": 52.024554,
+      "category": {
+        "tag": "retail-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Detailhandel vacatures"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987777?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Ijsselstein"
+        ],
+        "display_name": "Ijsselstein, Provincie Utrecht"
+      },
+      "title": "Assistent manager tankstation Nieuwegein"
+    },
+    {
+      "latitude": 52.007394,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "company": {
+        "display_name": "Gemeente Westland",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987864?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=8CA7E020BB88D9BDBDB72E836BFDFE0352F0F024",
+      "location": {
+        "display_name": "Westland, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Westland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Projectleider Informatievoorziening",
+      "longitude": 4.216817,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3ODY0In0.jC8OhQWze6Yo-popgObxyI89orjs1pUpgiM-5KhJANc",
+      "created": "2026-09-21T18:29:36Z",
+      "description": "Sluitingsdatum: Woensdag 30 september 2026 Maak het verschil Als Projectleider IV ben je de verbindende schakel tussen de business, het i-domein, leveranciers en andere stakeholders. Je leidt projecten van een heldere opdracht tot een goed afgerond resultaat. vertaalt organisatiedoelen en behoeften naar concrete projectdoelen; maakt een realistische planning en zorgt dat mensen, middelen en expertise op tijd beschikbaar zijn; stuurt op kwaliteit, tijd, budget en resultaat; houdt opdrachtgevers",
+      "id": "5892987864"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 6.860471,
+      "description": "Samenvatting Help jij jouw klanten graag en wil je ze bedienen met de allerlekkerste verse producten? Ga dan fulltime of parttime aan de slag als winkelmedewerker in Haaksbergen. Goed werk! Over de functie Als winkelmedewerker in Haaksbergen zorg jij ervoor dat de klanten goed worden geholpen aan de allerlekkerste verse producten. Dit doe je door: De klanten te helpen met alle vragen over de producten De klanten te adviseren De winkel netjes te houden zodat er prettig gewinkeld kan worden Over …",
+      "id": "5892987830",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzgzMCIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.HwP_zZiOkLb3PH97JWGEOpPz-LScVzFSU28isDJZ6BI",
+      "created": "2026-09-21T18:29:36Z",
+      "category": {
+        "label": "Detailhandel vacatures",
+        "tag": "retail-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.130825,
+      "title": "Winkelmedewerker",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987830?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Nederland",
+          "Overijssel",
+          "Enschede",
+          "Boekelo"
+        ],
+        "display_name": "Boekelo, Enschede",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 51.470102,
+      "title": "Stoffeerder (vloerenlegger) regio Helmond",
+      "redirect_url": "https://www.adzuna.nl/details/5892987791?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Asten",
+          "Ommel"
+        ],
+        "display_name": "Ommel, Asten",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 5.712342,
+      "description": "Samenvatting Werk je graag met je handen en wil je een vak leren? Volg een betaalde opleiding tot stoffeerder bij een wereldspeler in tapijt en PVC! Over de functie Je gaat aan de slag als ervaren of leerling vloerenlegger (stoffeerder). Tijdens je werk word je begeleid door een ervaren leermeester die zijn vakkennis stap voor stap met je deelt. Wanneer de eerste periode goed verloopt, krijg je de mogelijkheid om een professionele opleiding in Frankrijk te volgen, samen met een groep collega’s.…",
+      "id": "5892987791",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc5MSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.wyYz1TM0dj82RTa0ep8RuFgtgOX0Kgq7ymNRdV2wRyQ",
+      "created": "2026-09-21T18:29:36Z"
+    },
+    {
+      "created": "2026-09-21T18:29:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOExPS2FPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTg3NzcyIn0.sKc-VXyiUwEP5vJeNc-WTi2IP6lYF9Z0g3rEeFV2GDQ",
+      "id": "5892987772",
+      "description": "Samenvatting Als verkoopmedewerker ben je hét gezicht van onze bakkerij. Jouw gastvrijheid is bij ons onmisbaar. Je bent pas tevreden wanneer de klanten met een glimlach onze winkel verlaten. Goed werk! Over de functie In de functie verkoopmedewerker bakkerij heb je te maken met diverse verantwoordelijkheden. Zo help je klanten bij de kassa, adviseer je over brood, gebak en andere lekkernijen, en zorg je dat de winkel er altijd netjes uitziet. Daarnaast ondersteun je in de bakkerij door product…",
+      "longitude": 5.515121,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Maasdonk",
+          "Geffen"
+        ],
+        "display_name": "Geffen, Maasdonk",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Carrière",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.nl/details/5892987772?utm_medium=api&utm_source=a6bbb028",
+      "title": "Verkoopmedewerker Bakkerij – Maarheeze",
+      "latitude": 51.758379,
+      "category": {
+        "tag": "retail-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Detailhandel vacatures"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 5.688436,
+      "description": "Samenvatting Ervaring is geen must; wij leren je het vak. Als jij zin hebt om te werken in de buitenlucht, fysiek werk niet schuwt en betrouwbaar bent, dan ben jij degene die we zoeken! Goed werk! Over de functie Wij zijn op zoek naar een gemotiveerde bouwhulp die graag de handen uit de mouwen steekt en ons team van ervaren dakdekkers ondersteunt. Je helpt bij diverse werkzaamheden op het dak en op de bouwplaats. Van het aanreiken van materialen tot het opruimen en voorbereiden van werkzaamhede…",
+      "id": "5892987792",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc5MiIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.x7e4pq4RfxVDvosOWyjFbF7TciQ1T01tvFJ_jXqDAMw",
+      "created": "2026-09-21T18:29:36Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.600006,
+      "title": "Bouwhulp / Assistent Dakdekker",
+      "redirect_url": "https://www.adzuna.nl/details/5892987792?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Boekel",
+          "Venhorst"
+        ],
+        "display_name": "Venhorst, Boekel",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "description": "Wil jij maatschappelijke impact maken met data en informatie? In deze functie zorg jij ervoor dat informatievoorziening betrouwbaar, bruikbaar en toekomstbestendig is, zodat inwoners sneller en beter ondersteund worden. Als informatieadviseur ondersteun je samen met 3 andere informatieadviseurs de 4 domeinen binnen de gemeente: Bedrijfsvoering, Dienstverlening, Leefomgeving en het Sociaal Domein. Jij richt je in eerste instantie vooral op het Sociaal Domein.Midden-Groningen is een gemeente met 6",
+      "id": "5892987761",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc2MSIsInMiOiI4TE9LYU9lMThSR2xjTUFGOS1XU013In0.OasEFAQ_V1zYTB2S92vNhjiFIsgq4GdAC7kwNQU83go",
+      "created": "2026-09-21T18:29:35Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Informatieadviseur Sociaal Domein",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987761?se=8LOKaOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D03337BD040AE78D9152F64D550F2F82A0DFF94D",
+      "company": {
+        "display_name": "Gemeente Midden-groningen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Nederland"
+        ],
+        "display_name": "Nederland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Als functioneel beheerder van AFAS ben jij de schakel die ervoor zorgt dat meer dan 2.500 collega’s efficiënt en betrouwbaar kunnen werken met onze financiële processen. Jij regisseert en bewaakt processen rondom incidenten, verzoeken, changes en releases, werkt nauw samen met interne ICTAR-teams en externe leveranciers, en vertaalt nieuwe wet- en regelgeving en gebruikersbehoeften naar een optimaal ingerichte AFAS-omgeving. Met oog voor datakwaliteit, compliance (AVG) en een soepele gebruikerse",
+      "latitude": 52.40727,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Flevoland",
+          "Almere"
+        ],
+        "display_name": "Almere, Flevoland"
+      },
+      "longitude": 5.2442,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc0NiIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.lK2uPVslYB9HlSiEv4XQO3xOPaVnLdQ6KeodN6tlMHA",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5892987746",
+      "created": "2026-09-21T18:29:35Z",
+      "company": {
+        "display_name": "Gemeente Almere",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Functioneel beheerder AFAS - Profit (ICTAR)",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987746?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=42C1A2462F5388996C450091BEE7D2AE2D0BD74A",
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Wil jij bouwen aan een toekomstbestendige digitale overheid en krijg je energie van het realiseren van complexe ICT- en informatievoorzieningsprojecten? Ben jij iemand die overzicht houdt, mensen verbindt en vernieuwing daadwerkelijk weet te laten landen? Dan is dit jouw kans om impact te maken bij HLTsamen.Dit ga je doenJe komt te werken binnen het I&A-domein van HLTsamen, waarin het Team ICT en Functioneel Beheer en het Team Bedrijfsinformatie & Compliance nauw samenwerken. Samen zorge",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.214313,
+      "location": {
+        "display_name": "Teylingen, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Teylingen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 4.521807,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzczNSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.YWw5V4K8iopPNg4bh5pWgd6t72knHCTRU7cgRwpwuyc",
+      "id": "5892987735",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:35Z",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987735?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=477323A1826ED0782B454324FCFC2072875153D8",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Gemeente Teylingen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Projectleider I&A"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.12147,
+      "description": "Utrecht heeft jou nodig! Jij zorgt ervoor dat informatiebeveiliging, gegevensbeheer en privacy goed zijn georganiseerd in een stad die snel groeit en voortdurend verandert. In deze rol combineer je strategisch leiderschap met invloed op bestuurlijk niveau. Je draagt bij aan betrouwbare dienstverlening voor inwoners, collega's en partners. Daarbij werk je aan maatschappelijke vraagstukken die zichtbaar impact hebben op de stad van vandaag en morgen.Dit is je werkAls senior teamleider Gegevensbesc",
+      "location": {
+        "display_name": "Utrecht, Provincie Utrecht",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Utrecht"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NzQ0In0.eVbad6NpzsbAO_XoCB86nNOrF2pJzpzREJVHHxLG1JY",
+      "longitude": 5.08298,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5892987744",
+      "created": "2026-09-21T18:29:35Z",
+      "title": "Senior Teamleider & Businesspartner Gegevensbescherming en Informatiebeheer",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Utrecht"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987744?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=4BBCC0CE1E6FB4E259779E4F4C5487F98411C968"
+    },
+    {
+      "company": {
+        "display_name": "Gemeente Dordrecht",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Ervaren Functioneel Beheerder Microsoft Purview",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987759?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=BF9F502A5E5DE8A4FCDBC9886EF40C5D85465FDB",
+      "salary_is_predicted": "0",
+      "id": "5892987759",
+      "created": "2026-09-21T18:29:35Z",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 4.67127,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NzU5In0.Lb094ArkUX-3mbfebLgBAn3VJJCDa3hiRJLImaIAoC4",
+      "description": "Ben jij een ervaren Functioneel Beheerder Microsoft Purview en krijg je energie van het verbeteren van informatiebeheer, informatiebeveiliging en compliance? Dan zoeken wij jou!Waar kom je te werken?Aan de slag bij de gemeente Dordrecht. Niet zomaar een stad. Een eiland. Een stad met verborgen kwaliteiten. Een stad waar bijzondere dingen gebeuren. Maar waarover Dordtenaren niet opscheppen. Een stad waar jij door jouw bijdrage een grote invloed hebt op het woonplezier van onze inwoners. Werken vo",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.76023,
+      "location": {
+        "display_name": "Dordrecht, Zuid-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Dordrecht"
+        ]
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.08501,
+      "description": "Wil jij ervoor zorgen dat onze IT-leveranciers optimaal presteren en bijdragen aan een veilige, betrouwbare en toekomstbestendige digitale organisatie? Kom dan werken bij ons! Functie Werk waar je trots op kunt zijn Als leveranciersmanager ben jij het aanspreekpunt voor onze IT-leveranciers en dat is in het huidige digitale landschap een spilfunctie. Je bouwt aan stevige, professionele samenwerkingsrelaties waarbij betrouwbaarheid en continuïteit centraal staan. NIS2 is voor jou geen complia",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Woerden"
+        ],
+        "display_name": "Woerden, Provincie Utrecht"
+      },
+      "longitude": 4.87093,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc0OSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.Xd8qKm6So8V71hqnoP5C5DWAI_Za5Mi2DUwSI0ksrog",
+      "created": "2026-09-21T18:29:35Z",
+      "id": "5892987749",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Contract- en leveranciersmanager",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Woerden"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987749?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=C7B12736DE2E955111C5182660CC8F69EE4DE8C3",
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "display_name": "Gemeente Nijmegen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Informatiemakelaar",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987743?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=32A13A046F35AC3B566CD656A5BD7E85898A1349",
+      "id": "5892987743",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc0MyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.bYi9TQoLfzeCz9h6DdJICy27sV9CsW3julwfZXhDRYs",
+      "longitude": 5.78438,
+      "latitude": 51.83251,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Nijmegen, Gelderland",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Nijmegen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "In het kortOrganisatie: Gemeente NijmegenUren per week: 32 - 36Maandsalaris: €3.824 - €5.624 bruto per maand bij een volledige werkweek van 36 uurSalarisniveau: Schaal 10Reageren t/m: 11 oktober 2026Opleidingsniveau: HboPlaatsingsdatum: 10 september 2026Dienstverband: Tijdelijk met uitzicht op vastBen jij degene die we zoeken?Als informatiemakelaar heb jij hart voor een stad in ontwikkeling en zorg jij dat de juiste informatie op het juiste moment samenkomt, zodat plannen vooruitgaan en we samen"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Werk mee aan een slimmere organisatie als Senior Business Analist.Je krijgt van onsSalaris in schaal 11 van de cao Gemeenten. Dat is een salaris tussen de € 4.520,00 en € 6.422,00 op basis van een 36-urige werkweek. Dit is een voorlopige inschaling, het gaat om een nieuwe functie die nog definitief gewaardeerd moet worden.Bovenop je salaris krijg je een individueel keuzebudget van 17,05%.144 uur wettelijk  57,6 uur bovenwettelijk verlof per jaar (bij een 36-urige werkweek).Een uitstekende pensi",
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4Nzc0MSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.qwxlmXJ0Z3pZMmRvxTPOeN-hmGQ7xVU35kRKkrt0hcI",
+      "id": "5892987741",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "created": "2026-09-21T18:29:35Z",
+      "title": "Senior Business Analist",
+      "company": {
+        "display_name": "Gemeente Vijfheerenlanden",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987741?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=58904FA9DEA680DD146A861EED18E6AC0819DC0B"
+    },
+    {
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987733?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D4C13913FC6700B9ECDDC6A08787184030ED4285",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Oosterhout"
+      },
+      "title": "Informatiearchitect, 36 uur per week",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "created": "2026-09-21T18:29:35Z",
+      "id": "5892987733",
+      "longitude": 4.8709,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NzMzIn0.v8_dL0hgnCnSUA07RjFhIbjY4nVC828z8x8usK0oCeI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Adviseur IIWil jij bouwen aan een toekomstbestendige informatievoorziening die direct bijdraagt aan de dienstverlening aan inwoners, ondernemers en maatschappelijke partners? Als informatiearchitect speel je een sleutelrol in de digitale ontwikkeling van onze gemeente. Je verbindt strategie, processen, data en technologie en zorgt ervoor dat veranderingen binnen de organisatie bijdragen aan onze maatschappelijke opgaven. Je werkt hierbij samen met collega's binnen de gemeente en partners binnen",
+      "latitude": 51.6629,
+      "location": {
+        "display_name": "Oosterhout, Noord-Brabant",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Oosterhout"
+        ]
+      }
+    },
+    {
+      "created": "2026-09-21T18:29:33Z",
+      "id": "5892987659",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "People with Skills",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Constructiebankwerker",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987659?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=DFCF8FDA2B9C1D22613E06E0D0634530DCA9A410",
+      "salary_is_predicted": "0",
+      "latitude": 51.919546,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Werk jij graag met metaal en vind je het mooi om vanaf een technische tekening een complete constructie op te bouwen? Als Constructiebankwerker werk je aan verschillende metalen constructies binnen een technische productieomgeving. Je krijgt je eigen werkorders en zorgt ervoor dat het werk nauwkeurig en volgens planning wordt uitgevoerd.Afhankelijk van je ervaring kun je zelfstandig aan de slag of krijg je begeleiding om jezelf verder te ontwikkelen binnen het vak. Organisatie Onze opdrachtgeve…",
+      "location": {
+        "display_name": "Vlaardingen, Zuid-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Vlaardingen"
+        ]
+      },
+      "longitude": 4.331723,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzY1OSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.g1kJ1Y6_PQZSJK1RBxKr0mwC0T1DDZUc2uS3zbPd2qw"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Enschede"
+      },
+      "title": "DevOps engineer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987633?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D4514AA2D9F4BD0BB66A54A4E9B6FFA12A6B160D",
+      "created": "2026-09-21T18:29:33Z",
+      "id": "5892987633",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzYzMyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.Ve2GvLjUpjtaWfqXzmkNHRpQIPLyeARwC_jrPKEHvQo",
+      "longitude": 6.82049,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.21188,
+      "description": "Deze DevOps-rol is allesbehalve standaard. Je werkt op het snijvlak van cloud, dienstverlening en klantdynamiek voor Enschede en Dimpact. Een functie voor iemand die energie krijgt van beweging, techniek en verantwoordelijkheid.De top 3 van deze baanUitdagend: bij gemeente Enschede bouw je aan een moderne cloud-infrastructuur en zorg je zo voor betrouwbare, toekomstbestendige digitale diensten voor de stad.Je werkt in een omgeving waar flexibele werktijden en de optie om, in overleg, deels thuis",
+      "location": {
+        "display_name": "Enschede, Overijssel",
+        "area": [
+          "Nederland",
+          "Overijssel",
+          "Enschede"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987548?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=639CA28D19329329A6E83A8DA0608521FCE7EE74",
+      "salary_is_predicted": "0",
+      "title": "Applicatiebeheerder Financiën",
+      "company": {
+        "display_name": "Gemeente Helmond",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892987548",
+      "created": "2026-09-21T18:29:32Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 5.667109,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NTQ4In0.A-XchCprSKmYmV598Bkz8m6DsdzogaNhpceyOOiyrso",
+      "latitude": 51.473568,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Solliciteer vóór06 oktober 2026Uren per week36 - 36 uurMaandsalaris€ 3568 - € 5096Zo maak jij het meeAls applicatiebeheerder Financiën werk je in het team Applicatiediensten binnen de afdeling Informatievoorziening & Automatisering (IVA). Samen met je collega-beheerders zorg je ervoor dat onze systemen optimaal draaien.De functioneel beheerder haalt wensen op bij gebruikers. Jij vertaalt deze wensen naar impactanalyses en technische ontwerpen. Ook zorg je ervoor dat wijzigingen goed worden i",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Helmond"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Helmond, Noord-Brabant"
+      }
+    },
+    {
+      "created": "2026-09-21T18:29:32Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892987546",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987546?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=EE0BB286BAE60B6D65DBF9F1B5DDF0AD01C7ECEC",
+      "salary_is_predicted": "0",
+      "title": "Pedagogisch Professional Baloe KDV Flex",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Kinderopvang Baloe"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.4928,
+      "description": "Over het werk Kinderopvang Baloe is een dynamische organisatie met de ambitie om de beste kinderopvang te bieden aan kinderen van 0 tot en met 12 jaar. Al jarenlang onderscheiden we ons met ons eigen, specifieke pedagogische beleid. Persoonlijke aandacht en plezier staan bij ons centraal. Zo zorgen we ervoor dat iedere dag bijzonder is! Voor deze functie zoeken we iemand met een grote passie voor het werken met jonge kinderen. Ons pedagogisch beleid spreekt jou aan en je vindt het leuk om activ…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Wormerland",
+          "Wormer"
+        ],
+        "display_name": "Wormer, Wormerland"
+      },
+      "longitude": 4.80801,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzU0NiIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.XhS4bzOM-F0dgkIqr1OsYHzqsmIOTbCA8vUoQyIvV9w"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzU4OCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.o4BiBQaSfQzsEaTh6Al1Sl64wKGQbmnsyCH7fq1G69s",
+      "longitude": 5.651983,
+      "description": "Samenvatting Werk jij graag aan unieke projecten, steek je graag de handen uit de mouwen en ben je trots op het werk dat je maakt? Dan zijn wij op zoek naar jou. Goed werk! Over de functie Als timmerman of timmervrouw buitendienst werk je aan uiteenlopende bouw- en montageprojecten op verschillende locaties. Geen dag is hetzelfde: de ene keer ben je bezig met een grootschalig project, terwijl je de andere keer werkt aan een exclusieve buitenruimte bij een particuliere opdrachtgever. Je levert k…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.654465,
+      "location": {
+        "display_name": "Volkel, Uden",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Uden",
+          "Volkel"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Timmerman / Timmervrouw buitendienst",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5892987588?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:29:32Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892987588"
+    },
+    {
+      "company": {
+        "display_name": "People with Skills",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Construction Fitter",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987551?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=5944AE6F6D17610E9865159931A10A3A2DBFD8B2",
+      "id": "5892987551",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:32Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NTUxIn0.VlzCJXfUAPJy49S4wUagVggBc4n0T9byFXbLcdjrBb4",
+      "longitude": 4.331723,
+      "location": {
+        "display_name": "Vlaardingen, Zuid-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Vlaardingen"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.919546,
+      "description": "Do you enjoy working with metal and turning technical drawings into complete constructions? As a Construction Fitter, you will work on a variety of metal structures within a technical production environment. You will receive your own work orders and make sure each job is completed accurately and according to schedule. Depending on your experience, you can work independently or receive guidance to further develop your skills. Organisatie Our client is a technical manufacturing company located in…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.007394,
+      "description": "Sluitingsdatum: woensdag 30 september 2026Jouw rolBij gemeente Westland beheer en verbeter je de applicaties binnen het Sociaal Domein. Je werkt onder andere met Suite4SociaalDomein, Stratech en Vroegsignaleren. Je bent de verbindende schakel tussen gebruikers, processen, IT en leveranciers. Je ziet wat er beter kan, neemt initiatief en zorgt dat veranderingen goed worden uitgevoerd.De komende periode staat er veel te gebeuren. Zo werken we aan de implementatie van Stratech in de Cloud en bereid",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Westland"
+        ],
+        "display_name": "Westland, Zuid-Holland"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQ2MyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.YDG7TPs8vX16eoITr421By02sG-3MzDjr4rplm9Ir8o",
+      "longitude": 4.216817,
+      "id": "5892987463",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:31Z",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987463?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=407DBD4A6A52005FEFAFEA8FAA21BAF3A2C2573C",
+      "company": {
+        "display_name": "Gemeente Westland",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Senior Functioneel Beheerder Sociaal Domein - 32-36 uur"
+    },
+    {
+      "id": "5892987478",
+      "created": "2026-09-21T18:29:31Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987478?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=7BC6A7AF4ACF10CCD663E4A9103DBFAA2C3440CF",
+      "title": "Pedagogisch medewerker",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fris! Kinderopvang"
+      },
+      "location": {
+        "display_name": "Beemte-Broekland, Apeldoorn",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Apeldoorn",
+          "Beemte-Broekland"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.21614,
+      "description": "Over het werk Voor onze gezellige locatie de Bloemenweide zijn wij op zoek naar een vaste Pedagogisch Professional voor 27 uur per week. Vanwege de opening van een nieuwe groep komt er een mooie plek vrij binnen ons team. Je werkt op dinsdag, woensdag en donderdag en kunt starten vanaf 1 november 2026. De Bloemenweide bestaat uit twee babygroepen en zes verticale groepen. De locatie heeft een prachtige, groene tuin waar kinderen volop kunnen ontdekken, spelen en groeien. Als Pedagogisch Profess…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDc4In0.2hZJgyTAUl5krSmFv6sQuu2W4nQdSJj85Lu4jnulk24",
+      "longitude": 6.00424
+    },
+    {
+      "id": "5892987497",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:31Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Horst aan de maas"
+      },
+      "title": "Functioneel Beheerder Informatievoorziening",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987497?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=AAD70EE03EC68AF6DA76BE8B673AD740BB9816AF",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.4589,
+      "description": "Weet jij raad met digitale systemen? Help jij je collega’s graag een stap verder? En neem jij graag een verbindende en sturende rol in? Dan komen we graag met je in contact. Wegens vertrek van onze collega zijn we op zoek naar een Functioneel Beheerder Informatievoorziening. Je bent voor zowel de gemeente Venray als Horst aan de Maas de Functioneel Beheerder.Op dit moment zijn we volop bezig met het project Zaakgericht Werken, waarbij we het Djuma Zaaksysteem voor zowel Horst als Venray implemen",
+      "location": {
+        "display_name": "Horst, Horst aan de Maas",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Limburg",
+          "Horst aan de Maas",
+          "Horst"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQ5NyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.2bZ9rz74eyfHwZBj4-tmRYK-fJk2yhi73cDbXFu3TWo",
+      "longitude": 6.04788
+    },
+    {
+      "created": "2026-09-21T18:29:31Z",
+      "id": "5892987485",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987485?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=C5BDB094CFFD1E8FB007DA2D60A76E0365BC783B",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Rotterdam"
+      },
+      "title": "Functioneel Beheerder Klantgeleiding",
+      "latitude": 51.918609,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Rotterdam"
+        ],
+        "display_name": "Rotterdam, Zuid-Holland"
+      },
+      "description": "Geen wachtrijen, geen verwarring; jij bent de regisseur achter de systemen die elk bezoek aan de gemeente soepel laat verlopen. Salaris: € 3.824 - € 5.624 bruto per maand Uren: 36 uur per week Dienstverband: Contract voor de duur van één jaar, met uitzicht op een vaste aanstelling Opleidingsniveau: HBO Vacaturenummer: OPE-145369 Solliciteer vóór: 30 september 2026 Jouw rol Wat gebeurt er als honderden Rotterdammers op een dag een stadswinkel binnenlopen? Een afspraak maken, zich aanmelden, een",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDg1In0.qh8gcVj5LJBOssfHLuUzczBHbRpCga8ld_gScbRA4YE",
+      "longitude": 4.446535
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "created": "2026-09-21T18:29:31Z",
+      "id": "5892987520",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987520?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=6E25FAE82D225F00A9753E5852CFDD25D83123DF",
+      "salary_is_predicted": "0",
+      "title": "Senior informatieadviseur",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Amersfoort"
+      },
+      "description": "Gemeente Amersfoort staat voor grote maatschappelijke en digitale opgaven. Een betrouwbare en toekomstbestendige informatievoorziening is daarbij onmisbaar.Als senior informatieadviseur geef jij richting aan complexe informatievraagstukken binnen één van onze drie domeinen: fysiek, dienstverlening of bedrijfsvoering. Je verbindt strategie, organisatie en technologie, brengt partijen samen en zorgt dat ontwikkelingen niet alleen worden bedacht, maar ook daadwerkelijk worden gerealiseerd.Jouw rolA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.16089,
+      "location": {
+        "display_name": "Amersfoort, Provincie Utrecht",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Amersfoort"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 5.344,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NTIwIn0.5uKzTVh3ztlMj8rznpGHSvUMhcrtos2Og8t_Mct81OI"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDc5In0.wsZ-p3W1Ri57c04JPWRAfwrCW1W_3ko7CvzWs08-6ow",
+      "longitude": 5.56198,
+      "latitude": 51.76471,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Ben jij een ervaren IT-professional die techniek weet te combineren met uitstekende dienstverlening? Zet jij jouw kennis graag in om gebruikers te ondersteunen, technologie te beheren en actief mee te denken over verbeteringen? Dan zijn wij op zoek naar jou!Met een groeiend aantal inwoners maken we ons klaar voor de toekomst. Daarom zijn we op zoek naar een Werkplekbeheerder die graag collega's ondersteunt bij hun digitale werkplek én bijdraagt aan verbeteringen van de digitale werkomgeving.Dit",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Oss"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Oss, Noord-Brabant"
+      },
+      "title": "Werkplekbeheerder (36 uur)",
+      "company": {
+        "display_name": "Gemeente Oss",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987479?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=97C91F5D558D43B512DD735CF71508ED56EDAE04",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5892987479",
+      "created": "2026-09-21T18:29:31Z"
+    },
+    {
+      "company": {
+        "display_name": "Gemeente Utrecht",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Senior IAM specialist",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987456?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=7B3E6F724AA01856619DCCF7F9F6F9541D6F722E",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T18:29:31Z",
+      "id": "5892987456",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "longitude": 5.08298,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQ1NiIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.V2eTbLGQsh7zQoVd5OIqhs472Omv6P5gGYY5vXwy_V0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.12147,
+      "description": "Utrecht heeft jou nodig! Wil jij een sleutelrol spelen in de digitale dienstverlening van onze gemeente? Als Specialist Identity and Access Management werk je aan gecontroleerd toegangsbeheer van onze applicaties, op basis van identiteiten, authenticatie en autorisatie én werk je actief aan verbeteringen voor een optimale gegevensbescherming van onze burgers en bedrijven.Dit is je werkAls Specialist IAM (Identity and Access Management) draag je bij aan goed autorisatiebeheer via ons IAM en PAM p",
+      "location": {
+        "display_name": "Utrecht, Provincie Utrecht",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Utrecht"
+        ]
+      }
+    },
+    {
+      "id": "5892987466",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "created": "2026-09-21T18:29:31Z",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987466?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=555B9E456CD6F1391C7D07F7A36C2EADE2D53377",
+      "salary_is_predicted": "0",
+      "title": "Medewerker Skilled Servicedesk",
+      "company": {
+        "display_name": "Gemeente Vlaardingen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.919546,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Jouw rolAls Medewerker Skilled Servicedesk ben jij de eerste en inhoudelijke schakel voor alle ICT-dienstverlening binnen onze gemeente. Je staat collega’s telefonisch of via de selfserviceportal te woord en zorgt ervoor dat elke melding direct volgens het juiste proces wordt opgepakt, geanalyseerd en afgehandeld.Je lost zoveel mogelijk incidenten zelfstandig op en duikt graag in de techniek. Samen met je directe collega's schakel je soepel tussen de servicedesk, werkplekondersteuning en het con",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Vlaardingen"
+        ],
+        "display_name": "Vlaardingen, Zuid-Holland"
+      },
+      "longitude": 4.331723,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDY2In0.Z2Wj4NWeX1ihlfx07HuqapFWOFulDwA3qZEnVCdbG7o"
+    },
+    {
+      "title": "Procesmanager Geo-objectbeheer",
+      "company": {
+        "display_name": "Gemeente Den haag",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987457?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=A645D69B4F8F6509DDCB2D938B88589B1AA41EBD",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892987457",
+      "created": "2026-09-21T18:29:31Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQ1NyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.5wWC_e6K9QUAgFhJzhovWqHjEP-hNxtZzM-fZ9CnL4Y",
+      "longitude": 4.300003,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.071336,
+      "description": "Breng geo-data, objectbeheer en innovatie samen. Bouw mee aan objectgericht werken, 3D-ontwikkeling en de digitale stad van Den Haag.Wat ga je doen?Als Procesmanager Geo-objectbeheer ben je verantwoordelijk voor de dagelijkse regie op de Basisregistratie Grootschalige Topografie (BGT), inwinning, beeldmateriaal en het 3D-stadsmodel van de gemeente Den Haag. Je begeleidt medewerkers in hun dagelijkse werkzaamheden, bewaakt de voortgang van landmeetkundige metingen en inwinningstrajecten en zorgt",
+      "location": {
+        "display_name": "Den Haag, Zuid-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Den Haag"
+        ]
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Nederland",
+          "Friesland",
+          "Súdwest Fryslân"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Súdwest Fryslân, Friesland"
+      },
+      "latitude": 53.0215,
+      "description": "32-36 urenStandplaats: SneekKrijg jij energie van samen bouwen en concrete resultaten neerzetten? Als Technisch Specialist combineer je technisch beheer met projectwerk. Je werkt aan een stabiele en toekomstbestendige digitale infrastructuur en bouwt per kwartaal mee aan slimme ICT-oplossingen.Wat ga jij doen?Als Technisch Specialist ben je verantwoordelijk voor het beheer én de doorontwikkeling van onze ICT-omgeving. Je werkt in onze Microsoft-omgeving en draagt direct bij aan een stabiele en t",
+      "longitude": 5.527461,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQ5OCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.iwgpRQRZMO8xTlGSrf-XpZnmw7vpEbhiz_5dHnQanlE",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:31Z",
+      "id": "5892987498",
+      "title": "Technisch Specialist",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Súdwest-fryslân"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987498?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=A11786FF0803E894B406F18A75896D22BD364E7C",
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 3.86253,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzM3MiIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.A5WdvYJwp7OdIhFYdNloMyeghrAo2JtZ5D0A_mrzqrE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.30656,
+      "description": "Team I&A heeft ruimte voor een Senior ServicedeskmedewerkerJouw uitdagingAls Senior Servicedeskmedewerker ben je samen met je collega's verantwoordelijk voor de behandeling van alle ICT-gerelateerde vragen en meldingen van de medewerkers van de gemeente Terneuzen. Je vervult hierin een meewerkende rol en bent een substantieel deel van je tijd actief betrokken bij de dagelijkse dienstverlening van de Servicedesk. Daarnaast bewaak je de kwaliteit, voortgang en efficiëntie van de dienstverlenin",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zeeland",
+          "Terneuzen"
+        ],
+        "display_name": "Terneuzen, Zeeland"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987372?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=3C801887F4DA5276CCE2DB6FFCE7F43F38BA6522",
+      "salary_is_predicted": "0",
+      "title": "Senior Servicedeskmedewerker",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Terneuzen"
+      },
+      "id": "5892987372",
+      "created": "2026-09-21T18:29:30Z",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MzU4In0.M08wpBel3gKA1J-klr8z58tJI5mZ0W6RAkHUhkTDpTk",
+      "longitude": 4.6614,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.1022,
+      "description": "In een wereld waarin de hoeveelheid informatie elke dag groeit, is grip op informatiebeheer belangrijker dan ooit. Als Adviseur Informatiebeheer - Recordmanager bij de Gemeente Alphen aan den Rijn werk je verder aan de basis van een informatiegestuurde organisatie. Met jouw kennis en visie zorg je ervoor dat informatie doelmatig, veilig, conform de geldende bewaartermijnen en duurzaam wordt beheerd.Wat ga je doen?Als adviseur informatiebeheer ontwikkel en borg je beleid, processen en kaders op h",
+      "location": {
+        "display_name": "Alphen aan den Rijn, Zuid-Holland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Alphen aan den Rijn"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987358?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=5BCC5C13CA7CBCE73A73B067E76EBFEFCCDD63F2",
+      "title": "Adviseur Informatiebeheer – Recordmanager",
+      "company": {
+        "display_name": "Gemeente Alphen aan den rijn",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892987358",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:30Z"
+    },
+    {
+      "id": "5892987424",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987424?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=EFDDCAA1142ECF883D0D854CFF829365B19189C1",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Den haag"
+      },
+      "title": "Generatieve AI compliance specialist",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.071336,
+      "description": "Breng generatieve AI van experiment naar verantwoorde toepassing binnen gemeente Den Haag.Generatieve AI biedt grote kansen voor de gemeente Den Haag. Van slimmer kennisdelen tot efficiëntere ondersteuning van medewerkers. Tegelijk vraagt het gebruik van AI om duidelijke kaders voor privacy, security, ethiek en governance. Als adviseur Generatieve AI en Compliance help jij om die balans te vinden. Je maakt verantwoorde toepassing mogelijk en zorgt dat teams weten wat wel kan, wat niet kan en ond",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Den Haag"
+        ],
+        "display_name": "Den Haag, Zuid-Holland"
+      },
+      "longitude": 4.300003,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQyNCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.mHmHtSNlwQZYUPOm9qxYjzCZzNFy1jD0DKQGzoraLAI"
+    },
+    {
+      "longitude": 4.783509,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQyNyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.xrQtVp2_ZJ-xbL-FEPAGAP6kjy-IxNLn_qvT5ExZjS8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.482788,
+      "description": "Een stage om trots op te zijnVolg jij een MBO ICT niveau 4 opleiding en ben je op zoek naar een uitdagende meewerkstage vanaf februari 2027? Dan biedt Gemeente Zaanstad jou een unieke kans om praktijkervaring op te doen binnen een grote en dynamische organisatie.Tijdens deze stage werk je in het Servicedesk-team van de afdeling Informatie, Beheer & Techniek. Je krijgt veel zelfstandigheid, goede begeleiding en de ruimte om jezelf zowel professioneel als persoonlijk te ontwikkelen. Een stage",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Zaanstad"
+        ],
+        "display_name": "Zaanstad, Noord-Holland"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987427?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=5B25B1DDC413DAC89461443A281CFA6BD2AD2459",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Zaanstad"
+      },
+      "title": "Stage Servicedesk ICT",
+      "id": "5892987427",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z"
+    },
+    {
+      "id": "5892987410",
+      "created": "2026-09-21T18:29:30Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987410?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=EC9A0CB03ADD4C3384838E0A35577BAF2E1EFD81",
+      "salary_is_predicted": "0",
+      "title": "Microsoft 365 Adoptie- en beheerspecialist (24-32 uur)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Oss"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.76471,
+      "description": " Maak Microsoft 365 écht werkbaar voor collega’s en help Oss slimmer, veiliger en toekomstgericht digitaal samenwerken. Help jij collega’s slimmer, veiliger en prettiger digitaal samenwerken? Met een groeiend aantal inwoners maken we ons klaar voor de toekomst. Daarom zijn we op zoek naar een Microsoft 365 Adoptie- en beheerspecialist. Dit ga je doen Als MS365 Adoptie- en beheerspecialist help je medewerkers en teams om Microsoft 365 bewust, veilig en effectief toe te passen in hun dagelijkse w",
+      "location": {
+        "display_name": "Oss, Noord-Brabant",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Oss"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 5.56198,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQxMCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.2MZ9KZ2AY1Gi7xEHhnF9RTxAhGCwhKe5BqPbZk1ZY5Y"
+    },
+    {
+      "created": "2026-09-21T18:29:30Z",
+      "id": "5892987385",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987385?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=B52F1EAF1DE873E4FB98A555621B3C5058CDA8BE",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Gemeente Hollands kroon",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Functioneel beheerder Sociaal Domein",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Ben jij die ervaren functioneel beheerder die energie krijgt van het optimaliseren van systemen en processen en die collega’s graag helpt met goed functionerende systemen? Vind je het leuk om technische vraagstukken te vertalen naar slimme oplossingen voor collega’s én inwoners? Dan zijn wij op zoek naar jou.Maak het verschil bij Hollands KroonBij Hollands Kroon zorg jij ervoor dat de applicaties binnen het Sociaal Domein betrouwbaar, actueel en gebruiksvriendelijk blijven. Jij bent de verbinden",
+      "location": {
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nederland"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzM4NSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.h9XyY0sRQcfxnslhhJLkwwE0puIssPDGwYn_anyjM8Y"
+    },
+    {
+      "description": "Als Functioneel beheerder binnen de fysieke leefomgeving maak jij Voorne aan Zee effectiever en duurzamer door het beheer en de doorontwikkeling van belangrijke applicaties. Jij zorgt voor heldere communicatie tussen gebruikers en leveranciers en vertaalt behoeften naar praktische oplossingen. Met jouw inzet help je medewerkers om applicaties optimaal te benutten en processen te verbeteren. Wat ga je doen als Functioneel beheerder Als Functioneel beheerder voor onze Fysieke leefomgeving speel",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Nederland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQyMyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.UZJ6S7jzpwXxSTdIyrIpBLkwEdUM5Nca09I02V99T2o",
+      "id": "5892987423",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Voorne aan zee"
+      },
+      "title": "Functioneel beheerder fysieke leefomgeving",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987423?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=411A02BCC05352C89D78277EB622B9BF3C5FB0F4"
+    },
+    {
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987402",
+      "created": "2026-09-21T18:29:30Z",
+      "title": "Functioneel beheerder HWWerkt!",
+      "company": {
+        "display_name": "Gemeente Hoeksche waard",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987402?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=3EC819BF6A0B33A5A4E6B19334C154968A708FC9",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Waar kom je te werken? Wil jij met jouw IT-kennis echt iets betekenen voor mensen? Dan is dit jouw kans. Je gaat aan de slag als functioneel beheerder voor HWWerkt! en vormt samen met 25 collega’s team Informatie Technologie. HWWerkt! is het werkontwikkelbedrijf van onze gemeente en hier zetten medewerkers zich iedere dag in om inwoners te helpen bij het vinden van passend werk. Ook mensen voor wie werk vinden niet vanzelfsprekend is (met een afstand tot de arbeidsmarkt), krijgen hier de onders",
+      "location": {
+        "display_name": "Nederland",
+        "area": [
+          "Nederland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDAyIn0.4IHnuolEzRAdX9bMmKz0WY6KJOT5FUuPOS7I0s9ZQZ4"
+    },
+    {
+      "latitude": 52.33427,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Samenvatting Werk je graag buiten met veel vrijheid? Vind je het leuk om met een vaste collega op pad te gaan voor je werk en iedere dag bezig te zijn met een nieuwe klus op een nieuwe locatie? Dan is werken als bronbemaler wat voor jou! Goed werk! Over de functie Als bronbemaler ben je dagelijks bezig met het installeren en onderhouden van bemalingssystemen op verschillende locaties. Dit betekent dat je veel buiten werkt, vaak samen met vaste collega's. Je taken zijn gevarieerd en zorgen ervoo…",
+      "location": {
+        "display_name": "Bornerbroek, Almelo",
+        "area": [
+          "Nederland",
+          "Overijssel",
+          "Almelo",
+          "Bornerbroek"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQzNSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.UsZ5KRbFwoMB2Sb-cnqRyvXpFHO4WeXf4unnRAwMgn4",
+      "longitude": 6.65473,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5892987435",
+      "created": "2026-09-21T18:29:30Z",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5892987435?utm_medium=api&utm_source=a6bbb028",
+      "title": "Bronbemaler",
+      "company": {
+        "display_name": "Carrière",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.49795,
+      "description": "Misschien ken je Purmerend al goed, of is dit juist jouw eerste ontmoeting met onze gemeente. Misschien weet je dat we die plek zijn ten noorden van Amsterdam, óf woon je hier al jaren met plezier. Wat we je in ieder geval kunnen vertellen: we groeien door naar een gemeente met 100.000 inwoners en werken elke dag aan een (raads-)organisatie die klaar is voor de toekomst. En dat merk je op de werkvloer. We bouwen, vernieuwen, professionaliseren en dat doen we samen.Dat betekent ook meer inzet van",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Purmerend"
+        ],
+        "display_name": "Purmerend, Noord-Holland"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDA3In0.eF3IfqquXgXmLVi05EMy5FbK2CCDlk88Z-Vniicq-B4",
+      "longitude": 4.92799,
+      "id": "5892987407",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z",
+      "title": "Projectleider ICT",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Purmerend"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987407?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=0F67FD009B39B0319F2122F32BA014617D05D777"
+    },
+    {
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987395?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=A4274C0364CC17AF947E4900AA4C5A4C7C83C515",
+      "company": {
+        "display_name": "Gemeente Harlingen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Projectleider Informatievoorziening (IV) gemeente Harlingen",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z",
+      "id": "5892987395",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzM5NSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.2rIu1FYXYje-hN3RxhjMfGOSLHS4AvmQlO-5qtulfis",
+      "longitude": 5.44325,
+      "latitude": 53.16417,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "U kunt reageren tot en met 24-08-2026. Functie Als Projectleider Informatievoorziening werk je aan projecten op het gebied van informatievoorziening, digitalisering en bedrijfsvoering. Daarbij staat niet de oplossing centraal, maar de vraag achter de vraag. Samen met proceseigenaren, gebruikers en management breng je in beeld wat nodig is, welke knelpunten spelen en welk resultaat de organisatie wil bereiken. Op basis daarvan vertaal je de behoefte naar een concreet project en begeleid je de uit",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Friesland",
+          "Harlingen"
+        ],
+        "display_name": "Harlingen, Friesland"
+      }
+    },
+    {
+      "longitude": 6.18641,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzQxOCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.r4Fm9q5AWKHhTFIZWhDz4aZwf1ie8YHYm49pEqz4JMk",
+      "latitude": 52.68904,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Bouw mee aan datagedreven werken in een gemeente die in beweging is.Hoe zorg je ervoor dat data niet ergens in een dashboard blijft staan, maar écht helpt om betere keuzes te maken? Dat is precies waar jij als BI Consultant / Ontwikkelaar bij de gemeente Meppel het verschil maakt.Wij zoeken een enthousiaste medior BI-professional die graag de combinatie maakt tussen techniek, advies en de organisatie. Iemand die niet zomaar bouwt wat er gevraagd wordt, maar doorvraagt: welk probleem willen we ei",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Drenthe",
+          "Meppel"
+        ],
+        "display_name": "Meppel, Drenthe"
+      },
+      "title": "BI Consultant / Ontwikkelaar",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Meppel"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987418?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=556462BDE7A122285BA56DFB579FD04E1266FFB2",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987418",
+      "created": "2026-09-21T18:29:30Z"
+    },
+    {
+      "company": {
+        "display_name": "Gemeente Eindhoven",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Medewerker ICT Servicedesk",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987369?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=FBBA2E8B00FF6E62D6AE8801E7070BD59AEFCDED",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:29:30Z",
+      "id": "5892987369",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MzY5In0.TDV-YcJ-BiMqje7tTQe9WX6Jdr1YqIgZ8d_Bfl-ebJs",
+      "longitude": 5.40229,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.43937,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Eindhoven"
+        ],
+        "display_name": "Eindhoven, Noord-Brabant"
+      },
+      "description": "Ben jij klant- en servicegericht en vind jij het leuk om collega’s te helpen met hun ICT-vragen? En wil jij graag meedenken over het verbeteren van de ICT-dienstverlening? Dan hebben wij een vacature!Jouw rolBinnen de afdeling ICT Infra & Services van de sector Informatie & Beheer (I&B) werk je met andere ICT-professionals continu aan het verbeteren van de ICT-dienstverlening. Je vormt samen met je collega’s van het team Servicedesk ICT het visitekaartje van I&B in de organisatie"
+    },
+    {
+      "description": "Klaar om de toekomst vorm te geven? Word een cruciale speler als onafhankelijk adviseur en maak stedelijke én landelijke gemeenten bewust van informatiebeveiliging, terwijl je risico's verlaagt met strategische maatregelen.Het team Directiestaf is onderdeel van de samenwerkingsorganisatie (SWO). Voor zowel de gemeente Hoogeveen als voor de gemeente De Wolden leveren we maatwerk. Bouw mee aan de toekomst van stad én platteland.De organisatie bestaat vanaf 1 januari 2025 uit een tweehoofdige direc",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.71131,
+      "location": {
+        "area": [
+          "Nederland",
+          "Drenthe",
+          "Hoogeveen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hoogeveen, Drenthe"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzM5MCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.OgrSVGJ42nTedu-h8fo1qknXSUK9s624XYLm1DfHGug",
+      "longitude": 6.42314,
+      "created": "2026-09-21T18:29:30Z",
+      "id": "5892987390",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987390?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=07AE0A6F1826552734714106BA380208AFC748FB",
+      "title": "Adviseur Informatiebeveiliging (Information Security Officer)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Hoogeveen"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Jij geeft richting aan een afdeling die de organisatie helpt informatie, processen en technologie slim, veilig en toekomstgericht in te zetten.Afdelingsmanager i-Advies, een echte smaakmakerAls afdelingsmanager i-Advies geef jij richting aan een ambitieuze en multidisciplinaire afdeling die gemeente Ede ondersteunt bij informatievoorziening, digitale ontwikkelingen en procesverbetering. Samen met ongeveer 30 professionals zorg je ervoor dat collega’s in alle domeinen binnen de gemeente hun werk",
+      "latitude": 52.0538,
+      "location": {
+        "display_name": "Ede, Gelderland",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Ede"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3NDE3In0.J_8rbKuSMCynYayVLUF9Wv8Z5Ihi9MJFNBY5eL5Lkkg",
+      "longitude": 5.66338,
+      "id": "5892987417",
+      "created": "2026-09-21T18:29:30Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987417?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=581F55F87A4D0AF256C5287030F66F0F9368B0CE",
+      "title": "Afdelingsmanager i-Advies",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Ede"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5892987249?utm_medium=api&utm_source=a6bbb028",
+      "title": "Junior machinaal Houtbewerker",
+      "company": {
+        "display_name": "Carrière",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892987249",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:29Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MjQ5In0.AqiE2Po5Yhvaw8TCI_ARB19QoZwfzHj0FgEyO4gUdz8",
+      "longitude": 5.651983,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.654465,
+      "description": "Samenvatting Ben jij nauwkeurig en leergierig? Wil jij werken in een innovatief bedrijf waarbij je met de nieuwste technologieën en machines werkt? Ga dan nu aan de slag als Junior Machinaal houtbewerker. Goed werk! Over de functie Als Junior Machinaal houtbewerker hou jij je bezig met het maken van verschillende soorten houten bekleding. Je werkzaamheden bestaan onder andere uit: Bedienen en instellen van CNC-gestuurde machines. Controleren en bijsturen van het productieproces. Onderhoud en sc…",
+      "location": {
+        "area": [
+          "Nederland",
+          "Noord-Brabant",
+          "Uden",
+          "Volkel"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Volkel, Uden"
+      }
+    },
+    {
+      "created": "2026-09-21T18:29:28Z",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987234",
+      "title": "Pedagogisch Medewerker BSO",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fris! Kinderopvang"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987234?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1616043592CDFF1B84A765F3B7FEBD8393341157",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.216948,
+      "description": "Over het werk Voor onze BSO in Apeldoorn zijn wij vanaf 1 oktober 2026 op zoek naar een enthousiaste en betrokken Pedagogisch Professional voor 10 tot 20 uur per week. Je werkt op maandag, dinsdag en donderdag met kinderen van 4 tot 13 jaar. Geen dag is hetzelfde wanneer je werkt in de kinderopvang! Jouw liefde voor de kinderen en passie voor het vak maken jouw baan in de kinderopvang iedere dag weer de moeite waard. Als pedagogisch medewerker van Fris! maak je makkelijk contact met kinderen. J…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Apeldoorn",
+          "Beemte-Broekland"
+        ],
+        "display_name": "Beemte-Broekland, Apeldoorn"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MjM0In0.3QE-MbmX8z8aqDx7J0LmG_VLayUP4nyL_lfSdkZq5sA",
+      "longitude": 6.00799
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzEyOCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.A2ba378-6s4aTIlaGyQLJrV2eb3c4K8crJLryU_g288",
+      "longitude": 6.15943,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.37607,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Limburg",
+          "Venlo"
+        ],
+        "display_name": "Venlo, Limburg"
+      },
+      "description": "Tijden van floppydisks en harde schijven zijn voorbij. Zorg jij ervoor dat alle informatie in deze digitale wereld altijd toegankelijk en vindbaar is?Wat ga je doen?Als recordmanager ga jij je bezighouden met duurzaam én digitaal informatiebeheer. Vanuit jouw expertise ben je betrokken bij het ontwerp van processen en systemen. Je adviseert en ondersteunt proactief proceseigenaren bij dossiervorming. Dit doe je volgens het principe ‘archive by design’. Dit houdt in dat je ervoor zorgt dat dossie",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Venlo"
+      },
+      "title": "Record manager/ Adviseur informatiebeheer",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987128?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=F426701DDA7581896FCF7C1865123A00B7F93CF9",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:27Z",
+      "id": "5892987128"
+    },
+    {
+      "title": "Chauffeur BSO (Ede) - Fris! Kinderopvang",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fris! Kinderopvang"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987072?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=05E9E18D8D55C01B0C424B01CEA3C40FB1B78665",
+      "id": "5892987072",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:29:26Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzA3MiIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.YW7sgYt3gAGHfrTGX02NZ7OJchRgGLtC2tFMb9kQLko",
+      "longitude": 5.973469,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.192826,
+      "description": "Over het werk Ben je op zoek naar iets anders tussendoor? Ben je student of misschien wel 50 plusser en heb je een paar uurtjes per week tijd? Kom dan bij ons solliciteren als chauffeur BSO Het Sterrenbos. Als chauffeur BSO zorg jij ervoor dat kinderen (4-12 jaar) na school veilig bij de opvang aankomen. Je rijdt tussen 13:45 en 15:30 uur langs meerdere scholen in Ede om kinderen op te halen en naar de BSO te brengen. Dit doe je met je eigen auto (tegen kilometervergoeding). In de schoolvakanti…",
+      "location": {
+        "display_name": "Beekbergen, Apeldoorn",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Apeldoorn",
+          "Beekbergen"
+        ]
+      }
+    },
+    {
+      "latitude": 51.987247,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Over het werk Ben jij klaar om kinderen een onvergetelijke middag vol avontuur, creativiteit en plezier te bezorgen? Bij onze gezellige BSO's creëren we een warme, huiselijke omgeving waarin kinderen na schooltijd kunnen ontspannen, ontdekken en leren. Hier voelt ieder kind en collega zich gezien, gehoord en op zijn gemak. Als pedagogisch professional ben jij het hart van deze middagen. Jij organiseert activiteiten die aansluiten bij de nieuwsgierigheid en energie van de kinderen: van spannende…",
+      "location": {
+        "display_name": "Elst, Rhenen",
+        "area": [
+          "Nederland",
+          "Provincie Utrecht",
+          "Rhenen",
+          "Elst"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MDc2In0.ieBCykvq3HJwZei9z7Vt6rUzpamgWr9fBFTpYzF9SMk",
+      "longitude": 5.495585,
+      "id": "5892987076",
+      "created": "2026-09-21T18:29:26Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987076?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=721679B9485936CFB18BBA52D3BB8598666DF9C9",
+      "title": "Pedagogisch Professional BSO 't Zandkasteel",
+      "company": {
+        "display_name": "Fris! Kinderopvang",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Horeca en Catering vacatures",
+        "tag": "hospitality-catering-jobs"
+      },
+      "id": "5892987074",
+      "created": "2026-09-21T18:29:26Z",
+      "title": "Medewerker bakkerij tankstation Bodegraven",
+      "company": {
+        "display_name": "Carrière",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5892987074?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 52.066126,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Samenvatting Als een lid van het bakkerijteam speel je een cruciale rol in het bedienen van klanten die het servicestation bezoeken tijdens hun reis. Jouw verantwoordelijkheid omvat het aanbieden van vers gemaakte sandwiches, lekkere snacks en uitstekende koffie Goed werk! Over de functie Als bakery medewerker ben je onmisbaar voor klanten die tijdens hun reis langskomen bij het servicestation. Het is namelijk jouw taak om ze te voorzien van vers belegde broodjes, overheerlijke snacks en goede …",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Bodegraven-Reeuwijk",
+          "Bodegraven"
+        ],
+        "display_name": "Bodegraven, Bodegraven-Reeuwijk"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MDc0In0.gk8OhQ1YUqyWFlY60392IYvkZNoGdlOUnWR9USz-XZY",
+      "longitude": 4.741727
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987043",
+      "created": "2026-09-21T18:29:25Z",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987043?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=7281A4EF38C241B440672BAA5B919BB5694401B0",
+      "title": "Informatiemanager Maatschappij 32-36 uur",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Westland"
+      },
+      "latitude": 52.007394,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Sluitingsdatum: Woensdag 30 september 2026Wil jij maatschappelijke opgaven vertalen naar slimme digitale oplossingen?Als Informatiemanager bij gemeente Westland verbind je beleid, organisatie en IT. Je krijgt de ruimte om richting te geven aan de informatievoorziening en direct bij te dragen aan betere dienstverlening voor inwoners.Jouw rolAls Informatiemanager ben je de strategische schakel tussen de maatschappelijke opgaven van gemeente Westland en de mogelijkheden van digitalisering en inform",
+      "location": {
+        "display_name": "Westland, Zuid-Holland",
+        "area": [
+          "Nederland",
+          "Zuid-Holland",
+          "Westland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzA0MyIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.vL07K4-ADbe6iwaFqnC6I-FJz6TlIp9tH6VDv3Gkigw",
+      "longitude": 4.216817
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.259339,
+      "description": "Samenvatting Als verkoopmedewerker heb je een verscheidenheid aan verantwoordelijkheden. Het ene moment verwerk je betalingen voor de brandstof van klanten, en het volgende moment komen ze bij je voor lekkere koffie, verfrissende frisdranken, snacks of heerlijk bereide sandwiches. Goed werk! Over de functie Als verkoopmedewerker vertegenwoordig je ons tankstation en speel je een cruciale rol in het bieden van uitzonderlijke gastvrijheid. Je doel is ervoor te zorgen dat elke klant met een glimla…",
+      "location": {
+        "display_name": "Burgerveen, Haarlemmermeer",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Haarlemmermeer",
+          "Burgerveen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzA2MCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.nMCRvQu3Aw_ywziIwJCl8OtUbzxmlxJytxnX-0bbdlQ",
+      "longitude": 4.687847,
+      "created": "2026-09-21T18:29:25Z",
+      "category": {
+        "label": "Detailhandel vacatures",
+        "tag": "retail-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987060",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/details/5892987060?utm_medium=api&utm_source=a6bbb028",
+      "title": "Verkoopmedewerker Tankstation Hoofddorp",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Carrière"
+      }
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987056",
+      "created": "2026-09-21T18:29:25Z",
+      "title": "Functioneel Beheerder Microsoft 365 (32-36 uur per week)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gemeente Goes"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987056?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=F1BE8BC73CA5DA17A782A1D72A3CE289E5FCDBA5",
+      "salary_is_predicted": "0",
+      "latitude": 51.52337,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Organisatie: GR de BevelandenUren: 32–36 uur per weekLocatie: Stadskantoor in Goes, gedeeltelijk vanuit huis en regelmatig op locaties van de deelnemende gemeenten.Gepubliceerd: 21-07-2026Jij doet hetAls functioneel beheerder ben je onderdeel van het cluster Informatievoorziening binnen het ICT-team. Je bent verantwoordelijk voor het beheer en de verdere functionele optimalisatie van applicaties en diensten binnen de Microsoft 365-suite, waaronder Teams en SharePoint. Microsoft 365 is jouw prima",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Zeeland",
+          "Goes"
+        ],
+        "display_name": "Goes, Zeeland"
+      },
+      "longitude": 3.90895,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQklqZGFlZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkyOTg3MDU2In0.HWs25tkKvuXocRagXCNP1pknpigzUsP8ZzA3pRbWISM"
+    },
+    {
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987044?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D8D214E464C9F117483ED95DE328C02775E3B26A",
+      "company": {
+        "display_name": "Gemeente Zaanstad",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Afstudeerstage Verandermanagement Informatiebeheer Openbare Ruimte",
+      "created": "2026-09-21T18:29:25Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892987044",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzA0NCIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.hBXgfrWrUDWnuv_6MbbM5QiFH6_XnA8g1fWIhXBiRXs",
+      "longitude": 4.783509,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.482788,
+      "description": "Een stage om trots op te zijnWil jij onderzoeken hoe je medewerkers meeneemt in een nieuwe manier van werken? En zoek je een stage waarin je theorie direct toepast binnen een maatschappelijke organisatie? Dan is deze onderzoeksstage iets voor jou.Binnen gemeente Zaanstad werken we met een werkwijze voor het beheren van informatie over de openbare ruimte. Toch wordt deze werkwijze nog niet overal op dezelfde manier toegepast. Daarom zoeken we een stagiair die onderzoekt welke interventies helpen",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Nederland",
+          "Noord-Holland",
+          "Zaanstad"
+        ],
+        "display_name": "Zaanstad, Noord-Holland"
+      }
+    },
+    {
+      "longitude": 6.00799,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NzA0NSIsInMiOiJCSWpkYWVlMThSR1JmcE9jbXFMbmtnIn0.NIozVqbVuB-ZMXZFIsSz2AcZ8zFQkRIbnMlhH2rz38o",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.216948,
+      "description": "Wat ga je doen? Voor BSO De Keerkring zijn wij op zoek naar een betrokken en ondernemende locatiemanager die samen met het team wil bouwen aan een sterke en fijne BSO-locatie. Als locatiemanager ben jij hét gezicht en aanspreekpunt voor kinderen, ouders en collega's. Je bent zichtbaar aanwezig op de locatie en weet wat er speelt. Je zorgt dat alles klopt: van de sfeer binnen het team tot de pedagogische kwaliteit en de communicatie met ouders. Voor deze functie zijn 16 managementuren per week b…",
+      "location": {
+        "display_name": "Beemte-Broekland, Apeldoorn",
+        "area": [
+          "Nederland",
+          "Gelderland",
+          "Apeldoorn",
+          "Beemte-Broekland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.nl/land/ad/5892987045?se=BIjdaee18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=DA8003074DE45B52F599BECAFFBD09E7C0F91922",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Fris! Kinderopvang",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Locatiemanager De Keerkring",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892987045",
+      "created": "2026-09-21T18:29:25Z"
+    }
+  ]
+}

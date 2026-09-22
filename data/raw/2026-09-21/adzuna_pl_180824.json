@@ -1,0 +1,2960 @@
+{
+  "fetched_at": "2026-09-21T18:08:24.547942+00:00",
+  "country": "pl",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 4259,
+  "mean": 170334.3,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "created": "2026-09-21T19:36:59Z",
+      "company": {
+        "display_name": "Mindrift",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893011523?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893011523",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDExNTIzIn0.CirLUisqaV3Obecnke74GXW3vtVmhIwA2B7iWss2TcU",
+      "title": "Freelance Presentation Designer",
+      "description": "Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (  https://tendem.ai/ ) and create high-quality presentations for real-world use cases. In this role, you'll apply your expertise in visual communication, information design, and storytelling to create clear, engaging, and professionally designed presentations. This part-time remote opportunity is ideal for creative professionals with hands-on experience in visual communications, information design, and st…",
+      "category": {
+        "label": "Inna/ogólna",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "contract_time": "part_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5893010238",
+      "redirect_url": "https://www.adzuna.pl/details/5893010238?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Maersk",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T19:20:54Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ]
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Control Tower Operator",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDIzOCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.nBsnMGmJ2dRb3ng1kQ6_BfUmqiirXiq0ZRROdm4DgH8",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Logistyka i magazyn"
+      },
+      "description": "Hiring Range: Benefits: Company Pension Plan, Capital Forming Benefit, Life & Accident Insurance, Transportation Ticket (Deutschlandticket), Bike Leasing, Health Club Allowance, Employee Assistance Program, Global Referral Program, Global Maternity Program, Role Specific Benefits The Airfreight Control Tower Operator is responsible for the proactive monitoring, coordination, and management of international airfreight shipments throughout the transportation lifecycle. Acting as the central point…"
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT"
+      },
+      "description": "We are looking for a passionate and energized engineer to accelerate the integration of APIs across the CUDA-X math library software stack into modern LLM and agentic AI workflows. Leading organizations globally are using GPU-powered data centers for AI, data analytics, and scientific simulations, driving advancements in fields like LLMs, computer vision, CAE, EDA, and autonomous vehicles. Our team develops the GPU-accelerated libraries and SDKs essential for these technologies. In this role, y…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDEwMjIyIn0.aOP0ntGws5gO4eRNJjw20cqbNVzk3SQ_8QnqqjI8l3Y",
+      "title": "Senior Math Libraries Engineer - LLM Integration and Developer Experience",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "created": "2026-09-21T19:20:45Z",
+      "salary_min": 2655000,
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "NVIDIA",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893010222?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 4602000,
+      "id": "5893010222"
+    },
+    {
+      "id": "5893010153",
+      "redirect_url": "https://www.adzuna.pl/details/5893010153?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Valeo"
+      },
+      "created": "2026-09-21T19:20:21Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Lider Zespołu Konstruktorów (High Voltage) (M/K/N)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDE1MyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.9YlzKS90UFimMWQKe7fHtpgpvVW3ISbSfyOYnA4eX24",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "description": "Valeo is a tech global company, designing breakthrough solutions to reinvent the mobility. We are an automotive supplier partner to automakers and new mobility actors worldwide. Our vision? Invent a greener and more secured mobility, thanks to solutions focusing on intuitive driving and reducing CO2 emissions. We are leader on our businesses, and recognized as one of the largest global innovative companies. Valeo to globalna firma technologiczna, projektująca przełomowe rozwiązania, które redef…"
+    },
+    {
+      "created": "2026-09-21T19:20:14Z",
+      "company": {
+        "display_name": "Hitachi Careers",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska"
+      },
+      "id": "5893010135",
+      "redirect_url": "https://www.adzuna.pl/details/5893010135?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "description": "Location: Poland Job ID: IRC304573 Date Posted: Sep 19, 2026 Company Name: GlobalLogic Profession (Job Category): Engineering & Science Job Type (Experience Level): Senior Management Job Schedule: Full-Time Remote: Yes Share: Save Job Saved Description HMAX is Hitachi Rail's powerful new all-in-one digital asset management platform, accelerated by NVIDIA. HMAX enables you to use this data to predict issues, optimize your network and transform your business. HMAX creates a digital twin of your e…",
+      "title": "Cyber Security Analyst IRC304573",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDEzNSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.VwFs3CywJY5GiYMViJDoSqfvVfpa0xGJF2hlMYOoil8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Actuarial Product Development Assistant Manager",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDAzMCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.sT81Fhbic5pem-p-8uVocvsLxUM9sM7Lbxkd2SSE4fQ",
+      "description": "We are looking for an Actuarial Product Development Manager to join our Actuarial Library team, supporting the enhancement of libraries supplied with the FIS Insurance Risk Suite (Prophet) solution. We sit at the forefront of the Insurance modelling industry and empower insurers and re-insurers around the world with the tools and services they need to reliably manage their risks. In the Actuarial Library team, you will enhance the modelling capabilities in Prophet to meet customer needs and reg…",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:19:34Z",
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "FIS Poland-PLN"
+      },
+      "salary_min": 1999200,
+      "id": "5893010030",
+      "salary_max": 3498000,
+      "redirect_url": "https://www.adzuna.pl/details/5893010030?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "id": "5893009942",
+      "redirect_url": "https://www.adzuna.pl/details/5893009942?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Hitachi Careers"
+      },
+      "created": "2026-09-21T19:19:20Z",
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "description": "Location: Wroclaw Poland Job ID: IRC304649 Date Posted: Sep 19, 2026 Company Name: GlobalLogic Profession (Job Category): Engineering & Science Job Type (Experience Level): Entry Level Job Schedule: Full-Time Share: Save Job Saved Description Have you just finished your studies? Is gaining your first professional experience something that you're thinking about? Do you like using Danish, and you don't want to fall behind after graduating? And last but not least Are you dreaming about a job in an…",
+      "title": "Junior Project Support Specialist with Danish IRC304649",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwOTk0MiIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.3UlXbY3cQhaP1zqUF93Us7nKe6bTDYJfYeRzg4PK5wA"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ]
+      },
+      "created": "2026-09-21T19:19:12Z",
+      "company": {
+        "display_name": "Havas",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5893009909",
+      "redirect_url": "https://www.adzuna.pl/details/5893009909?utm_medium=api&utm_source=a6bbb028",
+      "description": "Agency : Havas Media Group Job Description : Media Planner  Havas Media Network - Jacy jesteśmy? Na to pytanie nie ma jednoznacznej odpowiedzi. Jako globalna sieć jesteśmy po prostu różnorodni. I z tej różnorodności czerpiemy swoją siłę. Mamy unikalne pasje, oryginalne talenty i swoje wewnętrzne przekonania. Razem tworzymy całkiem udaną, choć szczególną, bo międzynarodową rodzinę. W rodzinie Havas przekonani jesteśmy jednak do jednego – każdy zasługuje na to, by pokazać się z jak najlepszej str…",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "title": "Media Planner",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwOTkwOSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.WtP2lvZhWTSAUTdVGWNhCy0GmekDMo0dSGf7ojT5Dlg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODIwNiIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.b-Nbnn1op0H56rDaQyZEuTqpsaD67-5ECAzQJ2v3uzo",
+      "title": "Pracownik Hali (K/M)",
+      "description": "Do Twoich głównych zadań będzie należało: Profesjonalne doradztwo i codzienna obsługa Klientów. Sprawne uzupełnianie towaru na półkach. Dbanie o dostępność asortymentu na półkach oraz o dobre oznakowanie cenowe i ekspozycję towarów. Sprawna i profesjonalna obsługa Klientów w punktach kasowych zgodnie z obowiązującymi procedurami i standardami MAKRO. Aktywne uczestnictwo w procesach kompletacji zamówień dla Klientów. Realizacja zadań w obszarze rozładunku i przyjęcia dostaw towaru. Współdziałani…",
+      "category": {
+        "label": "Sprzedaż",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "longitude": 17.90516,
+      "redirect_url": "https://www.adzuna.pl/details/5893008206?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893008206",
+      "latitude": 50.73416,
+      "created": "2026-09-21T19:07:57Z",
+      "location": {
+        "display_name": "Opole, opolskie",
+        "area": [
+          "Polska",
+          "opolskie",
+          "Opole"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "MAKRO Cash and Carry Polska S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Czy jesteś osobą, która nie chce wracać do etatu, ale marzy o pracy, która pozwoli Ci się rozwijać, realizować zawodowo i jednocześnie mieć czas dla dzieci? Mamy dla Ciebie idealną propozycję! Dlaczego warto do nas dołączyć? Elastyczny czas pracy – sama decydujesz, kiedy pracujesz, a kiedy jesteś z rodziną. Stabilna branża – ubezpieczenia to rynek, który daje pewność i ogromne możliwości rozwoju. Rozwój i kariera – zapewniamy profesjonalne szkolenia i wsparcie krok po kroku. Atrakcyjne wynagrod…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MjA3In0.CKrlMX6XmkR98H-wBdIocwiVOyVhdVz2LYG76N8fHJU",
+      "title": "Przedstawiciel Ubezpieczeniowy / Przedstawicielka Ubezpieczeniowa",
+      "redirect_url": "https://www.adzuna.pl/details/5893008207?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893008207",
+      "salary_max": 60000,
+      "longitude": 21.2453,
+      "created": "2026-09-21T19:07:57Z",
+      "salary_min": 60000,
+      "company": {
+        "display_name": "IWOKAR Iwona Karpik",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warszawa, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Warszawa"
+        ]
+      },
+      "latitude": 52.21519
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Przedstawiciel Ubezpieczeniowy / Przedstawicielka Ubezpieczeniowa",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MjA4In0.GuFLOEJPMmVIaenPLAt4OSJzIHAULXEN84o2CwVY6yI",
+      "description": "Czy jesteś osobą, która nie chce wracać do etatu, ale marzy o pracy, która pozwoli Ci się rozwijać, realizować zawodowo i jednocześnie mieć czas dla dzieci? Mamy dla Ciebie idealną propozycję! Dlaczego warto do nas dołączyć? Elastyczny czas pracy – sama decydujesz, kiedy pracujesz, a kiedy jesteś z rodziną. Stabilna branża – ubezpieczenia to rynek, który daje pewność i ogromne możliwości rozwoju. Rozwój i kariera – zapewniamy profesjonalne szkolenia i wsparcie krok po kroku. Atrakcyjne wynagrod…",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 21.09808,
+      "id": "5893008208",
+      "salary_max": 60000,
+      "redirect_url": "https://www.adzuna.pl/details/5893008208?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 52.19994,
+      "salary_min": 60000,
+      "created": "2026-09-21T19:07:57Z",
+      "company": {
+        "display_name": "IWOKAR Iwona Karpik",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ząbki, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Ząbki"
+        ]
+      }
+    },
+    {
+      "created": "2026-09-21T19:07:56Z",
+      "location": {
+        "area": [
+          "Polska",
+          "śląskie",
+          "Wodzisław Śląski"
+        ],
+        "display_name": "Wodzisław Śląski, śląskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Klient portalu Praca.pl"
+      },
+      "latitude": 50.01036,
+      "id": "5893008200",
+      "redirect_url": "https://www.adzuna.pl/details/5893008200?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.39342,
+      "category": {
+        "label": "Doradztwo",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs"
+      },
+      "description": "Opis stanowiska Zarządzanie siecią usług w regionie (aglomeracja Śląsk) Budowanie i utrzymywanie długofalowych relacji z klientami i partnerami biznesowymi Współtworzenie długoterminowej strategii rozwoju spółki Analiza sprzedaży i rentowności lokalizacji Pozyskiwanie nowych lokalizacji i klientów Koordynowanie pracy podległego personelu Monitorowanie i nadzór stanów technicznych maszyn Kontrola stanów magazynowych oraz zapewnienie ciągłości sprzedaży Zarządzanie zespołem , budowanie jego zaang…",
+      "title": "Menedżer ds. Rozwoju (K/M)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MjAwIn0.MsbmT-TlY0dSw-Kas4uZc3plOoWbBKGsdm_ACUa2YEA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Doradca / Doradczyni klienta",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODE5MSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.3agBFM2coVbImjuJm6FiBdl_uJH2GnphKYOdewd4XHI",
+      "description": "Jak wygląda proces rekrutacji? Wyślij aplikację i wypełnij ankietę (około 2 minuty). Po pozytywnej weryfikacji porozmawiaj telefonicznie z rekruterem. Spotkaj się z przyszłym przełożonym. Oczekuj informacji zwrotnej - trzymamy kciuki! Jak wygląda organizacja pracy? Pracujemy zmianowo w godzinach otwarcia sklepu (6:30–22:00), 5 dni w tygodniu (40 godzin / cały etat). Jeśli pracujesz w sobotę (zwykle 3 w miesiącu) lub w niedzielę handlową, w zamian otrzymasz dzień wolny w innym dniu tygodnia. W z…",
+      "category": {
+        "label": "Sprzedaż",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 17.90516,
+      "id": "5893008191",
+      "redirect_url": "https://www.adzuna.pl/details/5893008191?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 50.73416,
+      "location": {
+        "display_name": "Opole, opolskie",
+        "area": [
+          "Polska",
+          "opolskie",
+          "Opole"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T19:07:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Leroy Merlin Polska Sp. z o.o."
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893008187?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 180000,
+      "id": "5893008187",
+      "longitude": 20.84664,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "NES Fircroft"
+      },
+      "created": "2026-09-21T19:07:55Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Piastów"
+        ],
+        "display_name": "Piastów, mazowieckie"
+      },
+      "salary_min": 144000,
+      "latitude": 52.18547,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Zakres obowiązków: Przygotowywanie kosztorysów i przedmiarów robót Kalkulacja wycen dla projektów elektrycznych Tworzenie zestawień materiałów i urządzeń Poszukiwanie optymalnych rozwiązań technicznych i kosztowych Analiza ofert dostawców oraz podwykonawców Udział w spotkaniach i uzgodnieniach technicznych Wymagania: Znajomość branży elektrycznej Umiejętność czytania dokumentacji technicznej Dobra obsługa pakietu MS Office Znajomość programów CAD Minimum rok doświadczenia w kosztorysowaniu lub …",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MTg3In0.CJdfjqXolpsOmf0GJGsSlUXHoGCJsLlRc8r3tBCpJnY",
+      "title": "Specjalista / Specjalistka ds. ofertowania"
+    },
+    {
+      "latitude": 51.10789,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Invimed"
+      },
+      "created": "2026-09-21T19:07:54Z",
+      "location": {
+        "display_name": "Wrocław, dolnośląskie",
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Wrocław"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 17.03854,
+      "redirect_url": "https://www.adzuna.pl/details/5893008176?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893008176",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODE3NiIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.QaVjxq-_IeSAQp0SU9JgU7-tko0lBv9aCJm9GOnKvek",
+      "title": "Lekarz Endokrynolog / Lekarka Endokrynolożka",
+      "description": "Dołącz do naszej ekipy medycznej i stań się bohaterem opieki zdrowotnej! Szukamy Ciebie jeśli​: ukończyłeś/-aś specjalizację obsługa komputera nie jest Ci obca posiadasz zdolność do słuchania i rozumienia potrzeb naszych pacjentów Dołącz do nas – a my zadbamy o: elastyczne grafiki możliwość pracy stacjonarnej, zdalnej lub hybrydowej Twój wellbeing – dostęp do platformy Medicover Benefits* dofinansowanie kursów, oraz konferencji medycznych nagrody w programie płatnych poleceń wsparcie na każdym …",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "latitude": 50.753364,
+      "company": {
+        "display_name": "Praca.pl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T19:07:54Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "świętokrzyskie, Polska",
+        "area": [
+          "Polska",
+          "świętokrzyskie"
+        ]
+      },
+      "longitude": 20.811807,
+      "id": "5893008184",
+      "redirect_url": "https://www.adzuna.pl/details/5893008184?utm_medium=api&utm_source=a6bbb028",
+      "title": "Kierowca Testowy Nowych Technologii Motoryzacyjnych (k/m)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODE4NCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.ybeeMg07p02gASDIkK9qxeHlNuR4hL1J8NvppUTb8Q0",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "description": "Zakres obowiązków: Realizujesz wyjazdowe projekty badawczo-rozwojowe obejmujące testowanie systemów aktywnego i biernego bezpieczeństwa aut. Prowadzisz systematyczną dokumentację i raportujesz wyniki testów do zespołów inżynieryjnych. Zarządzasz budżetem operacyjnym przypisanym do misji wyjazdowych (rezerwacje transportu i zakwaterowania). Przechodzisz wdrożenie i szkolenia stacjonarne oraz zdalne przygotowujące do pracy w terenie. Wymagania: Znajomość języka angielskiego lub niemieckiego na po…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893008171?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893008171",
+      "longitude": 21.2453,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Praca.pl"
+      },
+      "created": "2026-09-21T19:07:53Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warszawa, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Warszawa"
+        ]
+      },
+      "latitude": 52.21519,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Logistyka i magazyn",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs"
+      },
+      "description": "Zakres obowiązków: Wystawianie, rozliczanie i wstępna weryfikacja kart drogowych oraz dokumentacji eksploatacyjnej, w tym raportów pracy, trasówek i danych z tachografów. Kontrolowanie aktualności uprawnień kierowców i operatorów do obsługi pojazdów oraz sprzętu. Monitorowanie ważności dokumentów dotyczących pojazdów i pozostałych jednostek taborowych. Koordynowanie i kontrolowanie pracy taboru oraz realizowanych usług pod kątem zgodności z przepisami, prawidłowości i terminowości wykonania zad…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODE3MSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.LDZkFNE1utpk_q7YiTp3232ud8JCef3jQ8SU5w4tY9U",
+      "title": "Dyspozytor / Dyspozytorka"
+    },
+    {
+      "longitude": 20.52162,
+      "salary_max": 76800,
+      "id": "5893008169",
+      "redirect_url": "https://www.adzuna.pl/details/5893008169?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 51.98205,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lidl sp. z o. o. sp. k."
+      },
+      "created": "2026-09-21T19:07:53Z",
+      "salary_min": 72600,
+      "location": {
+        "display_name": "Mszczonów, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Mszczonów"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Pracownik / Pracowniczka Sklepu",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MTY5In0.YQav8huvZy-Y18th_-M4DdI8Fs6ny1v5yCfj9lvhEZo",
+      "description": "Twoje zadania: Dbałość o prawidłową ekspozycję produktów Utrzymanie porządku w sklepie Wykładanie towaru Bieżąca obsługa Klientów Obsługa stanowiska kasowego Możliwość specjalizacji w jednym z obszarów asortymentowych Twoje kompetencje: Chęć długotrwałej współpracy Gotowość do pracy w systemie zmianowym oraz w weekendy Dokładność, zaangażowanie Umiejętność pracy w zespole Min. 1 rok doświadczenia zawodowego będzie dodatkowym atutem Komunikatywna znajomość języka polskiego Mile widziane aktualne…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sprzedaż"
+      }
+    },
+    {
+      "created": "2026-09-21T19:07:53Z",
+      "location": {
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Wrocław"
+        ],
+        "display_name": "Wrocław, dolnośląskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Invimed"
+      },
+      "latitude": 51.10789,
+      "redirect_url": "https://www.adzuna.pl/details/5893008173?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893008173",
+      "longitude": 17.03854,
+      "description": "Dołącz do naszej ekipy medycznej i stań się bohaterem opieki zdrowotnej! Szukamy Ciebie jeśli​: ukończyłeś/-aś specjalizację posiadasz certyfikat uprawniający do wykonywania USG (w przypadku innych specjalizacji niż radiologia)​ obsługa komputera nie jest Ci obca posiadasz zdolność do słuchania i rozumienia potrzeb naszych pacjentów Dołącz do nas – a my zadbamy o: elastyczne grafiki możliwość pracy stacjonarnej, zdalnej lub hybrydowej Twój wellbeing – dostęp do platformy Medicover Benefits* dof…",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MTczIn0.nRh0qJTvgBtHfn0lgqpDrffXgPxFZ0qD31JFAVBbHuQ",
+      "title": "Lekarz Radiolog / Ultrasonografista / Lekarka Radiolożka / Ultrasonografistka",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "description": "Twoją rolą będzie: Badanie potrzeb szkoleniowych Pracowników z obszaru sprzedaży i obsługi; Przygotowanie i prowadzenie szkoleń, warsztatów z zakresu jakości, sprzedaży, kompetencji na podstawie zbadanych potrzeb; Monitorowanie efektów prowadzonych działań; Wsparcie zespołów w rozwoju i prowadzeniu jakościowej sprzedaży Przygotowanie i prowadzanie sesji rozwojowych 1:1 z Pracownikami; Wsparcie Kierowników i Koordynatorów w przygotowaniu planów rozwojowych i naprawczych dla Pracowników. Oczekiwa…",
+      "title": "Trener / Trenerka ds. Jakości Sprzedaży i Obsługi Klienta",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MTcwIn0.Q0Inz61oweWVwnf0LqtntgBgwiWFhltklGxpKz8IZtM",
+      "id": "5893008170",
+      "redirect_url": "https://www.adzuna.pl/details/5893008170?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 23.16884,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LUX MED Sp. z o.o."
+      },
+      "created": "2026-09-21T19:07:53Z",
+      "location": {
+        "area": [
+          "Polska",
+          "podlaskie",
+          "Białystok"
+        ],
+        "display_name": "Białystok, podlaskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 53.13249
+    },
+    {
+      "longitude": 22.052842,
+      "id": "5893008138",
+      "redirect_url": "https://www.adzuna.pl/details/5893008138?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 49.955408,
+      "created": "2026-09-21T19:07:51Z",
+      "location": {
+        "area": [
+          "Polska",
+          "podkarpackie"
+        ],
+        "display_name": "podkarpackie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Prima Vard Polska sp. z o.o."
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Koordynator / Koordynatorka Projektów i Zespołów Pielęgniarskich (k/m)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODEzOCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.NOOBi6MfTggWrES2T4VMTC_zlVVOlY--MxtZfvc24W0",
+      "description": "Opis stanowiska Koordynujesz procesy oraz wyznaczasz kierunki rozwoju obszaru pielęgniarskiego w nowoczesnych placówkach medycznych. Wspierasz codzienne działania zespołów pielęgniarskich, dbając o wysoką motywację oraz samodzielność kadry. Projektujesz, wdrażasz i nadzorujesz wewnętrzne procedury oraz standardy opieki nad pacjentem. Współpracujesz ramię w ramię z zarządem oraz pozostałymi specjalistami medycznymi, inicjując nowatorskie projekty branżowe. Wymagania Wykształcenie wyższe magister…",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Koordynator / Koordynatorka Projektów i Zespołów Pielęgniarskich (k/m)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MTMyIn0.1GEbenZDKCBxXU2A9l0RBgLdqO1J7cCkHz5mZNW4_VE",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Opis stanowiska Koordynujesz procesy oraz wyznaczasz kierunki rozwoju obszaru pielęgniarskiego w nowoczesnych placówkach medycznych. Wspierasz codzienne działania zespołów pielęgniarskich, dbając o wysoką motywację oraz samodzielność kadry. Projektujesz, wdrażasz i nadzorujesz wewnętrzne procedury oraz standardy opieki nad pacjentem. Współpracujesz ramię w ramię z zarządem oraz pozostałymi specjalistami medycznymi, inicjując nowatorskie projekty branżowe. Wymagania Wykształcenie wyższe magister…",
+      "longitude": 19.422281,
+      "id": "5893008132",
+      "redirect_url": "https://www.adzuna.pl/details/5893008132?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 51.664075,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "łódzkie"
+        ],
+        "display_name": "łódzkie, Polska"
+      },
+      "created": "2026-09-21T19:07:51Z",
+      "company": {
+        "display_name": "Prima Vard Polska sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sprzedaż"
+      },
+      "description": "Jak wygląda proces rekrutacji? Wyślij aplikację i wypełnij ankietę (około 2 minuty). Po pozytywnej weryfikacji porozmawiaj telefonicznie z rekruterem. Spotkaj się z przyszłym przełożonym. Oczekuj informacji zwrotnej - trzymamy kciuki! Jak wygląda organizacja pracy? Pracujemy zmianowo w godzinach otwarcia sklepu (6:30–22:00), 5 dni w tygodniu (40 godzin / cały etat). Jeśli pracujesz w sobotę (zwykle 3 w miesiącu) lub w niedzielę handlową, w zamian otrzymasz dzień wolny w innym dniu tygodnia, Two…",
+      "title": "Kasjer / Kasjerka",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA4MDY4In0.08DIGX2pINBZnx-CFz7lGlxUorhl1E4pQB1icOeL4_s",
+      "id": "5893008068",
+      "redirect_url": "https://www.adzuna.pl/details/5893008068?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 20.98311,
+      "location": {
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Piaseczno"
+        ],
+        "display_name": "Piaseczno, mazowieckie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T19:07:40Z",
+      "company": {
+        "display_name": "Leroy Merlin Polska Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.06392
+    },
+    {
+      "contract_time": "part_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA3NTg5In0.Q7QZBRgnYP4ZJFE-5E9rXeH4fA_WzAYG_xXCPWQhSLw",
+      "title": "Pracownik ogrodnictwa – kwiaty i cebulki (m/k)",
+      "description": "Szukasz stabilnej pracy za granicą? Dobrze trafiłeś! Od 2001 roku pomagamy osobom takim jak Ty znaleźć zatrudnienie w Niemczech, Holandii i Austrii. Zaufało nam już tysiące pracowników! Działamy legalnie, posiadając certyfikat KRAZ nr 13603. Dołącz do zespołu naszego holenderskiego kontrahenta i rozpocznij pracę w ogrodnictwie na stanowisku: Pracownik ogrodnictwa (m/k) Miejsce pracy: Noordwijkerhout, Holandia Start pracy: od zaraz Długość kontraktu: min. 8 tygodni z możliwością przedłużenia na …",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893007589?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 31179,
+      "id": "5893007589",
+      "salary_min": 31179,
+      "created": "2026-09-21T19:06:45Z",
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "APN Plus Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_max": 33280,
+      "id": "5893007585",
+      "redirect_url": "https://www.adzuna.pl/details/5893007585?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T19:06:42Z",
+      "salary_min": 31470,
+      "company": {
+        "display_name": "Werckpost",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": " Pakowanie drobiu | 16€  dodatki | Holandia❗",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU4NSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.hnwIb86L44OAyxlE2rz27t3wnTDcT-yxrrwP6jhc03U",
+      "description": "Dla naszego klienta, nowoczesnego zakładu przetwórstwa drobiu w Holandii, poszukujemy osób do obsługi maszyn i nadzoru linii produkcyjnej. To oferta dla osób szukających stabilnego zatrudnienia i długoterminowej współpracy u sprawdzonego pracodawcy. Praca odbywa się w dobrze zorganizowanym środowisku produkcyjnym, gdzie liczy się zaangażowanie, dokładność i dbałość o jakość. Oprócz atrakcyjnej stawki możesz liczyć na wysokie dodatki za pracę zmianową, weekendową oraz nadgodziny, dzięki którym T…",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU3NiIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.-WhMIqjDMI1LQfF9mGN-9IQ6DLHsnqKEyYx-ifAXlf0",
+      "title": "Spawacz Mag 07426 Rottenbach od 3200 € netto",
+      "description": "Opis Firma PERCONI GmbH obecnie poszukuje pracowników na stanowisko Spawacz w miejscowości Koblenz. Aby móc pracować jako \"spawacz\" w firmie wymagane jest ukończone i ugruntowane wykształcenie zawodowe w zakresie spawania MAG. Lokalizacja: Saalfeld, Niemcy Mozliwosc pracy duzej ilosci godzin! Zakres obowiązków: przygotowanie materiału do spawania, spawanie konstrukcji stalowych metodą MAG, różne konstrukcje z cienkiej i grubszej blachy, kontrola jakości wykonanych spawów, obróbka i poprawki po …",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893007576?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 39600,
+      "id": "5893007576",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T19:06:41Z",
+      "salary_min": 38400,
+      "company": {
+        "display_name": "PERCONI GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "created": "2026-09-21T19:06:41Z",
+      "company": {
+        "display_name": "AB Job Service Polska Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 31491,
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893007563",
+      "salary_max": 34008,
+      "redirect_url": "https://www.adzuna.pl/details/5893007563?utm_medium=api&utm_source=a6bbb028",
+      "title": "Order picker / Pickerka w centrum dystrybucyjnym",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA3NTYzIn0.OMO42M37GFivgflA8EWYN0sgTMlweMBR0TkFHiCEqkc",
+      "description": "Order picker / Order pickerka w centrum dystrybucyjnym – praca w Holandii (M/K) Miejsce pracy: Utrecht Godziny: możliwa ilość godzin – 36h/tydz. Stawka: 15,14 € brutto/h 8% dodatku urlopowego=16,35 € brutto/h Rodzaj umowy: zatrudnienie na warunkach holenderskich Aplikuj: wygodna aplikacja na naszej stronie https://abpraca.pl/aplikuj Nasz klient prowadzi duże centrum dystrybucyjne e-commerce obsługujące jedną z najbardziej rozpoznawalnych sieci handlowych w Holandii. Centrum odpowiada za komplet…",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "part_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_max": 31179,
+      "id": "5893007579",
+      "redirect_url": "https://www.adzuna.pl/details/5893007579?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T19:06:41Z",
+      "company": {
+        "display_name": "VAROWNY HOLDING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_min": 31179,
+      "contract_time": "part_time",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Order Picker",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU3OSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.5z2hhvmnlLr05mjoO6-gpx5VfbEhzf9_F0fFt0-77aw",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "description": " Lokalizacja: Breda  Zakwaterowanie: Nispen / Rijen  Stawka: €14,99 brutto/h  dodatki zmianowe  Praca na 3 zmiany: Na czym polega praca? Sortowanie paczek, układanie ich na taśmie kodem kreskowym do góry, dalsze sortowanie według kodów pocztowych oraz transport pełnych worków i kontenerów do strefy załadunku. Worki mogą ważyć około 10–15 kg. ✅ Doświadczenie nie jest wymagane ✅ Pary mile widziane ✅ Możliwość awansu np. na Team Leadera  Wymagane zaświadczenie o niekaralności"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "description": "Perconi GmbH jest dynamicznie rozwijającą się niemiecka firmą - agencją pośrednictwa pracy z siedzibą w Meiningen. Specjalizujemy się w wyszukiwaniu, rekrutowaniu kandydatów do pracy u pracodawców w Niemczech w różnych zawodach oraz dziedzinach gospodarki. Kandydatom zgłaszającym się do nas oferujemy fachową pomoc, wsparcie i doradztwo przed oraz po podjęciu współpracy. Naszym celem jest zadowolenie naszych klientów, zarówno pracowników, jak i pracodawców. Chętnie nawiążemy współprace z ludźmi …",
+      "title": "Roboty spawanicze 3300€ nettoNürnberg",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU3NyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.qOF931PSBf7Is5vnQyif08xfcpePCK_pz_5PoLT7Mj8",
+      "id": "5893007577",
+      "salary_max": 41400,
+      "redirect_url": "https://www.adzuna.pl/details/5893007577?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T19:06:41Z",
+      "salary_min": 39600,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PERCONI GmbH"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893007560?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 28800,
+      "id": "5893007560",
+      "salary_min": 24000,
+      "created": "2026-09-21T19:06:41Z",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "CompetentSolutions GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU2MCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.5FhD53kjXOkB2nj30AL2-mMbAK_WI7u89250flfYIMQ",
+      "title": "Dostawca paczek w Niemczech - zorganizowany start",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "description": "Dostawca paczek (m/k/r) w Niemczech – zorganizowany start | Prawo jazdy B  Niemcy | Dostawa paczek Amazon Lubisz jeździć i szukasz pracy? Szukamy niezawodnych dostawców paczek! Twoje wynagrodzenie  Około 2.000–2.400 € netto miesięcznie, w zależności od klasy podatkowej, godzin pracy i miejsca zatrudnienia. Nadgodziny są dodatkowo płatne. Co Cię czeka ✅ Niemiecka umowa o pracę ✅ Pełny etat, zazwyczaj 5 dni roboczych w tygodniu ✅ Płatne wprowadzenie ✅ Pojazd służbowy zapewniony ✅ Zorganizowane za…"
+    },
+    {
+      "salary_min": 35256,
+      "created": "2026-09-21T19:06:41Z",
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "TIMING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893007541?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893007541",
+      "salary_max": 70512,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzU0MSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.eVc1aM3lv9nQdZzJsDNO9kctJkRBcj0T1HE6KYfHM6o",
+      "title": "(M/K) Pracownik logistyczny",
+      "description": "Miejsce pracy: Varsseveld KRAMP Nederland to nowoczesny magazyn w Varsseveld, w którym znajdują się: narzędzia rolnicze i samochodowe, elementy hydrauliczne, sprzęt ogrodniczy, sprzęt do robót ziemnych, odzież specjalistyczna. Poszukujemy kandydatów pasujących do profilu firmy Kramp – dużego przedsiębiorstwa logistycznego działającego na całym świecie. Lundia to dział firmy Kramp zajmujący się składowaniem towarów, które nie mieszczą się w standardowym procesie kompletacji magazynowej lub wymag…",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893007557?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893007557",
+      "salary_max": 67350,
+      "created": "2026-09-21T19:06:41Z",
+      "salary_min": 33675,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TIMING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDA3NTU3In0.bz4SmFERKkCTpTtUE9nNKXbA1bJFI8RUbQ-H-qhc5Qs",
+      "title": "Pracownik magazynu z asortymentem spożywczym (m/k)",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "description": "Miejsce pracy: Amsterdam Hanos - międzynarodowa hurtownia posiadająca siedemnaście oddziałów w Holandii i dwa oddziały w Belgii. Hanos przygotowuje produkty dla branży hotelarsko - gastronomicznej, konsumentów masowych i wielu firm. Dostarcza pełną gamę produktów spożywczych, chemicznych i wiele innych. Numer wpisu do rejestru agencji zatrudnienia: 470 ______ Co będziesz robić? - zbieranie zamówień na dziale warzywa i owoce za pomocą skanera, - przepakowywanie i metkowanie produktów, - sortowan…"
+    },
+    {
+      "latitude": 50.1024,
+      "created": "2026-09-21T19:04:47Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Kraków, małopolskie",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Kraków"
+        ]
+      },
+      "company": {
+        "display_name": "Bank Millennium S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 20.17848,
+      "redirect_url": "https://www.adzuna.pl/details/5893007307?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893007307",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzMwNyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.xhicvKfaou68mmc7_nKKNvktF1JltiPiNRDDI9ZSn2s",
+      "title": "Specjalista / Specjalistka ds. Produktów Transakcyjnych",
+      "description": "Specjalista / Specjalistka ds. Produktów Transakcyjnych Specjalista / Specjalistka ds. Produktów Transakcyjnych Miejsce pracy: Kraków Obowiązki: Reprezentowanie Departamentu Bankowości Transakcyjnej w obsługiwanych regionach oraz budowanie pozycji Banku Millennium Identyfikowanie potrzeb Klientów korporacyjnych i proponowanie im odpowiednich produktów transakcyjnych Negocjowanie warunków współpracy z Klientami Udział w tworzeniu ofert dla Klientów Bezpośrednie wspieranie Doradców Klienta w proc…",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Rakuten Viber is one of the most popular and downloaded apps in the world. Working with us provides a unique opportunity to influence hundreds of millions of our users and to be part of the journey that makes us a super-app. Our mission is to make people’s lives easier by enabling meaningful connections, from precious moments with family and friends, through managing business relationships to pursuing their passions. We are a global team of engineers dedicated to creating the best tools to ensu…",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNTQ5NSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.hAc9LxYuNS0B8vRCZxD39mG1MXyv-aw2lD-mKoodUh0",
+      "title": "Senior Full Stack Engineer (Node.js)",
+      "redirect_url": "https://www.adzuna.pl/details/5893005495?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893005495",
+      "company": {
+        "display_name": "Viber",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T19:02:19Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Warszawa"
+        ],
+        "display_name": "Warszawa, mazowieckie"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzg2MiIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.r-ExLDxJ171sUxHxn_RrEwDdSQb_otIChT0ykADkpIc",
+      "title": "Online English teacher for kids with Polish language",
+      "description": "Your responsibilities: Conduct one-on-one online English lessons with children aged 4–12 on our interactive platform; Help children fall in love with English through games, communication, and engaging activities; Use ready-made lesson materials — preparation takes just a few minutes; Develop your teaching skills through trainings and support from our methodologists. Requirements: English level B2 or higher; Experience working with children or a strong desire to do so; Laptop/PC, headset, and st…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs",
+        "label": "Nauczanie"
+      },
+      "longitude": 18.916361,
+      "redirect_url": "https://www.adzuna.pl/details/5893003862?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003862",
+      "latitude": 50.23591,
+      "created": "2026-09-21T18:57:11Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AllRight.io"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "śląskie, Polska",
+        "area": [
+          "Polska",
+          "śląskie"
+        ]
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Nauczanie",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Things you’ll take care of: Conduct trial lessons (30 minutes) Assess the child’s level in a game-based format Present the learning program Help parents make a purchase decision Work with scripts (with flexibility) You’re totally a match if: Your English is at least Intermediate level You speak Polish at Pre-Intermediate or higher You easily connect with people, especially children You are energetic and not afraid of communication You’re willing to learn sales You handle rejection and challengi…",
+      "title": "Trial Lesson Specialist (English, EU market)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzODMzIn0.kh-dJfkWstUhu5JrNU94UAN1cIfNakt36HXWbxHehfs",
+      "id": "5893003833",
+      "redirect_url": "https://www.adzuna.pl/details/5893003833?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 16.390587,
+      "created": "2026-09-21T18:57:10Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "dolnośląskie"
+        ],
+        "display_name": "dolnośląskie, Polska"
+      },
+      "company": {
+        "display_name": "AllRight.io",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.0174
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzODU1In0.RRs-dDGeoGEi_jHd0TXMfiVlI2al-CW5YDmIta5P_wg",
+      "title": "Trial Lesson Specialist (English, EU market)",
+      "category": {
+        "label": "Nauczanie",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Things you’ll take care of: Conduct trial lessons (30 minutes) Assess the child’s level in a game-based format Present the learning program Help parents make a purchase decision Work with scripts (with flexibility) You’re totally a match if: Your English is at least Intermediate level You speak Polish at Pre-Intermediate or higher You easily connect with people, especially children You are energetic and not afraid of communication You’re willing to learn sales You handle rejection and challengi…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 54.215223,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AllRight.io"
+      },
+      "created": "2026-09-21T18:57:10Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "pomorskie"
+        ],
+        "display_name": "pomorskie, Polska"
+      },
+      "longitude": 18.0592,
+      "redirect_url": "https://www.adzuna.pl/details/5893003855?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003855"
+    },
+    {
+      "id": "5893003858",
+      "redirect_url": "https://www.adzuna.pl/details/5893003858?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 22.052842,
+      "created": "2026-09-21T18:57:10Z",
+      "company": {
+        "display_name": "AllRight.io",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Polska",
+          "podkarpackie"
+        ],
+        "display_name": "podkarpackie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 49.955408,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Nauczanie"
+      },
+      "description": "Things you’ll take care of: Conduct trial lessons (30 minutes) Assess the child’s level in a game-based format Present the learning program Help parents make a purchase decision Work with scripts (with flexibility) You’re totally a match if: Your English is at least Intermediate level You speak Polish at Pre-Intermediate or higher You easily connect with people, especially children You are energetic and not afraid of communication You’re willing to learn sales You handle rejection and challengi…",
+      "title": "Trial Lesson Specialist (English, EU market)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzg1OCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.1RsfFD9LrZFoOWLTzzscHNZ8w8Q-v1TXt_ywjaTC52Y"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Things you’ll take care of: Conduct trial lessons (30 minutes) Assess the child’s level in a game-based format Present the learning program Help parents make a purchase decision Work with scripts (with flexibility) You’re totally a match if: Your English is at least Intermediate level You speak Polish at Pre-Intermediate or higher You easily connect with people, especially children You are energetic and not afraid of communication You’re willing to learn sales You handle rejection and challengi…",
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Nauczanie"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzg0MyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.N3MrOClJsASO8J5ejRLZo7Eiw4laYiT3uuHt4PYG23Q",
+      "title": "Trial Lesson Specialist (English, EU market)",
+      "redirect_url": "https://www.adzuna.pl/details/5893003843?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003843",
+      "longitude": 18.916361,
+      "company": {
+        "display_name": "AllRight.io",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:57:10Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "śląskie, Polska",
+        "area": [
+          "Polska",
+          "śląskie"
+        ]
+      },
+      "latitude": 50.23591
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Służba zdrowia",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "description": "Praca w eleganckich, przyjaznych gabinetach w: Wrocławiu Poznaniu Szczecinie Bydgoszczy Toruniu Koszalinie Gdańsku Łodzi Warszawie Białymstoku Łomży Wysokim Mazowieckim Ostrołęce Słupsku Zielonej Górze Bielsku-Białej Opolu I wielu innych miastach. Wymagania: mgr psychologii, ukończony całościowy kurs psychoterapii lub zaświadczenie o ukończeniu 2 lat kursu. Oferujemy: pracę w miłej atmosferze w zespole ponad 100 specjalistów różnych specjalizacji, rejestracja online, gwarancja pacjentów, elasty…",
+      "title": "Psycholog / Psychoterapeuta",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzODA3In0._IeeFvC9lJGftTTdKyrjy9X_WacYyXnXKmrCeMx5Oxk",
+      "id": "5893003807",
+      "redirect_url": "https://www.adzuna.pl/details/5893003807?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.64664,
+      "created": "2026-09-21T18:57:09Z",
+      "company": {
+        "display_name": "Centrum Psychoterapii i Coachingu Synergia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "pomorskie",
+          "Trójmiasto",
+          "Gdańsk"
+        ],
+        "display_name": "Gdańsk, Trójmiasto"
+      },
+      "latitude": 54.35203
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Pracownik magazynu odzieżowego (m/k)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzNTMzIn0.IFxSrUWemc-yGW-qHpt4MBKGFMkiJb2snCYwpf1eJuk",
+      "category": {
+        "label": "Logistyka i magazyn",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Twoje zadania kompletowanie zamówień i skanowanie produktów za pomocą ręcznego skanera, pakowanie i przygotowywanie towaru do wysyłki, przyjmowanie i odkładanie towaru, kontrola ilości i jakości produktów, obsługa zwrotów, przygotowywanie dokumentacji związanej z wysyłką. Czego oczekujemy: dyspozycyjności do pracy w systemie 2-zmianowym (ranna 5:45-14:00, popołudniowa 13:45-22:00, w tym 30-minutowa przerwa), chęci do pracy i zaangażowania. Co oferujemy 5020 zł brutto podstawy  premie: miesięczn…",
+      "id": "5893003533",
+      "redirect_url": "https://www.adzuna.pl/details/5893003533?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:56:58Z",
+      "location": {
+        "display_name": "Polska",
+        "area": [
+          "Polska"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Trenkwalder",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Łódź, Pabianice, Zduńska Wola, Poddębice) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkowo…",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzUyNCIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.QklUHeeEKNYygVjyO58-EJ7IVdqyNzR0p_20CrKcZV8",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T18:56:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "location": {
+        "area": [
+          "Polska",
+          "łódzkie",
+          "Łódź"
+        ],
+        "display_name": "Łódź, łódzkie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 51.77497,
+      "id": "5893003524",
+      "redirect_url": "https://www.adzuna.pl/details/5893003524?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 19.6198
+    },
+    {
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "category": {
+        "label": "Księgowość i finanse",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzUzNSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.s4k_Bw7Qro_7Fme2WX4MSQMA3VddNhAhCQFXRw32yps",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T18:56:58Z",
+      "location": {
+        "display_name": "Konin, wielkopolskie",
+        "area": [
+          "Polska",
+          "wielkopolskie",
+          "Konin"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "latitude": 52.22889,
+      "id": "5893003535",
+      "redirect_url": "https://www.adzuna.pl/details/5893003535?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.24855
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzUyOSIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.3YBZi0KFjC2v8wMTGkHLjdDWwKftlWVPkpa5t9By8Ng",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Nowy Targ, Zakopane, Myślenice, Limanowa, Kraków) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. D…",
+      "longitude": 20.0321,
+      "redirect_url": "https://www.adzuna.pl/details/5893003529?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003529",
+      "latitude": 49.47747,
+      "created": "2026-09-21T18:56:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "location": {
+        "display_name": "Nowy Targ, małopolskie",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Nowy Targ"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "latitude": 52.64998,
+      "created": "2026-09-21T18:56:57Z",
+      "company": {
+        "display_name": "Klient portalu Praca.pl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Wyszków"
+        ],
+        "display_name": "Wyszków, mazowieckie"
+      },
+      "longitude": 21.46665,
+      "redirect_url": "https://www.adzuna.pl/details/5893003522?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003522",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzNTIyIn0.NlZhzGe_og4iP0JdT3jjr5We2hhLL3f6USvtYdulNyY",
+      "title": "Nauczycielka / Nauczyciel języka angielskiego",
+      "description": "Opis stanowiska Prowadzenie zajęć dydaktycznych ze słuchaczami zgodnie z obowiązującym programem nauczania. Prowadzenie wymaganej dokumentacji przedmiotowej oraz szkolnej. Przygotowywanie i przeprowadzanie egzaminów semestralnych. Wymagania Wykształcenie wyższe kierunkowe (minimum stopień licencjata) oraz przygotowanie pedagogiczne. Zaangażowanie, sumienność i pasja do dzielenia się wiedzą. Wysokie umiejętności komunikacyjne. Doświadczenie w nauczaniu osób dorosłych będzie dodatkowym atutem. Of…",
+      "category": {
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Nauczanie"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Czym będziesz się zajmować: Obsługą i bieżącą kontrolą maszyny pikującej Przygotowywaniem materiałów do procesu pikowania Ustawianiem parametrów maszyny zgodnie z wytycznymi Kontrolą jakości wykonywanych produktów Dbałością o prawidłowy przebieg procesu produkcyjnego Wykonywaniem różnych zadań po wcześniejszym przeszkoleniu Współpracą z zespołem w dynamicznym środowisku pracy Czego od Ciebie oczekujemy: Zaangażowania i dobrej organizacji pracy Dokładności i dbałości o jakość Podstawowych umieję…",
+      "category": {
+        "label": "Produkcja",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "manufacturing-jobs"
+      },
+      "title": "Operator / Operatorka maszyny pikującej",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzNTAwIn0.NXiMK8vlXErwNk4Rpcb-JZ9vHqiUVSUP7AvaKT2A57g",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Kostrzyn nad Odrą, lubuskie",
+        "area": [
+          "Polska",
+          "lubuskie",
+          "Kostrzyn nad Odrą"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Wendre Poland Sp. z o.o."
+      },
+      "latitude": 52.58719,
+      "id": "5893003500",
+      "redirect_url": "https://www.adzuna.pl/details/5893003500?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 14.64945
+    },
+    {
+      "longitude": 20.281376,
+      "id": "5893003457",
+      "redirect_url": "https://www.adzuna.pl/details/5893003457?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 49.852837,
+      "location": {
+        "display_name": "małopolskie, Polska",
+        "area": [
+          "Polska",
+          "małopolskie"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzNDU3In0.tm3jXLJmxHfVGogb6kjFGeZ3WfyAJ1fnUkaM-gwOp5M",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Księgowość i finanse"
+      }
+    },
+    {
+      "longitude": 16.390587,
+      "id": "5893003502",
+      "redirect_url": "https://www.adzuna.pl/details/5893003502?utm_medium=api&utm_source=a6bbb028",
+      "latitude": 51.0174,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "dolnośląskie"
+        ],
+        "display_name": "dolnośląskie, Polska"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Klient portalu Praca.pl"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Specjalista / Specjalistka ds. Sprzedaży Usług Edukacyjnych i Technologicznych",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoieElkT2NPZTE4Ukd5eHFFRHFrbENWUSIsImkiOiI1ODkzMDAzNTAyIn0.bmU_8-WGpuhxNX4LOe9zVlQa_4ejCuYLKVkP73p_wd0",
+      "description": "Opis stanowiska Aktywne budowanie relacji z kadrą zarządzającą i decydentami firm poszukujących innowacji technologicznych. Prowadzenie rozmów handlowych oraz doradztwo w obszarze wdrażania nowoczesnych metod edukacyjnych. Badanie trendów rynkowych oraz wyszukiwanie perspektywicznych obszarów do zwiększania wyników sprzedażowych. Udział w spotkaniach wyjazdowych z klientami korporacyjnymi na terenie kraju. Monitorowanie wskaźników efektywnościowych i dbałość o najwyższą jakość obsługi partnerów…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Obsługa klienta"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Wrocław"
+        ],
+        "display_name": "Wrocław, dolnośląskie"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "latitude": 51.10789,
+      "id": "5893003443",
+      "redirect_url": "https://www.adzuna.pl/details/5893003443?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 17.03854,
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ0MyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.Z0_glH83SOywfDj56akG0Y5ye-AYDHNGuHheCf_zPIE",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5893003467",
+      "redirect_url": "https://www.adzuna.pl/details/5893003467?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.916361,
+      "created": "2026-09-21T18:56:56Z",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Polska",
+          "śląskie"
+        ],
+        "display_name": "śląskie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 50.23591,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ2NyIsInMiOiJ4SWRPY09lMThSR3l4cUVEcWtsQ1ZRIn0.epNzpb5Ih9RRuydc0TeKU5vlMS1v5957JvTieRuIuV8"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "wielkopolskie, Polska",
+        "area": [
+          "Polska",
+          "wielkopolskie"
+        ]
+      },
+      "longitude": 17.355035,
+      "created": "2026-09-21T18:56:56Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003473?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "id": "5893003473",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ3MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.1CNEZa1OodVEVX-7av24IqLMd8mVmRjuh9ctZXi5mCY",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.245572,
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Gorlice"
+        ],
+        "display_name": "Gorlice, małopolskie"
+      },
+      "category": {
+        "label": "Księgowość i finanse",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003483?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 21.17828,
+      "created": "2026-09-21T18:56:56Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDgzIn0.PD6qWXWG5naQDSkCwitinL3oXeBduIRXViXsUVYW0qI",
+      "id": "5893003483",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "latitude": 49.63886,
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "latitude": 49.955408,
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "podkarpackie"
+        ],
+        "display_name": "podkarpackie, Polska"
+      },
+      "longitude": 22.052842,
+      "created": "2026-09-21T18:56:56Z",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003486?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003486",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDg2In0.T_-Th_lSjwILeFEVx1nfYVGYwp2aPUIIW_k5CCuCKBE"
+    },
+    {
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.26008,
+      "salary_is_predicted": "0",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDQ4In0.54f6s9vBuff1AP0spONk-Q4mu1hHx6qLPPCSrTtcIn4",
+      "id": "5893003448",
+      "redirect_url": "https://www.adzuna.pl/details/5893003448?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "longitude": 19.02547,
+      "created": "2026-09-21T18:56:56Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Katowice"
+        ],
+        "display_name": "Katowice, śląskie"
+      }
+    },
+    {
+      "description": "Opis stanowiska Tworzenie harmonogramów produkcyjnych opartych na wskaźnikach ekonomicznych i dostępnym potencjale technologicznym. Monitorowanie wydajności linii oraz szybkie reagowanie na zakłócenia w procesie wytwarzania. Poszukiwanie i wdrażanie usprawnień zwiększających efektywność operacyjną. Obsługa i aktualizacja danych systemowych w środowisku SAP. Koordynacja działań we współpracy z międzynarodowymi partnerami biznesowymi. Wymagania Udokumentowane doświadczenie w obszarze planowania p…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Klient portalu Praca.pl"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 52.40321,
+      "title": "Specjalista / Specjalistka ds. Planowania Produkcji",
+      "location": {
+        "area": [
+          "Polska",
+          "wielkopolskie",
+          "Poznań"
+        ],
+        "display_name": "Poznań, wielkopolskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ5MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.2ghpT5cgYqvHFzmYZtpmvyd-NJ2z7o49PMay7Q8DSeQ",
+      "id": "5893003493",
+      "category": {
+        "label": "Produkcja",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "manufacturing-jobs"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003493?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 16.93875,
+      "created": "2026-09-21T18:56:56Z"
+    },
+    {
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 15.6888,
+      "redirect_url": "https://www.adzuna.pl/details/5893003440?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "id": "5893003440",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDQwIn0.wUNqohv4C2vZjM3KC7bLNMb04o1xGZeQ71CgEEC2bCg",
+      "location": {
+        "display_name": "Jelenia Góra, dolnośląskie",
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Jelenia Góra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.88205,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…"
+    },
+    {
+      "id": "5893003477",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ3NyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.kaZBELZTrqsv6bR4hUtSbFG6DQKXNmslISccZZkeunA",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003477?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 19.422281,
+      "created": "2026-09-21T18:56:56Z",
+      "location": {
+        "area": [
+          "Polska",
+          "łódzkie"
+        ],
+        "display_name": "łódzkie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.664075,
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "Polska",
+          "mazowieckie"
+        ],
+        "display_name": "mazowieckie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003458?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 21.01497,
+      "created": "2026-09-21T18:56:56Z",
+      "id": "5893003458",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ1OCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.OxqyIGyVb-RVOlHtK2j0kHuVspqHjpoptdfgHmUh8dg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "latitude": 52.332767,
+      "salary_is_predicted": "0",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzUwMSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.iCh6X1utlWh-4iKDDm8k8yyCLoszuecTRMYy3jvBFT4",
+      "id": "5893003501",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 20.90139,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003501?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Lesznowola, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Lesznowola"
+        ]
+      },
+      "title": "Analityk / Analityczka Systemów IT i Automatyzacji Sprzedaży",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Klient portalu Praca.pl"
+      },
+      "latitude": 51.91225,
+      "description": "Opis stanowiska Pełnienie funkcji partnera technologicznego dla biznesu w obszarze optymalizacji procesów handlowych. Projektowanie, wdrażanie i nadzorowanie powiązanych ze sobą modułów e-commerce, systemów magazynowych oraz narzędzi ERP. Identyfikacja wąskich gardeł, audyt stabilności środowiska IT oraz wdrażanie usprawnień zwiększających wydajność aplikacji. Przygotowywanie zestawień, obsługa zapytań systemowych oraz aktywne uczestnictwo w transformacji technologicznej przedsiębiorstwa. Kompl…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Pracownik Działu Kontroli Jakości (K/M/N)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Inter Europol S.A."
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Główne zadania: Bieżąca kontrola procesów produkcyjnych i magazynowych mająca na celu zapewnienie jakości produktów według standardów firmy, Wykonywanie pomiarów produktów gotowych oraz oznaczeń fizykochemicznych surowców półproduktów i produktów, Weryfikacja specyfikacji surowców, Przygotowywanie specyfikacji wyrobów oraz dokumentacji dotyczącej jakości produktów, Weryfikacja poprawności etykiet wyrobów, Opracowywanie i wdrażanie nowych procedur mających na celu poprawę systemu kontroli jakośc…",
+      "created": "2026-09-21T18:56:56Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003497?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Produkcja",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDk3In0.Jcp3qfP_t0SUfMlSMA5QzIhqFbI3iUv9MYjRWfPPLcI",
+      "id": "5893003497",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 18.26107,
+      "redirect_url": "https://www.adzuna.pl/details/5893003438?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Obsługa klienta",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDM4In0.PCwCPC-zdaMUIMM9-pZ2IZBZ6FjRwbY-RF5X6BOn_m0",
+      "id": "5893003438",
+      "location": {
+        "display_name": "Wejherowo, pomorskie",
+        "area": [
+          "Polska",
+          "pomorskie",
+          "Wejherowo"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Sprzedawca (K/M) części do samochodów osobowych",
+      "company": {
+        "display_name": "Inter Cars",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 54.60248,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Opis stanowiska Aktywna współpraca z partnerami handlowymi oraz dbanie o rozwój długotrwałych relacji biznesowych. Przyjmowanie i efektywna obsługa zamówień od klientów. Profesjonalne doradztwo w zakresie dostępnej oferty części zamiennych i wyposażenia warsztatowego. Realizacja planów sprzedażowych oraz raportowanie wyników. Wymagania Minimum roczne doświadczenie w obszarze sprzedaży części motoryzacyjnych. Praktyczna znajomość budowy pojazdów mechanicznych. Umiejętność budowania trwałych rela…"
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893003474?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "manufacturing-jobs",
+        "label": "Produkcja"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 20.98311,
+      "id": "5893003474",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ3NCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.VvEBf7WpR78SCoxGkZ0osyKfARRljPZLcOdrL2v9Rfs",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Piaseczno, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Piaseczno"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "STRABAG PFS"
+      },
+      "latitude": 52.06392,
+      "salary_is_predicted": "0",
+      "title": "Pomocnik / Pomocniczka do serwisu klimatyzacji",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Zadania: Wspomaganie starszych specjalistów przy instalacji oraz uruchamianiu systemów chłodniczych. Dokonywanie przeglądów technicznych i diagnostyka urządzeń klimatyzacyjnych. Odpowiedzialność za kompletowanie materiałów oraz sprawną organizację stanowiska pracy. Współdziałanie wewnątrz zespołu w celu terminowej realizacji zleceń. Wymagania: Aktualne uprawnienia F-GAZ oraz świadectwo kwalifikacyjne SEP do 1 kV. Praktyka na podobnym stanowisku monterskim lub serwisowym. Rzetelność, odpowiedzia…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "lubuskie"
+        ],
+        "display_name": "lubuskie, Polska"
+      },
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003479?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 15.363226,
+      "id": "5893003479",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDc5In0.iTUimYF53QIB_C1ehFzmihPzwZgsZ2cx0VjJQkUYBiQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.16341,
+      "salary_is_predicted": "0",
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie"
+    },
+    {
+      "id": "5893003478",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDc4In0.tuc3NBnTafKxP9FNB0dfBGKSo7YxI8Whv5Za-aCVe04",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 22.824381,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003478?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "Polska",
+          "podlaskie"
+        ],
+        "display_name": "podlaskie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "latitude": 53.270658,
+      "salary_is_predicted": "0",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Piaseczno"
+        ],
+        "display_name": "Piaseczno, mazowieckie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 20.98311,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "manufacturing-jobs",
+        "label": "Produkcja"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003470?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ3MCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.DozGBivFF6HXBFTdmhQP42sX6gJ3yLmaTNoK1A6VeA4",
+      "id": "5893003470",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Zadania: Pomoc przy montażu i uruchamianiu klimatyzacji, Wsparcie przy serwisach i przeglądach urządzeń, Przygotowanie narzędzi i materiałów, Dbałość o porządek na miejscu pracy, Współpraca z doświadczonym zespołem. Wymagania: Minimalne doświadczenie przy montażu lub serwisie klimatyzacji, Ważne uprawnienia F-GAZ, Uprawnienia SEP G1 do 1 kV, Prawo jazdy kat. B będzie dodatkowym atutem, Chęć nauki, sumienność i zaangażowanie. Oferujemy: Dofinansowanie do różnych form edukacji i szkoleń, wewnętrz…",
+      "title": "Pomocnik do serwisu klimatyzacji (K/M)",
+      "company": {
+        "display_name": "STRABAG PFS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 52.06392
+    },
+    {
+      "location": {
+        "area": [
+          "Polska",
+          "śląskie"
+        ],
+        "display_name": "śląskie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ4NCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.81VBv7r8YqLKNjQbd5f0lXbYgf3w81Nlwgd1ibuqWqA",
+      "id": "5893003484",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003484?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.916361,
+      "created": "2026-09-21T18:56:56Z",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.23591,
+      "salary_is_predicted": "0",
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie"
+    },
+    {
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 21.17828,
+      "redirect_url": "https://www.adzuna.pl/details/5893003461?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "id": "5893003461",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDYxIn0.AnY25vTCesNyBv9vi6h5_0lxyhWMX86KTQxIAejcpnM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Gorlice, małopolskie",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Gorlice"
+        ]
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "salary_is_predicted": "0",
+      "latitude": 49.63886,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…"
+    },
+    {
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 49.68077,
+      "location": {
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Limanowa"
+        ],
+        "display_name": "Limanowa, małopolskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ1OSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.TJuafK5FeXHVt9mZrmlikLWdcWEYDWOnn98yp3twbw4",
+      "id": "5893003459",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 20.44581,
+      "redirect_url": "https://www.adzuna.pl/details/5893003459?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Księgowość i finanse"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893003463?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 18.78572,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ2MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.juY_Conkut0T3tVZRZtJhWW6bzkjWwpmsxiVd5Izjgg",
+      "id": "5893003463",
+      "location": {
+        "area": [
+          "Polska",
+          "śląskie",
+          "Zabrze"
+        ],
+        "display_name": "Zabrze, śląskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 50.32493,
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…"
+    },
+    {
+      "longitude": 18.82244,
+      "created": "2026-09-21T18:56:56Z",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003447?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ0NyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.BbLqZJY0t0DD6Ex-86Bua4oIwbLf-GKlA5pwvqRQDC4",
+      "id": "5893003447",
+      "location": {
+        "display_name": "Bytom, śląskie",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Bytom"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "latitude": 50.39133,
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…"
+    },
+    {
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 22.052842,
+      "redirect_url": "https://www.adzuna.pl/details/5893003464?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "id": "5893003464",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ2NCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.gLu-gLdrR8cpOhXygOuG8B7T-dKao9qJSTzxLD-aIoM",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "podkarpackie, Polska",
+        "area": [
+          "Polska",
+          "podkarpackie"
+        ]
+      },
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "latitude": 49.955408,
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…"
+    },
+    {
+      "title": "Niezależny Specjalista / Specjalistka ds. Ubezpieczeń",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.16341,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nie rzucaj etatu! Zyskaj dodatkowy dochód pracując w ubezpieczeniach! Szukasz bezpiecznego sposobu na wyższe zarobki bez rzucania etatu? W Alwis&Secura udowadniamy, że przejście „na swoje” nie musi wiązać się z ryzykiem. Dajemy Ci komplet narzędzi do budowania własnego portfela ubezpieczeniowego – bez presji, sztywnych tabel i odgórnie narzucanych planów. To idealne rozwiązanie, jeśli pracujesz na etacie, prowadzisz działalność gospodarczą lub działasz w branży pokrewnej ( finanse, nieruchomośc…",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 15.363226,
+      "redirect_url": "https://www.adzuna.pl/details/5893003452?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "id": "5893003452",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ1MiIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.6Cp__rELpldw9dYB1yy1ZeX2olAzU8VAfUONWtMTjSw",
+      "location": {
+        "area": [
+          "Polska",
+          "lubuskie"
+        ],
+        "display_name": "lubuskie, Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Alwis & Secura Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.753364,
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "świętokrzyskie"
+        ],
+        "display_name": "świętokrzyskie, Polska"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDg5In0.RCRiQ4EvIEP0BnOtRuYYCvaVS-0KHcJJoXdyMbDN98U",
+      "id": "5893003489",
+      "redirect_url": "https://www.adzuna.pl/details/5893003489?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Księgowość i finanse",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 20.811807,
+      "created": "2026-09-21T18:56:56Z"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Wrocław"
+        ],
+        "display_name": "Wrocław, dolnośląskie"
+      },
+      "id": "5893003506",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNTA2In0.VJkTjqG2Jr7nHp0_xTwh3RmYjtXAVFN8vbMjyreqygM",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 17.03854,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003506?utm_medium=api&utm_source=a6bbb028",
+      "description": "Twój zakres obowiązków Analiza dokumentacji projektowej i technicznej oraz koordynacja realizacji robót elektrycznych na powierzonym odcinku Planowanie i bieżąca kontrola postępu prac elektrycznych zgodnie z harmonogramem i budżetem Prowadzenie oraz kompletowanie dokumentacji budowy w zakresie robót elektrycznych (dzienniki, protokoły, dokumentacja powykonawcza) Udział w przygotowaniu ofert i wycen robót elektrycznych dla nowych kontraktów Organizacja i prowadzenie procesu wyboru podwykonawców,…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Kierownik / Kierowniczka robót elektrycznych (budownictwo ogólne)",
+      "latitude": 51.10789,
+      "company": {
+        "display_name": "UNIBEP S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 52.0751,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Łódź, Zgierz, Łowicz, Skierniewice,) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkowo wyka…",
+      "longitude": 19.95698,
+      "created": "2026-09-21T18:56:56Z",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003456?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003456",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ1NiIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.tf6sAFU8NSaHsFupEcePRkRagwb2RNQYEhgdEHZKqBc",
+      "location": {
+        "area": [
+          "Polska",
+          "łódzkie",
+          "Łowicz"
+        ],
+        "display_name": "Łowicz, łódzkie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "title": "Inżynier / Inżynierka budowy",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "COBIKO sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.10789,
+      "description": "Twój zakres obowiązków Wsparcie kierownika budowy w zakresie prowadzenia budowy w oparciu o wymagania kontraktu, w zakresie przyjętego budżetu, harmonogramu budowy oraz zgodnie z dokumentacją techniczną i przepisami prawa budowlanego Prowadzenie przetargów i negocjacji z podwykonawcami Nadzór i koordynacja pracy podwykonawców Bieżąca kontrola prawidłowości i terminowości wykonywanych robót Dbanie o przestrzeganie zasad BHP na terenie budowy Raportowanie o postępie robót Prowadzenie dokumentacji…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893003490",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ5MCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.pMKUt35He-P7E1dA8GGErS8xAsLc3udR1QENThbf8ok",
+      "created": "2026-09-21T18:56:56Z",
+      "longitude": 17.03854,
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Inżynieria"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003490?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "dolnośląskie",
+          "Wrocław"
+        ],
+        "display_name": "Wrocław, dolnośląskie"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Alwis & Secura Sp. z o.o."
+      },
+      "salary_is_predicted": "0",
+      "latitude": 49.68077,
+      "title": "Specjalista / Specjalistka ds. ubezpieczeń na życie",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Sprzedajesz ubezpieczenia na życie jednego Towarzystwa? A może skupiasz się głównie na majątku? Brakuje Ci produktów w ofercie i zdarza się, że klient wybiera konkurencję, bo Twoja propozycja mu nie odpowiadała? Masz dość narzuconych planów sprzedażowych, korporacyjnych tabel, \"góry\", która decyduje za Ciebie, i prowizji uzależnionej od wielkości sprzedaży? Dużo sprzedajesz, ale Twój portfel tak naprawdę nie należy do Ciebie? Odezwij się i idź na swoje! Co zyskujesz, dołączając do nas? 100% nie…",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Księgowość i finanse"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003480?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 20.44581,
+      "created": "2026-09-21T18:56:56Z",
+      "id": "5893003480",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDgwIn0.EcAdj5wPD6-cqjY20d-pfFOXUY8RcIN2Tdhhe0b8wo4",
+      "location": {
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Limanowa"
+        ],
+        "display_name": "Limanowa, małopolskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQ5OSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.FGITYTB67vQpsnkzksBwVNcUhBJ9ZvulnZioBk_XkBY",
+      "id": "5893003499",
+      "longitude": 21.2453,
+      "created": "2026-09-21T18:56:56Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003499?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Sprzedaż",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Warszawa, mazowieckie",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Warszawa"
+        ]
+      },
+      "title": "Młodszy Specjalista ds. Zakupów Ogólnych (K/M)",
+      "latitude": 52.21519,
+      "company": {
+        "display_name": "LOT Aircraft Maintenance Services Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Wymagania: Minimum 1 rok doświadczenia w realizacji procesów zakupowych. Dobra znajomość pakietu MS Office, w szczególności programu Excel. Znajomość języka angielskiego na poziomie B1/B2, umożliwiająca komunikację w środowisku biznesowym. Dobra organizacja pracy, terminowość i skrupulatność w działaniu. Umiejętność współpracy w zespole oraz budowania pozytywnych relacji z partnerami biznesowymi. Podstawowe doświadczenie w negocjacjach handlowych, w tym z partnerami zagranicznymi. Postawa bizne…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.05626,
+      "salary_is_predicted": "0",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Jaworzno, Oświęcim, Chrzanów, Sucha Beskidzka, Kęty) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893003424",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQyNCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.7TM9NxFWKw3Jcfy7XFZnYffbTTZiEnmFT3_6qg3sWSg",
+      "longitude": 19.2,
+      "created": "2026-09-21T18:56:55Z",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003424?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Oświęcim"
+        ],
+        "display_name": "Oświęcim, małopolskie"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893003363?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "longitude": 19.11853,
+      "created": "2026-09-21T18:56:55Z",
+      "id": "5893003363",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM2MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.gLjBQrwnG616vBVYqhCIuSLrneDxK59fLRyoxb6hKgw",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Częstochowa, śląskie",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Częstochowa"
+        ]
+      },
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.81739,
+      "salary_is_predicted": "0",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Częstochowa, Zawiercie, Lubliniec, Kłobuck) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatko…"
+    },
+    {
+      "id": "5893003404",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQwNCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.H5Mx8N4mjVoD26m2AEG4BqmP5diMG7TvK2Q9Rbr9SSg",
+      "longitude": 22.56845,
+      "created": "2026-09-21T18:56:55Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003404?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Lublin, lubelskie",
+        "area": [
+          "Polska",
+          "lubelskie",
+          "Lublin"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 51.24645,
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Lublin, Chełm, Lubartów, Kraśnik, Włodawa) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkow…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM2MSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.1NkJfAd2UEEMLzBueUasz3yBA8xx4GzhGNVhCLtVKho",
+      "id": "5893003361",
+      "longitude": 19.49622,
+      "created": "2026-09-21T18:56:55Z",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Inżynieria"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003361?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "display_name": "Zawiercie, śląskie",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Zawiercie"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.48728,
+      "salary_is_predicted": "0",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Częstochowa, Zawiercie, Lubliniec, Kłobuck) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatko…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Chorzów, Tychy, Mikołów, Ruda Śląska, Piekary Śląskie,) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pr…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.29749,
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "location": {
+        "display_name": "Chorzów, śląskie",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Chorzów"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQzNSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.IwPtia_vV5YIOqqFMz0T0y1rRyUQ7nR-ZJkWUf8s_U4",
+      "id": "5893003435",
+      "redirect_url": "https://www.adzuna.pl/details/5893003435?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Inżynieria"
+      },
+      "longitude": 18.95457,
+      "created": "2026-09-21T18:56:55Z"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Toruń, kujawsko-pomorskie",
+        "area": [
+          "Polska",
+          "kujawsko-pomorskie",
+          "Toruń"
+        ]
+      },
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 18.67662,
+      "redirect_url": "https://www.adzuna.pl/details/5893003371?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Logistyka i magazyn"
+      },
+      "id": "5893003371",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM3MSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.EQiw9jKK0P-s_F9D5af4ZnJjrMQQZ1MVmaSkDZMMSQ4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Opis stanowiska: Przyjmowanie, składowanie i wydawanie towarów Uzupełnianie oraz kontrolowanie stanów magazynowych Obsługa sprzętu magazynowego Prowadzenie dokumentacji magazynowej Udział w targach i pokazach Wymagania: Wykształcenie średnie Doświadczenie na stanowisku magazyniera Obsługa komputera Umiejętność pracy w zespole Odpowiedzialność materialna za powierzone mienie Uprawnienia operatora wózka widłowego będą dodatkowych atutem Prawo jazdy kat. B Gotowość do udziału w targach i pokazach …",
+      "title": "Magazynier (m/k)",
+      "latitude": 53.02777,
+      "company": {
+        "display_name": "Interhandler Sp. z o.o.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.pl/details/5893003401?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Logistyka i magazyn",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:56:55Z",
+      "id": "5893003401",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDAxIn0.VTSaBrmXbexFSHeK3GGUjM9xVtomYRJ1qSiXL1mKnsA",
+      "location": {
+        "area": [
+          "Polska"
+        ],
+        "display_name": "Polska",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "1240.DESIGN sp. z o.o."
+      },
+      "title": "Magazynier - pakowanie zamówień",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Opis stanowiska Przygotowywanie i pakowanie zamówień do wysyłki Kontrola jakości produktów przed wysyłką Tworzenie etykiet wysyłkowych i zarządzanie dokumentacją wysyłki Współpraca z firmami kurierskimi w zakresie odbioru i dostarczania przesyłek Aktualizowanie statusów zamówień w systemie informatycznym sklepu Konfekcjonowanie produktów Udział w procesie przyjmowania i rozładunku dostaw Dbanie o porządek na magazynie Udział w okresowych inwentaryzacjach i spisach kontrolnych Wymagania Doświadc…"
+    },
+    {
+      "id": "5893003343",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM0MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.YZ1dML3hK47QMfLGhlFpnJ9z-HYDATkanHa9h_U7sMw",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Logistyka i magazyn"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003343?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 18.88755,
+      "created": "2026-09-21T18:56:55Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Herby"
+        ],
+        "display_name": "Herby, śląskie"
+      },
+      "latitude": 50.75296,
+      "company": {
+        "display_name": "YAWAL S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Magazynier (K/M)",
+      "description": "Zadania: Kompletacja planów pod wydziały produkcyjne oraz zamówienia klienta, Przyjmowanie dostaw oraz ich weryfikacja zgodnie z przyjętymi procedurami, Odpowiedzialność za załadunek i rozładunek towarów oraz ich rozmieszczanie i składowanie w obszarze magazynowym, Obsługa wózków widłowych/ suwnic (zgodnie z posiadanymi uprawnieniami). Wymagania: Doświadczenie w pracy na analogicznym stanowisku, Gotowość do pracy w systemie 3-zmianowym, Umiejętność pracy zespołowej, Sumienność, rzetelność, zaan…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "Polska",
+          "zachodniopomorskie",
+          "Szczecin"
+        ],
+        "display_name": "Szczecin, zachodniopomorskie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893003373",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM3MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.UUnlFFo6SiessghOrrVXaHK00NoqEQ-z5_IErLUD5E8",
+      "longitude": 14.60616,
+      "created": "2026-09-21T18:56:55Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003373?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Produkcja",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "manufacturing-jobs"
+      },
+      "description": "Zakres obowiązków przygotowanie zleceń produkcyjnych: kompletowanie dokumentacji, rysunków, ilości i terminów; planowanie kolejności zleceń na maszynach i pilnowanie terminów; bieżąca kontrola realizacji zleceń w systemie produkcyjnym; gospodarka narzędziowa: ewidencja narzędzi skrawających, zamówienia u dostawców, kontrola stanów i zużycia; kontrola jakości detali — pomiary wg rysunku przyrządami warsztatowymi oraz na współrzędnościowej maszynie pomiarowej; prowadzenie protokołów pomiarowych i…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Specjalista ds. przygotowania produkcji (m/k)",
+      "latitude": 53.49874,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "HARDPOWER sp. z o.o."
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "latitude": 52.40321,
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Poznań, Oborniki Wielkopolskie, Szamotuły, Grodzisk Wielkopolski) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą orga…",
+      "longitude": 16.93875,
+      "created": "2026-09-21T18:56:55Z",
+      "category": {
+        "label": "Inżynieria",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003354?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003354",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM1NCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.H69WsITLoqpHyPY1Gifjqf6Qwvv9Wv7UytQFLTDVO1Y",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Poznań, wielkopolskie",
+        "area": [
+          "Polska",
+          "wielkopolskie",
+          "Poznań"
+        ]
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Opole, opolskie",
+        "area": [
+          "Polska",
+          "opolskie",
+          "Opole"
+        ]
+      },
+      "id": "5893003384",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzMzg0In0.uIvz9D1qy2hVG40-fJoqu14X788Sk4rc6K2x3DeH5So",
+      "longitude": 17.90516,
+      "created": "2026-09-21T18:56:55Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003384?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Służba zdrowia",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "healthcare-nursing-jobs"
+      },
+      "description": "GŁÓWNE ZADANIA: weryfikacja dokumentacji medycznej w trakcie kontroli i czynności sprawdzających; udział w analizach danych dotyczących świadczeń opieki zdrowotnej; udział w opracowywaniu programów kontroli w zakresie metodyki niezbędnej do przeprowadzenia kontroli; udział w opracowywaniu wystąpień pokontrolnych; udział w opracowywaniu dokumentów na potrzeby rozpatrzenia odwołania od wyników kontroli i czynności sprawdzających. WYMAGANIA WYMAGANIA KONIECZNE wykształcenie: wyższe medyczne – leka…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Starszy Specjalista / Główny Specjalista (k/m) w Dziale Realizacji Kontroli w Terenowym Wydziale Kontroli VIII w Departamencie Kontroli (lekarz k/m)",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Centrala NFZ",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.73416
+    },
+    {
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "latitude": 50.30731,
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Olkusz, Skawina, Kraków) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkowo wykazują zainter…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDA1In0.jpgrkrXnJE84KG67wqeVhRb3hlkjgvt321aQY3D-h3A",
+      "id": "5893003405",
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 19.5625,
+      "redirect_url": "https://www.adzuna.pl/details/5893003405?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Olkusz, małopolskie",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Olkusz"
+        ]
+      }
+    },
+    {
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Warszawa, Piaseczno, Konstancin, Góra Kalwaria) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dod…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 52.06392,
+      "location": {
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Piaseczno"
+        ],
+        "display_name": "Piaseczno, mazowieckie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM0NSIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.4dmhbqonfvWB-dohPXr44Kco46aOO6zU9nJQrjjJp0U",
+      "id": "5893003345",
+      "longitude": 20.98311,
+      "created": "2026-09-21T18:56:55Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003345?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Rzeszów, Łańcut, Przemyśl, Sanok, Brzozów, Lesko) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. D…",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "latitude": 50.04228,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Polska",
+          "podkarpackie",
+          "Rzeszów"
+        ],
+        "display_name": "Rzeszów, podkarpackie",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 22.00695,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003392?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893003392",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM5MiIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.ffZz4LHSpTWuurNeHD50CCAvD-FftYnQngWSu84yzL0"
+    },
+    {
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Warszawa, Legionowo, Nowy Dwór Mazowiecki, Maków Mazowiecki) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizac…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "latitude": 52.39999,
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Legionowo"
+        ],
+        "display_name": "Legionowo, mazowieckie"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM0OCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.jL_5frZYRb_8Ce0nOG1k8vgoW9upf9G3dYTMLoDOVUU",
+      "id": "5893003348",
+      "redirect_url": "https://www.adzuna.pl/details/5893003348?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Inżynieria"
+      },
+      "longitude": 20.92905,
+      "created": "2026-09-21T18:56:55Z"
+    },
+    {
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Nowy Targ, Zakopane, Myślenice, Limanowa, Kraków) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. D…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 50.1024,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "salary_is_predicted": "0",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Kraków, małopolskie",
+        "area": [
+          "Polska",
+          "małopolskie",
+          "Kraków"
+        ]
+      },
+      "id": "5893003396",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM5NiIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.RFXNCUZOeYwvcoWZ1bgkAYoknlLaKTylW8AOatVzXfw",
+      "redirect_url": "https://www.adzuna.pl/details/5893003396?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Inżynieria",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "longitude": 20.17848,
+      "created": "2026-09-21T18:56:55Z"
+    },
+    {
+      "id": "5893003420",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzQyMCIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.BOAYZO9e5LFcj9pJMcE-VA__AxkkybClFzM-o5RaCfU",
+      "longitude": 18.23367,
+      "created": "2026-09-21T18:56:55Z",
+      "redirect_url": "https://www.adzuna.pl/details/5893003420?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Kędzierzyn-Koźle, opolskie",
+        "area": [
+          "Polska",
+          "opolskie",
+          "Kędzierzyn-Koźle"
+        ]
+      },
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "latitude": 50.34849,
+      "company": {
+        "display_name": "POLPHARMA S.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Rybnik, Jastrzębie, Głubczyce, Kędzierzyn Koźle, Racibórz) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "latitude": 50.28695,
+      "salary_is_predicted": "0",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Sosnowiec, Dąbrowa Górnicza, Tarnowskie Góry) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodat…",
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003349?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 19.17805,
+      "id": "5893003349",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzMzQ5In0.Yg96zH1iVp7VheJX2BZh81DJRlbh5Yk1L501I1MruE0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sosnowiec, śląskie",
+        "area": [
+          "Polska",
+          "śląskie",
+          "Sosnowiec"
+        ]
+      }
+    },
+    {
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Wrocław, Brzeg, Oława, Środa Śląska) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkowo wyka…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Konsultant / Konsultantka Medyczna ADP",
+      "latitude": 50.86835,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Brzeg, opolskie",
+        "area": [
+          "Polska",
+          "opolskie",
+          "Brzeg"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893003419",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDE5In0.AN_WtgSdHRrAkJ599O3Qj01Kc6fCEFcF0FeXqBevyNc",
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 17.46435,
+      "category": {
+        "label": "Inżynieria",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003419?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Polska",
+          "mazowieckie",
+          "Warszawa"
+        ],
+        "display_name": "Warszawa, mazowieckie"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003365?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "longitude": 21.2453,
+      "created": "2026-09-21T18:56:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzMzY1In0.BRdmmZlG0ZDUkkf0c2JCBrrjjRqK48Mk97JmF4mtM9c",
+      "id": "5893003365",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "wykonywanie projektów i koncepcji technologicznych dla przemysłu farmaceutycznego i pokrewnych współpraca z projektantami branżowymi współpraca z pracownikami firm pracodawcy i zleceniodawcy inne czynności wynikające z bieżącego funkcjonowania firmy znajomość AutoCad sumienność i dokładność samoorganizacja pracy znajomość pakietu MS OFFICE łatwość w przyswajaniu wiedzy doskonała organizacja pracy i samodzielność w działaniu komunikatywność język angielski",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DAMASZ Sp. z o.o."
+      },
+      "latitude": 52.21519,
+      "salary_is_predicted": "0",
+      "title": "Projektant"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Chełm, lubelskie",
+        "area": [
+          "Polska",
+          "lubelskie",
+          "Chełm"
+        ]
+      },
+      "id": "5893003407",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUGktVmNlZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDAzNDA3In0.qJ0S97I_FBh2-11eNlBCmeUYQfkxifN4jC2wPpLQ5Iw",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Inżynieria"
+      },
+      "redirect_url": "https://www.adzuna.pl/details/5893003407?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 23.50976,
+      "created": "2026-09-21T18:56:55Z",
+      "description": "Na tym stanowisku będziesz zajmował/a się promocją kluczowych produktów z naszego portfolio do lekarzy, oraz reprezentowaniem Grupy Polpharma na powierzonym terenie (Lublin, Chełm, Lubartów, Kraśnik, Włodawa) a także podczas wydarzeń naukowych, dbając o profesjonalny wizerunek i zaufanie naszych klientów. Szukamy ambitnych osób, które chcą się rozwijać i są zorientowane na wynik. Posiadają umiejętność budowania relacji, wytrwałość, cierpliwość, kreatywność oraz dobrą organizację pracy. Dodatkow…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "POLPHARMA S.A."
+      },
+      "salary_is_predicted": "0",
+      "latitude": 51.09582,
+      "title": "Konsultant / Konsultantka Medyczna ADP"
+    },
+    {
+      "latitude": 54.35203,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Port Lotniczy GDAŃSK Sp. z o.o."
+      },
+      "salary_is_predicted": "0",
+      "title": "Kierowca Operator Sprzętu Pożarniczego Zakładowej Lotniskowej Straży Pożarnej (k/m)",
+      "description": "Do obowiązków na ww. stanowisku należeć będzie: Czynny udział w akcjach ratowniczo-gaśniczych oraz w innych działaniach interwencyjnych prowadzonych przez ZLSP, Kierowanie i obsługa lotniskowych pojazdów ratowniczo-gaśniczych i ich wyposażenia, Zabezpieczenie prowadzonych na terenie lotniska prac niebezpiecznych pożarowo, Czynny udział w szkoleniach teoretycznych i praktycznych oraz ćwiczeniach bojowych, Utrzymywanie wymaganej sprawności fizycznej, Dbanie o sprawność techniczną urządzeń gaśnicz…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893003393",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwMzM5MyIsInMiOiJQaS1WY2VlMThSR3pZODRPRWxTcXRRIn0.aMJr1RSYsNt1qLIjElc3kDNU4CMaYTgdgi-BsGwoSTQ",
+      "redirect_url": "https://www.adzuna.pl/details/5893003393?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Logistyka i magazyn",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:56:55Z",
+      "longitude": 18.64664,
+      "location": {
+        "display_name": "Gdańsk, Trójmiasto",
+        "area": [
+          "Polska",
+          "pomorskie",
+          "Trójmiasto",
+          "Gdańsk"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    }
+  ]
+}

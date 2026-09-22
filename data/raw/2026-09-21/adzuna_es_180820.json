@@ -1,0 +1,2997 @@
+{
+  "fetched_at": "2026-09-21T18:08:20.111669+00:00",
+  "country": "es",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 6533,
+  "mean": 73686.47,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "created": "2026-09-21T19:40:39Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDEzMjMxIn0.WKdNZdnJISk5xUQDa9zZH6lZjTi-0hTN1F5Q3BEsNkA",
+      "id": "5893013231",
+      "description": "Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (  https://tendem.ai/ ) and create high-quality presentations for real-world use cases. In this role, you'll apply your expertise in visual communication, information design, and storytelling to create clear, engaging, and professionally designed presentations. This part-time remote opportunity is ideal for creative professionals with hands-on experience in visual communications, information design, and st…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893013231?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mindrift"
+      },
+      "title": "Freelance Presentation Designer",
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "created": "2026-09-21T19:40:36Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDEzMTUzIn0.c9kEU_i2m5gpEzcS9ZApVM62go9GrIUvoxVpJmCdJEI",
+      "id": "5893013153",
+      "description": "About Our Client Our client is a growing hospitality technology company that helps hotels and hospitality businesses maximize direct bookings, streamline operations, and deliver exceptional guest experiences. Serving customers across Europe, the company combines innovative technology with deep industry expertise to help hoteliers compete in an increasingly digital marketplace. The business continues to invest in its products, people, and operational excellence while maintaining the agility and …",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Avomind"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893013153?utm_medium=api&utm_source=a6bbb028",
+      "title": "German Speaking Senior Accountant",
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Otros trabajos"
+      }
+    },
+    {
+      "longitude": 2.1734,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDExNTUwIn0.jL1PgOOKyr9OctvoAFoz6Be-MNvpT7T8DR7XE0ji9g8",
+      "created": "2026-09-21T19:37:34Z",
+      "description": "The Engineering Coordinator role is primarily a technicalcoordination and project-level engineering governance role . The person musthave sufficient engineering experience to understand interactions betweendisciplines, identify inconsistencies and interfaces, challenge DisciplineLeads when necessary, and recognize when additional specialist expertise isrequired. Yourresponsibilities will include: Coordinationof multiple engineering disciplines: Process, Mechanical, Piping,Electrical, Instrument…",
+      "id": "5893011550",
+      "latitude": 41.3851,
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "salary_max": 85000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Group-Ip"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893011550?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona"
+        ],
+        "display_name": "Barcelona, Cataluña"
+      },
+      "title": "Engineering Coordinator",
+      "salary_min": 60000
+    },
+    {
+      "created": "2026-09-21T19:09:45Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODcwNyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.HVrOJap8ss28Jw6VVyPMHulEwFIq_yjdgLa9jCUsPrU",
+      "id": "5893008707",
+      "description": "Técnico/a de Prevención de Riesgos Laborales (PRL) – Miralcamp (Lleida ) Sector: Construcción En Ilerwork, consultora especializada en la selección de profesionales para el sector de la construcción, buscamos incorporar un/a Técnico/a de Prevención de Riesgos Laborales (PRL) para una importante empresa constructora con proyectos en la zona de Miralcamp (Lleida). Buscamos una persona comprometida con la seguridad y la salud laboral, con capacidad para trabajar en obra y coordinar la implantación…",
+      "longitude": 0.878716,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Miralcamp, Lleida",
+        "area": [
+          "España",
+          "Cataluña",
+          "Lleida",
+          "Miralcamp"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893008707?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "ILERWORK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "TÉCNICO/A DE PRL",
+      "salary_min": 35000,
+      "latitude": 41.604194,
+      "category": {
+        "label": "Trabajos en construcción",
+        "tag": "trade-construction-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_max": 35000
+    },
+    {
+      "latitude": 41.119732,
+      "salary_max": 42000,
+      "category": {
+        "tag": "trade-construction-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en construcción"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Cataluña",
+          "Tarragona",
+          "Tarragona"
+        ],
+        "display_name": "Tarragona"
+      },
+      "company": {
+        "display_name": "ILERWORK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893008528?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 42000,
+      "title": "JEFE/A DE PRODUCCIÓN",
+      "longitude": 1.258592,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:09:08Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODUyOCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.B3FwnlXNEd4fYJRViVows1iIP1nLc_qMkFr3yWvZD7o",
+      "id": "5893008528",
+      "description": "JEFE/A DE PRODUCCIÓN – CONSTRUCCIÓN Tarragona (proyectos en Tarragona, Barcelona y Lleida) Desde Ilerwork, consultora especializada en selección para los sectores de construcción, ingeniería e industria, buscamos un/a Jefe/a de Producción para incorporarse a una empresa consolidada del sector de la construcción, con proyectos en las provincias de Tarragona, Barcelona y Lleida. Buscamos un perfil con experiencia en ejecución de obra, capaz de colaborar en la planificación, coordinación y seguimi…"
+    },
+    {
+      "longitude": 1.258592,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T19:09:08Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDA4NTI3In0.8ImNsNeDFZq9fBPqhj3w6ZAeLF1vFKHXWfBn5BCnRCY",
+      "id": "5893008527",
+      "description": "JEFE/A DE OBRA– INFRAESTRUCTURAS Y OBRA CIVIL En Ilerwork seleccionamos un/a Jefe/a de Obra para incorporarse a una empresa consolidada del sector de la construcción e infraestructuras, con una sólida trayectoria y presencia en Cataluña. Buscamos una persona con experiencia en la gestión integral de obras, capacidad de liderazgo y orientación a resultados, que quiera formar parte de un proyecto estable y con posibilidades de desarrollo profesional. ¿Cuál será tu misión? Te responsabilizarás de …",
+      "latitude": 41.119732,
+      "salary_max": 55000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "trade-construction-jobs",
+        "label": "Trabajos en construcción"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Cataluña",
+          "Tarragona",
+          "Tarragona"
+        ],
+        "display_name": "Tarragona"
+      },
+      "company": {
+        "display_name": "ILERWORK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893008527?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 55000,
+      "title": "JEFE/A DE OBRA"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODUyNiIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.FRQOnNxSCmZ3DkoSPD4R10mMNl41dhwxD_prXSKC6ec",
+      "created": "2026-09-21T19:09:08Z",
+      "description": "Nuestro cliente es una empresa constructora con sólida trayectoria en el sector de la obra civil y pública , actualmente en crecimiento y con proyectos activos en Valencia. Busca incorporar un/a Encargado/a con perfil polivalente para liderar la ejecución de proyectos en la provincia de Valencia. El candidato ideal debe combinar una sólida experiencia en obra civil/edificación con conocimientos avanzados en instalaciones eléctricas industriales o de edificación , siendo capaz de supervisar ambo…",
+      "id": "5893008526",
+      "longitude": -0.37423,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "ILERWORK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5893008526?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "display_name": "Valencia",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Valencia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Encargado de Obra",
+      "salary_min": 39000,
+      "latitude": 39.458652,
+      "salary_max": 39000,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "trade-construction-jobs",
+        "label": "Trabajos en construcción"
+      }
+    },
+    {
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Otros trabajos"
+      },
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Banco Santander",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892938204?utm_medium=api&utm_source=a6bbb028",
+      "title": "Product & IT Project Management Manager",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T18:00:49Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjkzODIwNCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.4ju-x8I3QExLIpULRJjhe5yz-YZdEt4DZ95DmG8TOd8",
+      "id": "5892938204",
+      "description": "Product & IT Project Management Manager Country: Spain IT STARTS HERE Santander (  ) is evolving from a global, high-impact brand into a technology-driven organization, and our people are at the heart of this journey. Together, we are driving a customer-centric transformation that values bold thinking, innovation, and the courage to challenge what’s possible. This is more than a strategic shift. It’s a chance for driven professionals to grow, learn, and make a real difference. Our mission is to…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjkzMjA3NCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.anuENESN8TOAyaUHHQowixeGBPV6fwIZNPNZj8yOsS8",
+      "id": "5892932074",
+      "description": "Ofrecemos: empleo bajo condiciones austriacas - contrato de trabajo austriaco (no en delegación) salario atractivo de 17,69 bruto / hora  30,00 EUR de dieta diaria alojamiento organizado y pagado por el Empleador / alojamiento organizado por el Empleador, el costo lo cubre el Empleado proceso de reclutamiento rápido - ¡trámites resueltos en incluso 2 días! prestaciones sociales completas contribuciones e impuestos pagados en Austria por el Empleador posibilidad de trabajar horas extras (si esta…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "salary_max": 212,
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932074?utm_medium=api&utm_source=a6bbb028",
+      "title": "Fontanero (m / f / nb)",
+      "salary_min": 212
+    },
+    {
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjkzMjA3OCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.kcNSs_Kwb7P9xVlC-jfCcafuuqAc7cY9lzFS963ZTeA",
+      "id": "5892932078",
+      "description": "Ofrecemos: contrato de trabajo holandés salario atractivo de 550 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 25,00-26,00 EUR / hora en contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) posibilidad de organizar un coche de empresa contribuciones a la seguridad social e impuestos pagados en los Países Bajos por el empleador seguro de salud para el…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España"
+        ],
+        "display_name": "España"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932078?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 6600,
+      "title": "Operador de carretillas elevadoras (m / f / nb)",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 6600
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDgyIn0.T0vCkEUJhTRNa-SAFVePYa3AJ-xQzBD28BldIVVpRUQ",
+      "created": "2026-09-21T17:53:54Z",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 600 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 32,00-34,00 EUR / hora en contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) posibilidad de organizar un coche de empresa contribuciones a la seguridad social e impuestos pagados en los Países Bajos por el empleador segur…",
+      "id": "5892932082",
+      "salary_max": 7200,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932082?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 7200,
+      "title": "Mecánico / Técnico de autocaravanas (Holanda) (m / f / nb)"
+    },
+    {
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932077?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 7200,
+      "title": "Soldador MAG de acero de refuerzo (Países Bajos) (m / f / nb)",
+      "salary_max": 7800,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDc3In0.jEtfW8B1hThI5_uZysgEwzgREiY9nMf5ZB_GlyRvjgQ",
+      "id": "5892932077",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 600 - 650 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 30,00-34,00 EUR / hora en contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) contribuciones a la seguridad social e impuestos pagados en los Países Bajos por el empleador seguro de salud para el empleado vacaciones …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 8400,
+      "redirect_url": "https://www.adzuna.es/details/5892932069?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 7800,
+      "title": "Soldador de aluminio - naval (Holanda) (m / f / nb)",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDY5In0.RdKOH-G8-KEfb_vwbMSmjlEMsriWS8F_0euEOgMLv7I",
+      "created": "2026-09-21T17:53:54Z",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 650 - 700 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 33,00-35,00 EUR / hora en contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) posibilidad de organizar un coche de empresa contribuciones a la seguridad social e impuestos pagados en los Países Bajos por el empleador…",
+      "id": "5892932069"
+    },
+    {
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932066?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 7200,
+      "title": "Pintor industrial (m / f / nb)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "salary_max": 7200,
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDY2In0.6kmj0T_Mw6iKIRMKEvrETt2IqOFufR4LtB62XSIC6bY",
+      "id": "5892932066",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 600 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 30,00-32,00 EUR / hora en el contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) contribuciones a la seguridad social e impuestos pagados en los Países Bajos por el empleador seguro de salud para el empleado vacaciones pag…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "id": "5892932072",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 600 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 30,00 - 33,00 EUR / hora en contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) posibilidad de organizar un coche de empresa contribuciones a la seguridad social y impuestos pagados en los Países Bajos por el empleador seg…",
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjkzMjA3MiIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.BgNi8U3BH0G7s2NHKzxZRFs7oZJiUdmDV2saqkQWtgM",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 7200,
+      "title": "Montador de neumáticos (Holanda) (m / f / nb)",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932072?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "salary_max": 7200
+    },
+    {
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932080?utm_medium=api&utm_source=a6bbb028",
+      "title": "Pintor industrial (m / f / nb)",
+      "salary_min": 188,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 188,
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDgwIn0.VjgbKYrwXpF6_5nKvryZY6UGAMQBTDGpVoU83EmsdC4",
+      "id": "5892932080",
+      "description": "Ofrecemos: empleo en condiciones alemanas - empleador alemán (no en delegación) salario atractivo de 15,67 bruto / hora  65,00 EUR de dieta por cada día de trabajo alojamiento organizado por el empleador, el costo lo cubre el empleado contribuciones y impuestos pagados en Alemania por el empleador posibilidad de desarrollo profesional y colaboración a largo plazo apoyo de nuestros consultores en la coordinación del empleo seguro para el empleado y su familia derecho al descanso respetado nuestr…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjkzMjA3MCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.PEVXOarTJeXH9JU1UcAzZp4mm6sDcK_mx_xes2QvigQ",
+      "created": "2026-09-21T17:53:54Z",
+      "description": "Ofrecemos: contrato de trabajo holandés o contrato A1/ZZP salario atractivo de 600 - 650 netos / semana por 40 horas de trabajo (después de deducir los costos de alojamiento y seguro) o 30,00 - 34,00 EUR / hora en el contrato A1/ZZP alojamiento organizado por el Empleador complemento de transporte (kilometraje): 0,23 EUR/km (solo con contrato de trabajo holandés) posibilidad de organizar un coche de empresa contribuciones a la seguridad social y impuestos pagados en los Países Bajos por el empl…",
+      "id": "5892932070",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.es/details/5892932070?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 7200,
+      "title": "Montador de estructuras metálicas (Holanda) (m / f / nb)",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 7800
+    },
+    {
+      "id": "5892932073",
+      "description": "Ofrecemos: empleo en condiciones alemanas - empleador alemán (no en delegación) salario atractivo de 15,67 bruto / hora  70,00 EUR de dieta por día trabajado alojamiento organizado por el empleador, el costo lo cubre el empleado contribuciones y impuestos pagados en Alemania por el empleador posibilidad de desarrollo profesional y colaboración a largo plazo apoyo de nuestros consultores en la coordinación del empleo seguro para el empleado y su familia derecho a vacaciones respetado nuestros se…",
+      "created": "2026-09-21T17:53:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyOTMyMDczIn0.6VZfwGlj6wKtF6bmKIG6h2t_8myTJHTbZsG6yMKvWRk",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Montador de ventilación (m / f / nb)",
+      "salary_min": 188,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "España",
+        "area": [
+          "España"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892932073?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 188,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "title": "Jefe/a de Obras de Instalaciones Eléctricas/Mecánicas",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Las Palmas de Gran Canaria, Las Palmas",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Las Palmas de Gran Canaria"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868921?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Veolia España"
+      },
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 28.098367,
+      "id": "5892868921",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Jefe/a de Obras de Instalaciones Eléctricas/Mecánicas para Las Palmas. ¿Cuáles serán tus funciones principales? Realizar las especificaciones técnicas de materiales y maquinarias necesarias para la ejecución de las obras, así como el planning de …",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODkyMSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.ikiZZV4qgUMnyzoouxa2o978Vm2TIvWOmIyaX4wSKVU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -15.414431
+    },
+    {
+      "latitude": 40.429254,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868887?utm_medium=api&utm_source=a6bbb028",
+      "title": "Técnico de Prevención de Riesgos Laborales",
+      "longitude": -3.724726,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg4NyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.0FU8CuSpw5jbL6dkrUfNvHiC47G_SP21_ycUwmf8xSc",
+      "id": "5892868887",
+      "description": "Descripción del empleo ¿Cuáles serán tus funciones principales? Evaluar riesgos laborales, análisis de accidentes e implementar acciones preventivas Elaborar y coordinra planes de autoprotección, simulacros y protocolos de emergencia que garantizan la seguridad integral del personal. Diseño e impartición de programas de formación en seguridad y salud laboral, asegurando que todo el equipo esté capacitado y actualizado. Auditorías internas y supervisión del cumplimiento normativo, garantizando q…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Teguise, Las Palmas",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Teguise"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Veolia España"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868862?utm_medium=api&utm_source=a6bbb028",
+      "title": "Responsable de Mantenimiento Central Térmica - Lanzarote y Fuerteventura",
+      "latitude": 29.060072,
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ingeniería"
+      },
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODYyIn0.FaNx8yrpnG5noV_YySzQFhnpWAhwjYL0r7weUj6yhIQ",
+      "id": "5892868862",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Responsable de Mantenimiento para las Centrales térmicas de Lanzarote y Fuerteventura. ¿Cuáles serán tus funciones principales? Organizar, supervisar y garantizar la correcta ejecución del mantenimiento preventivo, correctivo y predictivo de los …",
+      "longitude": -13.560306,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ingeniería"
+      },
+      "title": "Responsable de Mantenimiento Central Térmica Barranco de Tirajana",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868867?utm_medium=api&utm_source=a6bbb028",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892868867",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos incorporar a un Responsable de Mantenimiento Industrial (Eléctrico, Instrumentación y Control) para Central Térmica en Las Salinas del Matorral (Gran Canaria). ¿Cuáles serán tus funciones principales? Planificar y controlar la gestión técnica del mantenimiento preventivo, correctivo y paradas programadas. Gestionar modificaciones del alcance de los trabajos según necesidades operativas. Supervisar la t…",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg2NyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.NMpiG-fBYDN8NPUjK7pOQWgJlU7kU2tkdISCCe51WsM"
+    },
+    {
+      "title": "Jefe/a de Planta Industrial - Ingeniero/a Senior",
+      "redirect_url": "https://www.adzuna.es/details/5892868917?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Andalucía",
+          "Sevilla",
+          "Alcalá de Guadaíra"
+        ],
+        "display_name": "Alcalá de Guadaíra, Sevilla",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Trabajos en ingeniería"
+      },
+      "latitude": 37.334665,
+      "description": "Descripción del empleo Su misión será supervisar y coordinar las operaciones de la fábrica, garantizando la eficiencia productiva, calidad del material reciclado, seguridad del personal y cumplimiento de normativas ambientales. ¿Cuáles serán tus funciones principales? : Maximizar la disponibilidad de líneas de producción: Asegurar el funcionamiento continuo y eficiente de todas las líneas productivas del turno asignado. Supervisar el proceso completo de reciclaje: Controlar todas las etapas (re…",
+      "id": "5892868917",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4OTE3In0.QL8EtLQH3eEUYiy_FloT12qlyvgt8OtjL0FENG3TWq4",
+      "created": "2026-09-21T16:58:07Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -5.850651
+    },
+    {
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Veolia España"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868882?utm_medium=api&utm_source=a6bbb028",
+      "title": "Ingeniero/a Contratos de Mantenimiento",
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODgyIn0.jDsa2QT4qV4-1RdQ01ivNN3ku0xRQMkUhdNe9VWVaac",
+      "id": "5892868882",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos incorporar a un Ingeniero/a de Contratos de Mantenimiento para la zona de Murcia. ¿Cuáles serán tus funciones principales? Reportar periódicamente la actividad de mantenimiento de las instalaciones a su cargo. Planificar y programar el trabajo de su per…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "latitude": 40.429254,
+      "title": "Customer Success Intern",
+      "redirect_url": "https://www.adzuna.es/details/5892868942?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Devoteam Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.724726,
+      "description": "Job Description Buscamos un perfil proactivo, organizado y con clara orientación al cliente para unirse a nuestro equipo de Customer Success en Madrid. En este rol serás una pieza clave en la atención diaria de nuestra cartera de clientes de Google Workspace y en el control operativo de su ciclo de vida. Darás soporte en la resolución de dudas del día a día, la preparación de propuestas de renovación y la coordinación administrativa para garantizar la mejor experiencia, adopción y retención de …",
+      "id": "5892868942",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4OTQyIn0.hvJvGAAywQRabRXeNqBAsbv1lpK7lUzWEMeQmNveizg",
+      "created": "2026-09-21T16:58:07Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.es/details/5892868871?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Veolia España"
+      },
+      "location": {
+        "display_name": "Santander, Cantabria",
+        "area": [
+          "España",
+          "Cantabria",
+          "Cantabria",
+          "Santander"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Encargada/o de obra de instalaciones de climatización Cantabria",
+      "latitude": 43.465115,
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg3MSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.50O9weQ4zhbB5kOyBtLPZc5-kuJhuO74RJhLYpRoxLg",
+      "created": "2026-09-21T16:58:07Z",
+      "description": "Descripción del empleo Su trabajo consistirá en el seguimiento y supervisión de las obras adjudicadas con especial detalle en: Replanteo de instalaciones en obra junto con el jefe de obra. Control, coordinación y seguimiento de subcontratas. Control de las mediciones de obra Control del plazo de entrega de equipos y materiales Seguimiento y control de los plazos de ejecución de las obras Colaboración con delineación en el desarrollo de planos as built. Asegurar el orden y limpieza de las zonas …",
+      "id": "5892868871",
+      "longitude": -3.808676,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Ingeniero/a Senior Proyectos y Licitaciones de Reciclaje y Valorización",
+      "redirect_url": "https://www.adzuna.es/details/5892868869?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ingeniería"
+      },
+      "latitude": 40.429254,
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de reciclaje y valorización ♻, donde ofrecemos soluciones que cubren todo el ciclo de vida de los residuos, desde la recolección hasta el reciclaje y la recuperación como materiales o energía. En este entorno de innovación y compromiso, buscamos a un/a Ingeniero/a Senior Proyectos y Licitaciones de Reciclaje y Valorización reportando a la Directora Técnica de área para nuestras oficinas en Madrid. Si estás interesado/a en partici…",
+      "id": "5892868869",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg2OSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.BajfFZYPr8KA8sczsCiCVHZKlk8YahrGuvn5s9WDHn8",
+      "created": "2026-09-21T16:58:07Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.724726
+    },
+    {
+      "title": "Spares Engineer (Composite Materials Expert)",
+      "location": {
+        "area": [
+          "España"
+        ],
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "ATEXIS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868901?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Trabajos en ingeniería"
+      },
+      "id": "5892868901",
+      "description": "Descripción del empleo ¿Cuáles serán tus tareas? Identificar: Detectar piezas fuera de producción (OOP) en la lista de solicitudes de cambio (CR) o números de pieza (PN) proporcionados por el comprador. Analizar: Evaluar la criticidad de las piezas OOP mediante análisis y clasificación de la probabilidad e impacto en las operaciones. Proponer: Sugerir y justificar soluciones para las piezas OOP ante la Junta de Control Industrial de nuestro cliente final. Desarrollar e Implementar Soluciones: C…",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODkwMSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.3nhPGw-IoMmLvf35CVq6WqJ1MkpzBoYv6baDVtigidI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.724726,
+      "description": "Job Description Somos una empresa internacional de catering de lujo, reconocida por su excelencia gastronómica. Somos proveedores de catering aéreo premium para las aerolíneas más prestigiosas del mundo y lounges de alta gama.",
+      "id": "5892868865",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODY1In0.f2anLocXRRzdvtD8sd-PFdk5BapNm_0nwEcE2qkt_QE",
+      "created": "2026-09-21T16:58:07Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs",
+        "label": "Otros trabajos"
+      },
+      "latitude": 40.429254,
+      "title": "Camareros/as - Sala VIP - VIP Lounge",
+      "company": {
+        "display_name": "DO & CO",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868865?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "display_name": "Madrid",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg2MyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.gZDplxyRfOZPCT0gxyPMBsnWVupbWH4UrwUr9h6gvJ0",
+      "id": "5892868863",
+      "description": "Descripción del empleo Veolia Servicios Lecam, en su división de servicios energéticos, precisa contratar a un/a técnico/a de mantenimiento Instrumentista para La Isla Gran Canaria. Sus principales responsabilidades serán: Realizar revisiones mayores y menores en equipos de alta criticidad (transformadores, alternadores, celdas de media y alta tensión). Intervenir en interruptores, seccionadores, excitaciones y sistemas de protección de centrales de generación. Ejecutar ensayos y diagnósticos e…",
+      "longitude": -15.414431,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Las Palmas de Gran Canaria"
+        ],
+        "display_name": "Las Palmas de Gran Canaria, Las Palmas"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868863?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Técnico/a de mantenimiento Instrumentista",
+      "latitude": 28.098367,
+      "category": {
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      }
+    },
+    {
+      "title": "Arquitecto/a de Desarrollo de Red y Proyectos Retail",
+      "location": {
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "Barcelona"
+        ],
+        "display_name": "Barcelona",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "MSX International"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868911?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Trabajos en consultoría",
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 41.380002,
+      "id": "5892868911",
+      "description": "Descripción del empleo Objetivo del puesto: Dar soporte administrativo, económico y operativo al área de Desarrollo de Red, asegurando la correcta gestión y seguimiento de los proyectos de implementación en la red de concesionarios. La persona será responsable de coordinar los flujos administrativos entre Compras, Desarrollo de Red, concesionarios y proveedores, garantizando la adecuada tramitación de pedidos, control presupuestario, órdenes de pago, facturación y documentación asociada a los p…",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODkxMSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.JRBdPsf6jKabBWlLd56Bhfem-Pdm_VQSrqTo4yvbwH0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 2.168131
+    },
+    {
+      "title": "Senior Business Development Manager (m/f/d)",
+      "redirect_url": "https://www.adzuna.es/details/5892868950?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "SIXT Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "España",
+        "area": [
+          "España"
+        ]
+      },
+      "category": {
+        "label": "Trabajos en ventas",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "description": "Descripción del empleo En SIXT, no solo alquilamos coches; creamos experiencias de movilidad que conectan personas y destinos en todo el mundo. Con más de 100 años de historia, somos líderes en el sector de la movilidad premium. Nuestro equipo de Sales es el motor que impulsa las relaciones con los actores clave del sector turístico para maximizar la rentabilidad. Si tienes pasión por las ventas, vocación de servicio y te apasiona el mundo del motor, SIXT es tu lugar. TU PAPEL EN SIXT Captación…",
+      "id": "5892868950",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4OTUwIn0.bJtvy96JSJakNhKusV8YbT0KfmiQyK0yhfZyPoaULpk",
+      "created": "2026-09-21T16:58:07Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Puerto del Rosario"
+        ],
+        "display_name": "Puerto del Rosario, Las Palmas",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868966?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Responsable de Mantenimiento Central Térmica - Lanzarote y Fuerteventura",
+      "latitude": 28.498801,
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4OTY2In0.eZxw4zSciQPLaHPoJdIFLoD5-s3gaAk9cA7ZEIalFaQ",
+      "id": "5892868966",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Responsable de Mantenimiento para las Centrales térmicas de Lanzarote y Fuerteventura. ¿Cuáles serán tus funciones principales? Organizar, supervisar y garantizar la correcta ejecución del mantenimiento preventivo, correctivo y predictivo de los …",
+      "longitude": -13.860104,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Descripción del empleo ¿Tienes talento para el servicio al cliente y las ventas? En SIXT, puedes aprovechar al máximo tus fortalezas. Te encargarás de asegurar la satisfacción de los clientes, gestionar nuestra flota de vehículos y realizar diversas tareas en la sucursal. Todo lo que necesitas saber sobre nuestros vehículos, lo aprenderás con nosotros. Te esperan horarios de trabajo flexibles y auténticas oportunidades de crecimiento. Además, gracias a nuestro sistema de bonificaciones, tu sala…",
+      "id": "5892868916",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4OTE2In0.xJujdnP4OkljhPuubZfiCkGnP-FzdAygc06f0aERHpY",
+      "created": "2026-09-21T16:58:07Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 2.101383,
+      "title": "Rental Sales Agent (m/f/d) - Barcelona Fira Hospitalet",
+      "redirect_url": "https://www.adzuna.es/details/5892868916?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SIXT Spain"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "L'Hospitalet de Llobregat"
+        ],
+        "display_name": "L'Hospitalet de Llobregat, Barcelona",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Trabajos en ventas"
+      },
+      "latitude": 41.359771
+    },
+    {
+      "title": "Jefe/a de Obra - Mantenimiento Eléctrico e Instrumentación",
+      "location": {
+        "display_name": "Las Palmas de Gran Canaria, Las Palmas",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Las Palmas de Gran Canaria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868860?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 28.098367,
+      "id": "5892868860",
+      "description": "Descripción del empleo Veolia Servicios Lecam, en su división de servicios energéticos, precisa contratar a un/a Jefe/a de Obra - Mantenimiento Eléctrico e Instrumentación para La Isla Gran Canaria. Sus principales responsabilidades serán: Planificar y controlar la gestión técnica del mantenimiento preventivo, correctivo y paradas programadas. Gestionar modificaciones del alcance de los trabajos según necesidades operativas. Supervisar la totalidad de los servicios operativos en las plantas asi…",
+      "created": "2026-09-21T16:58:07Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg2MCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.UKQDLaBSik9r9O8oIZpXR3jqagGyCOu7B-l8EV0uo1c",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -15.414431
+    },
+    {
+      "latitude": 40.429254,
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ventas"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Makro España"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868840?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Ayudante de compras - Producto Seco",
+      "longitude": -3.724726,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODQwIn0.X-wrO_-Qr35gcDs4fQNEvGJ1LHoAYM8xR6UlfjYeCFo",
+      "created": "2026-09-21T16:58:06Z",
+      "description": "Descripción del empleo Nos encontramos en la búsqueda de un/a Ayudante de compras - Producto Seco para unirse al equipo de Compras en nuestras oficinas centrales en Madrid. A continuación, te contamos todos los detalles del rol: Tu misión será; apoyar al Category Manager y al Category Manager Junior en la estrategia local de categorías y proveedores, gestionando tareas administrativas y operativas para garantizar el servicio y adaptarse a las tendencias del mercado. Tus principales funciones se…",
+      "id": "5892868840"
+    },
+    {
+      "title": "Senior Business Development Manager (m/f/d)",
+      "company": {
+        "display_name": "SIXT Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868824?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Valencia",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Valencia"
+        ]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Trabajos en ventas"
+      },
+      "latitude": 39.458652,
+      "description": "Descripción del empleo En SIXT, no solo alquilamos coches; creamos experiencias de movilidad que conectan personas y destinos en todo el mundo. Con más de 100 años de historia, somos líderes en el sector de la movilidad premium. Nuestro equipo de Sales es el motor que impulsa las relaciones con los actores clave del sector turístico para maximizar la rentabilidad. Si tienes pasión por las ventas, vocación de servicio y te apasiona el mundo del motor, SIXT es tu lugar. TU PAPEL EN SIXT Captación…",
+      "id": "5892868824",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODI0In0.yXSKliqWxBElkWcVl0fsYUlIOekL9kOtI9d6b5iRbfU",
+      "created": "2026-09-21T16:58:06Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -0.37423
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4Nzg4In0.o0UXrXosS7oSboWGLA472uWvygMJJTHxyzcL9Wl0SE8",
+      "created": "2026-09-21T16:58:06Z",
+      "description": "Job Description Como Premier Partner de AWS y Google Cloud , ayudamos a las empresas a migrar, modernizar y optimizar sus infraestructuras en la nube, trabajando con arquitecturas robustas, automatizadas y escalables. Descripción del puesto Buscamos un/a perfil Senior en AWS para liderar la definición, implantación y evolución de la práctica de AWS en la compañía. El/la candidato/a asumirá la responsabilidad técnica de esta área y colaborará temporalmente en entornos GCP durante la fase inicial…",
+      "id": "5892868788",
+      "longitude": -3.724726,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Devoteam Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868788?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid"
+      },
+      "title": "Senior Cloud Engineer (AWS/GCP)",
+      "latitude": 40.429254,
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Otros trabajos"
+      }
+    },
+    {
+      "longitude": -3.724726,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg0MyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.xdKbZBIttiXM6Ot9UjRcbu37A8-gCbDjxJn5Hixqy_k",
+      "id": "5892868843",
+      "description": "Descripción del empleo Nos gustaría incorporar un/a Técnic@ con experiencia en la realización de tratamientos de legionella. Su funciones estarán adscritas a la toma de muestras y revisión de analíticas, realización de tratamientos, mantenimiento de la documentación, etc. Contrato indefinido. Salario competitivo €  incentivos (hasta 5.000 € bruto anual)  tarjeta comidas /2.000€ aprox. anuales)  furgoneta  tarjeta gasolina  seguro médico y plan de carrera.",
+      "latitude": 40.429254,
+      "category": {
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Rentokil Initial"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868843?utm_medium=api&utm_source=a6bbb028",
+      "title": "Técnico/a de Legionella"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Madrid",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868856?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Devoteam Spain"
+      },
+      "title": "Google Cloud Architect",
+      "latitude": 40.429254,
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODU2In0.haUtziLo8vsaDn3BbQLh5cJq0n7N-BNT6c7BLpey4II",
+      "id": "5892868856",
+      "description": "Job Description Descripción del puesto Incorporamos dos perfiles de Arquitectura Cloud focalizados en Google Cloud Platform (GCP). Su rol principal será la evaluación técnica de aplicaciones existentes, el diseño de arquitecturas cloud nativas y la definición de estrategias de migración hacia GCP. Funciones principales Análisis técnico y funcional de aplicaciones para determinar el modelo de migración adecuado a GCP (Rehosting, Replatforming, Refactoring). Diseño end-to-end de arquitecturas sob…",
+      "longitude": -3.724726,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5892868810",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Responsable de Mantenimiento para la Central térmica de Llanos Blancos (El Hierro). ¿Cuáles serán tus funciones principales? Organizar, supervisar y garantizar la correcta ejecución del mantenimiento preventivo, correctivo y predictivo de los equ…",
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4ODEwIn0.exSrXe0RrMJK0gjXhpal7i-hmiuPmjimwEWKqXKNRjg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -17.915096,
+      "title": "Responsable de Mantenimiento Central Térmica - El Hierro (Santa Cruz Tenerife)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Valverde, Santa Cruz de Tenerife",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Santa Cruz de Tenerife",
+          "Valverde"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868810?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 27.809383
+    },
+    {
+      "description": "Descripción del empleo ¿QUE HARAS EN DEVOTEAM? Darás soporte al Technical Lead en la coordinación y seguimiento de iniciativas relacionadas con Data Operations, observabilidad y resiliencia operativa , actuando como nexo entre los diferentes equipos involucrados. Entre tus responsabilidades estarán: Coordinar iniciativas de Resiliencia Operativa de Data , desde el diseño e implantación hasta el seguimiento de pruebas y auditorías de plataforma. Coordinar con el Centro de Operaciones la observab…",
+      "id": "5892868787",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODc4NyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0._Snd3qmhfRJOTiUbpqPzGSgShAtEgV7KyxD4ZkgMScU",
+      "created": "2026-09-21T16:58:06Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.724726,
+      "title": "Especialista en Data Operations y Resiliencia Operativa (Remoto 100%)",
+      "redirect_url": "https://www.adzuna.es/details/5892868787?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Devoteam Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Madrid",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs"
+      },
+      "latitude": 40.429254
+    },
+    {
+      "id": "5892868794",
+      "description": "Descripción del empleo Buscamos \"Talento Kiaber\" para que se incorpore con un contrato indefinido de 13 horas semanales, de viernes a domingo. ¿CÓMO SERÁ TU DÍA A DÍA EN KIABI? Acogerás, aconsejarás y fidelizarás a nuestros clientes. Trabajarás el merch de la tienda, para presentar el producto de forma atractiva, con el objetivo de potenciar las ventas. Participarás en el buen funcionamiento del día a día de la tienda (caja, perfilado de tienda, reposición, etiquetado de producto, probador, ent…",
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNk5XaWJlZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkyODY4Nzk0In0.Z0kNpNy-SR-NCkt261Ts8_jtM_i36LOArgRTQBoNha0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -0.4907,
+      "title": "Vendedor/a de Moda KIABI Alicante, C.C. Isla de Corfú (Fin de Semana)",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Alicante"
+        ],
+        "display_name": "Alicante, Comunidad Valenciana",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Kiabi España"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868794?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Trabajos en ventas",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "latitude": 38.346
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODc5OSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.hvpLrpdMO0E1is5eOgDVcDehlZDDrqYxRld0J9mnHq4",
+      "created": "2026-09-21T16:58:06Z",
+      "description": "Descripción del empleo Veolia Servicios Lecam, en su división de servicios energéticos, precisa contratar a un/a técnico/a de mantenimiento Electricista para La Isla Gran Canaria. Sus principales responsabilidades serán: Realizar mantenimiento ordinario y preventivo de sistemas eléctricos, alumbrado normal y de emergencia. Ejecutar reparaciones eléctricas rápidas (sustitución de interruptores, tomas de corriente). Desmontar y montar equipos eléctricos averiados (motores, actuadores, luminarias)…",
+      "id": "5892868799",
+      "longitude": -15.414431,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868799?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "display_name": "Las Palmas de Gran Canaria, Las Palmas",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Las Palmas de Gran Canaria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Técnico/a de mantenimiento Electricista",
+      "latitude": 28.098367,
+      "category": {
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.84899,
+      "id": "5892868849",
+      "description": "Descripción del empleo ¿Tenes conocimientos en media, alta tensión y estás buscando una oportunidad para comenzar un nuevo proyecto profesional en una empresa líder a nivel mundial? Buscamos incorporar a nuestro equipo un ensayista para asistir al equipo de técnicos con tareas de instalación, pruebas y ensayos eléctricos de MT y AT en todo el territorio nacional. También realizaría otras tareas que sean necesarias para el buen funcionamiento de la empresa.",
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg0OSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.kMhJg2Dy1ScrW7u3UyOq-Tpws6i3iCNvQtRXqgjuEmE",
+      "category": {
+        "tag": "consultancy-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en consultoría"
+      },
+      "latitude": 40.126281,
+      "title": "Ensayista media y alta tensión (MT y AT)",
+      "location": {
+        "display_name": "Illescas, Toledo",
+        "area": [
+          "España",
+          "Castilla-La Mancha",
+          "Toledo",
+          "Illescas"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868849?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SGS"
+      }
+    },
+    {
+      "company": {
+        "display_name": "JYSK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868826?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Cheste"
+        ],
+        "display_name": "Cheste, Valencia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "PRÁCTICAS EN RECURSOS HUMANOS",
+      "latitude": 39.493483,
+      "category": {
+        "label": "Trabajos en ventas",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODgyNiIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.0j7f3PQcudIcncfAJlV1KOPbRRe2ex_yI1vSwclS1-E",
+      "created": "2026-09-21T16:58:06Z",
+      "description": "Descripción del empleo ¿Estás deseando poner en práctica tu formación académica? ¿Te gustaría seguir aprendiendo y construir tu carrera en un lugar con un ritmo dinámico y variado? Entonces, ¡realiza tus prácticas en JYSK y sigue desarrollándote! QUÉ OFRECEMOS Tendrás la oportunidad de recibir una formación que te asegurará una base sólida para el desarrollo de tu carrera. Un alto porcentaje de nuestros alumnos en prácticas continúan su carrera con nosotros. Además, como alumno en prácticas en …",
+      "id": "5892868826",
+      "longitude": -0.685608,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "longitude": -15.414431,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg0NCIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.dkgFQ-Dvc8LUAvi7mDAuj2eVVdnXL-mY_jyeA8-G1-4",
+      "created": "2026-09-21T16:58:06Z",
+      "description": "Descripción del empleo Veolia Servicios Lecam, en su división de servicios energéticos, precisa contratar a un/a Jefe/a de Equipo - Mantenimiento Eléctrico e Instrumentación para La Isla Gran Canaria. Sus principales responsabilidades serán: Supervisar directamente a los oficiales de electricidad e instrumentación en las tareas diarias de mantenimiento. Coordinar a pie de obra las gamas preventivas y asignaciones correctivas en las centrales. Liderar las cuadrillas de oficiales en la ejecución …",
+      "id": "5892868844",
+      "latitude": 28.098367,
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868844?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Las Palmas",
+          "Las Palmas de Gran Canaria"
+        ],
+        "display_name": "Las Palmas de Gran Canaria, Las Palmas"
+      },
+      "title": "Jefe/a de Equipo - Mantenimiento Eléctrico e Instrumentación"
+    },
+    {
+      "description": "Descripción del empleo En SIXT, no solo alquilamos coches; creamos experiencias de movilidad que conectan personas y destinos en todo el mundo. Con más de 100 años de historia, somos líderes en el sector de la movilidad premium. Nuestro equipo de Sales es el motor que impulsa las relaciones con los actores clave del sector turístico para maximizar la rentabilidad. Si tienes pasión por las ventas, vocación de servicio y te apasiona el mundo del motor, SIXT es tu lugar. TU PAPEL EN SIXT Captación…",
+      "id": "5892868803",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODgwMyIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.V08tAbJOl4xTMHtGI21NTjkF7g1B-rViaprlscnpsfw",
+      "created": "2026-09-21T16:58:06Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": -4.423413,
+      "title": "Senior Business Development Manager (m/f/d)",
+      "redirect_url": "https://www.adzuna.es/details/5892868803?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "SIXT Spain",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "España",
+          "Andalucía",
+          "Málaga",
+          "Málaga"
+        ],
+        "display_name": "Málaga",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ventas"
+      },
+      "latitude": 36.715155
+    },
+    {
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Técnico/a de Técnico/a de Seguridad y Salud Laboral con ubicación en Lleida, reportando a la Coordinadora de Técnico/a de Seguridad y Salud Laboral. ¿Cuáles serán tus funciones principales ? Elaborar procedimientos e instrucciones técnicas necesari…",
+      "id": "5892868846",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODg0NiIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0.lzcjTbKhaz4sBOAZtHgYugAiN3m8sstGTkx9juheekk",
+      "created": "2026-09-21T16:58:06Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 0.638021,
+      "title": "Técnico/a de Seguridad y Salud Laboral - Lleida",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868846?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "area": [
+          "España",
+          "Cataluña",
+          "Lleida",
+          "Lleida"
+        ],
+        "display_name": "Lleida",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 41.606568
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 2.168131,
+      "id": "5892868829",
+      "description": "Job Description Job description As Senior Product Manager for Asphalt Legends , you will be a key figure behind the game’s financial health and long-term sustainability. Together with the Game Manager and key stakeholders, you will orchestrate the revenue strategy across the product lifecycle, balancing aggressive growth in engagement and monetization with AAA player experience. You are not just managing a product; you are scaling a global racing phenomenon. YOUR CHALLENGES & RESPONSIBILITIES S…",
+      "created": "2026-09-21T16:58:06Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODgyOSIsInMiOiI2TldpYmVlMThSR2xjTUFGOS1XU013In0._TJzIaCIc0coKYsgEYhgvZWJf7AGvIEmMyyLldLPEP0",
+      "category": {
+        "label": "Trabajos en marketing, publicidad y relaciones públicas",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 41.380002,
+      "title": "Senior Product Manager - Asphalt Legends",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "Barcelona"
+        ],
+        "display_name": "Barcelona"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868829?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gameloft Barcelona"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/details/5892868836?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -3.724726,
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos incorporar a un Analista de Eficiencia Energética para nuestro Hubgrade en Madrid. ¿Cuáles serán tus funciones principales? Revisión de reporting KPI's, BUDGET y actualizaciones LExx de los contratos pertenecientes a su zona. Realizar cálculo de medidas de mejora en contratos de energía y elaborar los informes necesarios. Llevar a cabo el análisis de los contratos de energía asignados y hacer seguimien…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Trabajos en ingeniería"
+      },
+      "id": "5892868836",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODgzNiIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.VQDaC8UjD58oZuh4G2NaJbr4W739520AfMZb2kC4G2w",
+      "title": "Analista Eficiencia Energética",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T16:58:06Z",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 40.429254
+    },
+    {
+      "latitude": 40.126281,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SGS"
+      },
+      "created": "2026-09-21T16:58:06Z",
+      "salary_is_predicted": "0",
+      "title": "Montador de Media y Alta Tensión (MT y AT)",
+      "category": {
+        "tag": "consultancy-jobs",
+        "label": "Trabajos en consultoría",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892868830",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODY4ODMwIn0.Darmdxi50ZcjLZPChomIFEcDCtTd76Yu4AVmSKHdTa0",
+      "description": "Descripción del empleo ¿Tenes conocimientos o experiencia como montador en media, alta tensión y estás buscando una oportunidad para comenzar un nuevo proyecto profesional en una empresa líder a nivel mundial? Buscamos incorporar a nuestro equipo un Montador para asistir al equipo de técnicos con tareas de asistencia en la resolución y ejecución de obras, averías, instalaciones y reparaciones en MT y AT.",
+      "longitude": -3.84899,
+      "redirect_url": "https://www.adzuna.es/details/5892868830?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Illescas, Toledo",
+        "area": [
+          "España",
+          "Castilla-La Mancha",
+          "Toledo",
+          "Illescas"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "title": "Senior UI Designer",
+      "id": "5892868808",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODY4ODA4In0.o0wHBiNHTWxb_KMTROarRZaoCZcXE5sqbE6BM7IUQQk",
+      "created": "2026-09-21T16:58:06Z",
+      "company": {
+        "display_name": "Gameloft Barcelona",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 41.380002,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Barcelona",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "Barcelona"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868808?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 2.168131,
+      "description": "Job Description Are you interested by video games and have a passion for this industry? Join our award winning creation team and take part in creating user-interface assets and menu designs for our multiplatform games. Your work will leverage the art direction, dress up the user-experience flow and enhance the visual narrative of the game. Working under the supervision of the UI/UX Director you will be a key part of the art production, collaborating with the user-experience and design teams. Yo…"
+    },
+    {
+      "latitude": 41.380002,
+      "created": "2026-09-21T16:58:06Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Glovo"
+      },
+      "salary_is_predicted": "0",
+      "title": "Security GRC Engineer",
+      "id": "5892868854",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODY4ODU0In0.aex_G-GQKBJit3eqbdKRIKk8IZ7_r9hcBuR5dJ2Dy-U",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "Trabajos en informática"
+      },
+      "description": "Job Description Glovo is seeking a proactive Security GRC Engineer to help strengthen our global security posture and navigate a rapidly evolving regulatory environment. In this multifaceted role, you will support compliance frameworks (PCI DSS, ISO 27001, NIS2), internal and external audits, drive risk assessment and remediation, and pioneer security awareness programs within our organization. Acting as a strategic bridge between technical engineering, legal, and business stakeholders, you wil…",
+      "redirect_url": "https://www.adzuna.es/details/5892868854?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 2.168131,
+      "location": {
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "Barcelona"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Barcelona"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892868833",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg2ODgzMyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.NhLoknZdwXyzil_AAb54WwP4yBz-P1fj7a_-lvjlrEU",
+      "title": "Ingeniero/a Energía o Electricidad Junior",
+      "salary_is_predicted": "0",
+      "latitude": 38.822059,
+      "created": "2026-09-21T16:58:06Z",
+      "company": {
+        "display_name": "Veolia España",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.es/details/5892868833?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -0.606393,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Ontinyent"
+        ],
+        "display_name": "Ontinyent, Valencia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Descripción del empleo La posición estaría enmarcada en el ámbito de Energía , donde buscamos mejorar la eficiencia y reduciendo el consumo y las emisiones en edificios, industrias y ciudades. En este entorno de innovación y compromiso, buscamos a un/a Ingeniero/a Energía o Electricidad Junior para nuestra línea de Energía Solar en Ontinyent, Valencia. ¿Cuáles serán tus funciones principales ? Análisis detallado de pliegos de licitaciones para la presentación de ofertas. Redacción de memorias t…"
+    },
+    {
+      "title": "Data Analyst",
+      "id": "5892868772",
+      "category": {
+        "tag": "it-jobs",
+        "label": "Trabajos en informática",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODY4NzcyIn0.649F1GGrv75gOQYvlMs5Uj9ayuGD3GRJ-6csV-L2wv8",
+      "company": {
+        "display_name": "MSX International",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:58:06Z",
+      "latitude": 41.386026,
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Sant Just Desvern, Barcelona",
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona",
+          "Sant Just Desvern"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 2.076097,
+      "redirect_url": "https://www.adzuna.es/details/5892868772?utm_medium=api&utm_source=a6bbb028",
+      "description": "Descripción del empleo Como Analista de Datos , serás responsable de gestionar, analizar y transformar datos clave relacionados con proyectos del sector automoción. Tu misión será convertir grandes volúmenes de datos en insights claros y accionables que apoyen la toma de decisiones, la optimización de procesos y el rendimiento general del negocio."
+    },
+    {
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/details/5892850883?utm_medium=api&utm_source=a6bbb028",
+      "description": "As a Product Manager, you play a pivotal role in driving the strategic direction of our platform. You require a deep understanding of user needs and a commitment to delivering exceptional solutions that align with both user requirements and business objectives. You engage directly with clients to conduct product discovery, gather user feedback, and share insights with the Product Owners. We're seeking a strategically minded Product Manager who thrives in complex environments and can drive impac…",
+      "title": "Product Manager",
+      "id": "5892850883",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg1MDg4MyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.MWZ1K_If9yzIZJAyDnz7Z13ZZxkpYvLM6gxn1ol0Q7c",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs",
+        "label": "Otros trabajos"
+      },
+      "created": "2026-09-21T16:40:16Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fundcraft"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "id": "5892842168",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTY4In0.rEcLleAbSzDEHUNqPBhghgKF5iXm6Iif8YKE8CZy7fE",
+      "category": {
+        "label": "Trabajos en informática",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Clases de informática y programación (Clases particulares)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T16:03:34Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "latitude": 37.181518,
+      "location": {
+        "display_name": "Granada",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Granada",
+          "Granada"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.60377,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842168?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=6AF5DA0F2DCD6E9B37BB09E74A5208C3E5F77513",
+      "description": "¿Buscas trabajo en clases particulares? Este mes de septiembre surgen nuevas oportunidades para clases de informática y programación en Granada. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "salary_is_predicted": "0",
+      "latitude": 40.293784,
+      "created": "2026-09-21T16:03:32Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892842164",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTY0In0.nur1OI2fESeRqo6b93fT_P5l4kfPXg2bElkqMBKrSig",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "Trabajadores y educadores sociales (Ayuda a la dependencia)",
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para trabajadores y educadores sociales en Valdilecha. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -3.302386,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842164?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=2DF9132C970978E98EB891FFFC803B86D1513DE7",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Valdilecha"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Valdilecha, Madrid"
+      }
+    },
+    {
+      "id": "5892842114",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjExNCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.Xo2vKnZEQe9-j4cE22f0Binc3PpVDKZh95am_4B_mdg",
+      "title": "Gestión logística (Transporte, logística y almacén)",
+      "salary_is_predicted": "0",
+      "latitude": 37.38979,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:03:22Z",
+      "longitude": -5.998954,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842114?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=8B92392B3BF3BB1EA80A5B82C80BDBD8042E5705",
+      "location": {
+        "display_name": "Sevilla",
+        "area": [
+          "España",
+          "Andalucía",
+          "Sevilla",
+          "Sevilla"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "¿Buscas trabajo en transporte, logística y almacén? Este mes de septiembre surgen nuevas oportunidades para gestión logística en Sevilla. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "description": "¿Buscas trabajo en transporte, logística y almacén? Este mes de septiembre surgen nuevas oportunidades para camioneros, conductores en Pilas. ¡Inscríbete gratis hoy mismo!",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842110?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E3BB3E19D5B078B12D36D301F734E93A6F0FEAF1",
+      "longitude": -6.302777,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Sevilla",
+          "Pilas"
+        ],
+        "display_name": "Pilas, Sevilla"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 37.301209,
+      "created": "2026-09-21T16:03:20Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "salary_is_predicted": "0",
+      "title": "Camioneros, conductores (Transporte, logística y almacén)",
+      "id": "5892842110",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTEwIn0.31_ndKKelLjpMQJUkkKgiFTrScT3qJWgidWLb0n5ygw"
+    },
+    {
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:03:20Z",
+      "latitude": 38.600597,
+      "salary_is_predicted": "0",
+      "title": "Enseñanza primaria (Clases particulares)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTA5In0.efcaHrjetglEB658DT1iBsoUXX_RRTNR0QtQlXLfiPw",
+      "id": "5892842109",
+      "category": {
+        "label": "Trabajos en educación",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "¿Buscas trabajo en clases particulares? Este mes de septiembre surgen nuevas oportunidades para enseñanza primaria en Altea. ¡Inscríbete gratis hoy mismo!",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Alicante",
+          "Altea"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Altea, Alicante"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842109?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E256D7E84525A22DE73E4B69F7DF4FD16C2BEE3C",
+      "longitude": -0.047726
+    },
+    {
+      "salary_is_predicted": "0",
+      "latitude": 42.661865,
+      "created": "2026-09-21T16:03:20Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892842108",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjEwOCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.9ni4VCWskg8GXjIyHKUZtMVH8ZZgcYgPWhWxblfMglY",
+      "title": "Camareros y Baristas (Hostelería y turismo)",
+      "description": "¿Buscas trabajo en hostelería y turismo? Este mes de septiembre surgen nuevas oportunidades para camareros y baristas en Villatuerta. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -1.994408,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842108?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=65143A3FB8CEF401A6849298FA989FED61A259C2",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Villatuerta, Navarra",
+        "area": [
+          "España",
+          "Comunidad Foral de Navarra",
+          "Navarra",
+          "Villatuerta"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "latitude": 38.532848,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:03:17Z",
+      "id": "5892842106",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTA2In0.ThfD70wlrOTvj_TmbvjKFS5w6yD4B83WOM9Php-zEeQ",
+      "title": "Mantenimiento industrial (Industria y producción)",
+      "description": "¿Buscas trabajo en industria y producción? Este mes de septiembre surgen nuevas oportunidades para mantenimiento industrial en Tibi. ¡Inscríbete gratis hoy mismo!",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842106?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0EBFC1E23DA79804716E4EDFD440E5EECB747962",
+      "longitude": -0.574846,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Alicante",
+          "Tibi"
+        ],
+        "display_name": "Tibi, Alicante"
+      }
+    },
+    {
+      "created": "2026-09-21T16:03:17Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 36.715155,
+      "salary_is_predicted": "0",
+      "title": "Arquitectura (Obras y reformas)",
+      "id": "5892842107",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjEwNyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.SrB4gGkZb8mpNsG9NKPUwY1aRKP1YY6fgZeqAxsswEg",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para arquitectura en Málaga. ¡Inscríbete gratis hoy mismo!",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Málaga",
+        "area": [
+          "España",
+          "Andalucía",
+          "Málaga",
+          "Málaga"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842107?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=F7301ACBAAE90BC0760FBA847747BB073B7CF2C7",
+      "longitude": -4.423413
+    },
+    {
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para electricistas en Lorca. ¡Inscríbete gratis hoy mismo!",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Región de Murcia",
+          "Murcia",
+          "Lorca"
+        ],
+        "display_name": "Lorca, Murcia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -1.691403,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842103?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=6EFB2442EB16EDFA5A97962AA4CD4ABBD2A5F032",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:03:15Z",
+      "latitude": 37.67757,
+      "salary_is_predicted": "0",
+      "title": "Electricistas (Obras y reformas)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en ingeniería",
+        "tag": "engineering-jobs"
+      },
+      "id": "5892842103",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTAzIn0.zXxEXQOtB0KtlSO5g0L1VrqKdL0XP_GKFG3Oj79ehys"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:03:14Z",
+      "latitude": 36.683835,
+      "salary_is_predicted": "0",
+      "title": "Electromecánicos (Industria y producción)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892842101",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMTAxIn0.wXmGpg1HBXu3HnWhCqNYZoVSUQVmS-VIp-ijf3sziLw",
+      "description": "¿Buscas trabajo en industria y producción? Este mes de septiembre surgen nuevas oportunidades para electromecánicos en Jerez de la Frontera. ¡Inscríbete gratis hoy mismo!",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Cádiz",
+          "Jerez de la Frontera"
+        ],
+        "display_name": "Jerez de la Frontera, Cádiz"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842101?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E4A7762C1183EA0549C7AEE9F30093CE7DCD3D12",
+      "longitude": -6.140516
+    },
+    {
+      "latitude": 37.443715,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:03:14Z",
+      "salary_is_predicted": "0",
+      "title": "Auxiliares de enfermería (Ayuda a la dependencia)",
+      "id": "5892842100",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjEwMCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.ZIqGokMT0NdNpks-OX4vT4tzCI5dczcmpVjPbI9To98",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos de limpieza",
+        "tag": "domestic-help-cleaning-jobs"
+      },
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para auxiliares de enfermería en Carcabuey. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -4.273419,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842100?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=9BA43CD42532FE39BC9B0B19BF166E95AB091C3D",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Andalucía",
+          "Córdoba",
+          "Carcabuey"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Carcabuey, Córdoba"
+      }
+    },
+    {
+      "description": "¿Buscas trabajo en comunicación? Este mes de septiembre surgen nuevas oportunidades para marketing y ventas en Murchante. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -1.657424,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842094?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4A35200EF8DCDB222EFC8244341397B030C161AE",
+      "location": {
+        "display_name": "Murchante, Navarra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad Foral de Navarra",
+          "Navarra",
+          "Murchante"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 42.032108,
+      "created": "2026-09-21T16:03:11Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Marketing y ventas (Comunicación)",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892842094",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjA5NCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.vbvwy7eSN6d3pNpKNMAT63xB0I_ND7ENYMq7uykoFzw"
+    },
+    {
+      "id": "5892842050",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMDUwIn0.SwijwNT07C7Sbc77CdgEoS3cwC7t2WN0lpMKZqHghNA",
+      "title": "Trabajadores y educadores sociales (Ayuda a la dependencia)",
+      "salary_is_predicted": "0",
+      "latitude": 38.2507,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:02:58Z",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842050?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=13F33340175A560E05F0A0AEF0BB4CD46557DAF5",
+      "longitude": -3.205293,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Jaén",
+          "Santisteban del Puerto"
+        ],
+        "display_name": "Santisteban del Puerto, Jaén"
+      },
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para trabajadores y educadores sociales en Santisteban del Puerto. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "description": "¿Buscas trabajo en salud y bienestar? Este mes de septiembre surgen nuevas oportunidades para esteticistas, manicura y pedicura en Lepe. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -7.200392,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842047?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=5069B509C7DA596FD6A411459D55F610BA389B23",
+      "location": {
+        "area": [
+          "España",
+          "Andalucía",
+          "Huelva",
+          "Lepe"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Lepe, Huelva"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 37.256964,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:02:58Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjA0NyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.46Gi6iQIUfZKRpx58U6POD4Mt_4c47ghNgIqNH46St4",
+      "id": "5892842047",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "Esteticistas, manicura y pedicura (Salud y Bienestar)"
+    },
+    {
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Castellón",
+          "Almassora"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Almassora, Castellón"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842048?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=163493131E27EFB245131732272D9E85669F39B6",
+      "description": "¿Buscas trabajo en asistentes personales? Este mes de septiembre surgen nuevas oportunidades para entrenador personal o preparador físico en Almazora. ¡Inscríbete gratis hoy mismo!",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892842048",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMDQ4In0.i-9s0IitZqFT03zbyH4-u3CoKgkAR7XKxj-tG8Ehzgg",
+      "title": "Entrenador personal o preparador físico (Asistentes personales)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T16:02:58Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Leganés, Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Leganés"
+        ]
+      },
+      "longitude": -3.767908,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842044?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=56212F8C7A44C9618A50681DFAAF80394449CCDE",
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para electricistas en Leganés. ¡Inscríbete gratis hoy mismo!",
+      "title": "Electricistas (Obras y reformas)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMDQ0In0.vtF9iWmE5-y30JWYxhauJ4qV31AO_3NRLzEL9_Fd7Es",
+      "id": "5892842044",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Trabajos en ingeniería",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:02:56Z",
+      "latitude": 40.32825,
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:02:55Z",
+      "latitude": 39.456337,
+      "salary_is_predicted": "0",
+      "title": "Procesos industriales (Industria y producción)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjA0MCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.m9IO3YxWCxWx0fAhHPVei7lVM7II6S3qKLQaaeQNHIM",
+      "id": "5892842040",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "description": "¿Buscas trabajo en industria y producción? Este mes de septiembre surgen nuevas oportunidades para procesos industriales en Alaquàs. ¡Inscríbete gratis hoy mismo!",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Alaquàs, Valencia",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Alaquàs"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842040?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=1B2E14BD3F7047EEE43EA4AFF28626A5AC37DA7B",
+      "longitude": -0.459846
+    },
+    {
+      "latitude": 37.409549,
+      "created": "2026-09-21T16:02:55Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Enseñanza primaria (Clases particulares)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Trabajos en educación",
+        "tag": "teaching-jobs"
+      },
+      "id": "5892842043",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MjA0MyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.tmgv2HnGqb6AkhlqbUBHWmAEaV_H1gKdUgNiGLYQtrQ",
+      "description": "¿Buscas trabajo en clases particulares? Este mes de septiembre surgen nuevas oportunidades para enseñanza primaria en Castilleja de Guzmán. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -6.056999,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842043?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=234308CD30AF1F481B5F0E7A3C9DFBFCAD17FF5C",
+      "location": {
+        "display_name": "Castilleja de Guzmán, Sevilla",
+        "area": [
+          "España",
+          "Andalucía",
+          "Sevilla",
+          "Castilleja de Guzmán"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para auxiliares de enfermería en Quatretonda. ¡Inscríbete gratis hoy mismo!",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841982?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4B97D59846CEB336C52A30D0D956BA3233834EFC",
+      "longitude": -0.401916,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Quatretonda"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Quatretonda, Valencia"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 38.946548,
+      "created": "2026-09-21T16:02:52Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "domestic-help-cleaning-jobs",
+        "label": "Trabajos de limpieza"
+      },
+      "id": "5892841982",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTk4MiIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.SqEDN_rVTZMDPZs6Sk-Jw0GYXlmj4LQ26UeTFloE6Jg",
+      "title": "Auxiliares de enfermería (Ayuda a la dependencia)"
+    },
+    {
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para trabajadores y educadores sociales en Guadassuar. ¡Inscríbete gratis hoy mismo!",
+      "longitude": -0.478855,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841991?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=A63ECC4C238BE8CA3478BB53EA882C8DA732F228",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Guadassuar"
+        ],
+        "display_name": "Guadassuar, Valencia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 39.184574,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:02:52Z",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892841991",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTk5MSIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.OnwxM1oQ_Am7HiqWLGsCsWLMYHSeCH3BW0T05NbtpSI",
+      "title": "Trabajadores y educadores sociales (Ayuda a la dependencia)"
+    },
+    {
+      "id": "5892842026",
+      "category": {
+        "label": "Trabajos de limpieza",
+        "tag": "domestic-help-cleaning-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQyMDI2In0.Gvp6ZNhH0EHU6RD0khxIISgU3Ins5Fjb-9jj_q8AniE",
+      "title": "Auxiliares de enfermería (Ayuda a la dependencia)",
+      "salary_is_predicted": "0",
+      "latitude": 40.075618,
+      "created": "2026-09-21T16:02:52Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": -0.212283,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892842026?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=3710DCEAA40F0B2B966145FA7CDC5FF09841F8E8",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Castellón",
+          "L'Alcora"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "L'Alcora, Castellón"
+      },
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para auxiliares de enfermería en L' Alcora. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "latitude": 28.490422,
+      "created": "2026-09-21T16:02:47Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Arreglos florales (Organización de eventos)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQxOTY0In0.zU5zNrLDbhsa43SkAdAF5qeC4RHl-Q5PpKf-OLV0Ftg",
+      "id": "5892841964",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "¿Buscas trabajo en organización de eventos? Este mes de septiembre surgen nuevas oportunidades para arreglos florales en San Cristóbal de La Laguna. ¡Inscríbete gratis hoy mismo!",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841964?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=407BEC55D939549A05A58BE8E39C97B439477308",
+      "longitude": -16.315581,
+      "location": {
+        "display_name": "San Cristóbal de La Laguna, Santa Cruz de Tenerife",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Islas Canarias",
+          "Santa Cruz de Tenerife",
+          "San Cristóbal de La Laguna"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841929?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0C8E86FB79A06DF73E0BBBF2B4524B22E6938978",
+      "longitude": -2.511409,
+      "location": {
+        "display_name": "Serón, Almería",
+        "area": [
+          "España",
+          "Andalucía",
+          "Almería",
+          "Serón"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "¿Buscas trabajo en ayuda a la dependencia? Este mes de septiembre surgen nuevas oportunidades para auxiliares de ayuda a domicilio s.a.d. en Serón. ¡Inscríbete gratis hoy mismo!",
+      "id": "5892841929",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQxOTI5In0.VvTu5JhzaO-yX5BjZHEawSW7Psffz35cIHXzSufBfd0",
+      "title": "Auxiliares de ayuda a domicilio S.A.D. (Ayuda a la dependencia)",
+      "salary_is_predicted": "0",
+      "latitude": 37.343174,
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T16:02:44Z"
+    },
+    {
+      "id": "5892841927",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTkyNyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.VxSshSZL-yf7emGMfQE9W96P5U9sNsmuYNB24jBEUzM",
+      "title": "Operarios (Industria y producción)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T16:02:44Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "latitude": 36.765754,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Pizarra, Málaga",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Málaga",
+          "Pizarra"
+        ]
+      },
+      "longitude": -4.708355,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841927?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=FA06F10D9FE11A45D7E75983D39B5CA46F7BA31B",
+      "description": "¿Buscas trabajo en industria y producción? Este mes de septiembre surgen nuevas oportunidades para operarios en Pizarra. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para construcción y reformas en San Vicente del Raspeig. ¡Inscríbete gratis hoy mismo!",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "San Vicente del Raspeig/Sant Vicent del Raspeig, Alicante",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Alicante",
+          "San Vicente del Raspeig/Sant Vicent del Raspeig"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841928?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=7AF940D4699AC118D71C04A654474D17723EFB06",
+      "longitude": -0.524991,
+      "created": "2026-09-21T16:02:44Z",
+      "company": {
+        "display_name": "domestiko.com",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 38.396133,
+      "salary_is_predicted": "0",
+      "title": "Construcción y reformas (Obras y reformas)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "id": "5892841928",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTkyOCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.6PBwEY--EumMZVhUnZwOWsoeLcmK0S90Gqu2DACfyKI"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:02:43Z",
+      "latitude": 40.43594,
+      "salary_is_predicted": "0",
+      "title": "Entrenador personal o preparador físico (Asistentes personales)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTkyNiIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.IC4HmWkB68fT_9RmVs2LwoeYBTP-KY7rLvRXTGAgS8M",
+      "id": "5892841926",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "¿Buscas trabajo en asistentes personales? Este mes de septiembre surgen nuevas oportunidades para entrenador personal o preparador físico en Pozuelo de Alarcón. ¡Inscríbete gratis hoy mismo!",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Pozuelo de Alarcón"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Pozuelo de Alarcón, Madrid"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841926?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E8A051232CC3259265E8E2A60B58BE27B28EC5E2",
+      "longitude": -3.815816
+    },
+    {
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para albañiles y encofradores en Sueca. ¡Inscríbete gratis hoy mismo!",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841924?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=63B3A29ABEC1D4ABF5EEB93FCE28A7DE7AD514C7",
+      "longitude": -0.315524,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad Valenciana",
+          "Valencia",
+          "Sueca"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sueca, Valencia"
+      },
+      "latitude": 39.202428,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:02:42Z",
+      "salary_is_predicted": "0",
+      "title": "Albañiles y encofradores (Obras y reformas)",
+      "id": "5892841924",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTkyNCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.O2oNoYCyqXnLTULqw3hWYmwjA-P1CUY0Nuuosg62XMI"
+    },
+    {
+      "title": "Albañiles y encofradores (Obras y reformas)",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892841913",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MTkxMyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.cyO7gXSZ5178xJ_p1WRYoCQPwDBuwQAFw5xQ2ff5drg",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "domestiko.com"
+      },
+      "created": "2026-09-21T16:02:41Z",
+      "latitude": 37.301135,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "España",
+          "Andalucía",
+          "Granada",
+          "Guadix"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Guadix, Granada"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -3.140326,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892841913?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=8F39D9360FFCBA2226E00A0863790B11C9D95C87",
+      "description": "¿Buscas trabajo en obras y reformas? Este mes de septiembre surgen nuevas oportunidades para albañiles y encofradores en Guadix. ¡Inscríbete gratis hoy mismo!"
+    },
+    {
+      "title": "Professor Secundário - Plástica Visual & Tutoria ESO",
+      "category": {
+        "tag": "other-general-jobs",
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892840823",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDgyMyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.rC780Bmxz2bWihavXrG6BBS_jtZ0gQcz5Po0MaLFdwo",
+      "latitude": 40.518397,
+      "created": "2026-09-21T15:56:51Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "COLEGIO SANTA MARÍA LA BLANCA"
+      },
+      "salary_is_predicted": "0",
+      "longitude": -3.690798,
+      "redirect_url": "https://www.adzuna.es/details/5892840823?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Alcobendas, Madrid",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Alcobendas"
+        ]
+      },
+      "description": "SE OFRECE VACANTE DE PROFESOR EN JORNADA COMPLETA, CON CONTRATO INDEFINIDO PARA IMPARTIR LAS ASIGNATURAS DE EDUCACIÓN PLÁSTICA, VISUAL Y AUDIOVISUAL EN 2º ESO Y DE TECNOLOGÍA Y DIGITALIZACIÓN EN 2º Y 3º ESO, ADEMÁS DE LA FUNCIÓN DE TUTORÍA GRUPAL EN 2º ESO."
+    },
+    {
+      "redirect_url": "https://www.adzuna.es/details/5892840820?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 2.1734,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España",
+          "Cataluña",
+          "Barcelona"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Barcelona, Cataluña"
+      },
+      "description": "Empresa: Molins Design Experiencia requerida: 4–5 años de experiencia contrastada en desarrollo técnico y gestión ejecutiva de proyectos desde estudio  Sobre Molins Design MOLINS DESIGN es un estudio de interiorismo y arquitectura interior con trayectoria consolidada y mirada contemporánea, donde el diseño, la funcionalidad y la materialización van de la mano. Trabajan proyectos residenciales y comerciales con un fuerte enfoque en el espacio, los materiales y la experiencia del usuario.  Sobre …",
+      "title": "Interiorista - Oficina Técnica",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQwODIwIn0.CDbqrLws_hac02zLc3t_T4gwW41q3-PhYfskwWiNaGU",
+      "id": "5892840820",
+      "category": {
+        "tag": "other-general-jobs",
+        "label": "Otros trabajos",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 41.3851,
+      "created": "2026-09-21T15:56:51Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Talento hecho"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": -4.540769,
+      "redirect_url": "https://www.adzuna.es/details/5892840828?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Alhaurín de la Torre, Málaga",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Andalucía",
+          "Málaga",
+          "Alhaurín de la Torre"
+        ]
+      },
+      "description": "Abogado/a – Derecho Concursal Únete a EY GDS y desarrolla tu carrera en Derecho Concursal ¿Te apasiona el ámbito jurídico y te gustaría formar parte de un entorno internacional donde combinar experiencia legal, innovación y desarrollo profesional? En EY Global Delivery Services (EY GDS) España , buscamos incorporar un/a Abogado/a especializado/a en Derecho Concursal para nuestra oficina de Málaga. Tendrás la oportunidad de trabajar junto a profesionales expertos, participar en proyectos de alto…",
+      "title": "Junior Legal - EY GDS Spain - Hybrid",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQwODI4In0.c3OH6IvcCHpip7mJos-jixc0Gue-U1trr_iFQ21QEkQ",
+      "id": "5892840828",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs"
+      },
+      "latitude": 36.726772,
+      "company": {
+        "display_name": "EY",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T15:56:51Z",
+      "salary_is_predicted": "0"
+    },
+    {
+      "longitude": 3.70325,
+      "redirect_url": "https://www.adzuna.es/details/5892840826?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid"
+        ],
+        "display_name": "Madrid, Comunidad de Madrid"
+      },
+      "description": "Participarás en tareas reales y aprenderás trabajando directamente sobre un ecommerce en funcionamiento , con seguimiento y formación La creación, revisión y actualización de contenidos para la web. El alta y actualización de productos: títulos, descripciones, características, imágenes y metadatos. La optimización SEO de categorías, fichas de producto y contenidos. La investigación de palabras clave relacionadas con mobiliario, decoración e interiorismo. La optimización de títulos SEO, metadesc…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDgyNiIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.LgIbf0-6JnzQX9lLAswEu3aVw81V9kglSmbCm0BnHnQ",
+      "id": "5892840826",
+      "category": {
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "SEO y alimentación de contenidos (portobellostreet)",
+      "salary_is_predicted": "0",
+      "latitude": 40.4167,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BECADVISOR"
+      },
+      "created": "2026-09-21T15:56:51Z"
+    },
+    {
+      "description": "Lidera la transformación y profesionalización de una compañía participada por un fondo de inversión, actuando como principal nexo entre la propiedad y la organización y liderando una nueva etapa de crecimiento. Nuestro cliente es una compañía consolidada especializada en la comercialización de pescado fresco. Tras la entrada de un nuevo accionista financiero, la empresa inicia una etapa de transformación orientada a profesionalizar su modelo de gestión y acelerar el crecimiento Buscan incorpora…",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840444?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=6A4A3B5D9F3913852E8EEBD1822B8319F789DE77",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T15:53:31Z",
+      "company": {
+        "display_name": "Connecting Visions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892840444",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDQ0NCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.1d_elZTcaNZ9L0YVpt3-MeP5uNpkQHkytR7kni5EvJM",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "CEO sector alimentación"
+    },
+    {
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840441?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=5A862A170757B8B43607710B404DC04B81C43B2D",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Desde beonit buscamos un/a Director/a de Gran Superficie para incorporarse a un gran almacén líder en distribución de materiales de construcción y reforma, enfocado principalmente en el sector profesional y autónomo. Buscamos este perfil para Málaga, Mallorca, Madrid o Donosti , pudiendo elegir la ubicación que mejor encaje contigo. Se trata de una posición con responsabilidad integral sobre negocio, personas, operación y resultados, liderando uno de los centros con mayor volumen y relevancia d…",
+      "id": "5892840441",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDQ0MSIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.6fV35XZf_CzJBzXkHpGtM-JXnck0aplrJIybw-6NByg",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "Director/a de Gran Superficie - Varias ubicaciones",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T15:53:30Z",
+      "company": {
+        "display_name": "beonit",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "title": "Diseñador/a Gráfico Web",
+      "id": "5892840417",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDQxNyIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.kfsY-SwRwGThSERNDl41J8SuK361Xj1URQ6Pr9krT_c",
+      "created": "2026-09-21T15:53:29Z",
+      "company": {
+        "display_name": "Empresa Confidencial",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "España"
+      },
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840417?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0C25BB4E7934FA1C7112CFF71C945D20E369716A",
+      "description": "Importante empresa del sector moda busca incorporar un/a Diseñador/a Gráfico/a Web quien será responsable de la creación de contenidos gráficos para distintos canales digitales. Tus principales responsabilidades: _Creación de contenido gráfico multicanal para web, app, email y otras plataformas digitales. _Desarrollo y adaptación de piezas visuales alineadas con las últimas tendencias en diseño gráfico, moda, diseño digital y animación. _Apoyo en la conceptualización visual de campañas y conten…"
+    },
+    {
+      "location": {
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "España"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840420?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=F32C4DADDBF3BB23AEB9286AB8CE916D9DA508C5",
+      "description": "Pharma Operations Specialist ¿Tienes experiencia en operaciones dentro del sector farmacéutico o healthcare y te motiva asumir un rol transversal con proyección de crecimiento? Buscamos una persona con visión global de operaciones capaz de coordinar diferentes áreas y liderar la mejora continua en un entorno dinámico y en expansión. Principales responsabilidades Actuar como nexo entre Operaciones, Supply Chain, Calidad, Regulatory, Almacén, Comercial y Logística. Coordinar incidencias, proyecto…",
+      "title": "Pharma Operations Specialist",
+      "id": "5892840420",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDQyMCIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.FR-QLyckIZeNqhefT0PtpNl8x8Ql5ZVolKdoZVp-6Vs",
+      "company": {
+        "display_name": "Hays",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T15:53:29Z",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Maquinza, S.A."
+      },
+      "created": "2026-09-21T15:53:29Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892840427",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQwNDI3In0.LunZwYAv9Me_7vuFp9KmIA8-Eb1zKdXr2BZPmYUN_Bk",
+      "title": "COMERCIAL",
+      "description": "En MAQUINZA S.A. , empresa líder en el sector de alquiler de maquinaria para la construcción, industria y obra pública, estamos buscando un/a COMERCIAL para una de nuestra delegación de San Sebastián (Andoain). Buscamos personas apasionadas, con ganas de crecer y aportar valor en un entorno donde la igualdad de oportunidades es una realidad, no solo una promesa. Nos mueve la innovación, el trabajo en equipo y la excelencia en cada proyecto. Por eso, apostamos por un ambiente inclusivo, diverso …",
+      "location": {
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840427?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4EAF5327850BDBADEEE3AD211E66CFBC092B3C51"
+    },
+    {
+      "description": "Desde LHH colaboramos con una reconocida compañía del sector eléctrico en la incorporación de un/a Técnico/a Comercial para impulsar el crecimiento de la zona Centro, un territorio clave dentro de su estrategia de expansión. Si te consideras una persona proactiva, con iniciativa, habilidades comerciales y motivación por asumir nuevos retos profesionales, esta puede ser una excelente oportunidad para ti. Te incorporarás a un proyecto sólido dentro de una organización en crecimiento, donde tendrá…",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840418?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4B1F0F0104C2B9FEB2B959B58010B9C4AEE22CDE",
+      "created": "2026-09-21T15:53:29Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LHH"
+      },
+      "salary_is_predicted": "0",
+      "title": "Tecnico Comercial Material Electrico",
+      "id": "5892840418",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQwNDE4In0.r0QjxpkchMq0lv5l0HhxHo4scnNhR_X1RQRhnzYybko",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      }
+    },
+    {
+      "description": "At ASTEK Iberia , We are supporting a leading company in the utilities sector that is running multiple IT initiatives across its Spanish operations. To strengthen project governance and portfolio visibility, we are looking for an experienced IT PMO who can support the coordination, reporting and monitoring of several projects running in parallel. This is a broad, cross-functional role covering different technology domains, including areas such as ticketing solutions, security software and other…",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840416?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=8C98F896F2CE5B7EA7BF436664F3039CA606B46E",
+      "location": {
+        "display_name": "España",
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T15:53:29Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Astek"
+      },
+      "id": "5892840416",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODQwNDE2In0.hq7sgulrVjnmpGe_hh_bVKwSK_4YPkCrrg4zlcYlcAY",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "IT PMO"
+    },
+    {
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T15:53:29Z",
+      "company": {
+        "display_name": "tekman Education",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892840429",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjg0MDQyOSIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.TMI-QjhFFDjTf2Zcp1rA7n2QJ2QMsBnzJ8eGgq_wL04",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "CREADOR/A de Contenidos Educativos - Etapa Infantil (Freelance)",
+      "description": "En tekman Education buscamos un/a Redactor/a Freelance de Contenidos (Educación Infantil) que combine el rigor pedagógico con la creatividad y el entusiasmo por transformar el aprendizaje en las primeras etapas. ¿Qué es tekman Education? Somos una editorial pedagógica especializada en el desarrollo de materiales educativos. Creamos programas para transformar la educación directamente desde el aula, apostando por un aprendizaje práctico, manipulativo y significativo. Desde Educación Infantil has…",
+      "redirect_url": "https://www.adzuna.es/land/ad/5892840429?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=804F8492623494BDB077DC11B1F109DEB5A0426E",
+      "location": {
+        "display_name": "España",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "España"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T15:23:50Z",
+      "company": {
+        "display_name": "Domino's Pizza",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892829679",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ2tIc2J1ZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkyODI5Njc5In0.swR5LvqIpwuyIJgOdFc4aC7iz-LgSS71oJc3DCRUOKA",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "Dependienta / Auxiliar de tienda",
+      "description": "Buscamos personas dinámicas, responsables y con orientación al cliente para incorporarse a nuestro equipo en restaurante. Si te gusta trabajar en equipo, ofrecer una buena atención y aprender en un entorno activo, ¡queremos conocerte! Funciones principales Atención al cliente en mostrador y por teléfono. Recepción y gestión de pedidos. Preparación de pizzas y otros productos siguiendo los procedimientos de la marca. Apoyo en caja y cobro de pedidos. Mantenimiento de la limpieza y el orden del r…",
+      "contract_time": "full_time",
+      "salary_min": 21600,
+      "salary_max": 21600,
+      "redirect_url": "https://www.adzuna.es/land/ad/5892829679?se=gkHsbue18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=FCE43BA76CE1790BF37AF0D957BD41D275019358",
+      "location": {
+        "area": [
+          "España"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "España"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Bilbao, Vizcaya",
+        "area": [
+          "España",
+          "País Vasco",
+          "Vizcaya",
+          "Bilbao"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": -2.927,
+      "redirect_url": "https://www.adzuna.es/details/5892815249?utm_medium=api&utm_source=a6bbb028",
+      "description": "En SAVE buscamos incorporar un/a Promotor/a de Venta para apoyar la captación y gestión de clientes en un contrato de larga duración, colaborando directamente con nuestra red de reparadores. Serás la primera imagen de SAVE en punto de venta, ayudando a impulsar la actividad comercial y facilitando el contacto entre clientes y nuestros reparadores colaboradores. Tareas Funciones principales Colocación y reposición de material promocional y pantallas protectoras. Captación de clientes e informaci…",
+      "title": "Vendedor / Promotor - TEMPORAL BILBAO",
+      "category": {
+        "label": "Trabajos en ventas",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892815249",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjgxNTI0OSIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.Ac7OH78Qg7QoJ_O9TLhSsqg0kXbDmn9uGm599uOrfm8",
+      "created": "2026-09-21T14:30:25Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SAVE Store Iberia"
+      },
+      "latitude": 43.263227,
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T14:30:25Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Fundación Cibervoluntarios"
+      },
+      "latitude": 40.429254,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MjgxNTI0NiIsInMiOiJna0hzYnVlMThSR0YzOFhEZ3B2VTVRIn0.TKWgEshbWyUcQ_QiET-RGir-29r75bSitHITrF1Oj74",
+      "id": "5892815246",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Otros trabajos",
+        "tag": "other-general-jobs"
+      },
+      "title": "Oferta de empleo – Personas con discapacidad",
+      "description": "¿Quieres ayudar a que las personas puedan usar y comprender la tecnología? Únete a nosotros, un equipo multidisciplinar comprometido, que trabaja para que la tecnología aumenta las oportunidades de ciudadanía. Ese mismo principio de inclusión guía nuestra forma de trabajar por eso si eres una persona con discapacidad, queremos conocer lo que puedes aportar a nuestro equipo. Te animamos, a presentar tu curriculum. Incorporar talento diverso es, para nosotros, una manera de seguir creciendo. Envi…",
+      "location": {
+        "area": [
+          "España",
+          "Comunidad de Madrid",
+          "Madrid",
+          "Madrid"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Madrid"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.es/details/5892815246?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -3.724726
+    }
+  ]
+}

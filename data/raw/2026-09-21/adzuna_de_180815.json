@@ -1,0 +1,3057 @@
+{
+  "fetched_at": "2026-09-21T18:08:15.852510+00:00",
+  "country": "de",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 86734,
+  "mean": 71556.88,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzUxMyIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.unhslYcBg3eVJBwD2IybA0NmX6nQWtcsjTgXqwslQqc",
+      "id": "5893033513",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T20:01:38Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 50.71942,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bonn"
+        ],
+        "display_name": "Bonn, Nordrhein-Westfalen"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033513?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=F79AF268786F717A77BADE63D302D7712BCCAD09",
+      "longitude": 7.112412,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…"
+    },
+    {
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 51.761472,
+      "salary_is_predicted": "0",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDAwIn0.ZYjDGMqK9cucHVjTg0MgVLOjRcHzaunz59qykQddei4",
+      "id": "5893033400",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Brandenburg",
+          "Cottbus"
+        ],
+        "display_name": "Cottbus, Brandenburg"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033400?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=2D8C2BECDC86C73475A245576C5E8A7109F793D3",
+      "longitude": 14.351768
+    },
+    {
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "id": "5893033381",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzgxIn0.XJAtG6Zd4Nify1I3VQ5iJj65jY4W-eYjmHJe5B2jCRs",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 51.504967,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Dortmund"
+        ],
+        "display_name": "Dortmund, Nordrhein-Westfalen"
+      },
+      "longitude": 7.464954,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033381?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=7A8262BDEE7AAF8D3F7E43658FE5ADE6D0375AAA",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…"
+    },
+    {
+      "id": "5893033370",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzM3MCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.QJ6vvgGputuS8UwYhgqm-naapk6vtC9mR672quFXKE4",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "latitude": 51.476986,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033370?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0C3CFB7B02DCFE03008C4266718CC1069ACFBA0F",
+      "longitude": 7.211571,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bochum"
+        ],
+        "display_name": "Bochum, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…"
+    },
+    {
+      "longitude": 7.27784,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033428?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=897F4D6A311778BC9DEA56BA4C8378FE0AF9E2C0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Coesfeld (Kreis)",
+          "Dülmen"
+        ],
+        "display_name": "Dülmen, Coesfeld (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "id": "5893033428",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQyOCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.V5a9QoIhq5IkWqlWulLIvB0VLcdzLQMyiQlcssbBOd4",
+      "latitude": 51.82859,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033429?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=BDDDC65E446B610E3218BA70F09FB1090CA41EDD",
+      "longitude": 6.969972,
+      "location": {
+        "display_name": "Köln, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Köln"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "id": "5893033429",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQyOSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.b8EKCZX8mgwhLCT94StpYX5YDiveiuTr7IUND3nfv3k",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "salary_is_predicted": "0",
+      "latitude": 50.940164,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      }
+    },
+    {
+      "location": {
+        "display_name": "Wuppertal, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Wuppertal"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033364?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=77A0A06D7D57477F743C49DE66C5CB672B714EEF",
+      "longitude": 7.184113,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzY0In0.JkKydkCvJcq-Dm3tiBItQtBFr_BOsF_kQoNlS5yPExQ",
+      "id": "5893033364",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 51.253998,
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzUwMCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.sH5ZVmqecPpA5RBX_8ZDFEzVfwm1AZf20b-zoUrppOM",
+      "id": "5893033500",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 50.886993,
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Siegen-Wittgenstein (Kreis)",
+          "Siegen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Siegen, Siegen-Wittgenstein (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033500?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=DB82B1466F64A1F1473B8FBA89AA0115E1191E13",
+      "longitude": 8.045585,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…"
+    },
+    {
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Dortmund"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Dortmund, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033385?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=5860F0C09A67A4A68DA90D87A3479FCA1E371771",
+      "longitude": 7.464954,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "id": "5893033385",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzM4NSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.m3qEk0Vn_TfAu38GpCfEKKKg8SZenarw05bPAJAf0y4",
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 51.504967,
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Essen"
+        ],
+        "display_name": "Essen, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.014478,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033481?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=85283951741F22A08193D270D6E33A77F06027E6",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5893033481",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ4MSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.JLLxvjniR7Do8rIDj_oVNambYKtMMQAh9YA9jgIG4V8",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.444823
+    },
+    {
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893033483",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ4MyIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.-oAY5mgpxnfBzY16QGvoc1uYFblPL60_bJp4pDOjGkw",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Hessen",
+          "Frankfurt am Main"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Frankfurt am Main, Hessen"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033483?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=B2F858FAF75AF98C5F2B2512D20E9398B3D3B304",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…"
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893033432",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDMyIn0.L734oRApoGKDKb2yDXNV5Tn4pPihyWRXvVOeAcagAMo",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 52.507706,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Berlin"
+        ],
+        "display_name": "Berlin, Deutschland"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033432?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=151EABF1B6CF6EFDBF3A83382F59A1623CC34635",
+      "longitude": 13.420806,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…"
+    },
+    {
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 50.71942,
+      "salary_is_predicted": "0",
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)",
+      "id": "5893033399",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "travel-jobs",
+        "label": "Stellen aus Tourismus"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzk5In0.s7s8d3yx_yLloq3Vggot5hxjI6MrXLjetY5a9rsQS-k",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "location": {
+        "display_name": "Bonn, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bonn"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033399?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=578E4915E4DF17AACEB162CDF4139AECD5A0268D",
+      "longitude": 7.112412
+    },
+    {
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033418?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=09C27ABFD6E8EBF3BBB3CD26533B60F479C44A8B",
+      "longitude": 7.112412,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bonn"
+        ],
+        "display_name": "Bonn, Nordrhein-Westfalen"
+      },
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "id": "5893033418",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDE4In0.bweX1TPNEa-7P_3sl3Kur4RCl4HdmWb5kNwMW02wjIA",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "latitude": 50.71942,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "longitude": 6.089788,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033330?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=79FFC8E0CD8002AD0C61828617A1CA94F7FE6DCF",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Aachen (Kreis)",
+          "Aachen"
+        ],
+        "display_name": "Aachen, Aachen (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 50.773914,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzMwIn0.AGFqW5wd8urFGNIeEI-LKZXoBvniAL73OqmgtXsJZEY",
+      "id": "5893033330",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "longitude": 6.743718,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033359?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=EE2053D263F894CC0F8E52AFF4C609C63C0FBB37",
+      "location": {
+        "display_name": "Duisburg, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Duisburg"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 51.443356,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzM1OSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.oGFN7XKNvGmw1uoiy22EWp3_MZO6-yb1Pt07PMkgngY",
+      "id": "5893033359",
+      "category": {
+        "tag": "travel-jobs",
+        "label": "Stellen aus Tourismus",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter"
+    },
+    {
+      "id": "5893033461",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ2MSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.LpZHfK_AWfFOjwTdriwl7ntBgbq6_SnE1coXFp-abTQ",
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 51.444823,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Essen"
+        ],
+        "display_name": "Essen, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.014478,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033461?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=B2820D74FACBB977B4CAF14D86C8A65FAFFDB5C9",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…"
+    },
+    {
+      "location": {
+        "display_name": "Recklinghausen, Recklinghausen (Kreis)",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Recklinghausen (Kreis)",
+          "Recklinghausen"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.21614,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033338?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E144FEDCEBC6F77241C4465561F4813450292C61",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "id": "5893033338",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzM4In0.FIyLRAbKHn3Jw3gblwkDTRlDLgVjkS0qNVwQUfdzhHE",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 51.597395,
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033451?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=DA594B22A326BC033569B920C93DE150E40C2668",
+      "longitude": 6.969972,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Köln, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Köln"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "latitude": 50.940164,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "id": "5893033451",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ1MSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.9XG1ygZqw3oV6mlugeCH1_5LkMtCfoRvYu1EqnTdogo",
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)"
+    },
+    {
+      "latitude": 51.226802,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "Instaffo GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Softwareentwickler:in (m/w/d)",
+      "id": "5893033324",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzI0In0.vWM1ITHd4qLPHk60egn2d8dq_z5Gu3WeJfSmeY-pwkA",
+      "description": "Du brennst für die IT und hast bereits 2 bis 4 Jahre Berufserfahrung in der Softwareentwicklung gesammelt? Dann bist Du bei uns genau richtig! Steige ein in die Welt des Firmenkunden-Bankings und bringe Deine Erfahrung aktiv in die Entwicklung benutzerfreundlicher Softwarelösungen für unsere Kunden ein. In einem unserer Entwicklerteams arbeitest Du mit modernen Technologien und Frameworks und übernimmst Verantwortung für anspruchsvolle Entwicklungsprojekte. Zur Verstärkung unseres Teams am Firm…",
+      "longitude": 6.808387,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033324?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=D5483B520D7DA569D62C2A867B3BC20FD78F5073",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Düsseldorf"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Düsseldorf, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033395?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4D38A475292F0F1E888C1053C6DFBB18210C848B",
+      "longitude": 6.594913,
+      "location": {
+        "display_name": "Wesel, Wesel (Kreis)",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Wesel (Kreis)",
+          "Wesel"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.673777,
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "salary_is_predicted": "0",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "id": "5893033395",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzk1In0.r1-rcU5le3bc0Sw3J0zaBVU4jhUJnNTUazR215Rei6s"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Duisburg"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Duisburg, Nordrhein-Westfalen"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033423?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=09784FDD0B35E7CB24DA517F2A2B14BAB0D1A1CF",
+      "longitude": 6.743718,
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 51.443356,
+      "id": "5893033423",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQyMyIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.-4BZ8ez7DZT0W5nsyex907A6ux9tDbC5KvJXbYZKKYE",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 51.226802,
+      "salary_is_predicted": "0",
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)",
+      "category": {
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893033438",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDM4In0.37-H2daMDZhASVeZW4TyVOTOYn6ETNAB7u1X5hKoHzM",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Düsseldorf, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Düsseldorf"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033438?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=52FD28F0EFC83EF4891D8090CF95BD563B7830AB",
+      "longitude": 6.808387
+    },
+    {
+      "latitude": 52.507706,
+      "company": {
+        "display_name": "Deutsche Bahn AG",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "salary_is_predicted": "0",
+      "title": "Bauingenieur:in als Fachbeauftragte:r für Tunnel und Erdbau",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Beraterstellen"
+      },
+      "id": "5893033332",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzMzMiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.894thXUiWcLjBc-WMBz4GjhK0CqQNOaZlj2Be_ftZqM",
+      "description": "Die Deutsche Bahn ist nicht nur einer der wichtigsten Mobilitätsdienstleister, sondern auch eines der größten Ingenieurbüros Deutschlands. Bei uns arbeiten aktuell ca. 10.000 Ingenieur:innen, so zum Beispiel in der Modernisierung, Instandhaltung und Beschaffung von Schienenfahrzeugen und deren Komponenten. Als Ingenieur:in bei der Deutschen Bahn stellst du sicher, dass die größte Schienenverkehrsflotte Deutschlands stets bei höchster Qualität am Laufen gehalten wird. Aufgaben Zum nächstmögliche…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033332?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=9343EF044CC056F20F7EA3A565C83F2B63A3C6A7",
+      "longitude": 13.420806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Berlin, Deutschland",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Berlin"
+        ]
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033383?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=8AF1361DBBFFDA572E2A5B4A899BE7D1671BC7A8",
+      "longitude": 6.808387,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Düsseldorf, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Düsseldorf"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzM4MyIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.PClNGOpkbAgpVDWYSUFejTWLjqCeQ8H1ErxE1J-chB4",
+      "id": "5893033383",
+      "category": {
+        "label": "Stellen aus Tourismus",
+        "tag": "travel-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "salary_is_predicted": "0",
+      "latitude": 51.226802,
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "longitude": 8.543293,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033420?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=04593EA7F39B31BF5146B772EF9CC10664F7A7FD",
+      "location": {
+        "display_name": "Bielefeld, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bielefeld"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 52.021203,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "id": "5893033420",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDIwIn0.6cBtEoJm8qoff8GQeI0IlmqmHr7i9VQ1GIVKI9GXk7I"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ1NSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.iG0C4mK747M13O7KRLSHpdV8rSjhempM5ZYSVZ9IvIY",
+      "id": "5893033455",
+      "category": {
+        "tag": "travel-jobs",
+        "label": "Stellen aus Tourismus",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "latitude": 51.444823,
+      "location": {
+        "display_name": "Essen, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Essen"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033455?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=168086F9B35FC1D2CC282B613967789CF9839EA3",
+      "longitude": 7.014478,
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "latitude": 50.96136,
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDE1In0.qe_RmFoAxK2EJetNlBTAWkreP6OOI-dR2kJTTXEO5bQ",
+      "id": "5893033415",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033415?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=90E5F8C175C3B2F13B93A827E8B43942D02EA818",
+      "longitude": 8.00051,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Siegen-Wittgenstein (Kreis)",
+          "Kreuztal"
+        ],
+        "display_name": "Kreuztal, Siegen-Wittgenstein (Kreis)"
+      }
+    },
+    {
+      "longitude": 8.753842,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033441?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=614A563F7A7E58BABB9A4BB81884D203C21E568C",
+      "location": {
+        "display_name": "Paderborn, Paderborn (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Paderborn (Kreis)",
+          "Paderborn"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "id": "5893033441",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDQxIn0.ieckimtX53aPueoJ493tD4uRJhRFsxbphgd16TwmKVc",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "salary_is_predicted": "0",
+      "latitude": 51.737096,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:37Z"
+    },
+    {
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033492?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0CDBAD9DED52BDE1A8BB0983EE70314D6F5C939A",
+      "longitude": 6.969972,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Köln, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Köln"
+        ]
+      },
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "id": "5893033492",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQ5MiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.tntWYk_7iCAp6p3koPxSGFIQxEp1lud_Na3rAffhzWM",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "latitude": 50.940164,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "category": {
+        "tag": "travel-jobs",
+        "label": "Stellen aus Tourismus",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893033416",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzQxNiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.x3QKHGcXdP36D-BKob9fOxOb2AwpIVpYAUGJnZxSELI",
+      "title": "Airport Sicherheit Mitarbeiter (m/w/d)",
+      "salary_is_predicted": "0",
+      "latitude": 51.443356,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 6.743718,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033416?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=62EECB70303ECC4CDB62AFB47AE79CB49B316D0B",
+      "location": {
+        "display_name": "Duisburg, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Duisburg"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…"
+    },
+    {
+      "latitude": 51.845283,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "salary_is_predicted": "0",
+      "title": "Quereinsteiger (m/w/d) als ÖPNV – Fahrkartenkontrolleur / Zugbegleiter",
+      "id": "5893033344",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzQ0In0.0BOtTNIGa2Bh2hpSi5igsqKilAN_Ck-BZIQ1dksE4eM",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown",
+        "tag": "unknown"
+      },
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033344?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=E59CB204A6FB3D4F86F77E5C99F3383810E208D5",
+      "longitude": 6.570713,
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Borken (Kreis)",
+          "Bocholt"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bocholt, Borken (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bochum"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bochum, Nordrhein-Westfalen"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.211571,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033433?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=90D72ECB22FE68E0948104B2D7260A97AF10D1CE",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "id": "5893033433",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDMzIn0.QIgWO0b5qfi5LVvtyJTMjpLN1H78nubRJlqd7zHxJXU",
+      "category": {
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "latitude": 51.476986,
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzNDA3In0.bMMl8ZlSQ338FCb-kkhIk3oDznFAWWE9bSJ5E0711Rg",
+      "id": "5893033407",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "travel-jobs",
+        "label": "Stellen aus Tourismus"
+      },
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter",
+      "salary_is_predicted": "0",
+      "latitude": 51.538849,
+      "created": "2026-09-21T20:01:37Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "longitude": 7.078622,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033407?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=235D37049215FEAE205E12CD0165C6C42B26BFB0",
+      "location": {
+        "display_name": "Gelsenkirchen, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Gelsenkirchen"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "H . i . Competence Group GmbH"
+      },
+      "created": "2026-09-21T20:01:36Z",
+      "latitude": 52.75561,
+      "salary_is_predicted": "0",
+      "title": "ÖPNV – Fahrkartenkontrolleur / Zugbegleiter (m/w/d)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5893033302",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzAyIn0.0s1S2_DOa1ususTakeYIAXKjs6HIr1gwYcSaGjUIfrQ",
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst. Ob S-Bahn, Regional- oder U-Bahn, Bus oder Straßenbahn – wir sorgen für Sicherheit und Service. Auch Einsätze im Objektschutz, Werkschutz und Revierdienst sind möglich. Aufgaben Kontrolle von Fahrausweisen & Tickets im ÖPNV Überwachung und Einhaltung der Beförderungsbedingungen Unterstützung und Lösungsfindung für Fahrgäste Sicherung von Personen, Objekten und Werten Profil Deutsch mindestens B1 mündlic…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Brandenburg",
+          "Oberhavel (Kreis)",
+          "Oranienburg"
+        ],
+        "display_name": "Oranienburg, Oberhavel (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 13.24101,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033302?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=65723D30630BBD312F1EE46D9835203D7309C29E"
+    },
+    {
+      "description": "Wir sind Spezialisten für Service- und Sicherheitstätigkeiten im ÖPNV und Sicherheitsdienst – und als einer der größten Arbeitgeber im Bereich Sicherheit bieten wir vielfältige Einsatz- und Entwicklungsmöglichkeiten für engagierte Mitarbeitende. Aufgaben Sicherheitskontrollen an Flughafenzugängen und -ausgängen Überwachung & Durchleuchtung von Gepäck und Fracht Erkennen und Melden von verdächtigen Aktivitäten oder Risiken Einhaltung der geltenden Sicherheitsvorschriften Zusammenarbeit mit Flugh…",
+      "longitude": 7.464954,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033306?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=76B5817AC4D48F4321111F23666C012971596BAB",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Dortmund"
+        ],
+        "display_name": "Dortmund, Nordrhein-Westfalen"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 51.504967,
+      "created": "2026-09-21T20:01:36Z",
+      "company": {
+        "display_name": "H . i . Competence Group GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5893033306",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen",
+        "tag": "other-general-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMzMzA2In0.yFtSNY-sxnfV2e-VfxD_NHyU6mvSa3DOXVFjDPFmoUU",
+      "title": "Quereinsteiger (m/w/d) als Airport Sicherheit Mitarbeiter"
+    },
+    {
+      "created": "2026-09-21T20:01:36Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nordex Group"
+      },
+      "latitude": 53.557429,
+      "salary_is_predicted": "0",
+      "title": "Civil Site Manager / Construction Manager (m/w/d)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMzI2NiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.jkznn_ueLAYRtGulQAIQLT4U3VQMhBKt_27_A6HhayI",
+      "id": "5893033266",
+      "category": {
+        "tag": "other-general-jobs",
+        "label": "Sonstige/Allgemeine Stellen",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Aufgaben Profil Wir bieten Bauarbeiten im Hoch- und Tiefbau in Windparkprojekten und stellst die Einhaltung von Planung, Qualität und Baustellenanforderungen sicher. In dieser Rolle im Bereich Site Management Civil agierst du als unabhängige Koordinations- und Kontrollinstanz auf der Baustelle. Du arbeitest eng mit Projektmanagement, Auftragnehmern und Kund:innen zusammen, um eine sichere, termingerechte und qualitativ hochwertige Projektausführung sicherzustellen. DEINE AUFGABEN • Überwachung …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Hamburg, Deutschland",
+        "area": [
+          "Deutschland",
+          "Hamburg"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893033266?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=EF7D9A146CB6D6F3319E49E6042541E1D8EFA592",
+      "longitude": 9.987297
+    },
+    {
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Wörrstadt 18,50 € Tarif-Stu…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Alzey-Worms (Kreis)",
+          "Wörrstadt"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Wörrstadt, Alzey-Worms (Kreis)"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032520?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=01AAA2D3989A1F5F3549F91F684A7D96E1EFF470",
+      "longitude": 8.12925,
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:31Z",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 49.84248,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjUyMCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.X8lejp-74ISfnz_CgJg_mXuAupzYy-0H3_74evfdjO4",
+      "id": "5893032520",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Postbote für Pakete und Briefe – (m/w/d) in Wörrstadt"
+    },
+    {
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032502?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=B0CAE38A5F7133FA6CC05B61CB401F5C668F948D",
+      "longitude": 9.78956,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Bebra, Hersfeld-Rotenburg (Kreis)",
+        "area": [
+          "Deutschland",
+          "Hessen",
+          "Hersfeld-Rotenburg (Kreis)",
+          "Bebra"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 50.9737,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "created": "2026-09-21T20:01:31Z",
+      "id": "5893032502",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjUwMiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.lA31X_dsBDTdoPZCBzIW1HuixxdFJbWMC6_bWCeHW44",
+      "title": "Postbote für Pakete und Briefe (m/w/d)"
+    },
+    {
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:30Z",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 49.31728,
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893032351",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMyMzUxIn0.Heqy3_PpVd1AghWal10omWHW8XoWtCP0L4nd009b-Gg",
+      "title": "Postbote für Pakete und Briefe – Aushilfe (m/w/d)",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an bestimmten Tagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg (max. 31,5 kg) Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Aushilfe bei Deutsche Post DHL Als Postbote bringst du den…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Speyer (Kreis)",
+          "Speyer"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Speyer, Speyer (Kreis)"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032351?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=C784884682B0B5A890F437C1B874D409A42F8A7F",
+      "longitude": 8.43101
+    },
+    {
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Dortmund-Hörde 17,92 € Tari…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032422?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=11B24F7DB428DA092C294E0217455F80F39ED85D",
+      "longitude": 7.464954,
+      "location": {
+        "display_name": "Dortmund, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Dortmund"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.504967,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "created": "2026-09-21T20:01:30Z",
+      "salary_is_predicted": "0",
+      "title": "Postbote für Pakete und Briefe (m/w/d) in Dortmund-Hörde",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs"
+      },
+      "id": "5893032422",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjQyMiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.poPL8rhIVtEGSqTlrwsumjLmSZJzWps1P6oj0wjTyTQ"
+    },
+    {
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Schönenberg-Kübelberg 18,50…",
+      "longitude": 7.36414,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032421?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=F1F35027A74D228F9BBBA27589600B8A77D34944",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Kusel (Kreis)",
+          "Schönenberg-Kübelberg"
+        ],
+        "display_name": "Schönenberg-Kübelberg, Kusel (Kreis)"
+      },
+      "latitude": 49.40705,
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:30Z",
+      "salary_is_predicted": "0",
+      "title": "Postbote für Pakete und Briefe (m/w/d) in Schönenberg-Kübelberg",
+      "id": "5893032421",
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjQyMSIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.xGp0s8G6yG5VHEjDaGZhMVCXAGxNKMHsSqrRApqZWVw"
+    },
+    {
+      "description": "Aufgaben Ausladen von Roll-Containern oder lose verladenen Paketen Auflegen von Paketen auf unsere Paketsortieranlagen Pakete im Durchschnitt unter 10 kg Einladen von Paketen in Rollcontainer oder Fahrzeuge Platzsparendes Stapeln der Pakete zur optimalen Auslastung der Transportkapazität Beachtung von Vorschriften zur Ladungssicherung Profil Du kannst anpacken und hast Spaß an körperlicher Arbeit Du arbeitest zuverlässig und bist engagiert Du arbeitest gern im Team Werde Lagermitarbeiter bei De…",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032338?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=039E09A9F81ABAB74D1F407FA5B1AE992E289AC2",
+      "longitude": 9.966065,
+      "location": {
+        "area": [
+          "Deutschland",
+          "Schleswig-Holstein",
+          "Neumünster"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Neumünster, Schleswig-Holstein"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "latitude": 54.064844,
+      "created": "2026-09-21T20:01:29Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893032338",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMyMzM4In0.0jjvStaoRd9tXX8evBxdu3hU6HB6uU7n5cM1xT014zE",
+      "title": "Lagermitarbeiter / Lagerhelfer / Verlader in Neumünster Teilzeit (m/w/d)"
+    },
+    {
+      "id": "5893032330",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjMzMCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.zuVuTdcmfS-Ep4r6Ivesh-YFO8vG_JdeE6EI5Bhsjc8",
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "salary_is_predicted": "0",
+      "latitude": 49.31728,
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T20:01:29Z",
+      "longitude": 8.43101,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032330?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=F8B2CD040DEE0C3F01F4BFE18DF54170F8AFFF1B",
+      "location": {
+        "display_name": "Speyer, Speyer (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Speyer (Kreis)",
+          "Speyer"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg (max. 31,5 kg) Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du de…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjE2NiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.aOl_hSuUlNvPKDiR1SXNFSiv0b-BP48fMAXCk6i0hBw",
+      "id": "5893032166",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:01:28Z",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 51.8587,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Peitz, Spree-Neiße (Kreis)",
+        "area": [
+          "Deutschland",
+          "Brandenburg",
+          "Spree-Neiße (Kreis)",
+          "Peitz"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 14.41097,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032166?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=DFFC0D51697AC047F33B8BAB912AB1E68C2B8D44",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Heben von Sendungen bis maximal 31,5 kg Transport mit einem unserer Geschäftsfahrzeuge Profil Du kannst dich auf Deutsch unterhalten (B2) Du bist wetterfest, körperlich fit und kannst gut anpacken Du bist zuverlässig , hängst dich rein und bist flexibel Einen gültigen Pkw-Führerschein Du bist mindestens 18 Jahre alt Du arbeitest gern im Team Wir bieten Werde Postbote für Pakete und Briefe…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "created": "2026-09-21T20:01:28Z",
+      "latitude": 50.649684,
+      "id": "5893032194",
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjE5NCIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.ri6aqxGPQ47qHQLYyt64RcYzf0ejZ5L-7_mUk4cqxG8",
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Euskirchen (Kreis)",
+          "Euskirchen"
+        ],
+        "display_name": "Euskirchen, Euskirchen (Kreis)"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032194?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=0427E48BFBA37682EA247139E06DFEEE35F8B5AC",
+      "longitude": 6.805964
+    },
+    {
+      "location": {
+        "area": [
+          "Deutschland",
+          "Hamburg"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Hamburg, Deutschland"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 9.987297,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893032142?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=4F17185EF03E600ACD28F5816D8D270E950D27E6",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs",
+        "label": "Stellen aus Logistik & Lagerhaltung"
+      },
+      "id": "5893032142",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMjE0MiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0.dSrYMW2f3Mczd1oh1r-uuFteUTWApPr923gGoReNwns",
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "created": "2026-09-21T20:01:28Z",
+      "latitude": 53.557429
+    },
+    {
+      "longitude": 10.64294,
+      "redirect_url": "https://www.adzuna.de/land/ad/5893031680?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=01FFA2D1EF9504509AA7A91B02B80967A95834BA",
+      "location": {
+        "display_name": "Sickte, Wolfenbüttel (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Niedersachsen",
+          "Wolfenbüttel (Kreis)",
+          "Sickte"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (Vollzeit) oder 4 Tagen (Teilzeit) (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren (Führerschein zwingend erforderlich) Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bi…",
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "id": "5893031680",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMxNjgwIn0.InqobyM4trOt00RCSyR7Fg-v6mIDra_x5s9RRBLlIQk",
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 52.21832,
+      "created": "2026-09-21T20:01:15Z",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "redirect_url": "https://www.adzuna.de/land/ad/5893031676?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=DC0244A7A11F15AB63DA3F465BFD8ED01491E624",
+      "longitude": 6.82348,
+      "location": {
+        "display_name": "Schwalbach, Saarlouis (Kreis)",
+        "area": [
+          "Deutschland",
+          "Saarland",
+          "Saarlouis (Kreis)",
+          "Schwalbach"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Aufgaben Auslieferung von Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten 18,50 € Tarif-Stundenlohn inkl. 50% Weihnachtsgeld Weitere 50% Weihnachtsgeld im November Bis zu 332 € Urlaubsgeld Du kannst sofort be…",
+      "title": "Paketzusteller (m/w/d) in Hülzweiler",
+      "id": "5893031676",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX09namEtZTE4UkdGMzhYRGdwdlU1USIsImkiOiI1ODkzMDMxNjc2In0.s-mKmLWVO-0fEC2XZg6o5WiUGmCkWorsbc1PqjeW178",
+      "latitude": 49.30679,
+      "created": "2026-09-21T20:01:13Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Das Bundeseisenbahnvermögen (BEV) ist eine Bundesbehörde im Geschäftsbereich des Bundesministeriums für Verkehr und steht als Wegbegleiter der Bahnreform in engem Kontakt mit den Unternehmen des Konzerns Deutsche Bahn AG. Das BEV ist dabei mit vier Dienststellen im gesamten Bundesgebiet und der Hauptverwaltung in Bonn nicht nur verantwortlich für die Personalverwaltung von Beamtinnen und Beamten, sondern auch Eigentümer von Immobilien unterschiedlichster Kategorien. Für diese herausfordernden A…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Berlin"
+        ],
+        "display_name": "Berlin, Deutschland"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893031616?se=_Ogja-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=a6bbb028&v=BA26598C8006990A2262E3EF83442A5217AD75A7",
+      "longitude": 13.420806,
+      "created": "2026-09-21T20:01:10Z",
+      "company": {
+        "display_name": "Bundeseisenbahnvermögen Dienststelle Nord",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 52.507706,
+      "salary_is_predicted": "0",
+      "title": "Technische Sachbearbeiterin / technischer Sachbearbeiter Immobilien Standort Berlin (w/m/d)",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMTYxNiIsInMiOiJfT2dqYS1lMThSR0YzOFhEZ3B2VTVRIn0._ySi8NXhGvfapg1nQBRyOtTClLKP1smCd7W7Q_8uR2c",
+      "id": "5893031616",
+      "category": {
+        "tag": "unknown",
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "category": {
+        "label": "Vertriebsstellen",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "latitude": 51.253998,
+      "title": "Küchenplaner / Küchenverkäufer (alle Geschlechter)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "OBI GmbH & Co. Deutschland KG"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893031268?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=22679887407C70FDECF3DB5F277F5B88E41EC3A1",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Wuppertal"
+        ],
+        "display_name": "Wuppertal, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.184113,
+      "description": "Wir sind OBI. Als Team geben wir gemeinsam alles, um die kleinen und großen Projekte unserer Kund:innen zu ermöglichen. Viele kluge Köpfe stehen dabei zusammen und erleben den ALLES MACHBAR Spirit. Sei auch du dabei! Aufgaben Als Küchenfachberater:in trägst du maßgeblichen Teil zum Erfolg unseres wachsenden Küchensegments bei. Du verwandelst Kundenwünsche in Traumküchen und verantwortest den gesamten Verkaufsprozess von der Erstberatung bis zum Vertragsabschluss. Wir suchen Vertriebsprofis mit …",
+      "id": "5893031268",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMTI2OCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.gvRgNRJt1uPIYlXNYA2vwboPaeVWvicVULkYkPYZPNc",
+      "created": "2026-09-21T20:00:57Z"
+    },
+    {
+      "latitude": 48.776198,
+      "category": {
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Verwaltungsstellen"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BW PARTNER GmbH & Co. KG"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030909?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=CC85134DD7A24CE397D64FF4C3432E3D6DAFF547",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Stuttgart, Baden-Württemberg",
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Stuttgart"
+        ]
+      },
+      "title": "Partnerassistenz - Sekretariat / Kanzlei / DATEV (m/w/d)",
+      "longitude": 9.187224,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwOTA5In0.kU63PzBLNgqhnAwbfMSGddvfDiBvKshYbCx1JieNWxA",
+      "created": "2026-09-21T20:00:43Z",
+      "description": "Unsere Unternehmung bündelt das Know-How und die Kompetenz einer umfassenden Gesamtbetreuung von über 60 Jahren rund um die Themen Wirtschaftsprüfung, Steuerberatung, Betriebswirtschaft und Corporate Finance. Die Herausforderungen der Zukunft erfordern Weitblick und Klarheit der Ziele. Gerade unter den steigenden Anforderungen von Märkten, Wettbewerb und Unternehmensführung erwarten unsere Mandanten eine Beratung, die ihnen die Sicherheit gibt, sich auf ihr Kerngeschäft konzentrieren zu können.…",
+      "id": "5893030909"
+    },
+    {
+      "latitude": 50.56423,
+      "category": {
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus PR, Werbung & Marketing"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Meiningen, Schmalkalden-Meiningen (Kreis)",
+        "area": [
+          "Deutschland",
+          "Thüringen",
+          "Schmalkalden-Meiningen (Kreis)",
+          "Meiningen"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Liftstar GmbH"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030768?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=C0E64E399C4A9B9641105A0B7816900EFEA83950",
+      "title": "Sales Manager im Direktvertrieb Außendienst (Mensch*) - Meiningen",
+      "longitude": 10.41518,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:00:34Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwNzY4In0.BLM0y_nCSi5j_SDapYIHbaX9nY-8NVt4kZp-adgY9e8",
+      "id": "5893030768",
+      "description": "Bei der Liftstar GmbH setzen wir keine Grenzen, sondern Maßstäbe. Als führendes Familienunternehmen mit über 1.000 Mitarbeitenden und fünf einzigartigen Marken sind wir seit Jahrzehnten Marktführer im Bereich Treppenlifte. Unsere Mission: Menschen in jeder Lebensphase ein selbstbestimmtes Leben im eigenen Zuhause zu ermöglichen. Gemeinsam gestalten wir die Zukunft – miteinander und füreinander. Weil wir mehr wollen! Sales Manager im Direktvertrieb Außendienst (Mensch*) - Meiningen Aufgaben Verk…"
+    },
+    {
+      "title": "Küchenplaner / Küchenverkäufer (alle Geschlechter)",
+      "company": {
+        "display_name": "OBI Heimwerkermarkt GmbH & Co KG",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030684?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=72AF26EF85E27379FA746A042CCCD71BAFF4F243",
+      "location": {
+        "display_name": "Landshut, Landshut (Kreis)",
+        "area": [
+          "Deutschland",
+          "Bayern",
+          "Landshut (Kreis)",
+          "Landshut"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen"
+      },
+      "latitude": 48.530128,
+      "description": "Wir sind OBI. Als Team geben wir gemeinsam alles, um die kleinen und großen Projekte unserer Kund:innen zu ermöglichen. Viele kluge Köpfe stehen dabei zusammen und erleben den ALLES MACHBAR Spirit. Sei auch du dabei! Aufgaben Als Küchenfachberater:in trägst du maßgeblichen Teil zum Erfolg unseres wachsenden Küchensegments bei. Du verwandelst Kundenwünsche in Traumküchen und verantwortest den gesamten Verkaufsprozess von der Erstberatung bis zum Vertragsabschluss. Wir suchen Vertriebsprofis mit …",
+      "id": "5893030684",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDY4NCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0._C08RzDM2gfdKaNw6iLvgDr9ftkjpydeYbrZqEr-AOI",
+      "created": "2026-09-21T20:00:30Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 12.163864
+    },
+    {
+      "longitude": 9.856945,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:00:29Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwNjM3In0.T2_gaXyn9xpXrV3HkMFTN709dfXyu1wrJoALM1AGIjY",
+      "id": "5893030637",
+      "description": "Die AUGUSTA Personaldienstleistungen GmbH ist seit über 30 Jahren im Bereich der Personalvermittlung tätig. Sie möchten sich beruflich verändern und suchen eine neue Herausforderung? Dann nutzen Sie jetzt Ihre Chance und profitieren Sie von unserer langjährigen Erfahrung. Aufgaben Kommissionieren Warenbewegung mittels Flurförderzeugen Ware ein- und auslagern Profil Erfahrung im Lagerbereich Sicherer Umgang mit Flurförderzeugen Staplerschein erwünscht Wir bieten Ein unbefristetes Arbeitsverhältn…",
+      "latitude": 48.383137,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ulm, Baden-Württemberg",
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Ulm"
+        ]
+      },
+      "company": {
+        "display_name": "Augusta Personaldienstleistungen GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030637?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F1EE805D9C980216496F574AB1CAAE5674F1CEB5",
+      "title": "Helfer (m/w/d) Lager"
+    },
+    {
+      "longitude": 9.187224,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwNjMwIn0.A9o9X7VWtnYkpGJSlAnlfYuK33xL2ZSCfDZSm-kohrk",
+      "created": "2026-09-21T20:00:29Z",
+      "description": "Bei der Liftstar GmbH setzen wir keine Grenzen, sondern Maßstäbe. Als führendes Familienunternehmen mit über 1.000 Mitarbeitenden und fünf einzigartigen Marken sind wir seit Jahrzehnten Marktführer im Bereich Treppenlifte. Unsere Mission: Menschen in jeder Lebensphase ein selbstbestimmtes Leben im eigenen Zuhause zu ermöglichen. Gemeinsam gestalten wir die Zukunft – miteinander und füreinander. Weil wir mehr wollen! Servicetechniker/ Elektrofachkraft im Außendienst (Mensch*) - Stuttgart Aufgabe…",
+      "id": "5893030630",
+      "latitude": 48.776198,
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Liftstar GmbH"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030630?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=265AB8A8A80B819964A118416CA61891A1046300",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Stuttgart"
+        ],
+        "display_name": "Stuttgart, Baden-Württemberg",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Servicetechniker/ Elektrofachkraft im Außendienst (Mensch*) - Stuttgart"
+    },
+    {
+      "title": "Vertriebsmitarbeiter im Außendienst (m/w/d) - Betreuungsgebiet Thüringen",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Thüringen"
+        ],
+        "display_name": "Thüringen, Deutschland"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "METRO Deutschland GmbH"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030575?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=93D04675C12DC8B6B18D95D7E28598E548621C30",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 50.902104,
+      "id": "5893030575",
+      "description": "Die METRO Deutschland GmbH ist mit mehr als 10.000 engagierten Mitarbeitenden mit 102 Großmärkten und 11 Belieferungsdepots in ganz Deutschland vertreten. Rund drei Millionen Kundinnen und Kunden aus der Gastronomie und Großverbrauchende vertrauen auf unser vielfältiges Sortiment und die erstklassigen Leistungen unseres Unternehmens. Mit Leidenschaft, Kompetenz und Empathie tun wir alles dafür, sie optimal zu unterstützen. Unsere Mitarbeitenden sind unser Erfolgsrezept. Wir sind stolz darauf, d…",
+      "created": "2026-09-21T20:00:28Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwNTc1In0.7qcELcg6dLndnS1ioUadRywCx8ud0kzkcnYkKUEQtjA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 11.100397
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 6.578442,
+      "description": "Was entsteht, wenn Leidenschaft und Innovation zusammentreffen? Wir gestalten die Zukunft des sicheren Schienentransports von Gefahrgütern. Unsere Mission ist es, als führender Spezialist für die Vermietung hochmoderner Druckgaskesselwagen die Logistik für Chemie, Petrochemie und Energieversorgung in Europa zu sichern. Du übernimmst dabei eine entscheidende Rolle in der Bereitstellung und dem Management dieser spezialisierten Flotte. Werde Teil eines Teams, das mit Präzision und Verantwortung d…",
+      "id": "5893030430",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwNDMwIn0.YjgfATW5t6rbhjUdQzS22MNT70aOphrHZP8vLr_ktew",
+      "created": "2026-09-21T20:00:23Z",
+      "category": {
+        "label": "Verwaltungsstellen",
+        "tag": "admin-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.342965,
+      "title": "Sachbearbeiter Auftragsabwicklung - Eisenbahn /Kesselwagen (m/w/d)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "ARETZ GmbH & Co. KG"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030430?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=C39C4F7D4022D1BC357BAB27E4E22F890B176310",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Krefeld, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Krefeld"
+        ]
+      }
+    },
+    {
+      "latitude": 52.507706,
+      "category": {
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sonstige/Allgemeine Stellen"
+      },
+      "location": {
+        "display_name": "Berlin, Deutschland",
+        "area": [
+          "Deutschland",
+          "Berlin"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mercedes-Benz AG"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030196?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=E78B0DA8226734E017832B91EC5BFAE3C6EFC6C5",
+      "title": "Praktikant*in Remanufacturing/Camtronic",
+      "longitude": 13.420806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T20:00:10Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDE5NiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.2FZcGnM4PxKbZvEzfLI7l9QiY2g4GVghCkp4EJcmavU",
+      "id": "5893030196",
+      "description": "Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus. Bewerben Sie sich bei Mercedes-Benz und finden Sie den Aufgabenbereich, in dem Sie Ihre Talente individuell entfalten können. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die Ihren Pioniergeist teilen. Bei uns einzusteigen…"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 50.06315,
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030195?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D1EBA7EDD15A5C1BAACDBB0D23C81FA2219679CB",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Bayern",
+          "Kulmbach (Kreis)",
+          "Himmelkron"
+        ],
+        "display_name": "Himmelkron, Kulmbach (Kreis)"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 11.59314,
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "id": "5893030195",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDE5NSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.DUHQ8eGQpJ_ubyNcdjuwFYtlRKNrnLBIAlpJph8oY0s",
+      "created": "2026-09-21T20:00:09Z"
+    },
+    {
+      "latitude": 52.30001,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Minden-Lübbecke (Kreis)",
+          "Lübbecke"
+        ],
+        "display_name": "Lübbecke, Minden-Lübbecke (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030121?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=10163BE4510F7C958A7C92C3F898FB7954A2AFA8",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "title": "Postbote für Pakete und Briefe in Lübbecke (m/w/d)",
+      "longitude": 8.61836,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T20:00:05Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwMTIxIn0.svfd5QOHHv2pBRi7GaQFbsepwSInDpi2-7gAoUyvj8A",
+      "id": "5893030121",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg, bis maximal 31,5 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Lübbec…"
+    },
+    {
+      "title": "Postbote für Pakete und Briefe - Aushilfe/Abrufkraft (m/w/d) in Unna",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Unna, Unna (Kreis)",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Unna (Kreis)",
+          "Unna"
+        ]
+      },
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030105?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=5CE75B20A3B551284EDFE6EC9BD1F334583FF060",
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Logistik & Lagerhaltung"
+      },
+      "latitude": 51.53447,
+      "id": "5893030105",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an bestimmten Tagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Bereitschaft mehr als 603 € im Monat verdienen zu wollen (kein Mini-Job) …",
+      "created": "2026-09-21T20:00:03Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDEwNSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.T88ERS8TGqx92zjunmmt259Y6YZ4pAG-RWpX6xXScgA",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.68588
+    },
+    {
+      "created": "2026-09-21T20:00:02Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDA4NCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.Fk0cHnfcVZYUtSwnikmEd1XLJfbON-Ddlry5mHRBY0U",
+      "id": "5893030084",
+      "description": "Wir zählen zu den führenden Lebensmittel-Großhandelsunternehmen im Südwesten Deutschlands für die Belieferung im Außer-Haus-Markt. Wir bieten unseren Kunden ein umfangreiches Sortiment mit Lebensmitteln und Non-Food-Produkten. Zur Verstärkung unseres Teams suchen wir ab sofort eine/-n: Einkäufer/-in (m/w/d) -Food- Aufgaben Eigenverantwortliche Einkaufsverhandlungen mit Lieferanten Verantwortung für definierte Warengruppen Optimierung und Aktualisierung unseres Sortiments sowie Lieferantenportfo…",
+      "longitude": 8.236366,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Mainz, Rheinland-Pfalz",
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Mainz"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "SCHWÄLBCHEN Frischdienst GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030084?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=02D9A5B594EF65BFE2FAF86683B947CA80757C7C",
+      "title": "Einkäufer/-in (m/w/d) Food",
+      "latitude": 49.979007,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg, bis maximal 31,5 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Porta …",
+      "id": "5893030076",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDA3NiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.Y2eWWYW1NAeb5WKwiersVJWlJs_raLHatSJBPNcSWhE",
+      "created": "2026-09-21T20:00:01Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 8.92259,
+      "title": "Postbote für Pakete und Briefe in Porta Westfalica (m/w/d)",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030076?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=88C9EAD20E5CA6301332DADC02C9A7422614AF93",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Minden-Lübbecke (Kreis)",
+          "Porta Westfalica"
+        ],
+        "display_name": "Porta Westfalica, Minden-Lübbecke (Kreis)"
+      },
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs"
+      },
+      "latitude": 52.2395
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDA4MyIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.pEzuBxWnlynWDG05Vh5t80YArUql8WIeYsJzHiX0kr8",
+      "created": "2026-09-21T20:00:01Z",
+      "description": "Die LivEye GmbH hat sich auf die Bewachung von temporären Risikozonen mit mobilen Videoüberwachungsanlagen spezialisiert. Wir stehen für individuelle Sicherheitskonzepte rund um Videoüberwachung. Für jedes Gelände und jede Anforderung bieten wir die optimale Lösung: ob Baustellen, Gewerbeflächen oder Veranstaltungsgelände. Unter dem Markennamen LivEye werden hoch moderne Videoüberwachungsanlagen entwickelt und produziert. Dazu unterhält LivEye neben einer Forschungs- und Entwicklungseinheit auc…",
+      "id": "5893030083",
+      "longitude": 6.55177,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "LivEye GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030083?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=ECA055162410275850DFB127591BCD46A616B247",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Viersen (Kreis)",
+          "Willich"
+        ],
+        "display_name": "Willich, Viersen (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Konfigurationsmitarbeiter Videoüberwachung (m/w/d) am Standort Willich",
+      "latitude": 51.26496,
+      "category": {
+        "label": "Sonstige/Allgemeine Stellen",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      }
+    },
+    {
+      "latitude": 51.30171,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030032?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D5C6780434BD51B39B8822BECDC45F6C098EB4CA",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Markranstädt, Leipzig (Kreis)",
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Markranstädt"
+        ]
+      },
+      "title": "Paketzusteller (m/w/d) in Vollzeit ab 01.10.2026",
+      "longitude": 12.22091,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDAzMiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.2KpNSpLmKQf6xrJAKcFgZJjGB9WRcGwP1lq_3oG66y8",
+      "created": "2026-09-21T19:59:56Z",
+      "description": "Aufgaben Beladung und Auslieferung von Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Sendungen im Durchschnitt unter 10 kg (bis max. 31,5 kg) Zustellung mit unseren Geschäftsfahrzeugen, Transporter, bspw. vollelektrische Fahrzeuge Profil Du kannst und darfst einen Pkw fahren Du kannst dich sehr gut auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten 17,20 € Tarif-Stundenlohn (17,92 € rechnerischer Stundenlohn, ca. 2.9…",
+      "id": "5893030032"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwMDIzIn0.IJK8P-_W3s-JU6Msg4An-W39KSCRya4R9UrnoY-S3bM",
+      "created": "2026-09-21T19:59:56Z",
+      "description": "Aufgaben Auslieferung von Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten 18,50 € (inkl. Arbeitsmarktzulage) Tarif-Stundenlohn in inkl. MwSt. 50 % Weihnachtsgeld  weitere 50% Weihnachtsgeld im November  332 €…",
+      "id": "5893030023",
+      "longitude": 7.184113,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030023?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=2BDEE668F9D917353D4FA455B69632B60B0EABBC",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Wuppertal, Nordrhein-Westfalen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Wuppertal"
+        ]
+      },
+      "title": "Paketzusteller Wuppertal-Elberfeld (m/w/d)",
+      "latitude": 51.253998,
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs"
+      }
+    },
+    {
+      "longitude": 9.03851,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:59:56Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwMDMxIn0.q9sRNRSj2qJdPfKv85_nTyq9biMxXyiLg16AP8v7d_E",
+      "id": "5893030031",
+      "description": "Für unsere offene Position als Berufskraftfahrer (d/m/w) suchen wir dich! Starte im Customer Delivery Team und sei verantwortlich für das Tagesgeschäft sowie für die Sicherstellung der Qualität des Fuhrparks und der Auslieferung von Premiumfahrzeugen unseres Autohero Logistics Departments. In dieser Abteilung revolutionierst du mit uns Autotransporte in ganz Europa. Wir als Autohero, der innovative Online Shop für geprüfte Gebrauchtwagen, sind Teil der AUTO1 Group, Europas führender Plattform f…",
+      "latitude": 50.17535,
+      "category": {
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Logistik & Lagerhaltung"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Hessen",
+          "Main-Kinzig-Kreis",
+          "Langenselbold"
+        ],
+        "display_name": "Langenselbold, Main-Kinzig-Kreis",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030031?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=669B140D67BC15F2BCFA726FACE62B254F664A19",
+      "company": {
+        "display_name": "Autohero",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Berufskraftfahrer (d/m/w)"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 9.0164,
+      "id": "5893029998",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "created": "2026-09-21T19:59:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTk5OCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.hdzZ0vYlDmlCvH-dEjXqvhs_OqU-SmCamn8OoOPUkuc",
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.38014,
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bad Arolsen, Waldeck-Frankenberg (Kreis)",
+        "area": [
+          "Deutschland",
+          "Hessen",
+          "Waldeck-Frankenberg (Kreis)",
+          "Bad Arolsen"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029998?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F390D6624649E58AAA198C546CD7168DEA6FA632"
+    },
+    {
+      "longitude": 8.786477,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T19:59:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDAwMiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.T2jGUrwaFaPOBfu8yO6DQyVIq5NW3-h8WnONSIz8zlA",
+      "id": "5893030002",
+      "description": "Hast Du Lust auf interessante Aufgaben, ein tolles Team und gute Bezahlung? Dann bewirb Dich jetzt, denn wir setzen Deine Stärken und fachlichen Qualifikationen ins Rampenlicht. Bei den Maritim Hotels erwarten Dich eine unternehmenseigene Weiterbildungsakademie, viele Aufstiegsmöglichkeiten und eine ausgewogene Work-Life-Balance. Zur inhabergeführten Maritim Hotelkette gehören aktuell 37 Hotels im In- und Ausland. Wir legen Wert auf Vielfalt und konstruktives Feedback, beispielsweise durch Mita…",
+      "latitude": 53.10403,
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Gastronomie & Catering"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Bremen"
+        ],
+        "display_name": "Bremen, Deutschland",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030002?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=32C873F1BDCA4F0FDB443406B5BE93164328C83C",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Maritim Hotel Bremen"
+      },
+      "title": "Demi Chef de Partie (all gender)"
+    },
+    {
+      "created": "2026-09-21T19:59:55Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAzMDAxNSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.be-rofcq_hFppmiRQu6byWqa7ftuCwQpmEltynV7YvU",
+      "id": "5893030015",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Einbeck 17,92 € Tarif-Stund…",
+      "longitude": 9.86732,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Einbeck, Northeim (Kreis)",
+        "area": [
+          "Deutschland",
+          "Niedersachsen",
+          "Northeim (Kreis)",
+          "Einbeck"
+        ]
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030015?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=7C40FDE86CB95C3C18CC4E1215FA19FDE6406E24",
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "latitude": 51.81648,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDMwMDEwIn0.UXE35K1tcrkCcegmFseM6XsWn2tXaMIzf2zclMSbXGI",
+      "created": "2026-09-21T19:59:55Z",
+      "description": "Aufgaben Auslieferung von Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren (seit mindestens 2 Jahren) Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten 18,51 € Tarif-Stundenlohn inkl. 50% Weihnachtsgeld und regionale Arbeitsmarktzulage Weitere 50% Weihnachtsg…",
+      "id": "5893030010",
+      "longitude": 7.112412,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893030010?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=46C40BCB71752EA02E23E8BDBDBF69E7EAB3E08F",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Bonn"
+        ],
+        "display_name": "Bonn, Nordrhein-Westfalen"
+      },
+      "title": "Paketzusteller in Bonn (m/w/d)",
+      "latitude": 50.71942,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "latitude": 50.354959,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Rheinland-Pfalz",
+          "Koblenz"
+        ],
+        "display_name": "Koblenz, Rheinland-Pfalz"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029987?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=BD1255E386E4BA02365CE9AAED09039746B56AFF",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "longitude": 7.59437,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:59:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTk4NyIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.BvGVMxWnscpKWONdLdymb9mQNjj1bBZ9OjOTZXPBx3o",
+      "id": "5893029987",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…"
+    },
+    {
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029967?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=54D9F045F063C3C94C15CA3DF5E99D4125C29897",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Brandenburg",
+          "Elbe-Elster (Kreis)",
+          "Bad Liebenwerda"
+        ],
+        "display_name": "Bad Liebenwerda, Elbe-Elster (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 51.51528,
+      "description": "Aufgaben Sortierung und Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg (bis max. 31,5 kg) Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst und kannst einen Transporter fahren Du kannst dich sehr gut auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde…",
+      "id": "5893029967",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTk2NyIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.2T-GIog3eRVmW9MY14bf0yB8DvIInDN4ozMVVOTkRyc",
+      "created": "2026-09-21T19:59:54Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 13.39409
+    },
+    {
+      "latitude": 52.02709,
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Sachsen-Anhalt",
+          "Börde (Kreis)",
+          "Oschersleben (Bode)"
+        ],
+        "display_name": "Oschersleben (Bode), Börde (Kreis)"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029839?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=CCABB2E13EF452CCFF255104D47C3B561C9D06FB",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "longitude": 11.22371,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:59:50Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5ODM5In0.TVYR68r6cXDlJOYwMBvCwo4OsU1eouDBDRwdXS2hfmU",
+      "id": "5893029839",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Maximal 31,5 Kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren (Führerschein zwingend erforderlich) Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote…"
+    },
+    {
+      "title": "Postbote für Pakete und Briefe in Rahden (m/w/d)",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Minden-Lübbecke (Kreis)",
+          "Rahden"
+        ],
+        "display_name": "Rahden, Minden-Lübbecke (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029866?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=7D6AF5D49344018DE913634BACA8814BA93577FD",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 52.43282,
+      "id": "5893029866",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg, bis maximal 31,5 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Rahden…",
+      "created": "2026-09-21T19:59:50Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5ODY2In0.qshXGBE3JEf8QEZ4T46TO1kgpZZt24QSc0Guk0oxLb0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 8.61339
+    },
+    {
+      "id": "5893029742",
+      "description": "Aufgaben Sortierung und Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg (bis max. 31,5 kg) Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst und kannst einen Transporter fahren Du kannst dich sehr gut auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde…",
+      "created": "2026-09-21T19:59:49Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTc0MiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.rpwAWTiFl0r9M0NN33n20YYWBiXW4-DyX-xDP5EUdNk",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 12.99921,
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Nordsachsen (Kreis)",
+          "Torgau"
+        ],
+        "display_name": "Torgau, Nordsachsen (Kreis)"
+      },
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029742?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F173128D692F4AC2284CEDA008E47F86AAF9DBFB",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 51.5552
+    },
+    {
+      "title": "Postbote (m/w/d) als Aushilfe in Duisburg-Walsum",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029740?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=17BBB35180261B147B66C085981983929B3E81A9",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Duisburg"
+        ],
+        "display_name": "Duisburg, Nordrhein-Westfalen",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 51.443356,
+      "description": "Werde Aushilfe für die Zustellung von Briefen und Paketen in Duisburg-Hamborn Aufgaben Morgens startest Du an einem unserer Stützpunkte gemeinsam mit unserem BESTENTEAM und nimmst die Sendungen für den Tag mit auf Deine Tour Du schenkst unseren Kunden ein Lächeln, indem Du sie mit einem unserer Fahrzeuge, e-Bikes oder e-Trikes mit Briefen und Paketen versorgst Du sorgst dafür, dass jede Lieferung sicher zu unseren Kunden kommt! Das solltest Du mitbringen, damit wir zueinander passen Profil Du v…",
+      "id": "5893029740",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NzQwIn0.MtonnnO0oLllAqx3-RRpjLhvUAROx11sJrjLkZowzYc",
+      "created": "2026-09-21T19:59:48Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 6.743718
+    },
+    {
+      "title": "Paketzusteller für Pakete in Willich (m/w/d)",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029739?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=24AA9FAC3F81B87F3CDF3BF3076FABA378024317",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Willich, Viersen (Kreis)",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Viersen (Kreis)",
+          "Willich"
+        ]
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 51.26496,
+      "description": "Aufgaben Auslieferung von Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Du hast ein sauberes Führungszeugnis Wir bieten 18,50 € Tarif-Stundenlohn inkl. 50% Weihnachtsgeld und regionale Arbeitsmarktzulage Weitere 50% W…",
+      "id": "5893029739",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NzM5In0.Cr-P0e00p2f9ofiQ0btyMGTOixlUY4cWYprwOotV-kI",
+      "created": "2026-09-21T19:59:48Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 6.55177
+    },
+    {
+      "longitude": 8.63297,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NzQxIn0.jNB2x0no_AxbVY2KWX11duGmk4j8ViIBrK9HOOFRWCE",
+      "created": "2026-09-21T19:59:48Z",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg, bis maximal 31,5 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Espelk…",
+      "id": "5893029741",
+      "latitude": 52.37688,
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029741?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=57086B44C8C104030EFC3F058CE38E1F71DD075C",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Minden-Lübbecke (Kreis)",
+          "Espelkamp"
+        ],
+        "display_name": "Espelkamp, Minden-Lübbecke (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Postbote für Pakete und Briefe in Espelkamp (m/w/d)"
+    },
+    {
+      "latitude": 50.68451,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Ilmenau, Ilm-Kreis",
+        "area": [
+          "Deutschland",
+          "Thüringen",
+          "Ilm-Kreis",
+          "Ilmenau"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029729?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=0073A819B1A98438100D1E58CBEA2DF393957C9C",
+      "title": "Postbote – Minijob / Aushilfe (m/w/d) in Ilmenau",
+      "longitude": 10.9176,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:59:47Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NzI5In0.0jqCHnUqNwerGHPL7jCPI6MeAFYn5u_d_PQUXTOzoQs",
+      "id": "5893029729",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an bestimmten Tagen in Vollzeit (zwischen Montag und Freitag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du möchtest als Abrufkraft an einzelnen Tagen tätig sein Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Aush…"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 8.904587,
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg, bis maximal 31,5 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Wir bieten Werde Postbote für Pakete und Briefe in Minden…",
+      "id": "5893029725",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTcyNSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.xLg0un4HMSjh-gPa5UNxy4_Z2sz_SdGm9ojeN_JY5jU",
+      "created": "2026-09-21T19:59:47Z",
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs"
+      },
+      "latitude": 52.297838,
+      "title": "Postbote für Pakete und Briefe in Minden (m/w/d)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029725?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D2C5711AE8215B026514A86CBBD92798FA99E32E",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Minden-Lübbecke (Kreis)",
+          "Minden"
+        ],
+        "display_name": "Minden, Minden-Lübbecke (Kreis)"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Düsseldorf"
+        ],
+        "display_name": "Düsseldorf, Nordrhein-Westfalen"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "INNSIDE by Meliá Düsseldorf Hafen"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029734?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=5FFF4D7202CA76D4434799DFC73314A0143583E4",
+      "title": "Barkeeper (m/w/d)- für die MIA Restobar im INNSiDE Hafen",
+      "latitude": 51.226802,
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Gastronomie & Catering"
+      },
+      "created": "2026-09-21T19:59:47Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NzM0In0.jNS-s0frpVNt6Y9tXmu3gfcl_yfbt4pZAfgnZ9Q-40c",
+      "id": "5893029734",
+      "description": "Bei Meliá sind wir stolz darauf, eine Community von Very Inspiring People zu sein. Unser Team besteht aus engagierten Fachleuten , die sich dafür einsetzen, alltägliche Erlebnisse in außergewöhnliche Momente zu verwandeln. Ob Sie nun am Anfang Ihrer Karriere stehen oder ein erfahrener Experte sind, jedes Team-Mitglied bringt einzigartige Talente und Perspektiven mit, die zu unserer lebendigen sowie wertvollen Kultur beitragen. Die Arbeit bei Meliá ist nicht einfach nur ein Job , sondern eine Ge…",
+      "longitude": 6.808387,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 9.78975,
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Eine Bescheinigung über die Beantragung eines polizeilichen Führungszeugnisses…",
+      "id": "5893029654",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTY1NCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.zCqPR9o7LeO5_cxhCyigYuLd_iA4BdJWy--bpZ7jAHc",
+      "created": "2026-09-21T19:59:45Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "logistics-warehouse-jobs",
+        "label": "Stellen aus Logistik & Lagerhaltung"
+      },
+      "latitude": 48.0962,
+      "title": "Postbote für Pakete und Briefe (m/w/d)",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029654?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=8DDB5E628B9EFFD77398C65428E01AE5F5F558A0",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Biberach (Kreis)",
+          "Biberach an der Riß"
+        ],
+        "display_name": "Biberach an der Riß, Biberach (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "title": "Solution Developer / Architect – ServiceNow ITSM (w/m/d)",
+      "company": {
+        "display_name": "dmTECH GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029561?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=7C90E8409221F5F8241A69B8D4366333E1C971E4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Karlsruhe, Karlsruhe (Kreis)",
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Karlsruhe (Kreis)",
+          "Karlsruhe"
+        ]
+      },
+      "category": {
+        "label": "IT-Stellen",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": 49.001249,
+      "description": "Im dm-Konzern sind wir die Experten für die Gestaltung, Standardisierung und Digitalisierung der Prozesse rund um die IT-Ausstattung unserer dm-Märkte bei Neueröffnung, Umbau und Schließung. Im Schnitt werden pro Jahr allein in Deutschland ca. 50 dm-Märkte neu eröffnet, 600 Bestandsmärkte umgebaut und 25 dauerhaft geschlossen. Die Bereitstellung und der Rückbau von IT-Infrastrukturen (z. B. Netzwerke, Arbeitsplatz-Hardware, Kassen, EAS- und Videosysteme) erfolgt dezentral durch die verschiedene…",
+      "id": "5893029561",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTYxIn0.J_SuxWSO0RJhpsHRsi266P4iD3IoBpvr8wc5mFi-_Bs",
+      "created": "2026-09-21T19:59:41Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 8.412378
+    },
+    {
+      "id": "5893029562",
+      "description": "In unserem Werk München Allach fertigen wir moderne Lokomotiven und Passagierwagen für den Schienenverkehr weltweit. Aufgrund der hervorragenden Auftragslage bauen wir unsere Fertigung aus. Siemens Mobility ist ein eigenständig geführtes Unternehmen der Siemens AG und seit über 160 Jahren ein führender Anbieter im Bereich Mobilität. Zu unserem Kerngeschäft gehören Schienenfahrzeuge, Bahnautomatisierungs- und Elektrifizierungslösungen, schlüsselfertige Systeme sowie die dazugehörigen Serviceleis…",
+      "created": "2026-09-21T19:59:41Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTU2MiIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.FI8aIvetDwOyUKBBcKDBNYX9iz8glsh4eEM-U6jsWx4",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 12.373598,
+      "title": "Konstruktionsmechaniker / Schlosser im Schweißbau (m/w/d) - inkl. Umzugshilfe in München",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Leipzig"
+        ],
+        "display_name": "Leipzig, Leipzig (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029562?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=5ADCE7EADCEBD840A108522E3BDC4E1ABEF2334F",
+      "company": {
+        "display_name": "Siemens Mobility GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs",
+        "label": "Sonstige/Allgemeine Stellen"
+      },
+      "latitude": 51.339254
+    },
+    {
+      "title": "Projektmanager Unternehmensansiedlungsprojekte Medizintechnik & Biotechnologie (m/w/d)",
+      "company": {
+        "display_name": "WTSH - Wirtschaftsförderung und Technologietransfer Schleswig-Holstein GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029559?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=54E4E9B23EF5387986431E23D18DB0F83399DE05",
+      "location": {
+        "display_name": "Altstadt, Kiel",
+        "area": [
+          "Deutschland",
+          "Schleswig-Holstein",
+          "Kiel",
+          "Altstadt"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Vertriebsstellen",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 54.32167,
+      "description": "Die WTSH ist als Unternehmen des Landes Schleswig-Holstein, der Industrie- und Handels- sowie der Handwerkskammern und der Hochschulen des Landes die zentrale Wirtschaftsförderungsgesellschaft in Schleswig-Holstein. Als One-Stop-Agentur beraten und unterstützen wir Unternehmen, die in Schleswig-Holstein Geschäftsaktivitäten auf- oder ausbauen möchten. Die Hauptaufgabe unserer Ansiedlungsberatung liegt dabei in der Anwerbung und Beratung von in- und ausländischen Unternehmen, die erstmalig an ei…",
+      "id": "5893029559",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTU1OSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.XeZNjiYo95d3g_aoquqNZyBiKLkjrB-rbU-14EwZbgw",
+      "created": "2026-09-21T19:59:40Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 10.14187
+    },
+    {
+      "longitude": 10.14187,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "created": "2026-09-21T19:59:40Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTU4In0.0eJU7Ql6mp1diWAX5dPbm_jPA-mTC-yvbUy3d6FV2No",
+      "id": "5893029558",
+      "description": "Die WTSH ist als Unternehmen des Landes Schleswig-Holstein, der Industrie- und Handels- sowie der Handwerkskammern und der Hochschulen des Landes die zentrale Wirtschaftsförderungsgesellschaft in Schleswig-Holstein. Als One-Stop-Agentur beraten und unterstützen wir Unternehmen, die in Schleswig-Holstein Geschäftsaktivitäten auf- oder ausbauen möchten. Die Hauptaufgabe unserer Ansiedlungsberatung liegt dabei in der Anwerbung und Beratung von in- und ausländischen Unternehmen, die erstmalig an ei…",
+      "latitude": 54.32167,
+      "category": {
+        "label": "Vertriebsstellen",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "location": {
+        "display_name": "Altstadt, Kiel",
+        "area": [
+          "Deutschland",
+          "Schleswig-Holstein",
+          "Kiel",
+          "Altstadt"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "WTSH - Wirtschaftsförderung und Technologietransfer Schleswig-Holstein GmbH"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029558?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=A873633A498D85CC6BA6074C656CBC4308321633",
+      "title": "Koordinator Ansiedlungsprojekte Medizintechnik & Biotechnologie (m/w/d)"
+    },
+    {
+      "latitude": 52.507706,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "expertum GmbH"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029555?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=545EDBED0B738ECD38F505D416E1121A1AFBF52F",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Berlin"
+        ],
+        "display_name": "Berlin, Deutschland"
+      },
+      "title": "CNC-Maschinenbediener / Maschinen- und Anlagenführer (m/w/d) Berlin 35-Stunden-Woche",
+      "longitude": 13.420806,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTU1In0.54R6wZKUL6dKcrsQIh1fhplL6lo4Rz6bi5BLpy0plwg",
+      "created": "2026-09-21T19:59:39Z",
+      "description": "Dein neuer Arbeitsplatz befindet sich bei einem weltweit führenden Technologiekonzern der Energietechnik in Berlin . Am Standort werden unter anderem hochbeanspruchte Komponenten für moderne Gasturbinen gefertigt, bearbeitet und instand gesetzt. Dabei kommen unterschiedlichste CNC-gesteuerte Fertigungsverfahren zum Einsatz - vom Drehen und Fräsen über Erodieren bis hin zu Laserbohren und Laserschweißen. Als CNC-Maschinenbediener / Maschinen- und Anlagenführer (m/w/d) arbeitest du damit nicht in…",
+      "id": "5893029555"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 9.01646,
+      "id": "5893029557",
+      "description": "Aufgaben Auslieferung von Briefsendungen an 5 Werktagen pro Woche (zw. Montag und Samstag) Übernehmen und Ordnen von Briefsendungen Heben von Lasten bis maximal 31,5 kgim Durchschnitt unter 10 kg Zustellung mit einem unserer Geschäftsfahrzeuge Profil Du hast ab September 2026 , mindestens 5 Monate Zeit für uns tätig zu sein Du kannst dich auf Deutsch unterhalten Du hast einen Pkw-Führerschein Du bist zuverlässig, hängst dich rein und bist flexibel Du bist wetterfest und körperlich fit Du bist m…",
+      "created": "2026-09-21T19:59:39Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTU3In0.A4N1gLgeMyqTyNqNYqm_N8DwHfQ7Q3CoO4f27A1GiNE",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 48.80225,
+      "title": "Weihnachtsaushilfe: Postbote für Pakete und Briefe (m/w/d)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Leonberg, Böblingen (Kreis)",
+        "area": [
+          "Deutschland",
+          "Baden-Württemberg",
+          "Böblingen (Kreis)",
+          "Leonberg"
+        ]
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029557?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=9373BDF8A53D708A07D4A73E39B3C5EEB4C84326",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deutsche Post & DHL"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTUzIn0.23_qEZRID0h-Gt7ZFbluIJxgssvn0XpN-jxF9OnlTrM",
+      "created": "2026-09-21T19:59:37Z",
+      "description": "Aufgaben Zustellung von Brief- und Paketsendungen mit zur Verfügung gestellten Hilfsmitteln Auslieferung an 5 Werktagen (zwischen Montag und Samstag) Sendungen im Durchschnitt unter 10 kg Zustellung mit unseren Geschäftsfahrzeugen, bspw. vollelektrische Fahrzeuge Profil Du darfst einen Pkw fahren Du kannst dich auf Deutsch unterhalten Du bist wetterfest und kannst gut anpacken Du bist zuverlässig und hängst dich rein Werde Postbote bei Deutsche Post DHL Als Postbote bringst du den Menschen in d…",
+      "id": "5893029553",
+      "longitude": 9.58961,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Deutsche Post & DHL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029553?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=0C3B04BFB4041E967889CE3C162A99550AF3903C",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Niedersachsen",
+          "Region Hannover (Kreis)",
+          "Seelze"
+        ],
+        "display_name": "Seelze, Region Hannover (Kreis)"
+      },
+      "title": "Postbote für Pakete und Briefe (m/w/d) Seelze",
+      "latitude": 52.39706,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      }
+    },
+    {
+      "latitude": 51.39878,
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Technikerstellen"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029551?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=D08159A161D959F3EB26F1AAAA85FD196C206791",
+      "company": {
+        "display_name": "Griesson - de Beukelaer GmbH & Co. KG Werk Wurzen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Falkenhain"
+        ],
+        "display_name": "Falkenhain, Leipzig (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Servicetechniker Mechanik Instandhaltung (m/w/d) – Backwarenproduktion, Wurzen",
+      "longitude": 12.86987,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTUxIn0.CMCxEnKvkOuGgVLtv3BZBwyoUWSPr0xycmyw_rDNpM8",
+      "created": "2026-09-21T19:59:36Z",
+      "description": "Einleitung Kekse sind keine Hightech-Produkte, aber unsere Anlagen, auf denen wir sie backen. Bei Griesson - de Beukelaer vereinen wir unsere Backtradition mit modernsten technischen Standards. So backen wir Kekse, Gebäck und Snacks, die den Menschen ein Lächeln ins Gesicht zaubern. Als modernes Familienunternehmen sind wir stolz auf unsere Tradition und freuen uns, gemeinsam mit Ihnen unsere Zukunft zu gestalten! Indus­trie­me­cha­niker (m/w/d) in Wurzen An drei Standorten in Deutschland produ…",
+      "id": "5893029551"
+    },
+    {
+      "title": "Finance Business Partner Produktion (m/w/d)",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029545?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F2EB9657D8204ED2BD8885478A5155F245E933BF",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Arconic Extrusions Hannover GmbH"
+      },
+      "location": {
+        "display_name": "Ahlem, Hannover",
+        "area": [
+          "Deutschland",
+          "Niedersachsen",
+          "Region Hannover (Kreis)",
+          "Hannover",
+          "Ahlem"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Stellen aus Buchhaltung & Finanzwesen",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "latitude": 52.37822,
+      "description": "Controller / FP&A Analyst (m/w/d) im Industrieumfeld Über uns Die Arconic Extrusions Hannover GmbH ist ein international produzierendes Unternehmen und verfügt über mehrere Aluminium-Strangpressen. Arconic produziert Stangen, Profile und Rohre aus hochfestem Aluminium und Aluminium-Lithium-Legierungen für den Bereich Luft- und Raumfahrt, die Automobilindustrie als auch für weitere industrielle Anwendungen. Zur Verstärkung unseres Teams suchen wir ab sofort dich als: Controller / FP&A Analyst (m…",
+      "id": "5893029545",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTU0NSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.a6jCwRuS7-4g7SE8nEavtHMBoRlSvWyZpNIDJ6b7qLU",
+      "created": "2026-09-21T19:59:35Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 9.66378
+    },
+    {
+      "title": "Produktionsfachkraft Drahttechnik (m/w/d)",
+      "company": {
+        "display_name": "Vom Hofe Kaltstauchdraht GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029548?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=4D73C251D14C41469FA3250DD8E98CDE6BA80E06",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Märkischer Kreis",
+          "Altena"
+        ],
+        "display_name": "Altena, Märkischer Kreis"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Technikerstellen"
+      },
+      "latitude": 51.29873,
+      "description": "Einleitung: Einleitung: Als Teil der Vom Hofe Drahtwerke GmbH stehen wir seit über 150 Jahren für Qualität und Know-how in der Drahtindustrie. Am Standort Altena entwickeln und produzieren wir Kaltstauchdraht für anspruchsvolle Kunden aus Industrie und Automotive. Tradition trifft bei uns auf Technik, engagierte Teams und den Anspruch, gemeinsam jeden Tag besser zu werden. Aufgaben: Rüsten, Bedienen und Überwachen unserer Drahtzugmaschinen Begleitende Qualitätskontrolle Vormaterial prüfen und b…",
+      "id": "5893029548",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTU0OCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.7hTegVUq38j8V7V2vQ3auigsmpM9M4YZfaJPRoT-i1s",
+      "created": "2026-09-21T19:59:35Z",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.67342
+    },
+    {
+      "id": "5893029523",
+      "description": "Die Voigt Armaturen Fabrik stellt Armaturen im Gas- und Wasserbereich für Hausanschlüsse und Ver­bind­ungen unter­schied­licher Rohrsysteme her. Durch modernste CNC-Fertigungstechniken garantieren wir hohe Präzision und damit einen hohen Qualitäts- und Sicherheitsstandard. Seit 1975 wächst unser Famili­en­unter­nehmen stetig: Dieser an­dau­ernde Erfolg ist nur dank der erstklassigen Arbeit unserer motivierten Mit­ar­beiterinnen und Mitarbeiter möglich. Zur Unterstützung unseres dynamischen Team…",
+      "created": "2026-09-21T19:59:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTUyMyIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.KhaCHvSwQ7yI80xMqN9VyIRdsUw67UKZVW1z3JSQHxs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 7.07407,
+      "title": "Technischer Außendienstberater (m/w/d) – PLZ‑Gebiet 4 (NRW) mit Teilbereichen PLZ 5",
+      "location": {
+        "display_name": "Feldmark, Gelsenkirchen",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Gelsenkirchen",
+          "Feldmark"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "VOIGT ARMATURENFABRIK & HANDELSGESELLSCHAFT MBH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029523?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=7AD100E9D0BC96AE1F95BA2822587965FE76257D",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Vertriebsstellen"
+      },
+      "latitude": 51.51036
+    },
+    {
+      "longitude": 10.15951,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T19:59:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTUzNCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.vZXmPCc01QIAqtfqUvmdoNkIeaZ4lW2TzBLx7d0HFhk",
+      "id": "5893029534",
+      "description": "Speditions­kaufmann/ Speditions­kauffrau (m/w/d)/ Sachbearbeiter// in Vollzeit oder Teilzeit ab 20 Std./Woche TRANSDIREKT EUROLOGISTIK GMBH Die internationale Spedition für europa­weite Transport- uns Logistiklösungen. Wir von der Transdirekt Eurologistik GmbH stehen für Service, Erfahrung und Kundennähe. Unseren Kunden wollen wir stets die optimalen Lösungen für ihren spezifischen logistischen Bedarf bieten – Dabei agieren wir stets schnell, neutral und unabhängig. Wir freuen uns auf einen neu…",
+      "latitude": 53.49015,
+      "category": {
+        "label": "Stellen aus Logistik & Lagerhaltung",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Hamburg",
+          "Billwerder"
+        ],
+        "display_name": "Billwerder, Hamburg"
+      },
+      "company": {
+        "display_name": "TRANSDIREKT Eurologistik GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029534?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=F04DCFC8DD88E528F8340BCB64DD428C2F4AA675",
+      "title": "Kaufmännische Fachkraft Spedition und Transportabwicklung (m/w/d)"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTUzOSIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.tGSpBVLCm2PJAsUp4EKo5WTNill6KcsDxxf5s3fpyB4",
+      "created": "2026-09-21T19:59:35Z",
+      "description": "Einleitung Kekse sind keine Hightech-Produkte, aber unsere Anlagen, auf denen wir sie backen. Bei Griesson - de Beukelaer vereinen wir unsere Backtradition mit modernsten technischen Standards. So backen wir Kekse, Gebäck und Snacks, die den Menschen ein Lächeln ins Gesicht zaubern. Als modernes Familienunternehmen sind wir stolz auf unsere Tradition und freuen uns, gemeinsam mit Ihnen unsere Zukunft zu gestalten! Maschi­nen­be­diener (m/w/d) in Wurzen An drei Standorten in Deutschland produzie…",
+      "id": "5893029539",
+      "longitude": 12.86987,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029539?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=534CE1E46CA06C5B90A604870E8A8CC126FCC71D",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Griesson - de Beukelaer GmbH & Co. KG Werk Wurzen"
+      },
+      "location": {
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Falkenhain"
+        ],
+        "display_name": "Falkenhain, Leipzig (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Operator Produktionstechnik Süßwaren (m/w/d)",
+      "latitude": 51.39878,
+      "category": {
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Fertigung"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTUxOCIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.d8KJSnHAwM2QR5qds6i6j-GSp1XKCGxR3nCZ9SNuPdc",
+      "created": "2026-09-21T19:59:35Z",
+      "description": "Einleitung Kekse sind keine Hightech-Produkte, aber unsere Anlagen, auf denen wir sie backen. Bei Griesson - de Beukelaer vereinen wir unsere Backtradition mit modernsten technischen Standards. So backen wir Kekse, Gebäck und Snacks, die den Menschen ein Lächeln ins Gesicht zaubern. Als modernes Familienunternehmen sind wir stolz auf unsere Tradition und freuen uns, gemeinsam mit Ihnen unsere Zukunft zu gestalten! Elektro­niker für Betriebs­technik (m/w/d) in Wurzen An drei Standorten in Deutsc…",
+      "id": "5893029518",
+      "longitude": 12.86987,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Griesson - de Beukelaer GmbH & Co. KG Werk Wurzen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029518?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=0D3CA5501000A47DE74BD25310305816661394A1",
+      "location": {
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Falkenhain"
+        ],
+        "display_name": "Falkenhain, Leipzig (Kreis)",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Instandhaltungselektriker Betriebstechnik - Produktion (m/w/d)",
+      "latitude": 51.39878,
+      "category": {
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Technikerstellen"
+      }
+    },
+    {
+      "category": {
+        "label": "Technikerstellen",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 51.29873,
+      "title": "Maschinen- und Anlagenbediener Drahtzug/Umformtechnik (m/w/d)",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Deutschland",
+          "Nordrhein-Westfalen",
+          "Märkischer Kreis",
+          "Altena"
+        ],
+        "display_name": "Altena, Märkischer Kreis"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029547?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=FCD5DECC4A6866E203C2D5091D553427288B5E05",
+      "company": {
+        "display_name": "Vom Hofe Kaltstauchdraht GmbH",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": 7.67342,
+      "id": "5893029547",
+      "description": "Einleitung: Einleitung: Als Teil der Vom Hofe Drahtwerke GmbH stehen wir seit über 150 Jahren für Qualität und Know-how in der Drahtindustrie. Am Standort Altena entwickeln und produzieren wir Kaltstauchdraht für anspruchsvolle Kunden aus Industrie und Automotive. Tradition trifft bei uns auf Technik, engagierte Teams und den Anspruch, gemeinsam jeden Tag besser zu werden. Aufgaben: Rüsten, Bedienen und Überwachen unserer Drahtzugmaschinen Begleitende Qualitätskontrolle Vormaterial prüfen und b…",
+      "created": "2026-09-21T19:59:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAyOTU0NyIsInMiOiJtTFpqYk9lMThSR2xjTUFGOS1XU013In0.9MeIxYgRHxnYU3lydA1gySvvp_qtPHnz-q_ZWFlvhDw"
+    },
+    {
+      "category": {
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Stellen aus Fertigung"
+      },
+      "latitude": 51.39878,
+      "title": "Maschinenführer Süßwarenproduktion (m/w/d)",
+      "location": {
+        "display_name": "Falkenhain, Leipzig (Kreis)",
+        "area": [
+          "Deutschland",
+          "Sachsen",
+          "Leipzig (Kreis)",
+          "Falkenhain"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Griesson - de Beukelaer GmbH & Co. KG Werk Wurzen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.de/land/ad/5893029527?se=mLZjbOe18RGlcMAF9-WSMw&utm_medium=api&utm_source=a6bbb028&v=0D8DA5E921AA19CE855B3E9458F64850CF53D94F",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "longitude": 12.86987,
+      "id": "5893029527",
+      "description": "Einleitung Kekse sind keine Hightech-Produkte, aber unsere Anlagen, auf denen wir sie backen. Bei Griesson - de Beukelaer vereinen wir unsere Backtradition mit modernsten technischen Standards. So backen wir Kekse, Gebäck und Snacks, die den Menschen ein Lächeln ins Gesicht zaubern. Als modernes Familienunternehmen sind wir stolz auf unsere Tradition und freuen uns, gemeinsam mit Ihnen unsere Zukunft zu gestalten! Anlagen­be­diener (m/w/d) in Wurzen An drei Standorten in Deutschland produzieren…",
+      "created": "2026-09-21T19:59:35Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibUxaamJPZTE4UkdsY01BRjktV1NNdyIsImkiOiI1ODkzMDI5NTI3In0.k9UN8yno29o67Sj47Z7fZe0jEvw4e6FzlCynyAeNQik"
+    }
+  ]
+}

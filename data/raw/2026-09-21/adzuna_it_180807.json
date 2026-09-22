@@ -1,0 +1,3110 @@
+{
+  "fetched_at": "2026-09-21T18:08:07.555295+00:00",
+  "country": "it",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 8477,
+  "mean": 24701.52,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "id": "5893018859",
+      "redirect_url": "https://www.adzuna.it/details/5893018859?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "title": "Addetto/a alla cliente Luxury Retail Categorie Protette l. 68/99",
+      "salary_max": 28,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkzMDE4ODU5In0.AY-v78go0ZUUvmjkFmnIn-mDsaiJi5egrHc9kbDlf5k",
+      "category": {
+        "label": "Altro",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_min": 26,
+      "created": "2026-09-21T19:48:44Z",
+      "company": {
+        "display_name": "Ali Professional",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Italia",
+        "area": [
+          "Italia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "ALI PROFESSIONAL – DIVISIONE D&I Ricerca un/a CLIENT ADVISOR appartenente alle Categorie Protette L.68/99 La risorsa si occuperà di: accogliere e assistere il cliente durante tutte le fasi dell'esperienza di acquisto; comprendere esigenze e desideri del cliente e proporre soluzioni personalizzate; raccontare il prodotto e il mondo Christian Louboutin attraverso uno storytelling coinvolgente; contribuire al raggiungimento degli obiettivi di vendita individuali e di team; curare la relazione con …",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "created": "2026-09-21T19:48:44Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ali Professional"
+      },
+      "salary_min": 35,
+      "category": {
+        "label": "Altro",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "salary_max": 45,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkzMDE4ODYxIn0.6UZUWuH5kJKX3ywQhz2biLk7n_CzlEB0u9BJxrc7NSo",
+      "title": "HSE manager",
+      "redirect_url": "https://www.adzuna.it/details/5893018861?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893018861",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Italia",
+        "area": [
+          "Italia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Ali Professional ricerca HSE Manager per una storica realtà operante nel settore delle energie rinnovabili e dell'efficientamento energetico, con sede a San Donato Milanese . La figura sarà coinvolta sia nelle attività di sede sia sui cantieri, collaborando con le diverse funzioni aziendali per promuovere elevati standard di sicurezza durante tutte le fasi di sviluppo e realizzazione dei progetti. Principali responsabilità: Effettuare sopralluoghi periodici presso cantieri e impianti per verifi…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Belmond"
+      },
+      "created": "2026-09-21T19:48:44Z",
+      "category": {
+        "label": "Altro",
+        "tag": "other-general-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxODg1NSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.Xi0PSAimTga65FGEt2yT9qQoqbfMEKpSL6FsJUR7OV8",
+      "redirect_url": "https://www.adzuna.it/details/5893018855?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "title": "Tirocinio Ufficio Eventi Hotel Cipriani - stagione 2027",
+      "id": "5893018855",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia"
+        ],
+        "display_name": "Italia"
+      },
+      "description": "L'iconico Hotel Cipriani, a Belmond Hotel, Venice seleziona per la stagione 2027 una/un tirocinante da inserire nel proprio ufficio eventi. Si tratta di una opportunità full time (40 ore la settimana) da aprile a fine settembre 2027. La risorsa affiancherà il team eventi nelle site inspection per futuri ospiti/clienti, nella preparazione di offerte, nella gestione degli eventi dai contatti con i fornitori fino al controllo che tutto sia perfetto all'inizio della festa o del banchetto. È un lavo…"
+    },
+    {
+      "description": "Ali Professional, società di Ricerca & Selezione specializzata nella selezione di profili Tecnici e Middle Management, per azienda strutturata e internazionale, operante nel settore dei compressori l’industria , ricerca una nuova risorsa da inserire all’interno della divisione Service con il ruolo di Tecnico Commerciale Service , dedicato al territorio dell’Emilia-Romagna. Emilia-Romagna | Sede di riferimento: Cesena (FC) La figura avrà l’obiettivo di sviluppare e consolidare le opportunità com…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia"
+        ],
+        "display_name": "Italia"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893018857",
+      "title": "Tecnico Commerciale Service - settore Industriale Emilia Romagna",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5893018857?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 30,
+      "salary_max": 40,
+      "category": {
+        "label": "Altro",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxODg1NyIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.b1oh6Yi81-fgB4KCslNzWvJkZfkGt-JRhmfasH0MuMQ",
+      "created": "2026-09-21T19:48:44Z",
+      "company": {
+        "display_name": "Ali Professional",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.it/details/5893018856?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "title": "Tirocinio amministrazione Hotel Cipriani - stagione 2027",
+      "id": "5893018856",
+      "created": "2026-09-21T19:48:44Z",
+      "company": {
+        "display_name": "Belmond",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkzMDE4ODU2In0.3Exwo7vC_G_ooMOu5kstSOukfpyMoo-j1tHKQxidZ0A",
+      "category": {
+        "label": "Altro",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "other-general-jobs"
+      },
+      "description": "Come tirocinante nell'ufficio amministrativo dell'Hotel Cipriani, a Belmond Hotel, Venice, avrai l'opportunità di apprendere e contribuire alle attività quotidiane del nostro team. Questa posizione ti permetterà di lavorare a stretto contatto con professionisti esperti del settore e di sviluppare competenze pratiche in diversi aspetti della gestione aziendale. Sarai un supporto nelle operazioni quotidiane, contribuendo al monitoraggio dei processi amministrativi e alla realizzazione di report. …",
+      "location": {
+        "area": [
+          "Italia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Italia"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Pavia",
+          "Casei Gerola"
+        ],
+        "display_name": "Casei Gerola, Provincia di Pavia"
+      },
+      "description": "Hunters Group, per conto di prestigiosa azienda del settore logistico , ricerca un/a HR BUSINESS PARTNER . Principali responsabilità Garantire la corretta gestione delle Risorse Umane, con attenzione a sviluppo, benessere e adeguatezza degli organigrammi aziendali (diretta gestione di ca 300 dipendenti); Partecipare alla gestione delle carriere e delle competenze, ricercando i profili mancanti e supportando i piani formativi; Collaborare alla gestione dei processi amministrativi HR, incluse pag…",
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893008373",
+      "title": "Hr Business Partner",
+      "redirect_url": "https://www.adzuna.it/details/5893008373?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 8.917277,
+      "category": {
+        "label": "Logistica/Imballaggio E Magazzinaggio",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 45.023546,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODM3MyIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.05cAG2dU6-CU8S89_p-7ue6BkCbvz3diguu7txPi-1Q",
+      "created": "2026-09-21T19:08:46Z",
+      "company": {
+        "display_name": "Hunters Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "description": "Hunters group , per conto di rinomata azienda specializzata nella progettazione, costruzione e gestione di Impianti, ricerca un/a Specialista Amministrazione e Finanza. La figura ricercata sarà inserita all’interno dell’area Amministrazione, Finanza e Controllo e avrà un ruolo chiave nella gestione amministrativa, contabile e finanziaria dell’azienda, con particolare focus sulla fatturazione, la contrattualizzazione e i rapporti bancari. Responsabilità principali Gestione del ciclo attivo e pas…",
+      "location": {
+        "display_name": "Castellammare di Stabia, Provincia di Napoli",
+        "area": [
+          "Italia",
+          "Campania",
+          "Provincia di Napoli",
+          "Castellammare di Stabia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_type": "permanent",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5893008372",
+      "title": "Responsabile amministrativo",
+      "redirect_url": "https://www.adzuna.it/details/5893008372?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 14.481674,
+      "latitude": 40.696002,
+      "category": {
+        "label": "Produzione/Industrie Manifatturiere",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODM3MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.ZVl0B3e9YKNAPcOujRkxB5DU6DTTZAE2o23oc30BSXo",
+      "created": "2026-09-21T19:08:46Z",
+      "company": {
+        "display_name": "Hunters Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "created": "2026-09-21T19:08:46Z",
+      "company": {
+        "display_name": "Hunters Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 11.896444,
+      "category": {
+        "tag": "maintenance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Elettrotecnica/Metalmeccanico"
+      },
+      "latitude": 44.487825,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwODM3MSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.op1SJldaxYV_ZeKqTmYd6jaRENbAj6wHyy2kvqBFxaQ",
+      "title": "Tecnico Elettricista",
+      "redirect_url": "https://www.adzuna.it/details/5893008371?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "id": "5893008371",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Storica azienda italiana attiva principalmente nel settore dell’impiantistica elettrica e tecnologica, operante a supporto di aziende, enti pubblici e società di gestione dei servizi pubblici sul territorio della Romagna. La risorsa sarà inserita nel team operativo e si occuperà di attività di installazione e manutenzione in ambito elettrico. Mansioni Installazione e manutenzione di impianti elettrici e tecnologici Manutenzione e riqualificazione di impianti di illuminazione Attività di cablagg…",
+      "location": {
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Ravenna",
+          "Lugo"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Lugo, Provincia di Ravenna"
+      },
+      "contract_type": "permanent"
+    },
+    {
+      "id": "5893007260",
+      "title": "Pizzaiolo",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5893007260?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 25000,
+      "salary_max": 25000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwNzI2MCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.-vmREKrUKUXFJ-_iGFNl9JrSBcYcM_4wTabscOY-oUA",
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Alberghi/Ristoranti/Bar"
+      },
+      "created": "2026-09-21T19:04:22Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Napples srl"
+      },
+      "location": {
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Torino, Provincia di Torino"
+      },
+      "description": "Napples, pizzeria napoletana con due sedi a Torino, è alla ricerca di un pizzaiolo esperto da inserire nel proprio staff. Chi cerchiamo: Esperienza comprovata nella preparazione della pizza napoletana (impasto, lievitazione, stesura, cottura) Ottima padronanza del forno a legna (gestione temperatura, cottura e tempistiche) Precisione, velocità e capacità di lavorare bene sotto pressione nei momenti di punta Passione autentica per la tradizione napoletana e attenzione alla qualità degli ingredie…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Field Quality Assurance (FQA), Process Excellence",
+      "redirect_url": "https://www.adzuna.it/details/5893001899?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "id": "5893001899",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Amazon Italia Transport Srl"
+      },
+      "created": "2026-09-21T18:54:54Z",
+      "longitude": 12.32853,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "latitude": 45.463925,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkzMDAxODk5In0.WT--IfrO-30mSFc8HXCo-G_2QKg_3NYnwD1zEIh7oeM",
+      "location": {
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Venezia",
+          "Venezia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Venezia, Provincia di Venezia"
+      },
+      "description": "Operations is the heart and soul of everything Amazon does. As a Field Quality Assurance (FQA) Specialist you will solve complex challenges, partner with the Quality manager and Operations Managers to ensure timely delivery of goods out of the facilities. The individual in this position You will identify, design, and deliver process improvement solutions for various customer experience initiatives, designed to improve Amazon’s ability to deliver directly to customers through its network of 3rd …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Account Manager - Liguria",
+      "id": "5892991262",
+      "longitude": 9.187087,
+      "latitude": 45.471322,
+      "category": {
+        "label": "Produzione/Industrie Manifatturiere",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTI2MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.35mn8T4O7T9fgBlonjSSGZ8lVZWq21acFnelHi4yUuY",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5892991262?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:32:00Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deliveroo"
+      },
+      "salary_min": 31320,
+      "salary_max": 39150,
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Milano, Provincia di Milano"
+      },
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team. Account Manager – Liguria Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Commercial team sits at the centre of Deliver…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "As a global medtech company, we are driven by our Vision of changing the trajectory of lives for a new day and our Mission to create ingenious solutions that ignite patient turnarounds. Our relentless commitment to patients and strong legacy of innovation in healthcare are the foundation of our future. If you're looking for a new chance, a new beginning, a new trajectory, LivaNova is where your talent can truly thrive. Join our talented team members worldwide to become a pioneer of tomorrow—bec…",
+      "location": {
+        "display_name": "Italia",
+        "area": [
+          "Italia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_min": 43500,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MTA2NSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.xFeZvmaLDqpBPtPxGfTmYx8t4lQQ6U5nktU_p9e3ies",
+      "salary_max": 60000,
+      "category": {
+        "label": "Contabilità/Finanza",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:31:32Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LivaNova"
+      },
+      "id": "5892991065",
+      "title": "Senior Consolidation Accountant",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5892991065?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Milano, Provincia di Milano"
+      },
+      "description": "Description Chi cerchiamo Per la nostra sede di Milano - Piazza Trento siamo alla ricerca di una persona da inserire come BUYER - ACQUISTI DISTRIBUZIONE GAS ED ENERGIA ELETTRICA all'interno del team \"ACQUISTI DISTRIBUZIONE GAS ED ENERGIA ELETTRICA\". La struttura ha lo scopo di presidiare l’intero processo di approvvigionamento della BU Smart Infrastructures, definendo strategie di sourcing, gare e negoziazioni, ottimizzando costi e sinergie di Gruppo e supportando contratti, fornitori e subappa…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5892990954?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 46000,
+      "salary_min": 40000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Gruppo A2A"
+      },
+      "created": "2026-09-21T18:31:06Z",
+      "id": "5892990954",
+      "title": "Buyer - Acquisti Distribuzione Gas Ed Energia Elettrica",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk5MDk1NCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.AgiLs_WDfC6HgGUqKFzzZBdx47pW6NnnWJfY0wl6JzM",
+      "latitude": 45.471322,
+      "category": {
+        "label": "Logistica/Imballaggio E Magazzinaggio",
+        "tag": "logistics-warehouse-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 9.187087
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano"
+      },
+      "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we’re unlocking new possibilities as one global team. Business Development Manager (Lazio) — 12-Month FTC About the role We are looking for a Business Development Manager based in Lazio. This is a rare opportunity to become a founding and important member …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.it/details/5892989951?utm_medium=api&utm_source=a6bbb028",
+      "title": "Business Development Manager - Lazio (Fixed- Term)",
+      "id": "5892989951",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Deliveroo"
+      },
+      "created": "2026-09-21T18:30:17Z",
+      "salary_max": 26000,
+      "latitude": 45.471322,
+      "category": {
+        "label": "Produzione/Industrie Manifatturiere",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg5OTUxIn0.Qwk_4thcc21P9uTmlYNAdZyM73fLx-N8Ni_fDvEk1oc",
+      "longitude": 9.187087,
+      "salary_min": 17200
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Gargnano, Provincia di Brescia",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Brescia",
+          "Gargnano"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Description Become part of the Lefay Team and join our new Cluster Offices, where expertise, collaboration and innovation come together to support two extraordinary destinations: Lefay Resort & SPA Lago di Garda, an internationally acclaimed wellness destination, and Lefay Resort & SPA Dolomiti, surrounded by the majestic Dolomites, a UNESCO World Heritage Site. Here, you will have the opportunity to work behind the scenes of two award-winning resorts, contributing to a shared vision of Italian…",
+      "company": {
+        "display_name": "Marriott Hotels Resorts",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:29:50Z",
+      "longitude": 10.651248,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4ODk5OCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.9xg47elp_xg0L70pmMzMD7VcZNol7EnBgvrqumhyFRI",
+      "latitude": 45.698213,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "title": "Learning & Development Manager",
+      "redirect_url": "https://www.adzuna.it/details/5892988998?utm_medium=api&utm_source=a6bbb028",
+      "contract_time": "full_time",
+      "id": "5892988998"
+    },
+    {
+      "location": {
+        "area": [
+          "Italia"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Italia"
+      },
+      "description": "In qualità di Sales Stylist in Levi Strauss & Co., avrete l'opportunità di lavorare in un ambiente in cui si esaltano il cambiamento e le idee. Sarete il legame fondamentale tra i nostri prodotti e i clienti, offrendo un livello di assistenza e servizio clienti molto avanzato. Parti fondamentali del ruolo: Offrire il più alto livello di assistenza ai clienti grazie al lavoro di squadra e ai valori del nostro marchio Offrire un servizio personalizzato straordinario e assicurarsi che il cliente s…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.it/details/5892988495?utm_medium=api&utm_source=a6bbb028",
+      "title": "Sales Stylist - Part Time",
+      "id": "5892988495",
+      "created": "2026-09-21T18:29:43Z",
+      "company": {
+        "display_name": "Levi Strauss",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "salary_max": 27900,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg4NDk1In0.XYZTOiLCX34mFI7aqYYluj4cqAzTvAWtDIYiuRZhDvY",
+      "salary_min": 23300
+    },
+    {
+      "id": "5892988136",
+      "redirect_url": "https://www.adzuna.it/details/5892988136?utm_medium=api&utm_source=a6bbb028",
+      "title": "Electrical Integration and Start-up Engineer (Impiantista Elettrico)",
+      "latitude": 45.683573,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4ODEzNiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.e-g-xVuMQS1b-uUxkudnOTQx4Vq61iRgUFZY8mUK5Xk",
+      "longitude": 12.189915,
+      "created": "2026-09-21T18:29:39Z",
+      "company": {
+        "display_name": "APPLIED MATERIALS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Treviso, Provincia di Treviso",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Treviso",
+          "Treviso"
+        ]
+      },
+      "description": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the bound…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "id": "5892986731",
+      "redirect_url": "https://www.adzuna.it/details/5892986731?utm_medium=api&utm_source=a6bbb028",
+      "title": "Mechatronics & Commissioning Engineer (Junior)",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 45.683573,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NzMxIn0.XgRZ2CAk3Y_QnqnxVrDkSfkWV2EGxVHXTM4TPMVwz0w",
+      "longitude": 12.189915,
+      "created": "2026-09-21T18:29:14Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "APPLIED MATERIALS"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Treviso",
+          "Treviso"
+        ],
+        "display_name": "Treviso, Provincia di Treviso"
+      },
+      "description": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the bound…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano",
+          "Lanza"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Lanza, Milano"
+      },
+      "description": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the bound…",
+      "created": "2026-09-21T18:29:14Z",
+      "company": {
+        "display_name": "APPLIED MATERIALS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 45.471322,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NzM2In0.M-o9mXr2H9b850ziHVEMSK17G_2erxCYeXjd3taxWCg",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "longitude": 9.187087,
+      "redirect_url": "https://www.adzuna.it/details/5892986736?utm_medium=api&utm_source=a6bbb028",
+      "title": "Software (Technical) Support Engineer (f/m/d)",
+      "id": "5892986736"
+    },
+    {
+      "created": "2026-09-21T18:29:14Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "APPLIED MATERIALS"
+      },
+      "latitude": 45.683573,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NzM1In0.oPW5Wo2RR_z39nfkFFy--COC-XA-B-V6vuBQAKSuCYc",
+      "longitude": 12.189915,
+      "redirect_url": "https://www.adzuna.it/details/5892986735?utm_medium=api&utm_source=a6bbb028",
+      "title": "Integration and Start Up Engineer (Installatore Meccanico)",
+      "id": "5892986735",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Treviso, Provincia di Treviso",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Treviso",
+          "Treviso"
+        ]
+      },
+      "description": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the bound…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia"
+        ],
+        "display_name": "Italia"
+      },
+      "description": "Entrando in Accenture Supply Chain & Engineering lavorerai al cuore della value chain - dal sourcing e procurement , all'engineering e R&D, dalla manifattura e operations , a i capital projects - per aiutare le aziende a reinventare l'intera catena del valore, alimentata da dati, AI e tecnologie di nuova generazione. In particolare, nell’ ar ea R&D and Product Engineering supportiamo la progettazione e sviluppo di prodotti innovativi in ambito aerospazio, difesa, navale ed elettronica , integra…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986541",
+      "contract_time": "full_time",
+      "redirect_url": "https://www.adzuna.it/details/5892986541?utm_medium=api&utm_source=a6bbb028",
+      "title": "Technical Specialist – Certificazione e Omologazione Sistemi Terrestri",
+      "salary_max": 40800,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NTQxIn0.giyZpXk5y4SqyASuSkjW4MkPs-j7mWCUxjJZW8NgrTQ",
+      "salary_min": 30814,
+      "company": {
+        "display_name": "Accenture",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:59Z"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "IMQ Group srl"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 44.983858,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDkwIn0.JPCqfUkotrEc87bvBoMugcGx97zQyFSRImZZC_mh6YU",
+      "longitude": 7.741954,
+      "redirect_url": "https://www.adzuna.it/details/5892986490?utm_medium=api&utm_source=a6bbb028",
+      "title": "Vehicle Test Planner",
+      "id": "5892986490",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "display_name": "Trofarello, Provincia di Torino",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Trofarello"
+        ]
+      },
+      "description": "CSI è un polo di riferimento europeo per la verifica e la certificazione della conformità di materiali, prodotti, impianti e imprese. Una struttura composta da laboratori di prova, centri di analisi e piste di testing, dotata di avanzate attrezzature e apparecchiature di prova e di diagnosi, di analisi e di elaborazione dati. Una realtà riconosciuta quale centro di eccellenza in particolare per le aziende del settore food, packaging, materiali, materiale da costruzione e automotive nella quale,…"
+    },
+    {
+      "redirect_url": "https://www.adzuna.it/details/5892986501?utm_medium=api&utm_source=a6bbb028",
+      "title": "HR Partner",
+      "id": "5892986501",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Accenture"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "latitude": 41.877339,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NTAxIn0.krX_PzMa9ak5IcViGY1pGEwAJbJkNLnYRNH8PkxagOk",
+      "longitude": 12.489081,
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "description": "Perché aspettare il cambiamento, quando puoi farne parte? In Accenture, potrai crescere in un ambiente inclusivo e rispettoso della tua unicità e dei tuoi valori, sviluppando le tue abilità con programmi di training continuativi ed esperienziali. Scopri cosa significa lavorare al cuore del cambiamento e accompagna le aziende più importanti nel loro percorso di trasformazione digitale. Entra a far parte del nostro team HR per il quale siamo alla ricerca di un HR Partner. In particolare, potrai: …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "title": "Addetto/a Gestione Clienti - Torino Centro",
+      "redirect_url": "https://www.adzuna.it/details/5892986497?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986497",
+      "created": "2026-09-21T18:28:56Z",
+      "company": {
+        "display_name": "Hydra Srl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": 7.673018,
+      "latitude": 45.068057,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ5NyIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.zzthyFIXMbA5vlEYh-K4UuD9KKeB1xoyFo2kpHcevyY",
+      "description": "Hydra srl specializzata nel mondo della comunicazione e del marketing, seleziona per la sede di Torino Porta Susa. Posizione::Per sviluppare la nostra capillarità sul territorio torinese siamo alla ricerca di un/una addetto/a gestione clienti che curerà la comunicazione delle nostre aziende clienti garantendo: - incremento del bacino utenti/clienti/soci - attività di branding Requisiti::E' fondamentale avere: - Eccellente conoscenza della lingua italiana (plus seconda lingua) - Capacità di cont…",
+      "location": {
+        "display_name": "Torino, Provincia di Torino",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "company": {
+        "display_name": "Page Personnel Italia",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "longitude": 12.489081,
+      "latitude": 41.877339,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ5OSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.5LMv1p4lZf85Db0l5zfKB5fI8BBdDA7T8rxM8ndsCEY",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "title": "Segretaria Legale",
+      "redirect_url": "https://www.adzuna.it/details/5892986499?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986499",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "La risorsa selezionata sarà inserita all'interno del tem di segreteria e supporterà due Partners dello studio. Nello specifico dovrà occuparsi di: - gestione della segreteria generale - gestione agende - organizzazione meeting e trasferte - fascicolazione - utilizzo, gestione e archiviazione di PEC Ottima pportunità professionale |Rinomato Studio Legale Rinomato studio legale con sede a Roma. Si offre un contratto a tempo indeterminato. Sede di lavoro: Roma Parioli Tipo di impiego: full-time (1…",
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      }
+    },
+    {
+      "id": "5892986500",
+      "redirect_url": "https://www.adzuna.it/details/5892986500?utm_medium=api&utm_source=a6bbb028",
+      "title": "Receptionist/segretaria/o",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "latitude": 41.877339,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NTAwIn0.zgc5JnsCQ0E1KtYAbI1p6x0QQokzKbKN94Tpp72Afbk",
+      "longitude": 12.489081,
+      "created": "2026-09-21T18:28:56Z",
+      "company": {
+        "display_name": "HJ Language House",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Si cerca receptionist/ segretaria/o per scuola di inglese privata. Madre lingua italiana, Una buona conoscenza della lingua inglese è un valore aggiunto. Ottime abilità comunicative, utilizzo di software informatici e ottime abilità organizzative. Contratto di lavoro: Part-time Stipendio: Fino a €600,00 al mese Disponibilità: - Dal lunedì al venerdì - Orario flessibile Retribuzione supplementare: - Incentivi legati alle vendite Possibilità di pendolarismo/trasferimento: - 00145 Roma, RM: Poter …",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Si cerca una figura di Neolaureato in Ingegneria Biomedica da inserire nel team Global Service. La figura inserita verrà formata per poter installare le apparecchiature presso la clientela internazionale dell'azienda. Si occuperà di supporto tecnico, manutenzione e formazione esterna NEOLAUREATO ING. BIOMEDICA - SERVICE INTERNAZIONALE|Importante multinazionale operante nel settore della diagnostica molecolare Richiesta disponibilità a trasferte internazionali (30% del tempo circa) Laurea in Ing…",
+      "location": {
+        "display_name": "Torino, Provincia di Torino",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ]
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 45.068057,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDg2In0.gLfoEe0fSDS2Rwto5AdSLXddFHHTphU3E5nF1thWSG4",
+      "longitude": 7.673018,
+      "created": "2026-09-21T18:28:56Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Page Personnel Italia"
+      },
+      "id": "5892986486",
+      "redirect_url": "https://www.adzuna.it/details/5892986486?utm_medium=api&utm_source=a6bbb028",
+      "title": "Neolaureato Ing. Biomedica - Service Internazionale"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Nell'ottica di una costante espansione e sviluppo dell'area \"Vendite Dirette\", 4G Italia, partner nazionale Wind 3 Business, ricerca per l'area Nord Ovest Italia una nuova risorsa da inserire nel ruolo di \"Impiegato Commerciale\". Il ruolo prevede: - Ricerca ed acquisizione di nuovi clienti ambito B2B. - Gestione e sviluppo delle attività connesse al mantenimento della Customer Base personale e conferita dall'azienda. - Affidabilità e buoni doti relazionali. - Capacità nel perseguire i propri tg…",
+      "location": {
+        "display_name": "Alessandria, Provincia di Alessandria",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Alessandria",
+          "Alessandria"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "4G ITALIA"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "latitude": 44.865501,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjUwMiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.KEghxNGynHYJCBJQu2MfUsKqEz5pw3q2cIfHNmRLGMg",
+      "longitude": 8.55474,
+      "redirect_url": "https://www.adzuna.it/details/5892986502?utm_medium=api&utm_source=a6bbb028",
+      "title": "Impiegato Commerciale",
+      "id": "5892986502"
+    },
+    {
+      "company": {
+        "display_name": "Life in",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "longitude": 12.882516,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "latitude": 41.471253,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ5MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.viFLNvx-6C1KJRj-ym6xCfjQjZZSJp1rIdnAWgCRa-Y",
+      "title": "Impiegata/o Amministrativo-contabile",
+      "redirect_url": "https://www.adzuna.it/details/5892986492?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986492",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Latina",
+          "Latina"
+        ],
+        "display_name": "Latina, Provincia di Latina"
+      },
+      "description": "Il 1° gennaio 2009 nasce Life In Spa, Agenzia per il Lavoro a capitale interamente italiano voluta e creata da imprenditori e professionisti nella consulenza e nel settore delle risorse umane. L’eccellenza del servizio, le strutture di supporto all’avanguardia e la preparazione di altissimo livello dei propri professionisti hanno permesso a Life In di triplicare il fatturato nel 2010, nonostante il periodo storico di crisi, crescendo successivamente con gli stessi ritmi e massimizzando l’effici…"
+    },
+    {
+      "latitude": 45.917981,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDg3In0.M6--2Mh01bxSmu_i4Whj8GLJV55UxVFtj4fGFORF2F0",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 11.956741,
+      "created": "2026-09-21T18:28:56Z",
+      "company": {
+        "display_name": "Eurointerim",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892986487",
+      "redirect_url": "https://www.adzuna.it/details/5892986487?utm_medium=api&utm_source=a6bbb028",
+      "title": "Industrializzatore Occhiali - Accessori Moda",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Treviso",
+          "Segusino"
+        ],
+        "display_name": "Segusino, Provincia di Treviso"
+      },
+      "description": "Eurointerim S.p.A. - Filiale di Valdobbiadene ricerca per storica azienda settore occhialeria in zona limitrofi Segusino un profilo professionale da inserire nell'organico come: INDUSTRIALIZZATORE OCCHIALI - ACCESSORI MODA La figura professionale, dovrà svolgere le seguenti attività: - industrializzatore nuovi progetti occhiali/accessori moda; - studio fattibilità del prodotto, creazione distinte basi, stesura varie fasi di lavoro; - sviluppo campionature, - rapporti con fornitori esterni e res…"
+    },
+    {
+      "location": {
+        "display_name": "Genova, Provincia di Genova",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Liguria",
+          "Provincia di Genova",
+          "Genova"
+        ]
+      },
+      "description": "Cerchiamo un lavapiatti che possa fare anche da aiuto cuoco con comprovata esperienza di almeno 1 anno Contratto di lavoro: Tempo pieno, Part-time Disponibilità: - Turni Esperienza: - aiuto cuoca o lavapiatti: 1 anno (Obbligatorio)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.it/details/5892986498?utm_medium=api&utm_source=a6bbb028",
+      "title": "Lavapiatti e Aiuto Cuoco - Commis",
+      "id": "5892986498",
+      "company": {
+        "display_name": "Castello Star S.r.l.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:56Z",
+      "latitude": 44.405745,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDk4In0.O2858wbOD095iRVygGmFmhvzbIMYDn_AbXJCN0Dq4g0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 8.939352
+    },
+    {
+      "location": {
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Firenze",
+          "Firenze"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Firenze, Provincia di Firenze"
+      },
+      "description": "Per azienda operante nel settore sanitario ricerchiamo un'impiegato addetto/a all'accettazione. La risorsa selezionata si occuperà di: - Attività di accettazione - Segreteria e centralino telefonico; - Prenotazione esami; - Gestione dell'agenda appuntamenti; - Fatturazione Competenze e requisiti richiesti: - Conoscenza dei sistemi informativi - Diploma - Buona conoscenza pacchetto office - Ottima dialettica - Doti organizzative e di problem solving Retribuzione supplementare: - Gratifica natali…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986431",
+      "title": "Addetto/a All'accettazione",
+      "redirect_url": "https://www.adzuna.it/details/5892986431?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 11.22281,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 43.766803,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQzMSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.Vuo1ywwP_LLZ8J0Yvdg2kX2wUD8TsPr2udJwBSqh6KE",
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mora"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.it/details/5892986444?utm_medium=api&utm_source=a6bbb028",
+      "title": "Insegnante",
+      "id": "5892986444",
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "The Quantock Institute S.r.l."
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ0NCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.qoaqjK-mAk1PF2BY20O1DyzOQOq2OV6AgmMf1gL7EsE",
+      "latitude": 41.877339,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 12.489081,
+      "description": "ENGLISH school seeks mothertongue teachers, degree tefl/celta with teaching experience send CV. Contratto di lavoro: Tempo pieno, Part-time, Collaborazione Durata contratto: 3 mesi Orari part-time: 8 a settimana Stipendio: €10,00 - €20,00 all'ora Disponibilità: - Turni Possibilità di pendolarismo/trasferimento: - 00165 Roma, RM: Poter raggiungere agevolmente la sede lavorativa o avere intenzione di trasferirsi prima di iniziare il lavoro (Preferenziale) Istruzione: - Laurea triennale (Preferenz…",
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Columbia Srl fa parte del gruppo Schweitzer Industries. Si colloca come leader negli arredi refrigerati su misura per i clienti nel settore della vendita al dettaglio/gastronomia. La perfetta presentazione del cibo è il nostro obiettivo grazie a un banco dalle prestazioni e dal design unici. Siamo lo specialista delle soluzioni individuali - realizziamo idee creative - in tutto il mondo! Tasks - Sviluppo ed espansione della nostra base clienti - Scouting nuovi clienti Europa / Internazionale - …",
+      "location": {
+        "display_name": "Monselice, Provincia di Padova",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Veneto",
+          "Provincia di Padova",
+          "Monselice"
+        ]
+      },
+      "longitude": 11.746339,
+      "latitude": 45.233555,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ4MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.gGoLRfpie2_TtAfT-r1DWUifH2J95nOcNIRjlOj87K8",
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "display_name": "Interstore | Schweitzer",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892986482",
+      "title": "Area Sales Manager - International (M/F/d)",
+      "redirect_url": "https://www.adzuna.it/details/5892986482?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "location": {
+        "display_name": "Bergamo, Provincia di Bergamo",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Bergamo",
+          "Bergamo"
+        ]
+      },
+      "description": "Ricerchiamo, per ditta di trasporti e corrieri, un addetto/a all'ufficio spedizioni che dovrà: - tenere monitorati gli ordini - organizzare le spedizioni - garantire la buona riuscita delle partenze - gestire reclami E' importante possedere conoscenze informatiche tali da poter utilizzare al meglio gli strumenti infoirmatici, un diploma di maturità, ampie doti organizzative, ountualità e corretta dialettica italiana. La risorsa verrà affiancata sino al raggiungimento della piena autonomia profe…",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986415",
+      "title": "Impiegata/o Ufficio Controllo Spedizioni",
+      "redirect_url": "https://www.adzuna.it/details/5892986415?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 9.673488,
+      "latitude": 45.697064,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQxNSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.oQzYYSKr3sNo3FDFH0FvHfpJkT5ptXVBEsi5Qg6pe64",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "company": {
+        "display_name": "Fil",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z"
+    },
+    {
+      "location": {
+        "display_name": "Massa Lombarda, Provincia di Ravenna",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Ravenna",
+          "Massa Lombarda"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Per azienda metalmeccanica di MASSA LOMBARDA (RA) cerchiamo un MAGAZZINIERE. La figura si dovrà occupare del controllo della merce in arrivo, posizionamento del materiale nel magazzino automatico Modula oppure nelle scaffalature, preparazione dei cassoni di materiale per la produzione prelevando il materiale da distinta base Non è necessario il patentino del muletto Si richiedono doti personali di ordine, pulizia e organizzazione. Orario di lavoro giornaliero dal lunedì al venerdì Si offre cont…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Magazziniere",
+      "redirect_url": "https://www.adzuna.it/details/5892986426?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986426",
+      "company": {
+        "display_name": "Umana spa",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "longitude": 11.828185,
+      "latitude": 44.446227,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQyNiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.AaWcn55Bx1Dp20fvwet-i9zfpIl50YMEAjkCS21Gr8Q",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "Torino, Provincia di Torino",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ]
+      },
+      "description": "La persona inserita si occuperà di: - inserimento ordini di conto lavoro - back office - supporto ddt categoria protetta|logística - appartiene alle categorie protette art 1 o art 18 - ha esperienza come data entry o back office - è organizzato e preciso - immediatamente disponibile - ottima conoscenza sistema office Azienda nostra cliente settore lusso Assunzione diretta da parte dell'azienda da definire in base all'esperienza. Orario di lavoro da lun a ven 830-1730 con un'ora di pausa pranzo …",
+      "longitude": 7.673018,
+      "latitude": 45.068057,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDYwIn0.ImgLmkgsSp0yU6GPDQcQYiTqgrIubeXlERkE-FTvLPw",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Page Personnel Italia"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "id": "5892986460",
+      "title": "Impiegato Logistico-data Entry Categoria Protetta",
+      "redirect_url": "https://www.adzuna.it/details/5892986460?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GiGroup"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "latitude": 45.048759,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ1MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.5Yc2gv3zw1ryk5jU1clsIPOdWd10ftnW_kyB2BCuDpE",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 7.489556,
+      "redirect_url": "https://www.adzuna.it/details/5892986452?utm_medium=api&utm_source=a6bbb028",
+      "title": "Responsabile Controllo Qualita'",
+      "id": "5892986452",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Ricerchiamo un RESPONSABILE DI QUALITA' per importante azienda leader nel settore della meccanica di precisione La risorsa verrà inserita all'interno del reparto controllo qualità e si occuperà delle seguenti mansioni: controllo qualità del macro prodotto; confronto con i colleghi e con i clienti sia in Italia che all'estero; gestione di una risorsa addetta alla qualità; conference call con i clienti esteri; migliorare l’affidabilità dei processi di sviluppo di nuovi prodotti; mantenere gli sta…",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Villarbasse"
+        ],
+        "display_name": "Villarbasse, Provincia di Torino"
+      }
+    },
+    {
+      "company": {
+        "display_name": "ORBYTA srl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "longitude": 7.673018,
+      "latitude": 45.068057,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ3NCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.halg7jYRAJTZ83MqsjWxkRLDQYC1gowvfto4_uS1mpc",
+      "title": "Segretaria Técnica - Torino",
+      "redirect_url": "https://www.adzuna.it/details/5892986474?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986474",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "ORBYTA nasce nel 2020 da un'esperienza decennale nel campo della consulenza, il gruppo conta 8 società, 4 sedi a Torino, una sede Milano e Roma, e oltre 200 dipendenti su tutto il territorio nazionale. L'eterogeneità delle competenze, e la forte sinergia tra le aziende del gruppo, rende ORBYTA un player importante sul mercato, e un partner affidabile per i suoi clienti. Il costante successo del gruppo è il risultato del valore delle persone, che hanno la possibilità di lavorare in un contesto i…",
+      "location": {
+        "display_name": "Torino, Provincia di Torino",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ]
+      }
+    },
+    {
+      "id": "5892986465",
+      "title": "Segretaria Amministrativa",
+      "redirect_url": "https://www.adzuna.it/details/5892986465?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 7.773907,
+      "latitude": 43.85507,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ2NSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.yGW2XFUQh2nT0F5I4EbGtDNI3lJE2dwpiXopPIr-4BQ",
+      "company": {
+        "display_name": "Sublimis srl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "description": "Sublimis srl Ricerca Segretaria amministrativa in possesso di diploma di scuola media superiore. Si richiede la conoscenza di strumenti di office automation (Word, excel) E' indispensabile la conoscenza della lingua francese parlata e scritta Auto/moto munita Contratto di lavoro: Tempo pieno, Apprendistato Disponibilità: - Dal lunedì al venerdì Istruzione: - Scuola Secondaria di II livello (Superiori) (Obbligatorio) Esperienza: - segretaria amministrativa: 1 anno (Preferenziale) Lingua: - Franc…",
+      "location": {
+        "display_name": "Sanremo, Provincia di Imperia",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Liguria",
+          "Provincia di Imperia",
+          "Sanremo"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Generazione Vincente Spa, Agenzia per il Lavoro, ricerca per Azienda Cliente specializzata nella produzione di attrezzature di movimento terra, un MONTATORE CARPENTERIA PESANTE per la sede di MOLFETTA (BA). Posizione::La risorsa si occuperà di montaggio meccanico su carpenteria pesante. Requisiti::Si richiede esperienza pregressa nella mansione di almeno 2 anni e buona capacità di lettura disegno tecnico. Altre informazioni::Zona di lavoro: Molfetta (BA) Orario di lavoro: Full time lun-ven, non…",
+      "location": {
+        "area": [
+          "Italia",
+          "Puglia",
+          "Provincia di Bari",
+          "Molfetta"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Molfetta, Provincia di Bari"
+      },
+      "latitude": 41.201264,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDc2In0.KCP2uR9IqbUNnUDOaCiP8A55oZPvkL8NNtXVi3abCiU",
+      "longitude": 16.598537,
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "display_name": "Generazione Vincente S.p.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "id": "5892986476",
+      "redirect_url": "https://www.adzuna.it/details/5892986476?utm_medium=api&utm_source=a6bbb028",
+      "title": "Montatore Carpenteria Pesante"
+    },
+    {
+      "description": "Addetta alla amministrazione, si richiede un esperienza di almeno un anno nel settore rifiuti (gestione dei registri rifiuti e conoscenza del F.I.R.) Contratto di lavoro: Part-time, Tempo indeterminato, Tempo determinato Orari part-time: 20 a settimana Stipendio: €700,00 - €900,00 al mese Benefit: - Formazione professionale Disponibilità: - Dal lunedì al venerdì Retribuzione supplementare: - Tredicesima Possibilità di pendolarismo/trasferimento: - 59100 Prato, PO: Poter raggiungere agevolmente …",
+      "location": {
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Prato",
+          "Prato"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Prato, Provincia di Prato"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Impiegata Amministrativa",
+      "redirect_url": "https://www.adzuna.it/details/5892986473?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986473",
+      "company": {
+        "display_name": "Yijia Srl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "longitude": 11.078759,
+      "latitude": 43.871687,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ3MyIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.wxDFLh_7FkYYzwgt2b8VO5TBolXJBVLUsgqDoXol-KY"
+    },
+    {
+      "description": "Stiamo selezionando una risorsa per l'ufficio amministrativo presso la casa di riposo COSA CERCHIAMO Diplomata Ottima conoscenza del pacchetto Office Gradita esperienza amministrativa e contabile: contabilità generale, fatturazione attiva e passiva controllo dei pagamenti degli ospiti e dei fornitori predisporre la documentazione necessaria per il pagamento del personale Richiesta forte capacità organizzativa e disponibilità ad imparare, bella presenza e buona dialettica. Contratto di lavoro: T…",
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986438",
+      "redirect_url": "https://www.adzuna.it/details/5892986438?utm_medium=api&utm_source=a6bbb028",
+      "title": "Assistente Amministrativa",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQzOCIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.Vc8JpQ67M07U1mJDk9KVnn7Tb39YnQ-xgqsvaQ-w4HI",
+      "latitude": 41.877339,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 12.489081,
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Group Service srls"
+      }
+    },
+    {
+      "title": "Magazzino",
+      "redirect_url": "https://www.adzuna.it/details/5892986461?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986461",
+      "company": {
+        "display_name": "Edil mattone",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "longitude": 15.073847,
+      "latitude": 37.455204,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQ2MSIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.vxNhIgBpPK2AqiCE_SxhxKw-OHtWYGxFKK0WoGZOJdE",
+      "description": "Tipologia contratto inserimento diretto a tempo determinato con orario full time. Allegare CV con recapito telefonico. Contratto di lavoro: Tempo pieno, Tempo determinato Disponibilità: - Turni Istruzione: - Scuola Secondaria di II livello (Superiori) (Preferenziale) Esperienza: - magazziniere: 1 anno (Preferenziale)",
+      "location": {
+        "area": [
+          "Italia",
+          "Sicilia",
+          "Provincia di Catania",
+          "Catania"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Catania, Provincia di Catania"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDY3In0.F1gxMbjxwPVRWLb0IExCN9fmwJHlrYtX0DescwRTnrU",
+      "latitude": 41.120314,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "longitude": 16.876061,
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Agenzia per il lavoro Osmosi S.p.A."
+      },
+      "id": "5892986467",
+      "redirect_url": "https://www.adzuna.it/details/5892986467?utm_medium=api&utm_source=a6bbb028",
+      "title": "Addetto Amministrazione del Personale",
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Puglia",
+          "Provincia di Bari",
+          "Bari"
+        ],
+        "display_name": "Bari, Provincia di Bari"
+      },
+      "description": "OSMOSI SPA, AGENZIA PER IL LAVORO, FILIALE DI CONVERSANO (BA), RICERCA PER AZIENDA CLIENTE DI BARI (BA), UN ADDETTO ALLA AMMINISTRAZIONE DEL PERSONALE. LA RISORSA DEVE POSSEDERE DIPLOMA O LAURA IN ECONOMIA O GIURISPRUDENZA ED ESPERIENZA DI ALMENO TRE ANNI NELLA GESTIONE PRESENZE, COSTI ED ELABORAZIONE BUSTE PAGA. SI RICHIEDE DISPONIBILITA' IMMEDIATA. LUOGO DI LAVORO: BARI (BA). Contratto di lavoro: Tempo pieno, Tempo determinato Disponibilità: - Dal lunedì al venerdì"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "description": "Società di affitto e gestione di immobili di Castel Maggiore (Bologna) ricerca: Posizione::IMPIEGATO/A SEGRETERIA CONTABILITA’ che avrà la possibilità di entrare in una struttura solida sul territorio da molti anni, trovando un ambiente collaborativo e dinamico con prospettive di formazione e stabilità. La persona svolgerà varie attività all’interno dell’azienda: Gestione della contabilità interna e delle attività amministrative - gestione fornitori, incassi e solleciti - rapporti con le aziend…",
+      "location": {
+        "display_name": "Bologna, Provincia di Bologna",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Bologna",
+          "Bologna"
+        ]
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "display_name": "JOBOUTIQUE",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "latitude": 44.498542,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDc1In0.18huJfIFdGRHHNHZcHEQTk__HxxJMvtGo6y_nT86vWw",
+      "longitude": 11.341108,
+      "redirect_url": "https://www.adzuna.it/details/5892986475?utm_medium=api&utm_source=a6bbb028",
+      "title": "Impiegato/a Segreteria Contabilita’ - Bologna",
+      "id": "5892986475"
+    },
+    {
+      "description": "Stiamo cercando tre Sales Account (Emilia Romagna, Lombardia e Toscana) con un forte orientamento verso il cliente. Entrerai a far parte di un contesto giovane, intraprendente e orientato all’innovazione, riportando al Direttore Commerciale e collaborando con le altre divisioni aziendali. _WE OFFER: _ - Ambiente flessibile e sfidante - Possibilità di smart working - Piano di crescita manageriale ben delineato e in linea con i tuoi obiettivi - Formazione e aggiornamento costanti, indoor e outdoo…",
+      "location": {
+        "display_name": "Modena, Provincia di Modena",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Modena",
+          "Modena"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986472",
+      "redirect_url": "https://www.adzuna.it/details/5892986472?utm_medium=api&utm_source=a6bbb028",
+      "title": "Sales Account- Emilia Romagna/ Lombardia/ Toscana",
+      "latitude": 44.646233,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibmlZbVp1ZTE4Ukc4eThQaVFlQTViUSIsImkiOiI1ODkyOTg2NDcyIn0.9HT1KZTxNm0sHWHogE5-6aCbFXEukxGXy2F4YEze5z8",
+      "longitude": 10.928205,
+      "created": "2026-09-21T18:28:55Z",
+      "company": {
+        "display_name": "Quix Srl",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Nexus Cassano Magnago (VA) ricerca per importante azienda settore Logistica e Trasporti UN/A IMPIEGATO/A PER UFFICIO INTERNAZIONALE I requisiti richiesti sono: - esperienza pregressa anche breve come impiegato azienda di Spedizioni/Trasporti Internazionali via terra (no via aereo, mare) - ottima conoscenza dell'inglese Luogo di lavoro: CARUGATE (MI) Orario di lavoro: full time Contratto: Inquadramento : dal 4° al 2° Livello CCNL Trasporti commisurato all'esperienza - TD con obbiettivo TI La ric…",
+      "location": {
+        "display_name": "Carugate, Provincia di Milano",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Carugate"
+        ]
+      },
+      "longitude": 9.339651,
+      "latitude": 45.550583,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM0MiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.cwVpISXHQUJj5-H4q9SKhKFdmq4Z5HtYLq7VwGj_Izc",
+      "company": {
+        "display_name": "Nexus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "id": "5892986342",
+      "title": "Impiegato Ufficio Internazionale",
+      "redirect_url": "https://www.adzuna.it/details/5892986342?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "description": "Ricerchiamo operatori / operatrici di customer care disponibili part time flessibile| full time in tutta Italia. Si offrono: - compenso mensile pari ad euro1.000 (per 4 ore giornaliere); - incentivi a raggiungimento obiettivo quantitativo mensile; - telelavoro | flessibilità di orario; Requisiti indispensabili: - postazione home pc windows (utilizzo funzionalità di base del pc, motori di ricerca, pacchetto Microsoft Office), connessione adsl|fibra (linea dati veloce), cuffie per telefonia (con …",
+      "location": {
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986387",
+      "title": "Operatori Customer Care da Remoto Per Promozione",
+      "redirect_url": "https://www.adzuna.it/details/5892986387?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 12.489081,
+      "latitude": 41.877339,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM4NyIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.Nr05a5aQzNeHjnirHE3AT3w8JMhTVBkf_YEs-dnoFag",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "company": {
+        "display_name": "SCRINIUM",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "description": "Cerchiamo una figura che nell'area post-vendita di una concessionaria. I compiti dell’accettatore sono molteplici, tra questi troviamo: - Accoglienza clienti - Accettazione delle vetture e prima diagnosi congiunta - Organizzazione delle tempistiche di lavoro con il capo officina - Gestione dei lavori in entrata e delle riconsegne - Gestione del rapporto clienti fino alla riconsegna della vettura - Analisi dei riscontri dei clienti (feedback e followback) - Creazione e gestione di preventivi Il …",
+      "location": {
+        "display_name": "Rimini, Provincia di Rimini",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Rimini",
+          "Rimini"
+        ]
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "title": "Customer Service Advisor",
+      "redirect_url": "https://www.adzuna.it/details/5892986336?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986336",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "D. & G. MOTORSPORT"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 12.569964,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjMzNiIsInMiOiJuaVltWnVlMThSRzh5OFBpUWVBNWJRIn0.CfC5DBrI097SW-z3xvqWtZ-LKlDq3W9WuPx3Et5eXkE",
+      "latitude": 44.066721,
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Project Coordinator Home Based Milan, Italy",
+      "company": {
+        "display_name": "Labcorp",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 45.471322,
+      "salary_is_predicted": "0",
+      "description": "Job Overview: Do you dream about working for an employer who wants you to reach your full potential? Are you passionate about making a difference to the lives of others? Is your aspiration to become a Clinical Project Manager working on global clinical studies? Covance by Labcorp has supported the pharmaceutical industry develop more medicines worldwide than any other company, including the top 50 best-selling drugs on the market today. In 2019, we established our first Project Management Acade…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986399",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2Mzk5In0.9qvJK9Dry7q_co8tTyO2eK7aUJvK-fit5hyU4_up-6I",
+      "longitude": 9.187087,
+      "created": "2026-09-21T18:28:54Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986399?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQwOCIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.4RkLmkoSFyH6aaL8TBvzSG8CYjg7XVZEjNnvZmkBAvc",
+      "id": "5892986408",
+      "redirect_url": "https://www.adzuna.it/details/5892986408?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 10.492777,
+      "created": "2026-09-21T18:28:54Z",
+      "location": {
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Lucca",
+          "Lucca"
+        ],
+        "display_name": "Lucca, Provincia di Lucca",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Wolters Kluwer",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 43.876215,
+      "title": "Cloud Security Specialist",
+      "description": "This is an exciting opportunity to join our team as a Security Specialist. You will be able to contribute as a Security Engineer or Security Analyst according to your level of experience. As a member of our SOC team, you will contribute to the security and compliance aspects of our product and cloud service offering that is based on AWS and Azure. You will select, design and use the tools aimed to monitor the security of our offering also responding to possible threats and incidents. You will i…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Role purpose: As e-commerce expert you will be responsible for managing the development of the online store and are also tasked with coming up with new marketing strategies based on the review of business analytics. Key accountabilities and decision ownership: - Identify opportunities for further sales growth or cost reductions: evaluate performance of ecommerce activities and develop valuable insights based on deep-dive analyses; - Communicate with business stakeholders about agile processes t…",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Vodafone"
+      },
+      "latitude": 45.471322,
+      "title": "E-commerce Expert",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986338?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 9.187087,
+      "id": "5892986338",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzM4In0._HK_TE3H0pg8p5ooz1_gvdOj_BaPiMgSRxqH3wjzaH0"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Sicilia",
+          "Provincia di Palermo",
+          "Palermo"
+        ],
+        "display_name": "Palermo, Provincia di Palermo"
+      },
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986398?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 13.361369,
+      "created": "2026-09-21T18:28:54Z",
+      "id": "5892986398",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2Mzk4In0.gD4gac6g1hdEAwA6H-hNDpqJ-nOyHbsbga67SyIiYIU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "_PER GARANZIA GIOVANI_ _REQUISITI OBBLIGATORI: _ _-Età compresa tra anni 18 e i 34;_ _-Attuale stato di disoccupazione;_ _-Assenza di percorsi formativi in atto. _ Il CEIPESCentro Internazionaile per la promozione dell'Educazione e dello Sviluppo è un Soggetto Attutore di Garanzia Giovani - Fase 2, il programma europeo di contrasto alla disoccupazione giovanile. In quanto Agenzia Per il Lavoro (APL), il CEIPES ricerca per un _importante studio professionale_ una risorsa interessata a partecipar…",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "CEIPES - Centro Internazionale per la Promozione dell'Educazione e dello Sviluppo",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 38.123579,
+      "title": "Addetto/a Amministrativo-segretariale (Garanzia"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Contratto di lavoro: Part-time Disponibilità: - Turno diurno Possibilità di pendolarismo/trasferimento: - Firenze, Toscana: Poter raggiungere agevolmente la sede lavorativa o avere intenzione di trasferirsi prima di iniziare il lavoro (Obbligatorio) Esperienza: - social media manager: 1 anno (Preferenziale) Lingua: - Inglese (Preferenziale)",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "PIRENE SRL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 43.766803,
+      "title": "Social Media Editor",
+      "location": {
+        "display_name": "Firenze, Provincia di Firenze",
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Firenze",
+          "Firenze"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986358?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 11.22281,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzU4In0.pHoqYymtHbGfP7Q9OefP3S5t5AKxGG9JJ4GQE0qrle8",
+      "id": "5892986358"
+    },
+    {
+      "location": {
+        "display_name": "Palermo, Provincia di Palermo",
+        "area": [
+          "Italia",
+          "Sicilia",
+          "Provincia di Palermo",
+          "Palermo"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5892986401",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQwMSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.Vdac--JrDwMugcof_DUyOYmmP6wxN98myOoPp6_YkdY",
+      "redirect_url": "https://www.adzuna.it/details/5892986401?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 13.361369,
+      "created": "2026-09-21T18:28:54Z",
+      "description": "Grafiche Salerno cerca un grafico che abbia buone capacità di sviluppare progetti di graphic design e buona competenza del pacchetto Adobe illustratore, Photoshop e indesign; ed infine che abbia un minimo di esperienza lavorativa nel settore. Contratto di lavoro: Tempo pieno, Tempo indeterminato Istruzione: - Laurea triennale (Preferenziale) Esperienza: - grafico/a: 1 anno (Preferenziale)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 38.123579,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Grafiche Salerno"
+      },
+      "salary_is_predicted": "0",
+      "title": "Grafico"
+    },
+    {
+      "title": "PMO",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LC-Service S.r.l."
+      },
+      "latitude": 45.471322,
+      "salary_is_predicted": "0",
+      "description": "LC-Service nasce da un'esperienza decennale nel settore informatico. Il costante contatto con differenti settori (Banking & Finance, Insurance, Industry, Energy, Automotive) costituisce la base per il Team di specialisti a disposizione dei nostri Clienti. La nostra presenza sul mercato è trasversale: operiamo all'interno dei maggiori settori spaziando dall'ambito finanziario a quello automobilistico. Le persone sono la nostra risorsa più importante. Siamo alla ricerca di un profilo di PMO con l…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986362",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM2MiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.HdBq9tR6fhIF03lCJrgXySi6a_SjMXh3J5jclQcQztI",
+      "longitude": 9.187087,
+      "created": "2026-09-21T18:28:54Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986362?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Milano, Provincia di Milano",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "location": {
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ],
+        "display_name": "Roma, Provincia di Roma",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 12.489081,
+      "redirect_url": "https://www.adzuna.it/details/5892986343?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "id": "5892986343",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM0MyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.h7KnqtuWp3TDuXV3RFM0iRYgrxbPA6JvCrfpwsI_hxs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Humangest spa, agenzia per il lavoro, ricerca per importante azienda cliente operante nel settore dei servizi sociali MEDIATORI CULTURALI DI LINGUA UCRAINA E/O RUSSA da inserire presso i centri di accoglienza situati nelle città di Roma, Latina e Frosinone. Si richiede attestato di qualifica di mediatore interculturale o essere madrelingua ucraina/russa. Si offre contratto iniziale in somministrazione con possibilità di inserimento sia part-time che full Si richiede disponibilità immediata. Con…",
+      "title": "Mediatore Culturale di Lingua Ucraina E/o Russa",
+      "company": {
+        "display_name": "Humangest Spa",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 41.877339,
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "display_name": "Saronno, Provincia di Varese",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Varese",
+          "Saronno"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986382?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 9.037346,
+      "created": "2026-09-21T18:28:54Z",
+      "id": "5892986382",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzgyIn0.WZhr5jz0E-MXuGvaSkDY7VIIYofdhKT08q9U9Jd8C4Q",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Per importante azienda cliente in zona Saronno (VA), ricerchiamo n.1 IMPIEGATO UFFICIO ACQUISTI. Nello specifico la risorsa si occuperà di: - Gestione del processo degli ordini di acquisto - Emissione ed inserimento a sistema ordini di acquisto - Controllo documentazione e registrazione a sistema entrata merce - Elaborazioni mensili di vari report per monitoraggio acquisti - Contribuire alla definizione della modalità di miglioramento del processo degli acquisti Si richiede una buona conoscenza…",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Umana spa"
+      },
+      "latitude": 45.625515,
+      "title": "Impiegato Ufficio Acquisti"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Vodafone",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 45.471322,
+      "title": "Internship - Media Relations",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Overview: Vodafone Internship Program is a development path dedicated to both Bachelor and Master’s students, which allows you to spend 6 months of as an active member in one of our teams. After this experience, you will be able to relay complex information in a simple, clear and concise way to senior management. You will gain independence in performing the tasks assigned, setting priorities and achieving your goals. It includes also the opportunity to work on a project that could be the topic …",
+      "redirect_url": "https://www.adzuna.it/details/5892986337?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 9.187087,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjMzNyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.bFAV1QF1QEBgitGAHdizXm-C4dppPn29laqWHCAflp0",
+      "id": "5892986337",
+      "location": {
+        "display_name": "Milano, Provincia di Milano",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "id": "5892986357",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzU3In0.DGtBHIwMk9OAvcZEkv7WoPlzPMS_nXpFb3Ob8SzrBZk",
+      "redirect_url": "https://www.adzuna.it/details/5892986357?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 9.820863,
+      "location": {
+        "area": [
+          "Italia",
+          "Liguria",
+          "Provincia della Spezia",
+          "La Spezia"
+        ],
+        "display_name": "La Spezia, Provincia della Spezia",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Limit srl"
+      },
+      "latitude": 44.106209,
+      "salary_is_predicted": "0",
+      "title": "Receptionist Centro Congressi",
+      "description": "Ricerca per centro congressi figura che ricopra ruolo di receptionist. Attività proprie del ruolo: - Accoglienza dei clienti, assicurandosi che l’area della Reception sia conforme alle linee guida aziendali - Controllo degli accessi della clientela al Centro secondo le linee guida aziendali - Controllo degli accessi al centro di fornitori, ditte esterne e partner, garantendo una corretta registrazione degli ingressi - Controllo Green Pass - Registrazione dei Guest Pass (ingressi omaggio ai non …",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Firenze",
+          "Firenze"
+        ],
+        "display_name": "Firenze, Provincia di Firenze"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 11.22281,
+      "redirect_url": "https://www.adzuna.it/details/5892986366?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "id": "5892986366",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM2NiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.IlwbPkTnaukJxupXLPTz7T69BsQ-lxy8oNN-F4GY3jA",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Cercasi chef e/o aiuto cuoco per piccola trattoria di cucina tipica toscana nel centro di Firenze. Inviare CV con foto.",
+      "title": "Chef o Aiuto Cuoco",
+      "company": {
+        "display_name": "Trattoria toscana",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 43.766803
+    },
+    {
+      "location": {
+        "display_name": "Cambiago, Provincia di Milano",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Cambiago"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5892986364",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzY0In0.k1LLbnScL2iYa555xsXAvMy81vyUjUpbIdaysAIYKHQ",
+      "longitude": 9.421331,
+      "created": "2026-09-21T18:28:54Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986364?utm_medium=api&utm_source=a6bbb028",
+      "description": "Siamo a selezionare ADDETTO ALL' ASSEMBLAGGIO E IMBALLAGGIO CASSE DI LEGNO da inserire in nota azienda sita a Cambiago (MI) operante nel settore della logística integrata e packaging industriale. Mansioni principali: - lettura misure e taglio assi di legno; - assemblaggio e imballaggio di casse in legno;: - essere immediatamente disponibile;: - avere buona manualità ed aver maturato esperienza anche breve in ruoli analoghi;: - buon utilizzo di strumenti da banco;: - buon utilizzo della sparachi…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Addetto All'assemblaggio e Imballaggio Casse di",
+      "company": {
+        "display_name": "BLUE7 SRLS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 45.571743
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Autotorino spa"
+      },
+      "latitude": 45.311953,
+      "title": "Magazziniere",
+      "description": "Il Gruppo Autotorino è il primo dealer automotive in Italia. Opera attraverso una rete di concessionarie ufficiali che si articola su 23 Province in 5 Regioni: Lombardia, Piemonte, Emilia Romagna, Friuli Venezia Giulia e Veneto. Con 8 Gruppi Automotive rappresentati ufficialmente in 62 sedi di vendita ed assistenza, presenta al pubblico una scelta di vetture nuove ed usate in grado di soddisfare ogni necessità, affiancata da una proposta specializzata di servizi finanziari ed assicurativi su mi…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986385",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2Mzg1In0.NTiP2XPe5oL0_WXpGuVHDW0WpkZc6crjnSUcW0d1k_U",
+      "redirect_url": "https://www.adzuna.it/details/5892986385?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 8.403395,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Vercelli",
+          "Vercelli"
+        ],
+        "display_name": "Vercelli, Provincia di Vercelli"
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Porcari, Provincia di Lucca",
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Lucca",
+          "Porcari"
+        ]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986406?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 10.607445,
+      "created": "2026-09-21T18:28:54Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2NDA2In0.xNd6fQ5qImMcqrq4UAqTHEjK6ArhDQRhzKsOH867Z_E",
+      "id": "5892986406",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Per importante azienda cliente operante nel settore carta, cerchiamo n. 10 ADD. ALLA PRODUZIONE. Le figure saranno inserite in vari reparti produttivi tra cui magazzino, pesa, fine linea, produzione bobine. Si richiede disponibilità a lavorare sui vari stabilimenti della provincia di Lucca, diploma di maturità e disponibilità immediata. Preferibile ma non indispensabile patente del muletto. Il lavoro si svolgerà su turni a ciclo continuo 4*2, per il periodo di sostituzione ferie estive.",
+      "latitude": 43.837263,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Umana spa"
+      },
+      "salary_is_predicted": "0",
+      "title": "Operai Su Turni"
+    },
+    {
+      "description": "Requisiti: - Laurea in Scienza dell’educazione - Patente B - Buona conoscenza della lingua italiana - Disponibilità immediata - Lavoro su turni Contratto di lavoro: Tempo pieno, Tempo determinato Durata contratto: 3 mesi Istruzione: - Laurea triennale (Preferenziale)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Educatore Professionale",
+      "company": {
+        "display_name": "Fondazione Istituto Ospedaliero di Sospiro Onlus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 45.536372,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Brescia, Provincia di Brescia",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Brescia",
+          "Brescia"
+        ]
+      },
+      "id": "5892986365",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzY1In0.jkgtwHYyZCe6AwiTd_UDO391rWEWPvD_LDf_RA3W3Ek",
+      "longitude": 10.224983,
+      "created": "2026-09-21T18:28:54Z",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986365?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "id": "5892986389",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2Mzg5In0.97ZuNgr_51DX8847BJa1qcFpRMVsXogui33QQKVvr5I",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986389?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 9.270592,
+      "created": "2026-09-21T18:28:54Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Monza e Brianza",
+          "Besana in Brianza"
+        ],
+        "display_name": "Besana in Brianza, Provincia di Monza e Brianza"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Oversonic Robotics srl"
+      },
+      "latitude": 45.697015,
+      "salary_is_predicted": "0",
+      "title": "Segreteria Amministrativa",
+      "description": "Contratto di lavoro: Tempo pieno, Tempo indeterminato, Apprendistato Stipendio: €1.000,00 - €1.400,00 al mese Benefit: - Buoni pasto Disponibilità: - Dal lunedì al venerdì Retribuzione supplementare: - Incentivi legati alle vendite Istruzione: - Scuola Secondaria di II livello (Superiori) (Preferenziale) Esperienza: - segretaria amministrativa: 1 anno (Preferenziale) Lingua: - Inglese (Preferenziale)",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Modena, Provincia di Modena",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Modena",
+          "Modena"
+        ]
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986356?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 10.928205,
+      "created": "2026-09-21T18:28:54Z",
+      "id": "5892986356",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM1NiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.teUgDjkqc87gB5P6HZaPqBQrs4F4rcXlXRqp7d-dMfI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Maw S.p.a. divisione Search and Selection ricerca per azienda cliente operante nel settore biomedicale: 1 Impiegata/o logistico La risorsa lavorerà a riporto dell'attuale Responsabile Supply Chain dell'azienda e si occuperà di: - Contatto con i vettori - Organizzazione logística delle spedizioni, ritiri e consegne materiali - Emissione bolle e documenti di trasporto Documenti doganali per le spedizioni extra UE Preferibile la buona conoscenza della lingua inglese e dei principali applicativi in…",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "MAW Men at Work S.p.A.",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 44.646233,
+      "title": "Impiegata/o Logistico"
+    },
+    {
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Infobip"
+      },
+      "latitude": 45.471322,
+      "title": "Business Development Representative (Bdr)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Company Description At Infobip we dream big. We value creativity, persistence and innovation, passionately believing that it is through teamwork that we can all reach greater heights. Since 2006, we have been innovating at the edge of technological possibilities and are now shaping global communications of the future. Through 60 offices on six continents, Infobip’s platform is used by almost 70% of the population, making it the largest network of its kind and the only full-stack cloud communica…",
+      "redirect_url": "https://www.adzuna.it/details/5892986375?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 9.187087,
+      "id": "5892986375",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM3NSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.5S7TRs2a1Fty5kefp8r9XVDqLx8PBU91UXn3N45Y1-M",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano"
+      }
+    },
+    {
+      "latitude": 43.766803,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Humangest Spa"
+      },
+      "salary_is_predicted": "0",
+      "title": "Receptionist Categoria Protetta",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Per importante azienda leader nel settore metallurgico e della stampa selezioniamo una/un Receptionist Categoria Protetta. La risorsa si occuperà dell'accoglienza clienti, della gestione delle chiamate e mail, del rapporto con i fornitori per gli acquisti aziendali. Richiesta esperienza pregressa nella mansione: Richieste buoni doti comunicative. Obbligatorio essere iscritti al collocamento mirato. Si offre inserimento diretto in azienda Contratto di lavoro: Tempo pieno, Tempo indeterminato Dis…",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986351?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 11.22281,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM1MSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.h8HqhOnW1YPAn96yM60h1BI7MlpcqyP6oPX4shgqoPw",
+      "id": "5892986351",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Firenze, Provincia di Firenze",
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Firenze",
+          "Firenze"
+        ]
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.it/details/5892986345?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 13.521412,
+      "id": "5892986345",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzQ1In0.sON_KU7VlZ_RPtpTnr3afAWFvefwDIk7pXds6iDbcAI",
+      "location": {
+        "display_name": "Recanati, Provincia di Macerata",
+        "area": [
+          "Italia",
+          "Marche",
+          "Provincia di Macerata",
+          "Recanati"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ali Spa"
+      },
+      "latitude": 43.429873,
+      "title": "Impiegato/a Back Office Commerciale Estero",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Ricerchiamo per cliente del settore della Gomma plastica IMPIEGATO/A che verrà inserito all'interno dell'ufficio commerciale e si occuperà del back office : corrispondenza con i clienti italiani ed esteri; invio offerte; gestione evetuali richieste di personalizzazioni etc Si offre contratto finalizzato all'inserimento a tempo indeterminato Orario Full time Sede di lavoro: Recanati"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ascoli Piceno, Provincia di Ascoli Piceno",
+        "area": [
+          "Italia",
+          "Marche",
+          "Provincia di Ascoli Piceno",
+          "Ascoli Piceno"
+        ]
+      },
+      "id": "5892986363",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM2MyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.JTGCym4BQEZmqISVWfDkKchUdFAFT9Q8vIWG7XfJ6kg",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 13.574977,
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986363?utm_medium=api&utm_source=a6bbb028",
+      "description": "Presso il nostro ufficio di Ascoli Piceno (AP) siamo cercando un/a Tirocinante in ambito amministrativo, si offre percorso formativo di 6 mesi ed apprendistato al suo termine. La risorsa si occuperà di: - inserire le anagrafiche clienti e fornitori sul gestionale aziendale; - redigere preventivi di vendita; - compilare contratti di vendita e di service; - fornire supporto all’ufficio acquisti per l’invio degli ordini ai fornitori; - occuparsi delle segreteria amministrativa. Disponibilità orari…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Tirocinante Amministrativo",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "TERMOIDRAULICA MUTANI E ACCORSI SNC"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 42.855402
+    },
+    {
+      "id": "5892986373",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM3MyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.ekFgIXY2SBVLjmAM5G0dpirGI9bt5PzHGXI5OlgfqN8",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 10.928205,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986373?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Modena",
+          "Modena"
+        ],
+        "display_name": "Modena, Provincia di Modena"
+      },
+      "title": "Operaio",
+      "company": {
+        "display_name": "PIROFLAMEGAS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 44.646233,
+      "salary_is_predicted": "0",
+      "description": "Ricerchiamo operai per lavoro in azienda che si occupa di produzione di impianti a recupero energetico per il settore industriale. Requisiti: - necessaria esperienza come metalmeccanico/elettromeccanico, buona conoscenza e utilizzo di oggetti utensili quali flex, frese, saldatrici, buona capacità di lettura di disegni tecnici, necessario essere auto muniti. Inviare CV con foto.",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "company": {
+        "display_name": "R&B",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 44.800302,
+      "title": "Receptionist",
+      "description": "azienda di comunicazione e servizi alle imprese con sede a Parma ricerca una figura addetta alla reception La risorsa si dovrà occupare di: - accoglienza clienti - ricezione chiamate - gestione appuntamenti e posta elettronica Richiesti: - buona predisposizione a contatto con il pubblico - professionalità e serietà - conoscenza pacchetto office Orario lavorativo: Full time dal lunedì al venerdì valutasi anche personale alle prime esperienze",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM1MCIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.iQpovVPaoOkD1krj0I_8BV-Gzz91fQcCYyQllkHL5fA",
+      "id": "5892986350",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986350?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 10.334885,
+      "location": {
+        "display_name": "Parma, Provincia di Parma",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Parma",
+          "Parma"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 14.177617,
+      "redirect_url": "https://www.adzuna.it/details/5892986376?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "id": "5892986376",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM3NiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.NYPHqRioKBRdwP3iXlCfnvtoMIKIAq0Vauu02LKjgiU",
+      "location": {
+        "display_name": "San Giovanni Teatino, Provincia di Chieti",
+        "area": [
+          "Italia",
+          "Abruzzo",
+          "Provincia di Chieti",
+          "San Giovanni Teatino"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Store Manager - Pescara",
+      "latitude": 42.424943,
+      "company": {
+        "display_name": "JYSK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Descrizione dell'azienda JYSK è una catena retail internazionale, parte del gruppo danese Lars Larsen,specializzata nell'arredamento sleeping & living in stile scandinavo. JYSK è cresciuta rapidamente nel corso degli anni, dal primo negozio in Danimarca nel 1979 a oltre 3.000 negozi oggi in tutto il mondo. Per poter garantire e supportare la crescita futura, abbiamo bisogno dei migliori collaboratori. Descrizione del lavoro Metterai impegno e dedizione, e: - esperienza significativa nella reali…"
+    },
+    {
+      "company": {
+        "display_name": "COLOMBO ALESSANDRO & FIGLIO SRL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 45.471322,
+      "title": "Impiegato Amministrativo",
+      "description": "Azienda in Milano cerca impiegato amministrativo per contratto a tempo indeterminato full time Compiti - Gestione clienti/fornitori - Gestione ordini e fatture fornitori - Gestione automezzi Requisiti - Ottima conoscenza pacchetto Office - Buona conoscenza gestione apparati informatici aziendali a supporto gestore IT - Ottima memoria - Ottime capazità comunicative (gestione del cliente/fornitore) - Ottima capacità di gestione delle tempistiche, lavoro in team, flessibilità e velocità - Puntuali…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjM4NiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.22ik7yxSblSd-jwX3ph-1KV0-z7FOknTuKBVhRSe6i0",
+      "id": "5892986386",
+      "redirect_url": "https://www.adzuna.it/details/5892986386?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 9.187087,
+      "created": "2026-09-21T18:28:54Z",
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "longitude": 11.348926,
+      "created": "2026-09-21T18:28:54Z",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986370?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzcwIn0.OJtPX-lNKKgSFWF2qWRwYis0lCEONtF_WcOnfLE-Rs0",
+      "id": "5892986370",
+      "location": {
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Bologna",
+          "Argelato"
+        ],
+        "display_name": "Argelato, Provincia di Bologna",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Impiegata Ufficio Acquisti e Magazzino",
+      "latitude": 44.6425,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Officina ARMI"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Officina oleodinamica presente sul territorio da oltre 40 anni, con sede in Funo di Argelato (Bo), cerca impiegata tecnico commerciale da inserire in pianta stabile nel proprio organico. La risorsa si occuperà di: - interfacciarsi con gli altri reparti (officina, commerciale e dirigenza) ed i fornitori; - gestire e controllare le scorte di magazzino (riordino e sistemazione ricambi); - individuare ricambistica su esploso ricambi; - effettuare ordini di acquisto, monitorare e sollecitare consegn…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Sicilia",
+          "Provincia di Palermo",
+          "Palermo"
+        ],
+        "display_name": "Palermo, Provincia di Palermo"
+      },
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 13.361369,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986395?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2Mzk1In0.PI1ywhnxVDxSJBdYEtNeAX2_24B0AN7wOXJOhrSR5S8",
+      "id": "5892986395",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Per noto fast food situato all'interno della stazione di PALERMO ricerchiamo OPERATORI PLURISERVIZIO Lavoro su turni da 20 o 24h alla settimana. Turni a rotazione settimanale, fascia in cui è necessario essere disponibili: 06-23:00 Turni da 4 o 5 h al giorno Non necessaria esperienza pregressa. Necessaria disponibilità immediata Primo contratto di 1 mese  proroghe per stabilizzazione CCNL 6° LIVELLO TURISM Contratto di lavoro: Part-time, Tempo determinato, Somministrazione Orari part-time: 24 a…",
+      "title": "Operatori di Fast Food Presso Palermo Stazione",
+      "latitude": 38.123579,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Temporary spa"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986392?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 7.767029,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzkyIn0.QN0Nvup8hbS7vPvs82HPoWiLPj_-uiJig94frlOn9i0",
+      "id": "5892986392",
+      "location": {
+        "display_name": "Settimo Torinese, Provincia di Torino",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Settimo Torinese"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "INTERNATIONAL METAL ALLOY SRL",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 45.125217,
+      "salary_is_predicted": "0",
+      "title": "Addetto Al Campionamento",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "L'attività che la risorsa andrà a svolgere sarà di campionamento secondo i tempi e le modalità definite dal laboratorio. Si occuperà di: * - redazione del verbale di campionamento, - redazione di procedure e piani di campionamento; - accettazione dei campioni mediante sistemi informatici, - manutenzione ordinaria delle attrezzature utilizzate per il campionamento - richieste ad hoc dal responsabile di laboratorio. * * La risorsa dovrà occuparsi di analisi chimiche su materie prime, semilavorati…"
+    },
+    {
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986361?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 10.766574,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzYxIn0.4lhLOQ2sPA90D8iWheIL5ZrHp2FVu1DvkM1_GzaaU4c",
+      "id": "5892986361",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Modena",
+          "Sassuolo"
+        ],
+        "display_name": "Sassuolo, Provincia di Modena"
+      },
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "ADHR GROUP",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 44.50728,
+      "title": "Impiegati e Operai Categorie Protette",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "ADHR Group S.p.A. - Filiale di Sassuolo (MO), ricerca per aziende clienti: IMPIEGATI E OPERAI CATEGORIE PROTETTE Per aziende del settore industriale, ricerchiamo impiegati e operai appartenenti alle categorie protette. Le risorse verranno inserite nei reparti produttivi, magazzino o negli uffici. Requisiti: - invalidità mínima del 46% - disponibilità immediata - domicilio a Modena o provincia Orario di lavoro: Full Time Luogo di lavoro: Sassuolo (MO) Inquadramento e tipologia di contratto saran…"
+    },
+    {
+      "description": "addetta alle pulizie anche prima esperienza Contratto di lavoro: Part-time, Tempo determinato Disponibilità: - Turno diurno Esperienza: - addetto/a alle pulizie: 1 anno (Preferenziale)",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Addetta Alle Pulizie",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "elsiservice",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 44.800302,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Parma, Provincia di Parma",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Parma",
+          "Parma"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzUyIn0.QJ5atR5X-S8U4ywN8oQ9ZB_YuRykDzwbR7W0fYD2N5w",
+      "id": "5892986352",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 10.334885,
+      "redirect_url": "https://www.adzuna.it/details/5892986352?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Gi Group spa, filiale di Melzo, ricerca per importante azienda clienti MANOVRATORI/MACCHINISTI TRENO DA FORMARE Le risorse verranno inserite in un corso di formazione specializzato nel settore ferroviario, organizzato dall'azienda sul plant di Melzo, della durata di 1 mese, a seguito del quale ci sarà un test di valutazione. Il corso è in aula full time dal lunedì al venerdì. Le risorse che passano il test, vengono inserite in azienda con contratto a tempo determinato con finalità assunzione Re…",
+      "latitude": 45.497765,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GiGroup"
+      },
+      "salary_is_predicted": "0",
+      "title": "Manovratori/macchinisti Treno da Formare",
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Melzo"
+        ],
+        "display_name": "Melzo, Provincia di Milano",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986409?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 9.418398,
+      "created": "2026-09-21T18:28:54Z",
+      "id": "5892986409",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2NDA5In0.K-tfwBMYwd69ctnQjeJsGXZv_ilAnB3N4g62yGx97aA"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Albano Laziale"
+        ],
+        "display_name": "Albano Laziale, Provincia di Roma"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzgwIn0.kYtDQjnYi3oEp60GjI4chKU36IlEdLeop0UknFtuhLs",
+      "id": "5892986380",
+      "longitude": 12.66084,
+      "created": "2026-09-21T18:28:54Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986380?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "description": "Villaggio Doria, centro sportivo sito nel cuore del parco di Albano Laziale, ricerca una segretaria con disponibilità full time. Il nostro centro vanta personale qualificato e macchinari di ultima generazione che permettono un allenamento individuale accuratamente strutturato e adatto a tutte le esigenze. La ragazza si occuperà di registrare i nuovi iscritti, dare informazioni circa i corsi e le attività disponibili, gestire le prenotazioni e la casella di posta, tenere pulita e organizzata la …",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "title": "Segretaria",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "LORETI ARREDAMENTI SRL"
+      },
+      "latitude": 41.728484,
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Roma, Provincia di Roma",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "longitude": 12.489081,
+      "created": "2026-09-21T18:28:54Z",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986393?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986393",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzkzIn0.5WAAAZT3QN3MGUBGHSEYoIWZmLPjGVPJ3_6V6sADbtc",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "La nostra scuola guida è ubicata a Roma in zona Eur Ardeatina e stiamo selezionando per ampliamento organico una figura che si occuperà di segretariato. Le mansioni saranno: Accoglienza clientela, gestione anagrafiche clienti, gestione pratriche e prenotazioni lezioni ed esami. Richiediamo buona conoscenza del pacchetto Office, predisposizione al lavoro a contatto con il pubblico, capacità di problem solving; Inoltre, non richiediamo particolari esperienze lavorative pregresse in quanto la figu…",
+      "title": "Segretaria/o Scuola Guida",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "pol srl"
+      },
+      "latitude": 41.877339,
+      "salary_is_predicted": "0"
+    },
+    {
+      "description": "Per avvio nuovo servizio Ricerca OEPAC - AEC - ADEST - OSS - OSA Per servizio di integrazione scolastica rivolta a minori frequentanti le scuole di Guidonia Montecelio (RM) La risorsa svolgerà interventi di Assistenza Integrativa Scolastica rivolta ad alunni disabili o con grave disagio comportamentale, all’interno delle scuole dell’infanzia, primarie di primo grado e secondarie di primo grado ubicate sul territorio del comune di Guidonia Montecelio. Il professionista individuato parteciperà al…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 41.976172,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Consorzio Blu"
+      },
+      "salary_is_predicted": "0",
+      "title": "Operatore Per Integrazione Scolastica - Guidonia",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Guidonia Montecelio"
+        ],
+        "display_name": "Guidonia Montecelio, Provincia di Roma"
+      },
+      "id": "5892986411",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjQxMSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.i-odGDx4LD02FnbhVJhUgyfDsGeocZAfGYdlO_HV9IM",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986411?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:28:54Z",
+      "longitude": 12.703392
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Modena",
+          "Modena"
+        ],
+        "display_name": "Modena, Provincia di Modena"
+      },
+      "longitude": 10.928205,
+      "created": "2026-09-21T18:28:54Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986372?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5892986372",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzcyIn0.jfa4mZ2HMKMgj-N5M8naF6ap_H3khUdnb0RnXJ4nm5I",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Per nuova apertura a Modena stiamo selezionando 2 figure come segretario/a/assistenza al cliente. Le attività consisteranno in: - Ricevimento - Assistenza alla clientela - Gestione agenda Requisiti richiesti: - Ottima conoscenza della lingua Italiana - Predisposizione al lavoro nel team - Padronanza del pacchetto Office - Precisione e puntualità Disponibilità immediata.",
+      "title": "Segretaria Front-office",
+      "latitude": 44.646233,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "OMEGA"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "location": {
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ],
+        "display_name": "Milano, Provincia di Milano",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 9.187087,
+      "created": "2026-09-21T18:28:53Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986323?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjMyMyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.ystNK1R0F3EyMHdwLan4R2cGlcRsHl8r-ob8GaHzSBY",
+      "id": "5892986323",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "_UMANA SPA per rinomata realtà di Hotellerie, zona Milano San Siro (MI), ricerca 2 __COMMIS DI SALA._ - Si richiede_ - _pregressa esperienza nella mansione;_ - _ottimo standing;_ - _serietà e determinazione;_ - _disponibilità a lavorare su turni spezzati;_ - _conoscenza della lingua inglese;_ - _residenza nei pressi del luogo di lavoro._ - Si propone contratto di lavoro full-time_",
+      "title": "Commis di Sala",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Umana spa"
+      },
+      "latitude": 45.471322
+    },
+    {
+      "location": {
+        "display_name": "Aversa, Provincia di Caserta",
+        "area": [
+          "Italia",
+          "Campania",
+          "Provincia di Caserta",
+          "Aversa"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "longitude": 14.209166,
+      "created": "2026-09-21T18:28:53Z",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986263?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjI2MyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.hivlUQKrFesfkRjNGdoMfL8tNaSnn1TXo4rBe9onTMg",
+      "id": "5892986263",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "British Institutes requires English teachers with: - CELTA or equivalent qualifications, - minimum 2 years experience and valid work visa. Net Salary: From 20 Euro/hour. If you are interested in this offer, please send us your CV. Contratto di lavoro: Part-time Stipendio: a partire da €20,00 all'ora Disponibilità: - Orario flessibile Lingua: - Inglese (Preferenziale)",
+      "title": "English Teacher",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "SG COMMUNICATION SRL"
+      },
+      "latitude": 40.972834
+    },
+    {
+      "id": "5892986230",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjIzMCIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0._FZPy3fgdrfeCoxv7auYUtw_icK4QbUk37FMJUGcPI4",
+      "redirect_url": "https://www.adzuna.it/details/5892986230?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 16.417578,
+      "created": "2026-09-21T18:28:53Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Trani, Provincia di Barletta-Andria-Trani",
+        "area": [
+          "Italia",
+          "Puglia",
+          "Provincia di Barletta-Andria-Trani",
+          "Trani"
+        ]
+      },
+      "latitude": 41.275523,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Pescaria"
+      },
+      "salary_is_predicted": "0",
+      "title": "Cameriere/addetto di Sala - Pescaria",
+      "description": "Pescaria, leader italiano dei fast food di pesce, ricerca per inserimento immediato personale di sala. A Pescaria si ordina direttamente in cassa: il personale di sala si occupa quindi di servire la clientela al banco o direttamente al tavolo, chiamando il numero di comanda. Gli addetti di sala qualificati rispondo al telefono e gestiscono le prenotazioni eventualmente prese. Nelle ore non di punta l’addetto sistema la sala, si occupa della pulizia della medesima, dello stoccaggio rifiuti e del…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "created": "2026-09-21T18:28:53Z",
+      "longitude": 10.261834,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986306?utm_medium=api&utm_source=a6bbb028",
+      "id": "5892986306",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzA2In0.MDqle5wvtclpU7UVWhMcJKpbBJ-49rbVPOZnk-pJK9g",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Lumezzane, Provincia di Brescia",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Brescia",
+          "Lumezzane"
+        ]
+      },
+      "title": "Dietista Per Struttura Ospedaliera Lumezzane",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "CIRFOOD s.c."
+      },
+      "latitude": 45.649631,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "CIR food, Cooperativa Italiana di Ristorazione, è un’impresa di 13.000 persone, presente in Italia e all’Estero, che da oltre 40 anni lavora per gestire con qualità, professionalità e passione i servizi di: - Ristorazione collettiva (aziendale, scolastica e sociosanitaria) - Ristorazione commerciale (ristoranti e self service, ristorazione veloce, caffetterie e snack bar) - Welfare aziendale e flexible benefits (ticket pasto e ticket welfare). L’impresa produce oltre 85 milioni di pasti all’ann…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "PROGRESS"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 42.404945,
+      "title": "Consulente Biologo/a Nutrizionista",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "GRUPPO FEMA, importante realtà nell’ambito della medicina estetica non invasiva, della nutrizione e dell' healthcare è alla ricerca di: BIOLOGO/A NUTRIZIONISTA per un progetto estremamente etico e innovativo volto allo sviluppo dei servizi all’interno delle farmacie e degli studi medici. Il progetto si basa su segmenti di mercato in grande crescita quali Medicina Estetica, Nutrizione, Benessere e offre alle farmacie e agli studi medici soluzioni per lo sviluppo della propria attività in termini…",
+      "redirect_url": "https://www.adzuna.it/details/5892986305?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "longitude": 12.857739,
+      "created": "2026-09-21T18:28:53Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjMwNSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.QVJETQvB29IeKTneAjaEOdqcW5JHJDeRCcG9ovYGLX4",
+      "id": "5892986305",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Rieti, Provincia di Rieti",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Rieti",
+          "Rieti"
+        ]
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjI1NSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.2Ytd0_CZ8JO8-rLoJwTH-W4UoNzMMP6yfb7vzVR0Tfs",
+      "id": "5892986255",
+      "longitude": 13.361369,
+      "created": "2026-09-21T18:28:53Z",
+      "category": {
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986255?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Palermo, Provincia di Palermo",
+        "area": [
+          "Italia",
+          "Sicilia",
+          "Provincia di Palermo",
+          "Palermo"
+        ]
+      },
+      "title": "Addetto Controllo Qualità",
+      "latitude": 38.123579,
+      "company": {
+        "display_name": "Zangaloro meat factory",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "description": "Addetto/a controllo qualità Ricerchiamo una figura professionale che si occupi del controllo qualità nei nostri punti vendita. Requisiti: Esperienza nel settore dirigenziale o di supervisor Conoscenza norme HACCP Buona capacità nella leadership e nelle relazioni con i dipendenti Esperienza nella supervisione del personale Disponibilità a muoversi nei diversi punti vendita Laurea in scienze e tecnologie alimentari (non obbligatoria) Contratto di lavoro: Tempo pieno Disponibilità: - Dal lunedì al…",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "latitude": 45.471322,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AstraZeneca"
+      },
+      "salary_is_predicted": "0",
+      "title": "Lam Onco & Infectious Diseases (Lombardia)",
+      "description": "LAM Onco & Infectious Diseases Lombardia Se sei interessato alle opportunità che la scienza può offrire per migliorare la vita dei pazienti e per metterti alla prova, AstraZeneca è l’azienda che fa per te! In AstraZeneca crediamo nel potenziale delle persone e offriamo loro un percorso di sviluppo personale affinché possano rafforzare le proprie competenze e raggiungere i loro traguardi. Le malattie respiratorie e metaboliche a sono tra le aree in cui AstraZeneca è da sempre fortemente impegnat…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "id": "5892986327",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzI3In0.64hLW9JyrTLER8HxoqD9Wh8HT3mM949nAHP8L-1pJ8c",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986327?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 9.187087,
+      "created": "2026-09-21T18:28:53Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Milano, Provincia di Milano",
+        "area": [
+          "Italia",
+          "Lombardia",
+          "Provincia di Milano",
+          "Milano"
+        ]
+      }
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Torino, Provincia di Torino",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Torino"
+        ]
+      },
+      "created": "2026-09-21T18:28:53Z",
+      "longitude": 7.673018,
+      "redirect_url": "https://www.adzuna.it/details/5892986290?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "id": "5892986290",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjI5MCIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0._mzkCNfa8MZn7NbZNFHhdLftneV6BjZMV5UnAGeQhao",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Siamo alla ricerca di una esperta figura professionale che dovrà curare e garantire lo sviluppo del business. Principali responsabilità: - Perseguire con successo il raggiungimento dei target di vendita assegnati all’area e ai singoli Rivenditori, in termini quantitativi e qualitativi, secondo le strategie delle Business Line PAD e CTS. - Promuovere un’ immagine professionale coerente con i valori dei brand e del Gruppo, attraverso azioni ed iniziative personali, intensificando la reputazione d…",
+      "title": "Business Development Pad",
+      "company": {
+        "display_name": "MultiAir Italia S.r.l",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 45.068057
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Roma, Provincia di Roma",
+        "area": [
+          "Italia",
+          "Lazio",
+          "Provincia di Roma",
+          "Roma"
+        ]
+      },
+      "longitude": 12.489081,
+      "created": "2026-09-21T18:28:53Z",
+      "redirect_url": "https://www.adzuna.it/details/5892986300?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "id": "5892986300",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MzAwIn0.ruhnFuvcMMjzyUgmA4ajQxUEWLZGWT8ke61dFS3DaRQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Stage in Gis Analysis CHI SIAMO Acea è una multiutilities che ha come mission quella di migliorare ogni giorno la vita dei cittadini offrendo servizi essenziali di alta qualità per la vita quotidiana delle persone - acqua, energia, illuminazione e trattamento rifiuti. COSA FARAI Per la Società Areti, Società del Gruppo che si occupa della gestione della rete di distribuzione elettrica, privata, pubblica e dell'illuminazione artistica di Roma, cerchiamo giovani, brillanti neo laureati da inserir…",
+      "title": "Stage in Gis Analysis",
+      "latitude": 41.877339,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Acea Group"
+      },
+      "salary_is_predicted": "0"
+    },
+    {
+      "created": "2026-09-21T18:28:53Z",
+      "longitude": 16.876061,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986236?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjIzNiIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.aZDYU_YT0rjbm9GWS3wok8WHIeWh0BTtsyN5XD8ffTU",
+      "id": "5892986236",
+      "location": {
+        "area": [
+          "Italia",
+          "Puglia",
+          "Provincia di Bari",
+          "Bari"
+        ],
+        "display_name": "Bari, Provincia di Bari",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Stage Area Vendita accessori (30h)",
+      "company": {
+        "display_name": "Ikea",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 41.120314,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "PERCHÉ CI PIACERAI LE TUE RESPONSABILITÀ In collaborazione con il Team Leader e guidato dal tuo Tutor aziendale, sarai di supporto nell'accogliere il cliente e nel fornire il tuo contributo per rendere il processo di acquisto semplice e favorire sempre una shopping experience conveniente e divertente. Scoprirai tutte le caratteristiche e i vantaggi dei prodotti della tua area ed i servizi offerti al cliente (finanziamenti, resi, pianificazione consegne e montaggio, ecc.). Imparerai come assicur…"
+    },
+    {
+      "description": "Areajob spa ricerca per azienda cliente sita a Zola Predosa (BO) un/una TIROCINANTE disegnatore meccanico. Requisiti richiesti: - diploma o laurea ad indirizzo meccanico, - domicilio in prossimità del luogo di lavoro. Si offre inserimento diretto in azienda full time. Offerta di lavoro da intendersi rivolta ad entrambi i sessi ai sensi della L.903/77 Autorizzazione Ministeriale Definitiva Prot.N.13/I/0019555/03.01 del 22/10/08",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 44.498542,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "AreaJob"
+      },
+      "salary_is_predicted": "0",
+      "title": "Tirocinante Disegnatore Meccanico",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bologna, Provincia di Bologna",
+        "area": [
+          "Italia",
+          "Emilia-Romagna",
+          "Provincia di Bologna",
+          "Bologna"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjI3MyIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.4bJTULKO98I6ISyccfgghkBzLi9RoWYbQv_dxmJWywA",
+      "id": "5892986273",
+      "redirect_url": "https://www.adzuna.it/details/5892986273?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "tag": "unknown",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": 11.341108,
+      "created": "2026-09-21T18:28:53Z"
+    },
+    {
+      "created": "2026-09-21T18:28:53Z",
+      "longitude": 7.597191,
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986314?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjMxNCIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.bQmabk0UqwiW-Rfc2oldPaGT3yCvpWOI1uDAjLmw6yw",
+      "id": "5892986314",
+      "location": {
+        "display_name": "Collegno, Provincia di Torino",
+        "area": [
+          "Italia",
+          "Piemonte",
+          "Provincia di Torino",
+          "Collegno"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Addett Aree Commerciali - Categorie Protette L",
+      "latitude": 45.088395,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Ikea"
+      },
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "CHI SEI - Hai interesse per un lavoro in ambito commerciale (settore Vendite, Assistenza post-vendita, Cassa) o in ambito operativo (Food, Logistica) o hai un'esperienza in tali ambiti; - Sei regolarmente iscritto/a presso le liste di collocamento mirato L.68/99; - Hai interesse e passione per l’Arredamento e/o per il mondo commerciale; - Sei orientato/a ai risultati e l'ordine e la precisione ti contraddistinguono; - Vedi le sfide come delle opportunità e un modo per imparare lavorando in team…"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Gi Group SpA, Agenzia per il Lavoro Divisione Banking&Insurance, ricerca per gruppo bancario presente a livello nazionale ADDETTI/E ALLO SPORTELLO BANCARIO Le risorse lavoreranno all’interno della filiale bancaria e svolgeranno prevalentemente attività di front office e gestione della clientela. Sono richiesti un forte interesse all'apprendimento e un buon utilizzo degli strumenti di office automation ; preferibile, ma non vincolante, la conoscenza della lingua inglese. Completano il profilo un…",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "GiGroup"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 46.109312,
+      "title": "Addetti/e Allo Sportello Bancario",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "Italia",
+          "Trentino-Alto Adige",
+          "Provincia di Trento",
+          "Trento"
+        ],
+        "display_name": "Trento, Provincia di Trento"
+      },
+      "redirect_url": "https://www.adzuna.it/details/5892986271?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown",
+        "label": "Unknown"
+      },
+      "longitude": 11.115763,
+      "created": "2026-09-21T18:28:53Z",
+      "id": "5892986271",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidnJ0TVotZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkyOTg2MjcxIn0.dmqb4W5Cp3T9lng4QmeuHDRbqvhCmAwMboJOwLUKRKU"
+    },
+    {
+      "redirect_url": "https://www.adzuna.it/details/5892986265?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "Unknown",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "unknown"
+      },
+      "longitude": 11.151943,
+      "created": "2026-09-21T18:28:53Z",
+      "id": "5892986265",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mjk4NjI2NSIsInMiOiJ2cnRNWi1lMThSR3pZODRPRWxTcXRRIn0.f_znZKym0LKRbxsO6grcadNhNYgufOnsb9j6BAcLCL8",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Scandicci, Provincia di Firenze",
+        "area": [
+          "Italia",
+          "Toscana",
+          "Provincia di Firenze",
+          "Scandicci"
+        ]
+      },
+      "company": {
+        "display_name": "GiGroup",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "latitude": 43.750704,
+      "salary_is_predicted": "0",
+      "title": "Addetti Sviluppo Prodotto",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "La specializzazione Hirevo Office Toscana di Gi Group, ricerca per Brand Multinazionale, leader nella produzione e commercializzazione di prodotti di pelletteria, calzature e accessori, sul Plant di Scandicci ADDETTI SVILUPPO PRODOTTO JR Le risorse, inserite all’interno dall’area di riferimento, collaboreranno con il team SR e riporteranno direttamente al Manager di riferimento nello svolgimento delle seguenti attività: Creazione ed inserimento distinte base e schede tecniche dei prodotti; Back…"
+    }
+  ]
+}

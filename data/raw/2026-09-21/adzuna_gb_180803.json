@@ -1,0 +1,3413 @@
+{
+  "fetched_at": "2026-09-21T18:08:03.064452+00:00",
+  "country": "gb",
+  "params": {
+    "results_per_page": 50,
+    "max_days_old": 1,
+    "sort_by": "date"
+  },
+  "count": 28437,
+  "mean": 42502.37,
+  "max_pages": 2,
+  "pages_with_results": 2,
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDE4OTU1In0.p1HPw6eIoILlfC_cAZAwMI0MdIX5ViJ3Gvb_38CvtnQ",
+      "contract_time": "part_time",
+      "description": "About the role KPMG Advisory helps organisations address complex challenges, improve performance and deliver sustainable change by combining sector expertise, strategic insight and practical delivery support. As a Manager in the Healthcare team, you will focus on developing business cases for investment in change and productivity, supported by robust analysis. You will work with NHS providers, healthcare systems, national bodies and other public-sector organisations on assignments such as strat…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893018955?utm_medium=api&utm_source=a6bbb028",
+      "salary_is_predicted": "1",
+      "title": "Manager - Healthcare Advisory (Business Case)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "KPMG"
+      },
+      "salary_max": 50197.62,
+      "salary_min": 50197.62,
+      "id": "5893018955",
+      "created": "2026-09-21T18:51:20Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "consultancy-jobs",
+        "label": "Consultancy Jobs"
+      }
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDE4OTU0In0.xAcgvpemrbxKZV1XO2eu9qsoiU4gUUONFDioG5NtBY0",
+      "salary_min": 35661.73,
+      "id": "5893018954",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "KPMG",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 35661.73,
+      "latitude": 52.955101,
+      "location": {
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Nottingham, Nottinghamshire"
+      },
+      "description": "The largest of our UK practices, Audit provides insight, challenge and expertise to some of the world’s biggest companies. We make a meaningful difference to those businesses and the wider community, by examining organisations and ensuring that their published accounts provide a true and fair reflection of their financial position. Join us on this programme and you’ll have the opportunity to see the auditing process from a range of different perspectives, giving you a rounded view of the discip…",
+      "longitude": -1.14917,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs"
+      },
+      "created": "2026-09-21T18:51:19Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893018954?utm_medium=api&utm_source=a6bbb028",
+      "title": "Vacation Audit - ACA Nottingham July 2027"
+    },
+    {
+      "id": "5893018808",
+      "salary_min": 32863.34,
+      "salary_max": 32863.34,
+      "company": {
+        "display_name": "KPMG",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDE4ODA4In0.xZR4kifby-4-7HaYMkv2h-ViEm5985hS6Wj5w-748-E",
+      "category": {
+        "label": "Graduate Jobs",
+        "tag": "graduate-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:47:09Z",
+      "title": "Graduate Audit - ACA Reading Autumn 2027",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893018808?utm_medium=api&utm_source=a6bbb028",
+      "description": "Why Audit? Some of the world’s biggest companies and organisations turn to KPMG’s Audit practice for the insight, challenge and expertise we’re able to provide. By examining the way in which they’re operating – and delivering a true and fair reflection of their financial position through published accounts – we make a difference not just to the business itself, but also to the wider community. Audit is about more than simply meeting legal requirements. It helps organisations to operate more eff…",
+      "location": {
+        "display_name": "Reading, Berkshire",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Reading"
+        ]
+      },
+      "latitude": 51.455002,
+      "longitude": -0.969088
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxODgwNiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.rGGVkv3YxnxWxm7iNg_JADQ77YOCQtLTHVvWzwPHuIw",
+      "salary_min": 24588.26,
+      "id": "5893018806",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "KPMG"
+      },
+      "salary_max": 24588.26,
+      "location": {
+        "display_name": "Milton Keynes, Buckinghamshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Buckinghamshire",
+          "Milton Keynes"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Why Audit? In Audit, we support sustainable business growth by examining organisations and providing a true and fair view of their financial position. Our work helps to build public trust in organisations and the economy as a whole. The information that we provide can also help businesses to operate more efficiently and mitigate their financial risk. Life as an Audit Apprentice Some of the world’s biggest companies rely on us for our audit expertise. You’ll find yourself at the heart of these o…",
+      "latitude": 52.042198,
+      "longitude": -0.7047,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "created": "2026-09-21T18:47:09Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893018806?utm_medium=api&utm_source=a6bbb028",
+      "title": "Apprenticeships Audit - Apprenticeship Milton Keynes Autumn 2027"
+    },
+    {
+      "contract_time": "full_time",
+      "description": "About the role Tax & Legal helps organisations navigate tax and legal considerations so they can make informed decisions and manage complex requirements. Within Deal Advisory Tax, you will advise corporate and asset management clients across the transaction lifecycle, including buy-side due diligence and structuring, sell-side support, refinancing and listings. You will join a national, connected team serving clients across sectors such as consumer, life sciences, technology, media and telecomm…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDE4NzUwIn0.Gy1yEZbYmzesDi-l_PjBEem7VWYWDe08ZGGmtGIfGVQ",
+      "salary_min": 63734.6,
+      "created": "2026-09-21T18:44:23Z",
+      "id": "5893018750",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893018750?utm_medium=api&utm_source=a6bbb028",
+      "salary_is_predicted": "1",
+      "title": "Deal Advisory Tax Manager - Corporates & FS",
+      "company": {
+        "display_name": "KPMG",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 63734.6
+    },
+    {
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "description": "We are seeking skilled Endpoint Management Specialists for various contract positions with competitive daily rates. These hybrid roles require 2-3 days per week on-site in London and SC Clearance (or eligibility to obtain). The Roles: We’re hiring experienced professionals to manage enterprise environments across: MacOS (Senior macOS Engineer) Mobile Devices (Mobile Device Specialists x2) Windows (Senior Windows Engineers x2) What You’ll Do: Manage OS updates, security patches, software deploym…",
+      "latitude": 51.503378,
+      "contract_type": "contract",
+      "longitude": -0.139134,
+      "created": "2026-09-21T18:39:58Z",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893012383?utm_medium=api&utm_source=a6bbb028",
+      "title": "Endpoint Management Specialists",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMjM4MyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.E6pK08xrkT9Jf-hVbmlbv1v4UpCmFjId4YKvsPSacoY",
+      "salary_min": 53637.98,
+      "id": "5893012383",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Skillsbay Limited"
+      },
+      "salary_max": 53637.98
+    },
+    {
+      "company": {
+        "display_name": "Skillsbay Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 59526.27,
+      "salary_is_predicted": "1",
+      "id": "5893012385",
+      "salary_min": 59526.27,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDEyMzg1In0.pBxjIHYe1UiQ7Lc9qtFmZEhuJgoYyVm35Rbiy2oxu_4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "title": "Oracle Fusion Finance Functional Lead",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893012385?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:39:58Z",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "longitude": 0.136154,
+      "latitude": 52.130733,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Cambridgeshire",
+          "Cambridge",
+          "Great Shelford"
+        ],
+        "display_name": "Great Shelford, Cambridge"
+      },
+      "description": "This exciting leadership role is part of a major Finance System Replacement project, driving transformation and modernisation of financial processes across a large and complex organisation. You will work collaboratively with senior stakeholders, project sponsors, and end users to ensure that the new system capabilities align with business needs and deliver real benefits. Key Responsibilities: Lead multiple workstreams, ensuring timely and cost-effective delivery of project outcomes and system c…"
+    },
+    {
+      "salary_min": 42083.84,
+      "id": "5893012380",
+      "salary_is_predicted": "1",
+      "salary_max": 42083.84,
+      "company": {
+        "display_name": "Skillsbay Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMjM4MCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.W3ERZESXdJsZimzgTcPtwAjlI_FOnzfxVdinCtug55o",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "created": "2026-09-21T18:39:58Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893012380?utm_medium=api&utm_source=a6bbb028",
+      "title": "Windows 11 Deployment Engineer",
+      "location": {
+        "display_name": "Charing Cross, Central London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "Central London",
+          "Charing Cross"
+        ]
+      },
+      "description": "Are you an experienced Windows 11 Deployment Engineer looking for your next opportunity? We’re looking for a proactive and customer-focused professional to support end-users through a seamless Windows 11 migration. The Role: As a Windows 11 Deployment Engineer, you’ll be responsible for providing hands-on support to users as they transition to Windows 11 using Workspace One technology. Working in small teams, you’ll deliver a high-quality, white-glove service, ensuring minimal disruption and a …",
+      "latitude": 51.509398,
+      "longitude": -0.124882
+    },
+    {
+      "contract_type": "permanent",
+      "longitude": -0.043219,
+      "latitude": 51.479745,
+      "location": {
+        "display_name": "New Cross, South East London",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London",
+          "South East London",
+          "New Cross"
+        ]
+      },
+      "description": "We are working with an organisation that is looking to appoint an Oracle HCM Analyst to join a small, collaborative HRIS team. This role sits at the intersection of HR and technology and will focus on supporting and enhancing Oracle Cloud HCM across the business. The position will involve providing first and second line support to Oracle HCM users, handling not only day-to-day queries but also more complex functional and technical change requests. You will play a key role in ensuring the system…",
+      "title": "Oracle HCM Analyst",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893012289?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:39:53Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs",
+        "label": "IT Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMjI4OSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.zLXLsnltrtzs-rfST087USjPiHvClamngI11KQyASPo",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_max": 60000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Skillsbay Limited"
+      },
+      "salary_is_predicted": "0",
+      "id": "5893012289",
+      "salary_min": 50000
+    },
+    {
+      "created": "2026-09-21T18:38:52Z",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Care Worker",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011683?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "display_name": "Bannockburn, Stirling",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "County Stirling",
+          "Stirling",
+          "Bannockburn"
+        ]
+      },
+      "latitude": 56.096741,
+      "description": "We are looking to recruit experienced Support Workers for permanent position working within Callander communities. If you have caring experience, then we would like to hear from you. The role will involve: Supporting vulnerable adults within their homes and community. providing personal care. Housework. Medication management. Helping with day-to-day tasks and companionship. Providing the highest level of care and support. You need to be: A Team player. Good communicator. Great listener. Focused…",
+      "longitude": -3.918112,
+      "contract_type": "permanent",
+      "id": "5893011683",
+      "salary_min": 26400,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cluaran Care"
+      },
+      "salary_max": 26400,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTY4MyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.APoRxsnhEz9-3OdLi7kW-wdTjlzX-EhIQuS68307XTo"
+    },
+    {
+      "salary_min": 31200,
+      "id": "5893011665",
+      "salary_is_predicted": "0",
+      "salary_max": 35360,
+      "company": {
+        "display_name": "Freemans Event Partners",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "contract_time": "part_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTY2NSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.gtDjxX3bu5delZf759M3uIFyMbll5WN9XU8T2Vuk-q0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "hospitality-catering-jobs",
+        "label": "Hospitality & Catering Jobs"
+      },
+      "created": "2026-09-21T18:38:37Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011665?utm_medium=api&utm_source=a6bbb028",
+      "title": "Bar Supervisor",
+      "location": {
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "description": "Bar Supervisor: Freemans Event Partners are looking to recruit an ambitious and autonomous individual, to help strengthen our Bar Teams at London Stadium, one of our largest venues. Pay Rate: ~£15ph plus holiday pay (depending on experience). Estimated Hours & Contract: Casual work - would be an average of 3 days (20-25h) per week. The Role: You would be joining in a Supervisor capacity to manage a small but strong team. Lead, brief and oversee bar teams throughout matchday operations. Ensure b…",
+      "latitude": 51.503378,
+      "contract_type": "permanent",
+      "longitude": -0.139134
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "part_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTY2NiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.sOfkQHCtVG8JJCakWnuoSXEKFECL3_EggFZK1tCribU",
+      "id": "5893011666",
+      "salary_min": 35360,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Freemans Event Partners"
+      },
+      "salary_max": 41600,
+      "salary_is_predicted": "0",
+      "description": "Front of House (Catering Operations) Manager Freemans Event Partners are looking for an experienced Events Catering professional to help lead and support our Catering Operation at London Stadium. We are responsible for the running of most of the units situated on the concourse at the stadium. Pay Rate: Up to £20ph plus holiday pay (depending on experience). Estimated Hours & Contract: Casual work - would be an average of 3 days (20-25h) per week. The Role: Oversee 5–10 catering units, including…",
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "latitude": 51.503378,
+      "contract_type": "permanent",
+      "longitude": -0.139134,
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "label": "Hospitality & Catering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:38:37Z",
+      "title": "Catering Operations Manager",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011666?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "salary_min": 36763,
+      "id": "5893011667",
+      "salary_is_predicted": "0",
+      "salary_max": 39548,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "DAVID LEWIS CENTRE"
+      },
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNjY3In0.oMZVXGJRHPBPL6GE2pBQna0sEuEtPzLApTFXeKSO4yA",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:38:37Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011667?utm_medium=api&utm_source=a6bbb028",
+      "title": "Occupational Therapist",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Cheshire",
+          "Wilmslow",
+          "Styal"
+        ],
+        "display_name": "Styal, Wilmslow"
+      },
+      "latitude": 53.327715,
+      "description": "Occupational Therapist Part/ Full-time Permanent Contract Salary: £36,763.58 - £39,548.70 pro-rata 1.0 FTE (Dependent on qualifications, skills and experience) This is an exciting opportunity to work as part of a multi-disciplinary team to provide person-centred specialist occupational therapy services to children and adults in the David Lewis School, College and Residential Services. David Lewis Clinical & Therapy Services provide support for people who live in residential services and student…",
+      "contract_type": "permanent",
+      "longitude": -2.230839
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011552?utm_medium=api&utm_source=a6bbb028",
+      "salary_is_predicted": "1",
+      "salary_max": 75274.67,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Cohypes"
+      },
+      "title": "Director Of Growth",
+      "salary_min": 75274.67,
+      "id": "5893011552",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs"
+      },
+      "created": "2026-09-21T18:37:38Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTUyIn0.UBN8un47otZY1-eBhoZyW33XHzCvjVgaZumHVVJwr_A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Director of Growth (Performance & Scaling) ABOUT COHYPES At Cohypes, we build, launch, and aggressively scale DTC brands in the health, beauty, and wellness spaces. We operate with high speed, deep analytical rigor, and a relentless focus on performance. We don't just run ads — we build high-converting funnel ecosystems, launch hundreds of creative iterations weekly, and aggressively capture market share across global markets. We cut out bureaucracy and empower our leaders with massive media bu…",
+      "location": {
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "salary_min": 70773.24,
+      "created": "2026-09-21T18:37:38Z",
+      "id": "5893011551",
+      "category": {
+        "label": "PR, Advertising & Marketing Jobs",
+        "tag": "pr-advertising-marketing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011551?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Cohypes",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 70773.24,
+      "title": "Head Of Growth",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "location": {
+        "display_name": "UK",
+        "area": [
+          "UK"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Head of Growth (Performance & Scaling) ABOUT COHYPES At Cohypes, we build, launch, and aggressively scale DTC brands in the health, beauty, and wellness spaces. We operate with high speed, deep analytical rigor, and a relentless focus on performance. We don't just run ads — we build high-converting funnel ecosystems, launch hundreds of creative iterations weekly, and aggressively capture market share across global markets. We cut out bureaucracy and empower our leaders with massive media budget…",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTUxIn0.IcBN558JJ1ffWHbEJqkZWW_aqEYJDTXMg_a2RaTidIA"
+    },
+    {
+      "longitude": -0.786364,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTQ4In0.H1An9dMCEnKDuJHC5og5tTdOTfEAjt58bxmyIvvLBFU",
+      "latitude": 51.814664,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Can you help us ensure every child can live a Life Worth Living ? Around 90,000 young people across the UK are persistently absent from education each year. At Nudge Education , we support children and young people who are disengaged from education through tailored mentoring and interventions that help them reconnect, rebuild confidence, and thrive. About the Role We are looking for compassionate and adaptable practitioners to deliver personalised 1:1 support to young people with SEN, SEMH, or …",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Buckinghamshire",
+          "Aylesbury",
+          "Broughton"
+        ],
+        "display_name": "Broughton, Aylesbury"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011548?utm_medium=api&utm_source=a6bbb028",
+      "salary_is_predicted": "1",
+      "salary_max": 38506.9,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nudge Education"
+      },
+      "title": "Children and Young People Practitioner : Mental Health/Challenging Behaviour : M only Applicants.",
+      "salary_min": 38506.9,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "teaching-jobs",
+        "label": "Teaching Jobs"
+      },
+      "id": "5893011548",
+      "created": "2026-09-21T18:37:33Z"
+    },
+    {
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011547?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 40849.94,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Nudge Education"
+      },
+      "title": "Children and Young People Practitioner",
+      "salary_min": 40849.94,
+      "category": {
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893011547",
+      "created": "2026-09-21T18:37:32Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTQ3In0.sJ0hUQnAt4NwK8iYS0NU129LZHoSr0tqgh75c-nLYP8",
+      "longitude": -1.450149,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Can you help us ensure every child can live a Life Worth Living ? Around 90,000 young people across the UK are persistently absent from education each year. At Nudge Education , we support children and young people who are disengaged from education through tailored mentoring and interventions that help them reconnect, rebuild confidence, and thrive. About the Role We are looking for compassionate and adaptable practitioners to deliver personalised 1:1 support to young people with SEN, SEMH, or …",
+      "latitude": 53.752605,
+      "location": {
+        "display_name": "Woodlesford, Leeds",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Leeds",
+          "Woodlesford"
+        ]
+      }
+    },
+    {
+      "title": "Maths and Science Curriculum Lead",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011512?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=240E566BB94115F862DF211F8ADE288D99125078",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Teaching Jobs",
+        "tag": "teaching-jobs"
+      },
+      "created": "2026-09-21T18:36:03Z",
+      "longitude": -2.237656,
+      "contract_type": "permanent",
+      "location": {
+        "display_name": "Brookthorpe, Gloucester",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South West England",
+          "Gloucestershire",
+          "Gloucester",
+          "Brookthorpe"
+        ]
+      },
+      "latitude": 51.806923,
+      "description": "At OFG we believe in creating a better work life balance Job Title: Maths and Science Curriculum Lead Location: Brookthorpe Hall School, Gloucester, GL4 0UN Hours: 40 per week | Monday to Friday | 8.30am – 4.30pm Salary: £48,000.00 - £51,000.00 per annum (depending on experience, not pro rata) Contract: Permanent | Term Time Only Start: November 2026 UK applicants only – no sponsorship available About the Role As our Maths and Science Curriculum Lead , you’ll lead the development, implementatio…",
+      "company": {
+        "display_name": "Outcomes First Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 51000,
+      "salary_is_predicted": "0",
+      "id": "5893011512",
+      "salary_min": 48000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTEyIn0.ZjkpFpkWE3YYAcvaCqAUGlTExi2Xd6u73_B8rZ1j5dc",
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUxMSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.pLL4j74AqOQz6LTOhSds4jHAPoZYaBJBwZW0SuCyozU",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Ramsay Health Care",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 34515.72,
+      "salary_is_predicted": "1",
+      "id": "5893011511",
+      "salary_min": 34515.72,
+      "longitude": 0.892046,
+      "contract_type": "permanent",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Essex",
+          "Colchester",
+          "Mile End"
+        ],
+        "display_name": "Mile End, Colchester"
+      },
+      "description": "Job Advert Staff Nurse – Outpatients 37.5hr | Oaks Hospital The role At Ramsay Health Care UK, we know our people are our most important asset. Join us as a Staff Nurse on our Outpatient team, and together, you’ll deliver the highest quality clinical outcomes in an environment where you’ll have ‘more time to care’. You’ll be valued for your skills and expertise, and have the chance to build on them through our Ramsay Academy too. We put the patient at the heart of everything we do – as our ‘Spe…",
+      "latitude": 51.895283,
+      "title": "Staff Nurse - Outpatients",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011511?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1969F677C9B2FC529297328D1F0FD72CAD0CDAAA",
+      "created": "2026-09-21T18:36:01Z",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "label": "Healthcare & Nursing Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      }
+    },
+    {
+      "title": "Customer Communications Assistant",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011509?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=FBA32A27C1931EAA470700030DE1BF585BE96CD1",
+      "created": "2026-09-21T18:35:57Z",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -2.443624,
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Bolton",
+          "Egerton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Egerton, Bolton"
+      },
+      "description": "Description We’re looking for full time and part time reliable, friendly and conscientious individuals to support our water mains replacement programme by hand-delivering important notification letters to households and businesses ahead of work starting in their community. The work areas will be in Cheshire, Greater Manchester, Merseyside and Lancashire. This is a customer facing role and an important step in providing our customers with a continued positive customer experience. Key Responsibil…",
+      "latitude": 53.590014,
+      "salary_max": 10600,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Network Plus"
+      },
+      "salary_is_predicted": "0",
+      "id": "5893011509",
+      "salary_min": 10600,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUwOSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.e6-z_iJqmVKSzeZDeIpZevtC_meeWXcs4s7LUagcZKw",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "part_time"
+    },
+    {
+      "title": "Customer Communications Assistant",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011507?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1AC38EE7058598ACE836B50A340BA50ADFB5CC43",
+      "created": "2026-09-21T18:35:57Z",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -2.220609,
+      "location": {
+        "display_name": "Rusholme, Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Rusholme"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "Description We’re looking for full time and part time reliable, friendly and conscientious individuals to support our water mains replacement programme by hand-delivering important notification letters to households and businesses ahead of work starting in their community. The work areas will be in Cheshire, Greater Manchester, Merseyside and Lancashire. This is a customer facing role and an important step in providing our customers with a continued positive customer experience. Key Responsibil…",
+      "latitude": 53.459145,
+      "salary_max": 10600,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Network Plus"
+      },
+      "salary_is_predicted": "0",
+      "id": "5893011507",
+      "salary_min": 10600,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUwNyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.isjnkvP7oNRjjWehoHo-c8XBbfHDnPko_xp5195a17A",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "part_time"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs"
+      },
+      "created": "2026-09-21T18:35:57Z",
+      "title": "Customer Communications Assistant",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011510?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=441D2033634F29F1C3FC26EC248C924F80BE3515",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Wigan",
+          "Swinley"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Swinley, Wigan"
+      },
+      "description": "Description We’re looking for full time and part time reliable, friendly and conscientious individuals to support our water mains replacement programme by hand-delivering important notification letters to households and businesses ahead of work starting in their community. The work areas will be in Cheshire, Greater Manchester, Merseyside and Lancashire. This is a customer facing role and an important step in providing our customers with a continued positive customer experience. Key Responsibil…",
+      "latitude": 53.552908,
+      "longitude": -2.628564,
+      "id": "5893011510",
+      "salary_min": 10600,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Network Plus"
+      },
+      "salary_max": 10600,
+      "salary_is_predicted": "0",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "part_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUxMCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.qWY88J0TpstTZq-Oh-mFgwdqV0aBzpQWyV574iLnKqk"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUwOCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0._BhYWWKs0tNQSdQ6gdw6EKn9QhqoZrJbR8OlKjkcTFg",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "part_time",
+      "salary_max": 10600,
+      "company": {
+        "display_name": "Network Plus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "0",
+      "id": "5893011508",
+      "salary_min": 10600,
+      "longitude": -2.273509,
+      "latitude": 53.45945,
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Firswood"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Firswood, Manchester"
+      },
+      "description": "Description We’re looking for full time and part time reliable, friendly and conscientious individuals to support our water mains replacement programme by hand-delivering important notification letters to households and businesses ahead of work starting in their community. The work areas will be in Cheshire, Greater Manchester, Merseyside and Lancashire. This is a customer facing role and an important step in providing our customers with a continued positive customer experience. Key Responsibil…",
+      "title": "Customer Communications Assistant",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011508?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=A309131C921D47150C9669C723417212F1EAEEED",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs"
+      },
+      "created": "2026-09-21T18:35:57Z"
+    },
+    {
+      "description": "Description As a Utilities Planner, you will be the key contact before works for the operational team. You will have full accountability for the planning & streetworks aspects of all works before they commence on site. You will ensure that all operational teams are able to undertake their work in line with the received push plans and requested dates as well as compliant with NRSWA and ensure that timescales are adhered to minimising any financial impact to the company. Key Responsibilities We a…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 53.459145,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Rusholme"
+        ],
+        "display_name": "Rusholme, Manchester"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUwMiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.ct6p8IscoYoWqgVBVhU65kmExozysSzQOvukYVQGz9I",
+      "longitude": -2.220609,
+      "salary_min": 32000,
+      "created": "2026-09-21T18:35:56Z",
+      "id": "5893011502",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011502?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D225B7D4422F326CF7784C1BCC5978B67A2A06AC",
+      "company": {
+        "display_name": "Network Plus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Utilities Planner",
+      "salary_max": 35000
+    },
+    {
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011505?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D8016949B7C1A788DE816DF1A36C7FE959521983",
+      "title": "Utilities Planner",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Network Plus"
+      },
+      "salary_max": 35000,
+      "salary_min": 32000,
+      "id": "5893011505",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:35:56Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTA1In0.5LYAmbRMCVnDy2g06ECjz57WGzz3BYJk0QeLrJzP3bk",
+      "longitude": -2.628564,
+      "latitude": 53.552908,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Description As a Utilities Planner, you will be the key contact before works for the operational team. You will have full accountability for the planning & streetworks aspects of all works before they commence on site. You will ensure that all operational teams are able to undertake their work in line with the received push plans and requested dates as well as compliant with NRSWA and ensure that timescales are adhered to minimising any financial impact to the company. Key Responsibilities We a…",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Wigan",
+          "Swinley"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Swinley, Wigan"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Description As a Utilities Planner, you will be the key contact before works for the operational team. You will have full accountability for the planning & streetworks aspects of all works before they commence on site. You will ensure that all operational teams are able to undertake their work in line with the received push plans and requested dates as well as compliant with NRSWA and ensure that timescales are adhered to minimising any financial impact to the company. Key Responsibilities We a…",
+      "latitude": 53.503719,
+      "location": {
+        "display_name": "Mosley Common, Worsley",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Worsley",
+          "Mosley Common"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTAxIn0.r1WdR-qPYt5gu_pKUUrnz7oNmjxipl89JDB1ilysBCg",
+      "longitude": -2.436531,
+      "salary_min": 32000,
+      "created": "2026-09-21T18:35:56Z",
+      "id": "5893011501",
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011501?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=BD48CCA1C022093864E525641AC3B2FD3AF0C8E6",
+      "company": {
+        "display_name": "Network Plus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Utilities Planner",
+      "salary_max": 35000
+    },
+    {
+      "salary_is_predicted": "0",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011503?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=A8E543E6D43AAD558C00115774D54E7724A2FFD3",
+      "company": {
+        "display_name": "Network Plus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Utilities Planner",
+      "salary_max": 35000,
+      "salary_min": 32000,
+      "id": "5893011503",
+      "category": {
+        "tag": "engineering-jobs",
+        "label": "Engineering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:35:56Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNTAzIn0.dLVUWOb3sEYQDgE_yFgPGZOmCZDM1NxCZxYR_jb66ec",
+      "longitude": -2.443624,
+      "description": "Description As a Utilities Planner, you will be the key contact before works for the operational team. You will have full accountability for the planning & streetworks aspects of all works before they commence on site. You will ensure that all operational teams are able to undertake their work in line with the received push plans and requested dates as well as compliant with NRSWA and ensure that timescales are adhered to minimising any financial impact to the company. Key Responsibilities We a…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 53.590014,
+      "location": {
+        "display_name": "Egerton, Bolton",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Bolton",
+          "Egerton"
+        ]
+      }
+    },
+    {
+      "salary_min": 32000,
+      "created": "2026-09-21T18:35:56Z",
+      "id": "5893011504",
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011504?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=179EC84375DD135BD4C96281BA73F06A0486A143",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Network Plus",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Utilities Planner",
+      "salary_max": 35000,
+      "latitude": 53.45945,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Description As a Utilities Planner, you will be the key contact before works for the operational team. You will have full accountability for the planning & streetworks aspects of all works before they commence on site. You will ensure that all operational teams are able to undertake their work in line with the received push plans and requested dates as well as compliant with NRSWA and ensure that timescales are adhered to minimising any financial impact to the company. Key Responsibilities We a…",
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Firswood"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Firswood, Manchester"
+      },
+      "longitude": -2.273509,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTUwNCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.knWm17tpVvlISe2IudZMUmWNS4dd2B56XyAtkhU0068"
+    },
+    {
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011453?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1B3C9689C630C2E0A9851BE493EAFBFEAEB2A745",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "contract_type": "permanent",
+      "longitude": -4.552011,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Renfrewshire",
+          "Johnstone",
+          "Kilbarchan"
+        ],
+        "display_name": "Kilbarchan, Johnstone"
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.833323,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 29866.99,
+      "salary_is_predicted": "1",
+      "id": "5893011453",
+      "salary_min": 29866.99,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ1MyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.UxSUeF4dgWpeDpOcOnPZI-aPNDT0cqw2boOQ227Ig0w",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time"
+    },
+    {
+      "id": "5893011465",
+      "salary_min": 35717.93,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 35717.93,
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ2NSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.QmVCF48_k5B8YlWKwfT-oTrkjY0NpRoHuUQyBiFzMnk",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011465?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=33F9B8BE5B372ED441D81458F2F0D90AA66B536E",
+      "location": {
+        "display_name": "Braidwood, Carluke",
+        "area": [
+          "UK",
+          "Scotland",
+          "South Lanarkshire",
+          "Carluke",
+          "Braidwood"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 55.731111,
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "longitude": -3.842833,
+      "contract_type": "permanent"
+    },
+    {
+      "salary_max": 34177.03,
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "id": "5893011455",
+      "salary_min": 34177.03,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ1NSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.SA6K0AaAZ2davGgblKB9wtFT6KszU1tzusqrA0MKgHI",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011455?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1F52D69EAEDBD0DF380128773543D38D49A3CAEA",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -4.675275,
+      "contract_type": "permanent",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Inverclyde",
+          "Port Glasgow",
+          "Langbank"
+        ],
+        "display_name": "Langbank, Port Glasgow"
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.905175
+    },
+    {
+      "id": "5893011463",
+      "salary_min": 31861.6,
+      "salary_max": 31861.6,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ2MyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.AX64B4_OLFTrrAXowbVuxZmlHeHRafDYXcRSYNB5F7Q",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011463?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=34EFD7697A7CCFD2572C5AF3ECA6D31200A32211",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "West Dunbartonshire",
+          "Clydebank",
+          "Duntocher"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Duntocher, Clydebank"
+      },
+      "latitude": 55.913577,
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "contract_type": "permanent",
+      "longitude": -4.407602
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNDUxIn0.V3eF_gYZ0PhHhUTkgA1wd4K2vTPfuGLKy37vVIs1Ojw",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 34873.66,
+      "salary_min": 34873.66,
+      "id": "5893011451",
+      "longitude": -4.021434,
+      "contract_type": "permanent",
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "location": {
+        "display_name": "Orbiston, Bellshill",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "North Lanarkshire",
+          "Bellshill",
+          "Orbiston"
+        ]
+      },
+      "latitude": 55.81845,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011451?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=7ABFC33666D07EC9D37628C06520A1E0AADEF83F",
+      "title": "Team Leader vacancy",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      }
+    },
+    {
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 33741.16,
+      "salary_min": 33741.16,
+      "id": "5893011460",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ2MCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.Kfj27IAkGRH0ylx5Sx8uKrDleCepf-DbHwtiFIIB_xM",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011460?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=5A7E4EC2661FAC3CA064239E9D0AC705E168599A",
+      "title": "Team Leader vacancy",
+      "created": "2026-09-21T18:35:45Z",
+      "category": {
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -3.833209,
+      "contract_type": "permanent",
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "County Stirling",
+          "Stirling",
+          "Throsk"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Throsk, Stirling"
+      },
+      "latitude": 56.103948
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ1NiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.0WrnSQhupG796vd94rHoFuKuvfn8Yrye_2zy3ffhfJs",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 29279.2,
+      "salary_is_predicted": "1",
+      "id": "5893011456",
+      "salary_min": 29279.2,
+      "longitude": -3.967539,
+      "contract_type": "permanent",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "South Lanarkshire",
+          "Larkhall",
+          "Birkenshaw"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Birkenshaw, Larkhall"
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.724687,
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011456?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D74858CA3FE9BE6729B8555C1BF73C1F4F4789E3",
+      "category": {
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:35:45Z"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ1NCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.Bk_osGL3jI5OlcOmqvLDAkK-wnsNQJwQkhDUzUAk7uI",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "1",
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 35415.57,
+      "salary_min": 35415.57,
+      "id": "5893011454",
+      "longitude": -4.533981,
+      "contract_type": "permanent",
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.571685,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "East Ayrshire",
+          "Kilmarnock",
+          "Symington",
+          "Bogend"
+        ],
+        "display_name": "Bogend, Symington"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011454?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=05D952B138DE2B5E40BFBB3EAA9EF51FC09867AC",
+      "title": "Team Leader vacancy",
+      "category": {
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:35:45Z"
+    },
+    {
+      "salary_min": 30546.62,
+      "id": "5893011445",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 30546.62,
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNDQ1In0.nDbtvCCcSGBWDZyL3cLM0j15_Vc_ksG5mAHh5FGPibM",
+      "created": "2026-09-21T18:35:44Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011445?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=06B642FC319D0886DDE0EE5D8F68974E82AEACA3",
+      "title": "Team Leader vacancy",
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "South Lanarkshire",
+          "Hamilton",
+          "Ferniegair"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ferniegair, Hamilton"
+      },
+      "latitude": 55.770749,
+      "contract_type": "permanent",
+      "longitude": -4.054825
+    },
+    {
+      "latitude": 55.857475,
+      "location": {
+        "display_name": "Hillhead, Glasgow City Centre",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow",
+          "Glasgow City Centre",
+          "Hillhead"
+        ]
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "longitude": -4.250481,
+      "contract_type": "permanent",
+      "created": "2026-09-21T18:35:44Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011449?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=B6F1A1C24EC9E5AB19317B4655B6E7F02A3B1BBA",
+      "title": "Team Leader vacancy",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNDQ5In0.CulNKqJ7vRFQVm27Y7yMQrKW7saKGoNezdP4SJb3Lbg",
+      "salary_min": 32910.14,
+      "id": "5893011449",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 32910.14
+    },
+    {
+      "location": {
+        "display_name": "Rosebank, Carluke",
+        "area": [
+          "UK",
+          "Scotland",
+          "South Lanarkshire",
+          "Carluke",
+          "Rosebank"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.717347,
+      "longitude": -3.880982,
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      },
+      "created": "2026-09-21T18:35:44Z",
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011448?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=89E4C4F3381F6C62E30FF0FD2302335B3EDD1224",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNDQ4In0.xeYpn6-55Darf6jw6aTN1vL51_yQFJK_4rerJAbBXog",
+      "id": "5893011448",
+      "salary_min": 33081.73,
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 33081.73,
+      "salary_is_predicted": "1"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Scotland",
+          "North Lanarkshire",
+          "Coatbridge",
+          "Glenboig"
+        ],
+        "display_name": "Glenboig, Coatbridge"
+      },
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "latitude": 55.859699,
+      "contract_type": "permanent",
+      "longitude": -4.031733,
+      "created": "2026-09-21T18:35:44Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Customer Services Jobs",
+        "tag": "customer-services-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011450?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=1BA97D6E92DE9680FC049D9E9CFE9A2736470DF3",
+      "title": "Team Leader vacancy",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExNDUwIn0._WjFIa_jpMSxL0zTrjaBJ50PnM0LvT4MnlQycY9i6wg",
+      "salary_min": 34299.09,
+      "id": "5893011450",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 34299.09
+    },
+    {
+      "longitude": -4.523495,
+      "contract_type": "permanent",
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "East Ayrshire",
+          "Kilmarnock",
+          "Annandale"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Annandale, Kilmarnock"
+      },
+      "latitude": 55.612341,
+      "title": "Team Leader vacancy",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011447?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=D255165845729544F735E16CE98EBB64E7B9671D",
+      "created": "2026-09-21T18:35:44Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ0NyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.gw1vkzuBZBJ0tQ3xmpk4iq3NRPbCFBwihcGMU40tBgQ",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "salary_max": 35591.4,
+      "company": {
+        "display_name": "Teleperformance",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "id": "5893011447",
+      "salary_min": 35591.4
+    },
+    {
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTQ0NiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.S_ZXTiQitTRRkzVOmQ09811ySAkg7L8bBbEcjWS9TlU",
+      "salary_min": 32769.67,
+      "id": "5893011446",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Teleperformance"
+      },
+      "salary_max": 32769.67,
+      "description": "We have exciting opportunities available for new Team Leaders to join our prestigious banking client . If you thrive in a fast-paced environment, are a driven and competitive individual with a desire to develop and progress those around you then we would love to hear from you! Team Leader vacancy Start Date : 26th October 2026 Location : On site role - Glasgow city centre Hours : Full-time 40 hours per week, full flexibility required between 7am – 9pm Monday to Saturday & 10am to 5pm on Sunday …",
+      "location": {
+        "area": [
+          "UK",
+          "Scotland",
+          "North Ayrshire",
+          "Skelmorlie",
+          "Meigle"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Meigle, Skelmorlie"
+      },
+      "latitude": 55.838602,
+      "longitude": -4.843392,
+      "contract_type": "permanent",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      },
+      "created": "2026-09-21T18:35:44Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011446?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=66F1ED41800DC476FEB73CBEAD3D75075650189B",
+      "title": "Team Leader vacancy"
+    },
+    {
+      "company": {
+        "display_name": "Simplyhealth",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 57207,
+      "salary_is_predicted": "0",
+      "id": "5893011383",
+      "salary_min": 51834,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTM4MyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.UNVBVQcDvB_BIOliPFD5RZ7PtN6W5OYPuzd_MdMktK4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "title": "Business Resilience Manager",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011383?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=ED126173A916FE4C22F8790580D60FD0E0A4B2E8",
+      "created": "2026-09-21T18:35:10Z",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "longitude": -1.316338,
+      "latitude": 51.075629,
+      "location": {
+        "display_name": "Abbotts Barton, Winchester",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Winchester",
+          "Abbotts Barton"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "description": "About the role At Simplyhealth, we're committed to improving access to healthcare for everyone in the UK. As our Business Resilience Manager, you'll play a critical role in ensuring our organisation can respond to, recover from and adapt to disruption, protecting our people, customers and services when it matters most. This is an exciting opportunity to build on and continuously improve our Business Continuity and Operational Resilience capabilities. Reporting to the Head of Cyber Security & Bu…"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExMzgyIn0.5LtoUsMCiEBPcQ1OCxRAOUzetWza7f7eKgssJwAebEM",
+      "contract_time": "full_time",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "Simplyhealth",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 57207,
+      "salary_min": 51834,
+      "id": "5893011382",
+      "longitude": -1.396914,
+      "latitude": 50.908035,
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Southampton",
+          "Ocean Village"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ocean Village, Southampton"
+      },
+      "description": "About the role At Simplyhealth, we're committed to improving access to healthcare for everyone in the UK. As our Business Resilience Manager, you'll play a critical role in ensuring our organisation can respond to, recover from and adapt to disruption, protecting our people, customers and services when it matters most. This is an exciting opportunity to build on and continuously improve our Business Continuity and Operational Resilience capabilities. Reporting to the Head of Cyber Security & Bu…",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011382?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=B9F205C11F13872FAA4575130AB7CA21027F7083",
+      "title": "Business Resilience Manager",
+      "created": "2026-09-21T18:35:10Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      }
+    },
+    {
+      "company": {
+        "display_name": "BAE Systems",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Creative Media Design Advisor (Edgewing)",
+      "salary_max": 31593.25,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011375?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=3FB10D92BF27343AD85D6D4022030593A5427A09",
+      "salary_is_predicted": "1",
+      "id": "5893011375",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "created": "2026-09-21T18:35:07Z",
+      "salary_min": 31593.25,
+      "longitude": -0.797531,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTM3NSIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.nQdDM2HbHa6cwmd2km_ZBR9S09Qpz5YFNK2OzcvU2ck",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.196423,
+      "description": "Job Title: Creative Media Design Advisor (Edgewing) Location: Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrangemen…",
+      "location": {
+        "display_name": "Lower Bourne, Farnham",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Farnham",
+          "Lower Bourne"
+        ]
+      }
+    },
+    {
+      "longitude": -0.737861,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTM3OCIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.xDLNAww74Vlv7yjIZaBj4GJZYKSDpu6Pl4n4HlfBfm4",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Job Title: Creative Media Design Advisor (Edgewing) Location: Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrangemen…",
+      "latitude": 51.3134,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Camberley",
+          "Frimley"
+        ],
+        "display_name": "Frimley, Camberley"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011378?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=3DC03F3B8F0C4BEB24A89883F22C30B53DFF71C3",
+      "salary_is_predicted": "1",
+      "title": "Creative Media Design Advisor (Edgewing)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BAE Systems"
+      },
+      "salary_max": 32272.4,
+      "salary_min": 32272.4,
+      "id": "5893011378",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "created": "2026-09-21T18:35:07Z"
+    },
+    {
+      "salary_min": 30872.1,
+      "created": "2026-09-21T18:35:07Z",
+      "id": "5893011373",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs",
+        "tag": "it-jobs"
+      },
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011373?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=5CE4BDF0EF4FC0099886E9C5D68CAD5247A804ED",
+      "title": "Creative Media Design Advisor (Edgewing)",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "BAE Systems"
+      },
+      "salary_max": 30872.1,
+      "description": "Job Title: Creative Media Design Advisor (Edgewing) Location: Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrangemen…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.286562,
+      "location": {
+        "display_name": "Mytchett, Camberley",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Camberley",
+          "Mytchett"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExMzczIn0.ZdxianbbbDDeKchldUwfiB39YoqSM295uw19v1S2GZk",
+      "longitude": -0.73797
+    },
+    {
+      "created": "2026-09-21T18:35:07Z",
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893011376",
+      "salary_min": 32979.29,
+      "company": {
+        "display_name": "BAE Systems",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "title": "Creative Media Design Advisor (Edgewing)",
+      "salary_max": 32979.29,
+      "salary_is_predicted": "1",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893011376?se=pJuZY-e18RGRfpOcmqLnkg&utm_medium=api&utm_source=a6bbb028&v=12C4754A0A9145C94AEA580A38D481FD07658908",
+      "description": "Job Title: Creative Media Design Advisor (Edgewing) Location: Reading area. The role could be contracted to any BAE Systems site (preferably Frimley) but on commencement will immediately be assigned to our Edgewing JV in the Reading area. A financial support package may be available to enable this assignment if required, dependent on certain criteria being met. Due to the nature of this assignment, we envisage there will be a need for mostly on site working, however, flexible working arrangemen…",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "latitude": 51.32952,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Hook",
+          "Hound Green"
+        ],
+        "display_name": "Hound Green, Hook"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTM3NiIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.WoiNnPJeLgpRvn6dIilCERvCgFAcGNmbwOnA4PB-DpA",
+      "longitude": -0.949059
+    },
+    {
+      "category": {
+        "tag": "it-jobs",
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:32:37Z",
+      "title": "Trading Systems UI Engineer - Real Time Applications - Selby Jennings",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011028?utm_medium=api&utm_source=a6bbb028",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "description": "Key Responsibilities Design and develop high-performance front-end applications using React. Build intuitive, real-time user interfaces used by front-office trading teams. Collaborate closely with product owners, users and stakeholders to deliver new functionality. Contribute to architectural decisions and drive engineering best practices. Optimise application performance and user workflows across complex, data-intensive platforms. Develop reusable components, shared libraries and scalable UI f…",
+      "latitude": 51.503378,
+      "longitude": -0.139134,
+      "id": "5893011028",
+      "salary_min": 103789.03,
+      "salary_max": 103789.03,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Selby Jennings"
+      },
+      "salary_is_predicted": "1",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEp1WlktZTE4UkdSZnBPY21xTG5rZyIsImkiOiI1ODkzMDExMDI4In0.H-8dmi7CHWaNFR4iBWRb6evBigiZCsX2Ucof-f71scs"
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK"
+      },
+      "description": "Who We Are Looking For Quanteam UK are seeking an XVA/CCR Quantitative Developer with strong C++ skills to join our XVA, Counterparty Credit Risk (CCR), Collateral & Credit Quantitative Research team. The team's mandate is to produce quantitative modelling and innovative solutions across XVA, Counterparty Risk, Collateral and Credit topics. The team works closely with a broad range of business functions, including the XVA and Scarce Resources desk for XVA pricing and modelling, the Risk departm…",
+      "latitude": 51.503378,
+      "contract_type": "contract",
+      "longitude": -0.139134,
+      "created": "2026-09-21T18:32:33Z",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs"
+      },
+      "title": "XVA/CCR Quantitative Developer (C++) - Quanteam",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011027?utm_medium=api&utm_source=a6bbb028",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "contract_time": "full_time",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTAyNyIsInMiOiJwSnVaWS1lMThSR1JmcE9jbXFMbmtnIn0.nlwuXO8paW6bd9HeR9vYTga0iHZh4jSuKok4E2FNkG4",
+      "id": "5893011027",
+      "salary_min": 96160.77,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Quanteam"
+      },
+      "salary_max": 96160.77,
+      "salary_is_predicted": "1"
+    },
+    {
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893011025",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDExMDI1In0.1GzfX3KMvckI9-5BtM9fktDDeZyre3Z411-mGGw_vG4",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      },
+      "contract_time": "full_time",
+      "title": "VP Corporate Research TMT - Michael Page",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "salary_min": 55016.85,
+      "description": "Our client is a leading international banking group with a strong corporate and investment banking platform across EMEA. Its Corporate Research function plays a central role in shaping strategy, supporting origination and protecting the balance sheet by providing independent, high‑quality industry intelligence to senior stakeholders across the bank. Description This role sits within the Corporate Research Department, the bank's dedicated industry intelligence and thought‑leadership function. Th…",
+      "longitude": -0.139134,
+      "created": "2026-09-21T18:32:33Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011025?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Michael Page"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 55016.85
+    },
+    {
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893011026",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMTAyNiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.o7JQxfvUIZYtL1rhu2xMDQHvpI7EGYLd08xnDB5mFic",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "French Fund Finance Manager The Client: Renewable Infrastructure Investment Manager The Location: London - Hybrid Model One of the most renowned Renewable Infrastructure Managers is on the precipice of significant growth and needs a Fund Finance Manager to take responsibility particularly of their French structures The Responsibilities: Manage French Fund Structures consisting of infrastructure equity investments across Europe Manage relationship with GP administrators Work across the SPV manag…",
+      "salary_min": 57646.55,
+      "title": "French Fund Finance Manager - Marks Sattin FS",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "contract_time": "full_time",
+      "created": "2026-09-21T18:32:33Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011026?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 57646.55,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Marks Sattin FS",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 78968.4,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Lorien Impellam"
+      },
+      "created": "2026-09-21T18:32:23Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893011024?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "contract",
+      "salary_min": 78968.4,
+      "description": "Full Stack Engineer (C# / .NET & React) - Investment Banking London (Hybrid) | 6-Month Contract | Investment Bank We are working with a leading global investment bank to hire a hands-on Full Stack Engineer to help build a brand-new, high-impact web application from the ground up. This is a unique opportunity to take ownership of a greenfield project delivering a real-time web portal for institutional bond issuers and sales teams-providing live market insights and new issuance updates. The Role …",
+      "contract_time": "full_time",
+      "title": "Full Stack Engineer (C# Backend / React .NET Front End) - Lorien Impellam",
+      "latitude": 51.503378,
+      "salary_is_predicted": "1",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "IT Jobs",
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDExMDI0In0.sl46NRTfvtEOLc7DCKnRYu9GTCSC5UFHkwPF_oz1OxY",
+      "id": "5893011024"
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg2In0.FD7FTpJDSYhbpUuGF2ARwgE6m2AOGKZHvgAggEXQIM8",
+      "id": "5893010986",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010986?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=0E7BA89B293B198E700EF60719F4132AE00E5E80",
+      "category": {
+        "label": "Hospitality & Catering Jobs",
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "created": "2026-09-21T18:30:59Z",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Wales",
+          "Cardiff County"
+        ],
+        "display_name": "Cardiff County, Wales"
+      },
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Five Guys"
+      },
+      "title": "Assistant Manager",
+      "contract_time": "full_time",
+      "salary_max": 36664.19,
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In every restaurant, you'll find talented Assistant Managers who work with the General Manager and share the responsibility for the success of the restaurant's results. This includes; leading, inspiring and coaching the teams to en…",
+      "salary_min": 36664.19,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010987?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=1856B7E7EEA5C4550E9CE536AE8C857E54FD0981",
+      "longitude": -1.87853,
+      "created": "2026-09-21T18:30:59Z",
+      "company": {
+        "display_name": "Five Guys",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 40932.38,
+      "category": {
+        "label": "Hospitality & Catering Jobs",
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893010987",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg3In0.2vTxfbsQED18i-eZY4VMPlT6UEn877EyIKLh4Smvk3Q",
+      "location": {
+        "display_name": "Bournemouth, Dorset",
+        "area": [
+          "UK",
+          "South West England",
+          "Dorset",
+          "Bournemouth"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "latitude": 50.721699,
+      "salary_is_predicted": "1",
+      "title": "Shift Manager",
+      "salary_min": 40932.38,
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In every restaurant, you'll find talented Shift Managers and you will be responsible for supporting the General and Assistant Managers to ensure that every shift is run to Five Guys standards and that every customer leaves the rest…"
+    },
+    {
+      "location": {
+        "display_name": "Bristol, South West England",
+        "area": [
+          "UK",
+          "South West England",
+          "Bristol"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:30:59Z",
+      "category": {
+        "label": "Hospitality & Catering Jobs",
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010988?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=8DDCB003656218DE17B3DC92C3CBD3C6B1973192",
+      "id": "5893010988",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg4In0.qLDNiGip09EKChPQmChWrmqux4r-udTIi3UjjW_CcKY",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 37955.89,
+      "salary_max": 37955.89,
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In every restaurant, you'll find talented Assistant Managers who work with the General Manager and share the responsibility for the success of the restaurant's results. This includes; leading, inspiring and coaching the teams to en…",
+      "contract_time": "full_time",
+      "title": "Assistant Manager",
+      "salary_is_predicted": "1",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Five Guys"
+      }
+    },
+    {
+      "longitude": -2.97784,
+      "created": "2026-09-21T18:30:59Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010985?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=E1FA908E7ACA38A86B38767719E6810619202BAE",
+      "salary_max": 46817.89,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Five Guys"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Merseyside",
+          "Liverpool"
+        ],
+        "display_name": "Liverpool, Merseyside"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg1In0.pfy2wTedrVBrcjRA4pmW1dF3ceK5KcKDcOBB96Siv08",
+      "id": "5893010985",
+      "category": {
+        "label": "Hospitality & Catering Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "hospitality-catering-jobs"
+      },
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In every store, there is a talented Five Guys General Manager who manages, controls and is accountable for the store's day-to-day operations and results. This includes: leading, inspiring and coaching the teams to ensure the restau…",
+      "salary_min": 46817.89,
+      "title": "Bench General Manager",
+      "salary_is_predicted": "1",
+      "latitude": 53.410801,
+      "contract_time": "full_time"
+    },
+    {
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "hospitality-catering-jobs",
+        "label": "Hospitality & Catering Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010989?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=DFD4D301A10A8EB8A27320D60064A220CB31ED39",
+      "created": "2026-09-21T18:30:59Z",
+      "id": "5893010989",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg5In0.bu-P8rpsb59nGqxl71bk5ttz7bxQQMpslsmYndDanuU",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Bromley, South East London",
+        "area": [
+          "UK",
+          "London",
+          "South East London",
+          "Bromley"
+        ]
+      },
+      "contract_time": "full_time",
+      "company": {
+        "display_name": "Five Guys",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "title": "Assistant Manager",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 38080.98,
+      "salary_max": 38080.98,
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In every restaurant, you'll find talented Assistant Managers who work with the General Manager and share the responsibility for the success of the restaurant's results. This includes; leading, inspiring and coaching the teams to en…"
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Five Guys"
+      },
+      "salary_max": 40083.6,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010984?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=5301A7BAB2CE59789BCC2C47F0538ADCEE8D729A",
+      "longitude": -2.89501,
+      "created": "2026-09-21T18:30:59Z",
+      "salary_is_predicted": "1",
+      "latitude": 53.191502,
+      "title": "Bench General Manager",
+      "contract_time": "full_time",
+      "description": "BURGERS & FRIES AND INCREDIBLE CAREERS! We're the burger restaurant with the uncomplicated formula: burgers and fries cooked to perfection, with no frozen ingredients. And we've stuck to the same 'perfect and serve' philosophy since our family business began in 1986. In some of our stores, there is a talented Bench General Manager who is waiting for their own store. While waiting for your own store you will be based at one of our existing stores supporting the current General Manager and potent…",
+      "salary_min": 40083.6,
+      "id": "5893010984",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTg0In0.COGdw982PnuJQJ7-Fli3swanjbNmRb6zCtOqct1LIUc",
+      "category": {
+        "tag": "hospitality-catering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Hospitality & Catering Jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Cheshire",
+          "Chester"
+        ],
+        "display_name": "Chester, Cheshire"
+      }
+    },
+    {
+      "created": "2026-09-21T18:30:58Z",
+      "longitude": -1.54912,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010982?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=5E2681C04B6560E2BCF38867AD76441603B977C1",
+      "contract_type": "permanent",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Range Recruitment"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 27892,
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "maintenance-jobs",
+        "label": "Maintenance Jobs"
+      },
+      "id": "5893010982",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDk4MiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.Qwzp5rM6IIqU2Ko0NzArTG1NckPb5PjyZV45IqZ4j7I",
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Leeds"
+        ],
+        "display_name": "Leeds, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "title": "Estate Technician / Grounds Maintenance",
+      "salary_is_predicted": "0",
+      "latitude": 53.799599,
+      "salary_min": 27892,
+      "description": "We are looking for a motivated, reliable, and hardworking Estate Technician to join our client's growing team based in Leeds. This is a varied, hands-on role where no two days are the same. While your primary responsibilities will involve garden maintenance, paving, fencing, and landscaping , you will also be required to assist with a range of other estate services to meet client demand. You will collect a company transit van from the Leeds depot each morning and travel across Leeds,working as …"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/land/ad/5893010983?se=gE7_ZOe18RGzY84OElSqtQ&utm_medium=api&utm_source=a6bbb028&v=05E1A577CFEE20614C597E8A434D44B7ECA21E42",
+      "contract_type": "permanent",
+      "created": "2026-09-21T18:30:58Z",
+      "longitude": -1.4648,
+      "salary_max": 27892,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Range Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "South Yorkshire",
+          "Sheffield"
+        ],
+        "display_name": "Sheffield, South Yorkshire"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTgzIn0.Y7__JXOc7dHFgA1NclExivCzuMR3fh7gpeIW6qjC5U8",
+      "id": "5893010983",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "maintenance-jobs",
+        "label": "Maintenance Jobs"
+      },
+      "description": "We are looking for a motivated, reliable, and hardworking Estate Technician to join our client's growing team based in Sheffield. This is a varied, hands-on role where no two days are the same. While your primary responsibilities will involve garden maintenance, paving, fencing, and landscaping , you will also be required to assist with a range of other estate services to meet client demand. You will collect a company transit van from the Sheffield depot each morning and travel across Sheffield…",
+      "salary_min": 27892,
+      "salary_is_predicted": "0",
+      "latitude": 53.383099,
+      "title": "Estate Technician / Grounds Maintenance",
+      "contract_time": "full_time"
+    },
+    {
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "latitude": 52.399399,
+      "title": "Care Assistant",
+      "salary_min": 36600.99,
+      "description": "Company Description Pay: £14.00 per hour Shifts: Waking Night Shifts 21:00 - 7:00 | 2 shifts per week Driver required : A driver is not required for this role. We are CCH. With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. We’re not only changing lives, we’re transforming the care sector. Our people-first approach puts care professionals at the centre of everything we do. Our goal is simple: to be the best …",
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDk0OCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.tS7m7SdwazUBKP574jBsf0cBLIzPeAiVce-ua7e4nsg",
+      "id": "5893010948",
+      "location": {
+        "display_name": "Ely, Cambridgeshire",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Cambridgeshire",
+          "Ely"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "display_name": "Total Community Care Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 36600.99,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010948?utm_medium=api&utm_source=a6bbb028",
+      "longitude": 0.259786,
+      "created": "2026-09-21T18:28:58Z"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 33962.62,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Complete Care Amegreen"
+      },
+      "created": "2026-09-21T18:28:58Z",
+      "longitude": -0.727857,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010947?utm_medium=api&utm_source=a6bbb028",
+      "salary_min": 33962.62,
+      "description": "Company Description Location: Kettering Pay Rate: £13.75 per hour Shifts Available: Days & Waking Nights Available (Part & Full Time) Days 2:1 - Term Time - 3pm - 9pm / Non-Term Time - 8:30am - 3pm Waking Nights 1:1 - 9pm - 8:30am Weekends 2:1 - 8:30am - 9pm Access to vehicle required due to geographical location of the role (Day Shifts Only) We are CCH . With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. W…",
+      "contract_time": "full_time",
+      "title": "Complex Care Assistant",
+      "salary_is_predicted": "1",
+      "latitude": 52.395901,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Kettering, Northamptonshire",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Northamptonshire",
+          "Kettering"
+        ]
+      },
+      "category": {
+        "label": "Social work Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "social-work-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDk0NyIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.j5t-d7KSzsmZBmpSGutWM0dT7MA3tk73u_peWHmH2Jw",
+      "id": "5893010947"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010946?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -0.693399,
+      "created": "2026-09-21T18:28:58Z",
+      "salary_max": 33101.39,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Complete Care Amegreen"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Northamptonshire",
+          "Wellingborough"
+        ],
+        "display_name": "Wellingborough, Northamptonshire"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDk0NiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.Zby474ftJQlYlqLySGFiZ4j17Kaj06m3TPpbu6hf8WE",
+      "id": "5893010946",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "social-work-jobs",
+        "label": "Social work Jobs"
+      },
+      "description": "Company Description Location: Kettering Pay Rate: £13.75 per hour Shifts Available: Days & Waking Nights Available (Part & Full Time) Days 2:1 - Term Time - 3pm - 9pm / Non-Term Time - 8:30am - 3pm Waking Nights 1:1 - 9pm - 8:30am Weekends 2:1 - 8:30am - 9pm Access to vehicle required due to geographical location of the role (Day Shifts Only) We are CCH . With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. W…",
+      "salary_min": 33101.39,
+      "salary_is_predicted": "1",
+      "latitude": 52.302898,
+      "title": "Complex Care Assistant",
+      "contract_time": "full_time"
+    },
+    {
+      "salary_max": 36817.94,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Total Community Care Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:28:55Z",
+      "longitude": 0.131237,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010945?utm_medium=api&utm_source=a6bbb028",
+      "description": "Company Description Pay: £14.00 per hour Shifts: Waking Night Shifts 21:00 - 7:00 | 2 shifts per week Driver required : A driver is not required for this role. We are CCH. With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. We’re not only changing lives, we’re transforming the care sector. Our people-first approach puts care professionals at the centre of everything we do. Our goal is simple: to be the best …",
+      "salary_min": 36817.94,
+      "title": "Care Assistant",
+      "latitude": 52.202499,
+      "salary_is_predicted": "1",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Cambridge, Cambridgeshire",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Cambridgeshire",
+          "Cambridge"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTQ1In0.I1wYNIW-C-RsitD_RQCfn9gvKTgGwUTMQwnSwsqY5qo",
+      "id": "5893010945",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      }
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 38602.68,
+      "company": {
+        "display_name": "Complete Care Amegreen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010944?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -1.40323,
+      "created": "2026-09-21T18:28:51Z",
+      "salary_min": 38602.68,
+      "description": "Company Description Pay: £18 per hour - Weekdays, £19 per hour - Weekends Shifts: Covering regular days and nights on a rota basis Driver required: Yes - full UK licence and access to your own vehicle We are CCH . With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. We’re not only changing lives, we’re transforming the care sector. Our people-first approach puts care professionals at the centre of everything …",
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "latitude": 50.904999,
+      "title": "Rapid Response Care Assistant",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Southampton"
+        ],
+        "display_name": "Southampton, Hampshire"
+      },
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "id": "5893010944",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTQ0In0.kd1hxMUhi8a484ehzq3x8VrE-7w1BG29GipNwgdQERU"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010942?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -0.780178,
+      "created": "2026-09-21T18:28:51Z",
+      "company": {
+        "display_name": "Advantage Healthcare Limited",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 36841.96,
+      "category": {
+        "label": "Healthcare & Nursing Jobs",
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893010942",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwOTQyIn0.QmnsYRRPzW5gnM6Dv9_12b5gLBtOESqzLPb9DxzT_TI",
+      "location": {
+        "display_name": "Chichester, West Sussex",
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Chichester"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "latitude": 50.836601,
+      "title": "Complex Care Assistant",
+      "salary_min": 36841.96,
+      "description": "Company Description Locations: Around The Sussex Area Pay: £15.50 - £16.50 per hour Shifts: Full Time - Days & Nights Driving Required: Yes - Access to your own vehicle and a full valid UK driving licence is essential. We're sorry, but we do not currently offer sponsorship to applicants. We are CCH . With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. We’re not only changing lives, we’re transforming the car…"
+    },
+    {
+      "longitude": -0.100401,
+      "created": "2026-09-21T18:28:51Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010943?utm_medium=api&utm_source=a6bbb028",
+      "salary_max": 37369.5,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Complete Care Amegreen",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Croydon, London",
+        "area": [
+          "UK",
+          "London",
+          "Croydon"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDk0MyIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.AwkjUrIIchSE-Cr-3lNOV5w-65JYhxyK4RhQqSeT_Qg",
+      "id": "5893010943",
+      "category": {
+        "tag": "healthcare-nursing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Healthcare & Nursing Jobs"
+      },
+      "description": "Company Description Pay: £18 per hour - Weekdays, £19 per hour - Weekends Shifts: Covering regular days and nights on a rota basis Driver required: Yes - full UK licence and access to your own vehicle We are CCH . With 14,000 colleagues across 32 care companies, we have one purpose: to make sure no one in need of care is ever forgotten or left behind. We’re not only changing lives, we’re transforming the care sector. Our people-first approach puts care professionals at the centre of everything …",
+      "salary_min": 37369.5,
+      "title": "Rapid Response Care Assistant",
+      "salary_is_predicted": "1",
+      "latitude": 51.372398,
+      "contract_time": "full_time"
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 40440.53,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Millennium Hotel and Resorts UK"
+      },
+      "longitude": -0.090245,
+      "created": "2026-09-21T18:26:04Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010780?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "contract",
+      "salary_min": 40440.53,
+      "description": "Millennium Hotels and Resorts is looking for a Cluster HR Manager who will play a key role in providing support across the department while managing the day-to-day running of the People department, focusing on employee experience from onboarding, induction, engagement, recruitment & retention, training & development and well-being. Based at either Copthorne Slough or Copthorne Gatwick, and responsible for both hotels, you will build and maintain trusted relationships with key stakeholders and p…",
+      "contract_time": "full_time",
+      "title": "Cluster HR Manager",
+      "salary_is_predicted": "1",
+      "latitude": 51.14111,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Crawley Down, Crawley",
+        "area": [
+          "UK",
+          "South East England",
+          "West Sussex",
+          "Crawley",
+          "Crawley Down"
+        ]
+      },
+      "category": {
+        "label": "HR & Recruitment Jobs",
+        "tag": "hr-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893010780",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc4MCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.AZi7Q23xWiNFRFFLBnJXyHE766X1IRpB3LpjeCWF4LE"
+    },
+    {
+      "longitude": -2.221601,
+      "created": "2026-09-21T18:26:04Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010794?utm_medium=api&utm_source=a6bbb028",
+      "company": {
+        "display_name": "Zoomo",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 33750,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzk0In0.jdVa4Vxn5bJHYWnbZHnissRazKLLb9GjlDEz2gh17ek",
+      "id": "5893010794",
+      "category": {
+        "label": "Engineering Jobs",
+        "tag": "engineering-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "display_name": "Ardwick, Manchester",
+        "area": [
+          "UK",
+          "North West England",
+          "Greater Manchester",
+          "Manchester",
+          "Ardwick"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "title": "Cargo Bike Mechanic",
+      "latitude": 53.475008,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "description": "ABOUT ZOOMO At Zoomo, our vision is to transition every commercial urban mile to light electric vehicles (LEVs) to build sustainable and more equitable cities. To that end, we are building the world's most convenient, affordable, and safe e-bike platform. In 4 years Zoomo has helped transition millions of urban miles to light electric vehicles, built a team of >200 world class engineers, operators, sales staff and vehicle repair technicians, developed and deployed the world's best last mile del…",
+      "salary_min": 27250
+    },
+    {
+      "location": {
+        "area": [
+          "UK"
+        ],
+        "display_name": "UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:26:04Z",
+      "contract_type": "contract",
+      "category": {
+        "tag": "creative-design-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Creative & Design Jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010789?utm_medium=api&utm_source=a6bbb028",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzg5In0.vLAjuYFRCE-lqW1hJ0FCdQPi4lQL4UT3HuQ0OnqTRMY",
+      "id": "5893010789",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 63803.56,
+      "description": "Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (  https://tendem.ai/ ) and create high-quality presentations for real-world use cases. In this role, you'll apply your expertise in visual communication, information design, and storytelling to create clear, engaging, and professionally designed presentations. This part-time remote opportunity is ideal for creative professionals with hands-on experience in visual communications, information design, and st…",
+      "salary_max": 63803.56,
+      "contract_time": "part_time",
+      "title": "Freelance Presentation Designer",
+      "company": {
+        "display_name": "Mindrift",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1"
+    },
+    {
+      "salary_min": 50860,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "About Charlotte Tilbury Beauty Founded by British makeup artist and beauty entrepreneur Charlotte Tilbury MBE in 2013, Charlotte Tilbury Beauty has revolutionised the face of the global beauty industry by de-coding makeup applications for everyone, everywhere, with an easy-to-use, easy-to-choose, easy-to-gift range. Today, Charlotte Tilbury Beauty continues to break records across countries, channels, and categories and to scale at pace. Over the last 10 years, Charlotte Tilbury Beauty has expe…",
+      "salary_max": 50860,
+      "title": "Finance Shared Services Accounts Receivable Manager",
+      "company": {
+        "display_name": "Charlotte Tilbury",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010802?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs",
+        "label": "Accounting & Finance Jobs"
+      },
+      "id": "5893010802",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDgwMiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.iahu_xTnDQhOI2SrmDPO-9yrNt2cVAmmJA1sOG8NbAY"
+    },
+    {
+      "salary_max": 46000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "M&I",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010798?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "contract",
+      "longitude": -0.094345,
+      "created": "2026-09-21T18:26:04Z",
+      "description": "Management & Financial Accountant (FTC- Maternity cover) Borough, South London (SE1 1EP) - Hybrid Worldwide Events Group Worldwide Events Group, founded in 2004, is a recognised leader in global MICE and luxury travel. Across our portfolio, we bring people together and facilitate meaningful relationships, a philosophy we call H2H, human‑to‑human connection. Innovation drives our evolution. We’re embracing AI to elevate personalisation, streamline event design and create smarter, more intuitive …",
+      "salary_min": 46000,
+      "salary_is_predicted": "0",
+      "latitude": 51.501303,
+      "title": "Management & Financial Accountant (FTC)",
+      "location": {
+        "display_name": "North Lambeth, South East London",
+        "area": [
+          "UK",
+          "London",
+          "South East London",
+          "North Lambeth"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893010798",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc5OCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.0v3ZXVGoLF2eBBHhUTb1uJxaFwVHz6rvHOTAWOWhXhY",
+      "category": {
+        "tag": "accounting-finance-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Accounting & Finance Jobs"
+      }
+    },
+    {
+      "title": "AI Engineer",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Solirius Reply"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_min": 73008.27,
+      "salary_max": 73008.27,
+      "description": "About Us: Solirius Reply , part of the Reply Group , is a technology consultancy and digital transformation partner that helps organisations solve complex challenges through strategy, design, engineering, and delivery. We work closely with our clients to deliver secure, accessible, user-focused services that evolve with their needs. By combining deep technical expertise with people-centred design, we create solutions that deliver meaningful, lasting impact. Our consultants partner directly with…",
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -0.139134,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010800?utm_medium=api&utm_source=a6bbb028",
+      "id": "5893010800",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwODAwIn0.ncimUuVZYebFD_dB6noKd9HqElWzN5obSDf-DczNegY",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010799?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -0.139134,
+      "company": {
+        "display_name": "Fasanara",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 99668.64,
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzk5In0.hESbxlvsL0rgcL1a5Ybs8kgarXbFeDbTp7UKuVjKF1s",
+      "id": "5893010799",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "title": "Founding Commercial Lead - Private Markets and Alternatives",
+      "salary_min": 99668.64,
+      "description": "Reporting to: Venture Lead, New UK Distribution Business This role sits within a new UK distribution business being launched by Fasanara. It is not a position within Fasanara Capital. Working pattern Office-led, with regular external investor and intermediary meetings Compensation Competitive base salary with performance-linked upside The opportunity Fasanara Capital is launching a new UK distribution business connecting high-net-worth individuals and family offices with Fasanara-manufactured p…"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010796?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -1.14917,
+      "company": {
+        "display_name": "Commify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 68000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzk2In0.fXAksLWW0niy7hZ5O3de9chI3FGFzREEuZOGzxCHy1g",
+      "id": "5893010796",
+      "category": {
+        "label": "Accounting & Finance Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "accounting-finance-jobs"
+      },
+      "location": {
+        "display_name": "Nottingham, Nottinghamshire",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Nottinghamshire",
+          "Nottingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 52.955101,
+      "title": "Senior Group Reporting Accountant",
+      "contract_time": "full_time",
+      "description": "At Commify, we're not just a company - we're a globally connected team of innovators who love what we do. As a CPaaS leader with 25 years of groundbreaking experience, we're the force behind over 5 billion customer interactions each year, enabling businesses worldwide to connect via advanced channels like SMS, RCS, and complex mobile journeys. Our culture is our core strength. Operating across the UK, EMEA, the USA, and Australia, we've fostered a truly diverse and connected environment, earnin…",
+      "salary_min": 55000
+    },
+    {
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 66034.83,
+      "company": {
+        "display_name": "Mindrift",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010788?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "contract",
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -0.139134,
+      "salary_min": 66034.83,
+      "description": "Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (  https://tendem.ai/ ) and create high-quality presentations for real-world use cases. In this role, you'll apply your expertise in visual communication, information design, and storytelling to create clear, engaging, and professionally designed presentations. This part-time remote opportunity is ideal for creative professionals with hands-on experience in visual communications, information design, and st…",
+      "contract_time": "part_time",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "title": "Freelance Presentation Designer",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "creative-design-jobs",
+        "label": "Creative & Design Jobs"
+      },
+      "id": "5893010788",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc4OCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.WJyHzc0ZbeLDRwTloZsi0m7oB1VHivOwVdl22StKDxo"
+    },
+    {
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010783?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -0.024069,
+      "created": "2026-09-21T18:26:04Z",
+      "company": {
+        "display_name": "Albert Bartlett",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 26970.18,
+      "category": {
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Manufacturing Jobs"
+      },
+      "id": "5893010783",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc4MyIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.6N1cnur_ZJ09IoEHggOjzToM4_f6EYouKi3RzMS1YdA",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Boston, Lincolnshire",
+        "area": [
+          "UK",
+          "East Midlands",
+          "Lincolnshire",
+          "Boston"
+        ]
+      },
+      "contract_time": "full_time",
+      "salary_is_predicted": "1",
+      "latitude": 52.977501,
+      "title": "Production Team Leader - Chilled Division",
+      "salary_min": 26970.18,
+      "description": "Albert Bartlett is a progressive British family brand, established in 1948 and dedicated to providing quality potatoes for delicious meals. We want Albert Bartlett to be a world-famous household brand, renowned for quality and expertise in own label and branded potatoes and potato products. We aim to be an innovative and improving company that exceeds our customers’ expectations while operating in an environmentally responsible and sustainable way. We are currently recruiting for a Production T…"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Glasgow, Scotland",
+        "area": [
+          "UK",
+          "Scotland",
+          "Glasgow"
+        ]
+      },
+      "id": "5893010791",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzkxIn0.4zoiA9QeuZDh0nWzywk0yERXQorgwdDobqRFCuNQ6Rs",
+      "category": {
+        "tag": "creative-design-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Creative & Design Jobs"
+      },
+      "description": "Mindrift is looking for a highly skilled Presentation Designer to join the Tendem project (  https://tendem.ai/ ) and create high-quality presentations for real-world use cases. In this role, you'll apply your expertise in visual communication, information design, and storytelling to create clear, engaging, and professionally designed presentations. This part-time remote opportunity is ideal for creative professionals with hands-on experience in visual communications, information design, and st…",
+      "salary_min": 61041.49,
+      "salary_is_predicted": "1",
+      "latitude": 55.86026,
+      "title": "Freelance Presentation Designer",
+      "contract_time": "part_time",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010791?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "contract",
+      "longitude": -4.25596,
+      "created": "2026-09-21T18:26:04Z",
+      "salary_max": 61041.49,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Mindrift"
+      }
+    },
+    {
+      "title": "HR Manager - UK",
+      "salary_is_predicted": "1",
+      "latitude": 51.503378,
+      "company": {
+        "display_name": "Homey",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 55019.84,
+      "description": "We are looking for an experienced UK HR Manager to take ownership of the HR function for our UK operations. This is a handson role responsible for the full employee lifecycle from recruitment and onboarding through performance management, employee relations, development and offboarding. The HR Manager will work directly with leadership and UK Brand Leads to ensure the business maintains strong people standards, follows UK employment requirements and addresses HR issues quickly and properly. Req…",
+      "salary_min": 55019.84,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc5NyIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.i0BN9UJLfD6H1yz5akp1n-vAfK-6bVcYJyQMFx17uNQ",
+      "id": "5893010797",
+      "longitude": -0.139134,
+      "created": "2026-09-21T18:26:04Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010797?utm_medium=api&utm_source=a6bbb028",
+      "category": {
+        "label": "HR & Recruitment Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "hr-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ]
+      }
+    },
+    {
+      "description": "Millennium Hotels and Resorts is looking for a Cluster HR Manager who will play a key role in providing support across the department while managing the day-to-day running of the People department, focusing on employee experience from onboarding, induction, engagement, recruitment & retention, training & development and well-being. Based at either Copthorne Slough or Copthorne Gatwick, and responsible for both hotels, you will build and maintain trusted relationships with key stakeholders and p…",
+      "salary_min": 36443.7,
+      "title": "Cluster HR Manager",
+      "latitude": 51.5093,
+      "salary_is_predicted": "1",
+      "contract_time": "full_time",
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Berkshire",
+          "Slough"
+        ],
+        "display_name": "Slough, Berkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893010782",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc4MiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.g4vEpC3ddiG0t_pHOYRsghc56AJNZyRQv_41G4glNyg",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "hr-jobs",
+        "label": "HR & Recruitment Jobs"
+      },
+      "salary_max": 36443.7,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Millennium Hotel and Resorts UK"
+      },
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -0.595448,
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010782?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "salary_min": 31197.94,
+      "description": "We are currently recruiting for Freezer Operatives at our potato processing site in Westwick, Norfolk. As a Level 2 Freezer Operative you will be responsible for ensuring that the production process is adhered in line with retailer requirements; run machinery and complete appropriate quality checks; and carry out necessary instructions as specified within production procedures and also ensuring that the Quality procedures are followed. Expected Start Date : Immediate. Hours of work: 4 x 12 hour…",
+      "contract_time": "full_time",
+      "title": "Semi-skilled Operative (4 x12 hour shifts weekly, days/ nights rotating)",
+      "salary_is_predicted": "1",
+      "latitude": 52.775285,
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Sloley, Norwich",
+        "area": [
+          "UK",
+          "Eastern England",
+          "Norfolk",
+          "Norwich",
+          "Sloley"
+        ]
+      },
+      "category": {
+        "label": "Manufacturing Jobs",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "id": "5893010781",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDc4MSIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.udUCmqdfZqdhfGNyNe4ClPYwjzl2cMhVA2-Bxsz31us",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 31197.94,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Albert Bartlett"
+      },
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": 1.40209,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010781?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "salary_max": 34805.18,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Millennium Hotel and Resorts UK",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": -0.400561,
+      "created": "2026-09-21T18:26:04Z",
+      "contract_type": "contract",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010779?utm_medium=api&utm_source=a6bbb028",
+      "description": "Millennium Hotels and Resorts is looking for a Cluster HR Manager who will play a key role in providing support across the department while managing the day-to-day running of the People department, focusing on employee experience from onboarding, induction, engagement, recruitment & retention, training & development and well-being. Based at either Copthorne Slough or Copthorne Gatwick, and responsible for both hotels, you will build and maintain trusted relationships with key stakeholders and p…",
+      "salary_min": 34805.18,
+      "title": "Cluster HR Manager",
+      "latitude": 51.2728,
+      "salary_is_predicted": "1",
+      "contract_time": "full_time",
+      "location": {
+        "display_name": "Effingham, Leatherhead",
+        "area": [
+          "UK",
+          "South East England",
+          "Surrey",
+          "Leatherhead",
+          "Effingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893010779",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNzc5In0.Kskso-H9chRPLh0u8hqIr7ue1JWtxtVOA_Lg--v_BiQ",
+      "category": {
+        "tag": "hr-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "HR & Recruitment Jobs"
+      }
+    },
+    {
+      "salary_min": 26000,
+      "description": "Customer Success Specialist Location: Based on-site in Halifax (HX2) with options to work from our second office Leeds Salary: £26,780-£32,960 per annum dependent on experience Contract: Permanent Help turn great customer experiences into lasting relationships We are looking for a commercially minded Customer Success Specialist who will take ownership of a defined portfolio of customers and help ensure they get real, ongoing value from their relationship with White Rose Education. This role is …",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "latitude": 53.799599,
+      "title": "Customer Success Specialist",
+      "location": {
+        "area": [
+          "UK",
+          "Yorkshire And The Humber",
+          "West Yorkshire",
+          "Leeds"
+        ],
+        "display_name": "Leeds, West Yorkshire",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "customer-services-jobs",
+        "label": "Customer Services Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDgwMSIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.gNhaCPFadf3z7NjZ3_dZU6La6VX8Cn-yuIDQ_sYZC-c",
+      "id": "5893010801",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 28000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "White Rose Education"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010801?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "created": "2026-09-21T18:26:04Z",
+      "longitude": -1.54912
+    },
+    {
+      "salary_min": 26500,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 30000,
+      "description": "Closing date: 23-09-2026 Sales Consultant – Legal Services £26,500 - £30,000 base salary, OTE £45,000 plus excellent benefits (Work Level 6B) Monday-Friday, 37.5 hours flexible between 9am and 9pm, with 3 evenings per week, and two in four Saturdays. Home based across England and Wales, travelling when required For this role you’ll be required to start on 9th November 2026 We’re looking for people with great customer service and communication skills to join us as Sales Consultants at Co-op Life…",
+      "salary_is_predicted": "0",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Co-op"
+      },
+      "latitude": 56.79918,
+      "title": "Legal Sales Consultant (Remote)",
+      "location": {
+        "display_name": "Scotland, UK",
+        "area": [
+          "UK",
+          "Scotland"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010446?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -4.254873,
+      "created": "2026-09-21T18:23:20Z",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwNDQ2In0.sWNy-MfG1TLKM4EI0amNMASawlSZpksPSwAKrr_kQ8k",
+      "id": "5893010446"
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDYyIn0.FhSa6FAOsDdXQ-zuXujrCvhghyMGp82aEL85d_YbZX4",
+      "id": "5893010062",
+      "salary_min": 90000,
+      "description": "The Opportunity Our client is one of the fastest growing technology organisations in the world and a leading provider of cutting-edge cybersecurity and AI solutions to support to the SMB market. They provide MSPs (Managed Service Providers) with the fundamental technology they need to manage and secure Microsoft 365 at scale and deliver AI services. About the Role They are looking for a Pipeline Generation/ BDR Manager to join their expanding team. This role is responsible for managing and impr…",
+      "contract_time": "full_time",
+      "title": "SDR Manager (HF1360378)",
+      "salary_is_predicted": "0",
+      "latitude": 51.503378,
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010062?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 90000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      }
+    },
+    {
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "id": "5893010056",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDA1NiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.Y4NRG1db5_sCRxWUzO-uoaURuOMwugp19nab3C-6eOY",
+      "location": {
+        "display_name": "London, UK",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "contract_time": "full_time",
+      "latitude": 51.503378,
+      "salary_is_predicted": "0",
+      "title": "Account Manager (HF365099)",
+      "salary_min": 80000,
+      "description": "Our client, a growth-stage SaaS security and IT management platform, is hiring an Enterprise Account Manager to manage and grow relationships with its larger, enterprise-tier customers. The platform helps Managed Service Providers (MSPs) manage and secure Microsoft 365 environments across dozens or hundreds of their own end-customer tenants — a genuinely specialist, consolidation-focused proposition in a crowded IT security market. This role is about deepening and expanding relationships with t…",
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010056?utm_medium=api&utm_source=a6bbb028",
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -0.139134,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 80000
+    },
+    {
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010064?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "salary_max": 90000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK"
+      },
+      "id": "5893010064",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDY0In0.dEVLUMu9S_PGohLt7McDMhrgU0cP8gdFwk3_3kic2y0",
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "description": "The Opportunity Our client is one of the fastest growing technology organisations in the world and a leading provider of cutting-edge cybersecurity and AI solutions to support to the SMB market. They provide MSPs (Managed Service Providers) with the fundamental technology they need to manage and secure Microsoft 365 at scale and deliver AI services. About the Role They are looking for a Pipeline Generation/ BDR Manager to join their expanding team. This role is responsible for managing and impr…",
+      "salary_min": 90000,
+      "title": "Outbound Sales Manager EMEA (HF1360374)",
+      "latitude": 51.503378,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time"
+    },
+    {
+      "id": "5893010069",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDA2OSIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.Aahv4M_ohPMzpcpV1qMD5GfhgYupiTlz8XMSC9qZilk",
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "latitude": 51.503378,
+      "salary_is_predicted": "0",
+      "title": "Business Development Manager (HF1361382)",
+      "contract_time": "full_time",
+      "description": "Business Development Manager - Remote Clean Energy | Manchester / London / Birmingham The Opportunity Our client, a licensed UK clean energy supplier, is expanding its sales team but with a deliberately different profile from the senior Enterprise Sales Directors already in place. Those hires are experienced, well-networked, and strong at developing large, complex opportunities. This role complements them: it's for someone earlier in their career (likely their second or third sales role) who br…",
+      "salary_min": 60000,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010069?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -0.139134,
+      "company": {
+        "display_name": "Apprentify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 60000,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "title": "Business Development Manager (HF1361383)",
+      "salary_is_predicted": "0",
+      "latitude": 52.483002,
+      "contract_time": "full_time",
+      "description": "Business Development Manager - Remote Clean Energy | Manchester / London / Birmingham The Opportunity Our client, a licensed UK clean energy supplier, is expanding its sales team but with a deliberately different profile from the senior Enterprise Sales Directors already in place. Those hires are experienced, well-networked, and strong at developing large, complex opportunities. This role complements them: it's for someone earlier in their career (likely their second or third sales role) who br…",
+      "salary_min": 60000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDYwIn0.WK4lxmfHAfYqWrMPml_VFRDHXgjrcPhx2_v-nQjjZQs",
+      "id": "5893010060",
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs"
+      },
+      "location": {
+        "display_name": "Birmingham, West Midlands",
+        "area": [
+          "UK",
+          "West Midlands",
+          "Birmingham"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      },
+      "salary_max": 60000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "longitude": -1.89359,
+      "created": "2026-09-21T18:19:41Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010060?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent"
+    },
+    {
+      "description": "Sales Executive £30,000-£35,000 Basic  Uncapped Commission Looking for a sales role where your effort is recognised, your development is supported, and your earning potential is in your hands? Flourish have partnered with an exciting client looking to hire a Sales Executive to join their expanding commercial team. This opportunity is perfect for a motivated individual who enjoys building relationships, uncovering customer needs, and turning conversations into long-term business partnerships. Wo…",
+      "salary_min": 30000,
+      "title": "Sales Executive (HF1364910)",
+      "salary_is_predicted": "0",
+      "latitude": 51.067402,
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Salisbury, Wiltshire",
+        "area": [
+          "UK",
+          "South West England",
+          "Wiltshire",
+          "Salisbury"
+        ]
+      },
+      "id": "5893010051",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDUxIn0.KBg8PKact8w0jJFx9LjqYah8wiq0LM0ErbL2YHcpYI0",
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "salary_max": 35000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Apprentify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -1.79763,
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010051?utm_medium=api&utm_source=a6bbb028"
+    },
+    {
+      "title": "BDR Manager EMEA (HF1360376)",
+      "latitude": 51.503378,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "description": "The Opportunity Our client is one of the fastest growing technology organisations in the world and a leading provider of cutting-edge cybersecurity and AI solutions to support to the SMB market. They provide MSPs (Managed Service Providers) with the fundamental technology they need to manage and secure Microsoft 365 at scale and deliver AI services. About the Role They are looking for a Pipeline Generation/ BDR Manager to join their expanding team. This role is responsible for managing and impr…",
+      "salary_min": 90000,
+      "id": "5893010066",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDA2NiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.W9gHl8mxA2GswhrRZRvxM23jKJjifRBrB_SJjZrgLSI",
+      "category": {
+        "label": "Sales Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      },
+      "salary_max": 90000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -0.139134,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010066?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent"
+    },
+    {
+      "description": "Graduate Sales Development Representative (Graduate SDR) £28,000-£32,000 Basic  £8,000-£12,000 OTE Starting your career after university and looking for a role that offers professional development, clear progression, and the opportunity to earn from day one? Flourish have partnered with an exciting client looking to hire a Graduate Sales Development Representative (SDR) to join their growing sales function. This is an ideal opportunity for an ambitious graduate who wants to gain commercial expe…",
+      "salary_min": 28000,
+      "title": "Graduate Sales Development Representative (HF1364910)",
+      "salary_is_predicted": "0",
+      "latitude": 51.062901,
+      "contract_time": "full_time",
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Winchester, Hampshire",
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire",
+          "Winchester"
+        ]
+      },
+      "id": "5893010067",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDY3In0.1koblEuP7VVVemKUW95gfOVn91U9vyMRFCpsRbVGYDw",
+      "category": {
+        "label": "Graduate Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "graduate-jobs"
+      },
+      "salary_max": 32000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Apprentify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "longitude": -1.3165,
+      "created": "2026-09-21T18:19:41Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010067?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent"
+    },
+    {
+      "company": {
+        "display_name": "Apprentify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 90000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010068?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "longitude": -0.139134,
+      "created": "2026-09-21T18:19:41Z",
+      "salary_is_predicted": "0",
+      "latitude": 51.503378,
+      "title": "Pipeline Development Manager (HF1360373)",
+      "contract_time": "full_time",
+      "description": "The Opportunity Our client is one of the fastest growing technology organisations in the world and a leading provider of cutting-edge cybersecurity and AI solutions to support to the SMB market. They provide MSPs (Managed Service Providers) with the fundamental technology they need to manage and secure Microsoft 365 at scale and deliver AI services. About the Role They are looking for a Pipeline Generation/ BDR Manager to join their expanding team. This role is responsible for managing and impr…",
+      "salary_min": 90000,
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDA2OCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.EFisTzeJfDcGCdn6w7IwsHj5hA3OPK4sALObPyVQQso",
+      "id": "5893010068",
+      "category": {
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "Sales Jobs"
+      },
+      "location": {
+        "area": [
+          "UK",
+          "London"
+        ],
+        "display_name": "London, UK",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "South East England",
+          "Hampshire"
+        ],
+        "display_name": "Hampshire, South East England",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "category": {
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "sales-jobs",
+        "label": "Sales Jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDU0In0.aBVyhyf7G0-srvNc4ULb5z-EYDZcCtc7-YcEL093z6A",
+      "id": "5893010054",
+      "salary_min": 32000,
+      "description": "Entry Level Sales Development Representative (SDR) Location: Andover £32,000 Basic  £8,000-£12,000 OTE Looking to kick-start your career in sales with a business that offers outstanding training, genuine progression opportunities, and a supportive team environment? Flourish have partnered with an exciting client looking to hire an Entry Level Sales Development Representative (SDR) to join their growing commercial team. This is a fantastic opportunity for someone with energy, ambition, and a des…",
+      "contract_time": "full_time",
+      "title": "Entry Level Sales Development Representative (HF1364910)",
+      "salary_is_predicted": "0",
+      "latitude": 51.080127,
+      "longitude": -1.298703,
+      "created": "2026-09-21T18:19:41Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010054?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 32000,
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Apprentify"
+      }
+    },
+    {
+      "created": "2026-09-21T18:19:41Z",
+      "longitude": -1.79763,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010053?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "company": {
+        "display_name": "Apprentify",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "salary_max": 32000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDEwMDUzIn0.OdK-b4dJYC-y_7ITFN1UKRegsHADktIs-xH0Vs3O4uc",
+      "id": "5893010053",
+      "category": {
+        "label": "Sales Jobs",
+        "tag": "sales-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "South West England",
+          "Wiltshire",
+          "Salisbury"
+        ],
+        "display_name": "Salisbury, Wiltshire"
+      },
+      "title": "Business Development Representative (HF1364910)",
+      "salary_is_predicted": "0",
+      "latitude": 51.067402,
+      "contract_time": "full_time",
+      "description": "Business Development Representative (BDR) £28,000-£32,000 Basic  £8,000-£12,000 OTE Ready to build a successful career in business development with a company that values hard work, progression, and personal growth? Flourish have partnered with an exciting client looking to hire a Business Development Representative (BDR) to support their continued expansion. This role sits at the heart of the commercial function and is ideal for someone who enjoys speaking with people, creating opportunities, a…",
+      "salary_min": 28000
+    },
+    {
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Antrim, County Antrim",
+        "area": [
+          "UK",
+          "Northern Ireland",
+          "County Antrim",
+          "Antrim"
+        ]
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAxMDA1MCIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.uvx5b6soiI0W-XVgGS6lE_sh7VBHf9VPs0kW8oOBy5Q",
+      "id": "5893010050",
+      "category": {
+        "label": "Manufacturing Jobs",
+        "tag": "manufacturing-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category"
+      },
+      "description": "Quality Operative | Relocation Opportunity This is a fantastic permanent opportunity to join an established manufacturing business in Antrim , working as part of a busy production team and helping to maintain high quality standards throughout the manufacturing process. Location: Antrim, Northern Ireland Salary: £14.02 per hour - Days | £15.20 per hour - Evenings Role type: Permanent, Full Time - RTW in the UK required Hours: 40 hours per week Days: Monday - Thursday 7:00am - 4:30pm | Friday 7:0…",
+      "salary_min": 31616,
+      "title": "Quality Operative",
+      "salary_is_predicted": "0",
+      "latitude": 54.713402,
+      "contract_time": "full_time",
+      "created": "2026-09-21T18:19:39Z",
+      "longitude": -6.21676,
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893010050?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "salary_max": 31616,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Workforce Recruitment Group",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwOTk5NSIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.ZnSnLLeO7pKJl5dWozBuP9viozLDwDuT665XDpllbP4",
+      "id": "5893009995",
+      "category": {
+        "label": "Social work Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "social-work-jobs"
+      },
+      "location": {
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "UK",
+          "North West England",
+          "Merseyside",
+          "Liverpool"
+        ],
+        "display_name": "Liverpool, Merseyside"
+      },
+      "salary_is_predicted": "0",
+      "latitude": 53.410801,
+      "title": "Employment Specialist (Career Coach)",
+      "contract_time": "full_time",
+      "description": "Employment Specialist (Career Coach) Location: Liverpool (Community-Based) Salary: £30,000 per annum Contract: Monday - Friday, Full-Time, Permanent (37 hours per week) About the Role Due to expansion with our client, following the award of a new Connect to Work contract across the Liverpool City Region. Trigon Recruitment are looking for a passionate and motivated Employment Specialist (Career Coach) to support individuals across the Liverpool area. As a Employment Specialist , you will help p…",
+      "salary_min": 30000,
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893009995?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -2.97784,
+      "created": "2026-09-21T18:19:30Z",
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Trigon Recruitment"
+      },
+      "salary_max": 30000,
+      "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+      "location": {
+        "area": [
+          "UK",
+          "North West England",
+          "Merseyside",
+          "St. Helens"
+        ],
+        "display_name": "St. Helens, Merseyside",
+        "__CLASS__": "Adzuna::API::Response::Location"
+      },
+      "id": "5893009997",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZ0U3X1pPZTE4Ukd6WTg0T0VsU3F0USIsImkiOiI1ODkzMDA5OTk3In0.o-a_8EUnDBxLw0fmvSfPB6rj1UoJOmCkeKWWcfhEGR8",
+      "category": {
+        "label": "Social work Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "social-work-jobs"
+      },
+      "description": "Employment Specialist (Career Coach) Location: St Helens (Community-Based) Salary: £30,000 per annum Contract: Monday - Friday, Full-Time, Permanent (37 hours per week) About the Role Due to expansion with our client, following the award of a new Connect to Work contract across the Liverpool City Region. Trigon Recruitment are looking for a passionate and motivated Employment Specialist (Career Coach) to support individuals across the St Helens area. As an Employment Specialist, you will help p…",
+      "salary_min": 30000,
+      "title": "Employment Specialist (Career Coach)",
+      "latitude": 53.453899,
+      "salary_is_predicted": "0",
+      "contract_time": "full_time",
+      "longitude": -2.73689,
+      "created": "2026-09-21T18:19:30Z",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893009997?utm_medium=api&utm_source=a6bbb028",
+      "contract_type": "permanent",
+      "salary_max": 30000,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "company": {
+        "display_name": "Trigon Recruitment",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    },
+    {
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Trigon Recruitment"
+      },
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "salary_max": 30000,
+      "contract_type": "permanent",
+      "redirect_url": "https://www.adzuna.co.uk/jobs/details/5893009996?utm_medium=api&utm_source=a6bbb028",
+      "longitude": -2.73689,
+      "created": "2026-09-21T18:19:30Z",
+      "contract_time": "full_time",
+      "salary_is_predicted": "0",
+      "latitude": 53.453899,
+      "title": "Recovery Worker",
+      "salary_min": 30000,
+      "description": "Recovery Worker Location: St Helens (Community-Based) Salary: £30,000 per annum Contract: Monday - Friday, Full-Time, Permanent (37 hours per week) About the Role Due to expansion with our client, following the award of a new Connect to Work contract across the Liverpool City Region. Trigon Recruitment are looking for a passionate and motivated Recovery Worker to support individuals across the St Helens area. As a Recovery Worker , you will help people overcome barriers to employment, education…",
+      "category": {
+        "label": "Social work Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "social-work-jobs"
+      },
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5MzAwOTk5NiIsInMiOiJnRTdfWk9lMThSR3pZODRPRWxTcXRRIn0.TeFJy6ucARSFao4rA2yT3QCQGsdkhATKNNbsj8pHXtU",
+      "id": "5893009996",
+      "location": {
+        "display_name": "St. Helens, Merseyside",
+        "area": [
+          "UK",
+          "North West England",
+          "Merseyside",
+          "St. Helens"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location"
+      }
+    }
+  ]
+}
