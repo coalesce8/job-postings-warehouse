@@ -20,7 +20,9 @@ Rate limits: the free tier allows roughly 25 calls per minute and a fixed daily
 budget, so ``REQUEST_DELAY_SECONDS`` spaces calls out and ``MAX_PAGES`` is sized so
 that ``len(COUNTRY_CODES) * MAX_PAGES`` stays within the daily budget. A 429 aborts
 the whole run immediately rather than retrying: retries count against the cap, and
-a partially fetched country is not written.
+a partially fetched country is not written. A 5xx (Adzuna's servers failing, usually
+briefly) is retried up to ``len(SERVER_ERROR_RETRY_DELAYS)`` times with backoff before
+the country is marked failed.
 
 Set ``COUNTRIES`` (comma-separated codes, e.g. ``COUNTRIES=gb,pl``) to pull a subset
 of ``COUNTRY_CODES``, for re-running only the countries that failed in a daily run.
@@ -41,6 +43,7 @@ RESULTS_PER_PAGE = 50
 MAX_DAYS_OLD = 1
 MAX_PAGES = 14  # 700 jobs max per country; 5 countries * 14 = 70 calls/day
 REQUEST_DELAY_SECONDS = 2.5  # stays under 25 calls/minute
+SERVER_ERROR_RETRY_DELAYS = (30, 120, 300)  # seconds before each retry of a 5xx
 
 SEARCH_PARAMS = {
     "results_per_page": RESULTS_PER_PAGE,
@@ -89,13 +92,22 @@ def selected_countries(spec):
 
 
 def fetch_page(country, page, auth):
-    resp = requests.get(
-        f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}",
-        params={**SEARCH_PARAMS, **auth},
-        timeout=30,
-    )
-    if resp.status_code == 429:
-        raise RateLimited(f"{country} page {page}: {resp.text[:200]}")
+    max_retries = len(SERVER_ERROR_RETRY_DELAYS)
+    for attempt in range(max_retries + 1):
+        resp = requests.get(
+            f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}",
+            params={**SEARCH_PARAMS, **auth},
+            timeout=30,
+        )
+        if resp.status_code == 429:
+            raise RateLimited(f"{country} page {page}: {resp.text[:200]}")
+        if resp.status_code < 500 or attempt == max_retries:
+            break
+        delay = SERVER_ERROR_RETRY_DELAYS[attempt]
+        log.warning(
+            "%s page %d: HTTP %d, retrying in %ds", country, page, resp.status_code, delay
+        )
+        time.sleep(delay)
     resp.raise_for_status()
     return resp.json()
 
