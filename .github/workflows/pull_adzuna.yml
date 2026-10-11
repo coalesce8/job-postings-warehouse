@@ -3,10 +3,13 @@
 # and both DuckDB files are rebuilt from it on every run (load.py is idempotent
 # and dbt build re-tests the warehouse). The .duckdb files are never committed.
 #
-# Schedule is UTC (Actions cron is always UTC). 14:17 UTC is mid-afternoon in
-# all five markets, so each pull is a consistent business-hours slice of the
-# day; the odd minute avoids the on-the-hour queue delays. Actions can still
-# delay or drop a scheduled run, so check raw_pull_metadata for gaps.
+# Schedule is UTC (Actions cron is always UTC). The target is ~14:17 UTC, which
+# is mid-afternoon in all five markets, so each pull is a consistent
+# business-hours slice of the day. Scheduled runs here consistently start 4-6
+# hours late, so the cron is set to 09:17 UTC to land near 14:17; revisit if
+# the delay changes. The odd minute avoids the on-the-hour queue delays.
+# Actions can still delay or drop a scheduled run, so check raw_pull_metadata
+# for gaps.
 #
 # Secrets required: ADZUNA_APP_ID, ADZUNA_APP_KEY.
 #
@@ -17,7 +20,7 @@ name: pull_adzuna
 
 on:
   schedule:
-    - cron: "17 14 * * *"
+    - cron: "17 9 * * *"
   workflow_dispatch:
     inputs:
       countries:
