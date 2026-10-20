@@ -1,8 +1,7 @@
 """Process one pull date of raw Adzuna JSON: sync → check → load → dbt build.
 
-M1: the date is hardcoded, check_raw only checks the directory exists, and
-load_raw runs the no-argument load.py (every date not yet loaded). M2 replaces
-all three with the per-date versions.
+Until the rest of M2 lands, check_raw only checks the directory exists, and
+load_raw runs the no-argument load.py (every date not yet loaded).
 
 Every task shells out to a script in Airflow's clone ($REPO_DIR), run with the
 clone's own project venv ($PROJECT_PYTHON, $PROJECT_DBT), not Airflow's
@@ -13,10 +12,13 @@ environment (see airflow/env.sh), never from this file.
 from datetime import datetime, timedelta
 
 from airflow.providers.standard.operators.bash import BashOperator
-from airflow.sdk import DAG
+from airflow.sdk import DAG, Param
 
-# M1 only. M2 derives this from params.run_date or the run's logical date.
-RUN_DATE = "2026-10-10"
+# The pull date a run processes, computed here and nowhere else: the run_date
+# param if a manual trigger set one, otherwise the date of the logical date.
+# With CronTriggerTimetable the logical date is the trigger time, so the 20:00
+# run on 2026-10-12 processes 2026-10-12 (not the day before, as in Airflow 2).
+RUN_DATE = "{{ params.run_date or ds }}"
 
 with DAG(
     "adzuna_daily",
@@ -26,9 +28,13 @@ with DAG(
     max_active_runs=1,  # one DuckDB writer at a time
     default_args={"retries": 0},  # check, load and dbt failures are deterministic
     tags=["adzuna"],
+    params={
+        # Optional override, e.g. to reprocess a date or run a test date.
+        "run_date": Param(None, type=["null", "string"], format="date"),
+    },
 ) as dag:
-    # RUN_DATE goes through env, not the command string: from M2 it can come
-    # from params, i.e. user input, and templated bash isn't escaped.
+    # RUN_DATE goes through env (a templated field), not the command string: it
+    # can come from params, i.e. user input, and templated bash isn't escaped.
     # append_env keeps REPO_DIR, PROJECT_* and JOBS_* from the parent.
     run_env = {"RUN_DATE": RUN_DATE}
 
