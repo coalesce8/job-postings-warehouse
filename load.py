@@ -1,12 +1,20 @@
 """Load the JSON envelopes written by ``ingest.py`` into the raw DuckDB database.
 
-Every ``*.json`` under ``$JOBS_RAW_DATA_DIR`` is a pull. Its ``pull_id`` is derived
-from the path (``<YYYY-MM-DD>_<file stem>``), so re-running is idempotent: pulls
-already present in ``raw_pull_metadata`` are skipped, and each new pull is loaded in
-a single transaction. Each pull's ``pull_date`` is its directory name, the UTC date
-the collection run started.
+Every ``*.json`` directly in a date directory, ``$JOBS_RAW_DATA_DIR/<YYYY-MM-DD>/``,
+is a pull. Its ``pull_id`` is derived from the path (``<YYYY-MM-DD>_<file stem>``).
+Each pull's ``pull_date`` is its directory name, the UTC date the collection run
+started.
+
+Two modes:
+
+- No arguments: load every pull not yet in ``raw_pull_metadata``, each in its own
+  transaction. A failed file is logged and skipped, and the script exits 1 at the end.
+- ``--date YYYY-MM-DD``: replace one pull date. In a single transaction, delete
+  everything previously loaded for that date, then load every ``*.json`` in its
+  directory. Any error rolls back the whole date and propagates. Used by Airflow.
 """
 
+import argparse
 import json
 import logging
 import os
@@ -15,6 +23,8 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 import duckdb
+
+from dates import parse_date
 
 log = logging.getLogger(__name__)
 
@@ -149,47 +159,97 @@ def insert_jobs(con, pull_id, jobs):
     """, rows)
 
 
-def load_file(con, path):
-    """Load one envelope atomically; returns the number of jobs in the file."""
+def insert_file(con, path):
+    """Insert one envelope, in the caller's transaction; returns the number of jobs."""
     with path.open("r", encoding="utf-8") as f:
         envelope = json.load(f)
 
     pull_id = pull_id_for(path)
-    pull_date = pull_date_for(path)
     jobs = envelope.get("results", [])
+    insert_metadata(con, pull_id, pull_date_for(path), envelope, path)
+    insert_jobs(con, pull_id, jobs)
+    return len(jobs)
 
+
+def load_file(con, path):
+    """Load one envelope atomically; returns the number of jobs in the file."""
     con.begin()
     try:
-        insert_metadata(con, pull_id, pull_date, envelope, path)
-        insert_jobs(con, pull_id, jobs)
+        n = insert_file(con, path)
         con.commit()
     except Exception:
         con.rollback()
         raise
-    return len(jobs)
+    return n
+
+
+def load_date(con, raw_dir, pull_date):
+    """Replace everything loaded for one pull date with its directory's files, atomically."""
+    # Same files check_raw.py checks: *.json directly in the date's directory.
+    paths = sorted((raw_dir / pull_date.isoformat()).glob("*.json"))
+    if not paths:
+        # Without this, a missing directory would delete the date and load nothing.
+        raise SystemExit(f"No *.json for {pull_date} in {raw_dir}")
+
+    con.begin()
+    try:
+        # raw_jobs first: its rows for the date are found via raw_pull_metadata.
+        deleted_jobs = con.execute("""
+            DELETE FROM raw_jobs WHERE pull_id IN (
+                SELECT pull_id FROM raw_pull_metadata WHERE pull_date = ?
+            )
+        """, [pull_date]).fetchone()[0]
+        deleted_pulls = con.execute(
+            "DELETE FROM raw_pull_metadata WHERE pull_date = ?", [pull_date]
+        ).fetchone()[0]
+        log.info("Deleted %d pulls, %d jobs for %s", deleted_pulls, deleted_jobs, pull_date)
+
+        for path in paths:
+            log.info("Loading %s ...", path)
+            log.info("Loaded %d jobs", insert_file(con, path))
+        con.commit()
+    except BaseException:
+        con.rollback()
+        raise
+    log.info("Loaded %d pulls for %s", len(paths), pull_date)
+
+
+def load_all(con, raw_dir):
+    failed = []
+    already_loaded = loaded_pull_ids(con)
+    # Same files as load_date, for every date at once.
+    for path in sorted(raw_dir.glob("*/*.json")):
+        if pull_id_for(path) in already_loaded:
+            continue
+        log.info("Loading %s ...", path)
+        try:
+            n = load_file(con, path)
+        except (json.JSONDecodeError, KeyError, ValueError, duckdb.Error) as e:
+            log.error("Failed to load %s: %r", path, e)
+            failed.append(path)
+            continue
+        log.info("Loaded %d jobs", n)
+    return failed
 
 
 def main():
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument(
+        "--date", type=parse_date, help="replace this pull date (YYYY-MM-DD) instead of loading new pulls"
+    )
+    args = parser.parse_args()
+
     raw_dir = Path(require_env("JOBS_RAW_DATA_DIR"))
     db_path = Path(require_env("JOBS_RAW_DB_PATH"))
 
     con = get_db(db_path)
-    failed = []
     try:
-        already_loaded = loaded_pull_ids(con)
-        for path in sorted(raw_dir.rglob("*.json")):
-            if pull_id_for(path) in already_loaded:
-                continue
-            log.info("Loading %s ...", path)
-            try:
-                n = load_file(con, path)
-            except (json.JSONDecodeError, KeyError, ValueError, duckdb.Error) as e:
-                log.error("Failed to load %s: %r", path, e)
-                failed.append(path)
-                continue
-            log.info("Loaded %d jobs", n)
+        if args.date:
+            load_date(con, raw_dir, args.date)
+            return
+        failed = load_all(con, raw_dir)
     finally:
         con.close()
 
