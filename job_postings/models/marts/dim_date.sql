@@ -1,8 +1,15 @@
+-- The end comes from the data, not the clock, so a rebuild gives the same rows
+-- whichever day it runs: a week past the latest loaded pull date.
+{% set end_date %}
+    (select cast(max(pull_date) + interval '7 days' as date)
+     from {{ source('adzuna', 'raw_pull_metadata') }})
+{% endset %}
+
 with spine as (
     {{ dbt_utils.date_spine(
         datepart="day",
         start_date="cast('2026-09-14' as date)",
-        end_date="cast(current_date + interval '7 days' as date)"
+        end_date=end_date
     ) }}
 ),
 

@@ -13,6 +13,11 @@ sources:
             data_tests:
               - unique
               - not_null
+          - name: pull_date
+            data_type: date
+            description: UTC date of the collection run, from the raw file's directory name.
+            data_tests:
+              - not_null
           - name: fetched_at
             data_type: timestamp
             description: Timestamp the pull was fetched from the Adzuna API.
