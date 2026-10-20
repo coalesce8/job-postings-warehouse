@@ -1,7 +1,7 @@
 """Process one pull date of raw Adzuna JSON: sync → check → load → dbt build.
 
-Until the rest of M2 lands, check_raw only checks the directory exists, and
-load_raw runs the no-argument load.py (every date not yet loaded).
+Until the rest of M2 lands, load_raw runs the no-argument load.py (every date
+not yet loaded).
 
 Every task shells out to a script in Airflow's clone ($REPO_DIR), run with the
 clone's own project venv ($PROJECT_PYTHON, $PROJECT_DBT), not Airflow's
@@ -47,8 +47,8 @@ with DAG(
 
     check_raw = BashOperator(
         task_id="check_raw",
-        # Placeholder until check_raw.py (M2).
-        bash_command='test -d "$JOBS_RAW_DATA_DIR/$RUN_DATE" || { echo "No raw directory for $RUN_DATE"; exit 1; }',
+        # Fails, naming every problem, unless the date's files are complete and sane.
+        bash_command='cd "$REPO_DIR" && "$PROJECT_PYTHON" check_raw.py --date "$RUN_DATE"',
         env=run_env,
         append_env=True,
     )
