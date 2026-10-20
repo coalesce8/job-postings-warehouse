@@ -17,26 +17,16 @@ import json
 import logging
 import re
 import sys
-from datetime import date, datetime, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 
+from dates import parse_date
 from ingest import COUNTRY_CODES, require_env
 
 # Matches the names written by ingest.write_envelope.
 FILENAME_RE = re.compile(r"adzuna_(?P<country>[a-z]{2})_\d{6}\.json")
 
 log = logging.getLogger(__name__)
-
-
-def parse_date(value):
-    # Stricter than date.fromisoformat, which also accepts e.g. "20261012".
-    try:
-        d = date.fromisoformat(value)
-    except ValueError:
-        d = None
-    if d is None or d.isoformat() != value:
-        raise argparse.ArgumentTypeError(f"not a YYYY-MM-DD date: {value!r}")
-    return d
 
 
 def check_file(path, pull_date):
