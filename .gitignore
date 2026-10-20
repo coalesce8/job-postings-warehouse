@@ -13,4 +13,6 @@ wheels/
 notes/
 # Data: raw JSON under data/raw is committed by the workflow; DuckDB files are rebuilt from it
 data/*.duckdb
+# Raw files left out on purpose (markets with no salary data); kept locally, never committed
+data/excluded/
 logs/
