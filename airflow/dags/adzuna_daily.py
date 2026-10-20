@@ -23,7 +23,7 @@ RUN_DATE = "{{ params.run_date or ds }}"
 with DAG(
     "adzuna_daily",
     schedule="0 20 * * *",  # ~4.5 h after the Action normally lands
-    start_date=datetime(2026, 9, 22),
+    start_date=datetime(2026, 9, 21),
     catchup=False,  # history goes through explicit backfills
     max_active_runs=1,  # one DuckDB writer at a time
     default_args={"retries": 0},  # check, load and dbt failures are deterministic
