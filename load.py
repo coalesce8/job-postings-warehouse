@@ -3,14 +3,15 @@
 Every ``*.json`` under ``$JOBS_RAW_DATA_DIR`` is a pull. Its ``pull_id`` is derived
 from the path (``<YYYY-MM-DD>_<file stem>``), so re-running is idempotent: pulls
 already present in ``raw_pull_metadata`` are skipped, and each new pull is loaded in
-a single transaction.
+a single transaction. Each pull's ``pull_date`` is its directory name, the UTC date
+the collection run started.
 """
 
 import json
 import logging
 import os
 import sys
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 import duckdb
@@ -31,6 +32,7 @@ def get_db(path):
     con.execute("""
         CREATE TABLE IF NOT EXISTS raw_pull_metadata (
             pull_id             VARCHAR PRIMARY KEY,  -- derived from filename, deterministic
+            pull_date           DATE,                 -- directory name: UTC date of the pull
             fetched_at          TIMESTAMP,
             country_code        VARCHAR,
             max_days_old        INTEGER,
@@ -70,6 +72,11 @@ def get_db(path):
     return con
 
 
+def pull_date_for(path):
+    # Raises ValueError for a directory that isn't a YYYY-MM-DD date.
+    return date.fromisoformat(path.parent.name)
+
+
 def pull_id_for(path):
     return f"{path.parent.name}_{path.stem}"
 
@@ -78,15 +85,16 @@ def loaded_pull_ids(con):
     return {row[0] for row in con.execute("SELECT pull_id FROM raw_pull_metadata").fetchall()}
 
 
-def insert_metadata(con, pull_id, envelope, source_file):
+def insert_metadata(con, pull_id, pull_date, envelope, source_file):
     params = envelope.get("params", {})
     con.execute("""
         INSERT INTO raw_pull_metadata (
-            pull_id, fetched_at, country_code, max_days_old, sort_by, search_params,
+            pull_id, pull_date, fetched_at, country_code, max_days_old, sort_by, search_params,
             max_pages, pages_with_results, total_count, mean_salary, source_file, loaded_at
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
     """, [
         pull_id,
+        pull_date,
         envelope.get("fetched_at"),
         envelope["country"],
         params.get("max_days_old"),
@@ -147,11 +155,12 @@ def load_file(con, path):
         envelope = json.load(f)
 
     pull_id = pull_id_for(path)
+    pull_date = pull_date_for(path)
     jobs = envelope.get("results", [])
 
     con.begin()
     try:
-        insert_metadata(con, pull_id, envelope, path)
+        insert_metadata(con, pull_id, pull_date, envelope, path)
         insert_jobs(con, pull_id, jobs)
         con.commit()
     except Exception:
@@ -176,7 +185,7 @@ def main():
             log.info("Loading %s ...", path)
             try:
                 n = load_file(con, path)
-            except (json.JSONDecodeError, KeyError, duckdb.Error) as e:
+            except (json.JSONDecodeError, KeyError, ValueError, duckdb.Error) as e:
                 log.error("Failed to load %s: %r", path, e)
                 failed.append(path)
                 continue
