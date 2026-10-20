@@ -1,8 +1,5 @@
 """Process one pull date of raw Adzuna JSON: sync → check → load → dbt build.
 
-Until the rest of M2 lands, load_raw runs the no-argument load.py (every date
-not yet loaded).
-
 Every task shells out to a script in Airflow's clone ($REPO_DIR), run with the
 clone's own project venv ($PROJECT_PYTHON, $PROJECT_DBT), not Airflow's
 venv, so each one also runs from a terminal with no Airflow. Paths come from the
@@ -55,7 +52,8 @@ with DAG(
 
     load_raw = BashOperator(
         task_id="load_raw",
-        bash_command='cd "$REPO_DIR" && "$PROJECT_PYTHON" load.py',
+        # Replaces the date in one transaction; any error rolls it all back.
+        bash_command='cd "$REPO_DIR" && "$PROJECT_PYTHON" load.py --date "$RUN_DATE"',
         env=run_env,
         append_env=True,
     )
