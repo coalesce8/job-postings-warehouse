@@ -21,7 +21,7 @@ with DAG(
     "adzuna_daily",
     schedule="0 20 * * *",  # ~4.5 h after the Action normally lands
     start_date=datetime(2026, 9, 21),
-    catchup=False,  # history goes through explicit backfills
+    catchup=True,  # missed days (laptop off) run when the scheduler is back; dates are idempotent
     max_active_runs=1,  # one DuckDB writer at a time
     default_args={"retries": 0},  # check, load and dbt failures are deterministic
     tags=["adzuna"],
